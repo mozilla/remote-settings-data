@@ -1,0 +1,1 @@
+{"Domain":"bloomingdales.com","id":"f2720cdc-a347-4d1c-bb88-48291993deb3","last_modified":1624479577426,"password-rules":"minlength: 7; maxlength: 16; required: lower, upper; required: digit; required: [`!@#$%^&*()+~{}'\";:<>?]];"}

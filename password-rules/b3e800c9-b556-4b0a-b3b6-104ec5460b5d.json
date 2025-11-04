@@ -1,0 +1,1 @@
+{"Domain":"hertz.si","id":"b3e800c9-b556-4b0a-b3b6-104ec5460b5d","last_modified":1731438147947,"password-rules":"minlength: 8; maxlength: 30; max-consecutive: 3; required: lower; required: upper; required: digit; required: [#$%^&!@];"}

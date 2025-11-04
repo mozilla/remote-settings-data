@@ -1,0 +1,1 @@
+{"Domain":"gamestop.com","id":"ef9def1f-a244-4cc1-8937-f42865ce62c7","last_modified":1650898337513,"password-rules":"minlength: 8; maxlength: 225; required: lower; required: upper; required: digit; required: [!@#$%];"}

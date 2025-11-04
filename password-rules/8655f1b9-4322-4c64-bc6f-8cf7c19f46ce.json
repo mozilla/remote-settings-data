@@ -1,0 +1,1 @@
+{"Domain":"autify.com","id":"8655f1b9-4322-4c64-bc6f-8cf7c19f46ce","last_modified":1624479577481,"password-rules":"minlength: 8; required: lower; required: upper; required: digit; required: [!\"#$%&'()*+,./:;<=>?@[^_`{|}~]];"}

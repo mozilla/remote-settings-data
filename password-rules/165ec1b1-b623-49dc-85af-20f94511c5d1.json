@@ -1,0 +1,1 @@
+{"Domain":"amnh.org","id":"165ec1b1-b623-49dc-85af-20f94511c5d1","last_modified":1743683182601,"password-rules":"minlength: 8; maxlength: 16; required: digit; required: upper,lower; allowed: ascii-printable;"}

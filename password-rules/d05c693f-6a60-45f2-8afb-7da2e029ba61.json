@@ -1,0 +1,1 @@
+{"Domain":"auth.readymag.com","id":"d05c693f-6a60-45f2-8afb-7da2e029ba61","last_modified":1731438148143,"password-rules":"minlength: 8; maxlength: 128; required: lower; required: upper; allowed: special;"}

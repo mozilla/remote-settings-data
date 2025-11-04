@@ -1,0 +1,1 @@
+{"Domain":"account.samsung.com","id":"fdde214e-9cf0-4e8e-beb9-a3ef93f42890","last_modified":1731438148174,"password-rules":"minlength: 8; maxlength: 15; required: digit; required: special; required: upper,lower;"}

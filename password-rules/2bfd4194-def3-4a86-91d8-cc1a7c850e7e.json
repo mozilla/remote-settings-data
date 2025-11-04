@@ -1,0 +1,1 @@
+{"Domain":"cigna.com","id":"2bfd4194-def3-4a86-91d8-cc1a7c850e7e","last_modified":1624479577377,"password-rules":"minlength: 8; maxlength: 12; required: upper; required: digit; required: [_!.&@]; allowed: lower;"}
