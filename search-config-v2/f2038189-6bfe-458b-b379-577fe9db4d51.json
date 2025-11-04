@@ -1,0 +1,1 @@
+{"base":{"classification":"unknown","name":"Reddit","urls":{"search":{"base":"https://www.reddit.com/search/","params":[],"searchTermParamName":"q"}}},"id":"f2038189-6bfe-458b-b379-577fe9db4d51","identifier":"reddit","last_modified":1718719100336,"recordType":"engine","schema":1718698475234,"variants":[{"environment":{"allRegionsAndLocales":true},"optional":true}]}
