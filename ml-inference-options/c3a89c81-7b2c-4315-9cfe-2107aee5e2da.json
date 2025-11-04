@@ -1,0 +1,1 @@
+{"device":"wasm","dtype":"q8","id":"c3a89c81-7b2c-4315-9cfe-2107aee5e2da","last_modified":1725347687296,"modelId":"mozilla/distilvit","modelRevision":"v0.5.0","processorId":"mozilla/distilvit","processorRevision":"v0.5.0","schema":1725347556128,"taskName":"moz-image-to-text","tokenizerId":"mozilla/distilvit","tokenizerRevision":"v0.5.0"}
