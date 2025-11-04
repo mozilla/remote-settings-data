@@ -1,0 +1,1 @@
+{"bugIds":["1944239"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7666fc5d-54b1-4979-8687-432bcda8cc95","last_modified":1760619480043,"schema":1760598980431,"topLevelUrlPattern":"*://www.newsweek.com/*","urlPattern":"*://cdn.viafoura.net/*"}

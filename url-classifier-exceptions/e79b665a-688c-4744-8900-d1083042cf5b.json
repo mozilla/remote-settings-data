@@ -1,0 +1,1 @@
+{"bugIds":["1910549"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e79b665a-688c-4744-8900-d1083042cf5b","last_modified":1762173283618,"schema":1762167612948,"topLevelUrlPattern":"*://togetter.com/*","urlPattern":"*://pbs.twimg.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1986678"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"2e0636af-84a5-49fe-a32c-fd9aab1eb9f0","last_modified":1757595932021,"schema":1757580764185,"topLevelUrlPattern":"*://www.domesticandgeneral.com/*","urlPattern":"*://*.trustpilot.com/*"}

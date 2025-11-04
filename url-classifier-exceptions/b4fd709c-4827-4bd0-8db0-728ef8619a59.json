@@ -1,0 +1,1 @@
+{"bugIds":["1990239"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b4fd709c-4827-4bd0-8db0-728ef8619a59","last_modified":1760619480002,"schema":1760598969442,"topLevelUrlPattern":"*://treblehealth.com/*","urlPattern":"*://builder-assets.unbounce.com/*"}

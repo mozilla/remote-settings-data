@@ -1,0 +1,1 @@
+{"bugIds":["1991045"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"843fd6fe-77a9-4cbb-bb05-17b5c5556f00","last_modified":1759759630413,"schema":1759759139575,"topLevelUrlPattern":"*://salcobrand.cl/*","urlPattern":"*://534002982.collect.igodigital.com/*"}

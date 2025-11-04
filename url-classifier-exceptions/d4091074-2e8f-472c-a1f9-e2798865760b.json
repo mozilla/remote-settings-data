@@ -1,0 +1,1 @@
+{"bugIds":["1985276"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d4091074-2e8f-472c-a1f9-e2798865760b","last_modified":1756976771787,"schema":1756964227664,"topLevelUrlPattern":"*://compton.group/*","urlPattern":"*://api.aws.parking.godaddy.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1992721"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"aa51daa3-b1ee-479e-b794-e1147e3af31b","last_modified":1760619480016,"schema":1760598968673,"topLevelUrlPattern":"*://www.spiele-kostenlos-online.de/*","urlPattern":"*://hb.improvedigital.com/*"}

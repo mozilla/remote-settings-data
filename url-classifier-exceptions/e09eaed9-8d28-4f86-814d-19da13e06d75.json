@@ -1,0 +1,1 @@
+{"bugIds":["1979867"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e09eaed9-8d28-4f86-814d-19da13e06d75","last_modified":1755515729605,"schema":1755481987622,"topLevelUrlPattern":"*://www.lapresse.ca/*","urlPattern":"*://*.uplynk.com/*"}

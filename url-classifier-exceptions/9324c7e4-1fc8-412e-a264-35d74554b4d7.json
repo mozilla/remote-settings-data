@@ -1,0 +1,1 @@
+{"bugIds":["1971541"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9324c7e4-1fc8-412e-a264-35d74554b4d7","last_modified":1753970439689,"schema":1753969856103,"topLevelUrlPattern":"*://outlook.live.com/*","urlPattern":"*://secureir.ebaystatic.com/*"}

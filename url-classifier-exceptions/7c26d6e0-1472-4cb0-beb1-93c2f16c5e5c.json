@@ -1,0 +1,1 @@
+{"bugIds":["1978811"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7c26d6e0-1472-4cb0-beb1-93c2f16c5e5c","last_modified":1753717820642,"schema":1753668939983,"topLevelUrlPattern":"*://moovitapp.com/*","urlPattern":"*://pagead2.googlesyndication.com/*"}

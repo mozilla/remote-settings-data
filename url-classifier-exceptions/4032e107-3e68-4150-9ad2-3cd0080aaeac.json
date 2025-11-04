@@ -1,0 +1,1 @@
+{"bugIds":["1905338"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"4032e107-3e68-4150-9ad2-3cd0080aaeac","last_modified":1753953687726,"schema":1753941804291,"topLevelUrlPattern":"*://www.m2o.it/*","urlPattern":"*://static.chartbeat.com/*"}
