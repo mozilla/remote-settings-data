@@ -1,0 +1,1 @@
+{"engineName":"Qwant","id":"fc297e76-6e20-48ba-8474-919e3e4380bf","last_modified":1721063513239,"overridesAppIdv2":"qwant","overridesId":"qwant@search.mozilla.org","schema":1721062208990,"thirdPartyId":"opensearch@search.mozilla.org","urls":[{"search_url":"https://www.qwant.com?q={searchTerms}&client=opensearch"}]}
