@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1497161","name":"Iridium (Malware)","why":"Malicious page redirection"},"enabled":true,"guid":"{80869932-37ba-4dd4-8dfe-2ef30a2067cc}","id":"dd5b0fa4-48fd-4bf6-943d-34de125bf502","last_modified":1538996335645,"prefs":[],"schema":1538941301306,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}

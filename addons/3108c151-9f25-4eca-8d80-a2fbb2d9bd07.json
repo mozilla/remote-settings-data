@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1491306","name":"Updater Pro (malware)","why":"Redirects search queries."},"enabled":true,"guid":"updater-pro-unlisted@mozilla.com","id":"3108c151-9f25-4eca-8d80-a2fbb2d9bd07","last_modified":1537305338747,"prefs":[],"schema":1537305285414,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}

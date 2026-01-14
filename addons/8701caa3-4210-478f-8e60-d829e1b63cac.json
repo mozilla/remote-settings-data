@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1632827","name":"fvd@download","why":"This add-on violates Mozilla's No Surprises add-on policy."},"enabled":true,"guid":"fvd@download","id":"8701caa3-4210-478f-8e60-d829e1b63cac","last_modified":1587734122715,"prefs":[],"schema":1587733828378,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}

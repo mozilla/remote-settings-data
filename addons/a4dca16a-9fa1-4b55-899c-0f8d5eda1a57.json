@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1538500","name":"New Tab Search","why":"Search hijacking"},"enabled":true,"guid":"new-tab-search@mozzilla.xpi","id":"a4dca16a-9fa1-4b55-899c-0f8d5eda1a57","last_modified":1553616386570,"prefs":[],"schema":1553616311575,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}

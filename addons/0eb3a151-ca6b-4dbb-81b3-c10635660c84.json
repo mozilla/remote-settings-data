@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1540690","name":"Patagonia Bit","why":"Malicious remote script injection"},"enabled":true,"guid":"{35b9640e-ebbb-44b7-85af-d9ec3af3c6a6}","id":"0eb3a151-ca6b-4dbb-81b3-c10635660c84","last_modified":1554733900683,"prefs":[],"schema":1554730607333,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}

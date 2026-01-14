@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1540086","name":"Twit","why":"Search hijacking"},"enabled":true,"guid":"{2256fabf-19f1-4e12-9951-5d126dd9e928}","id":"7c705f73-9d1d-4ee9-ad11-347d18729adb","last_modified":1553900528324,"prefs":[],"schema":1553899022464,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}

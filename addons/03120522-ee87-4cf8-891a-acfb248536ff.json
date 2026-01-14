@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1507191","name":"Adobe Reader (Malware)","why":"Fraudulent Adobe Reader add-on"},"enabled":true,"guid":"{97f19f1f-dbb0-4e50-8b46-8091318617bc}","id":"03120522-ee87-4cf8-891a-acfb248536ff","last_modified":1542272674851,"prefs":[],"schema":1542229276053,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}

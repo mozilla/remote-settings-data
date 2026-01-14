@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1539226","name":"Bit Apex","why":"Remote script injection"},"enabled":true,"guid":"{91f77263-866e-4acb-a569-f66ac47889f8}","id":"c528f48a-9b2c-48ca-8b4a-eac442cc0bd0","last_modified":1554119395177,"prefs":[],"schema":1553974898434,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}
