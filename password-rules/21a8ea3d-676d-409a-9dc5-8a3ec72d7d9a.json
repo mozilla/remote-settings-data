@@ -1,0 +1,1 @@
+{"Domain":"mybam.bcbsnm.com","id":"21a8ea3d-676d-409a-9dc5-8a3ec72d7d9a","last_modified":1764684322173,"password-rules":"minlength: 8; maxlength: 64; max-consecutive: 2; required: lower; required: upper; required: digit; allowed: [!#$%&()*@[^{}~];"}

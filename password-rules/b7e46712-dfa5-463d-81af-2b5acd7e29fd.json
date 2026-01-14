@@ -1,0 +1,1 @@
+{"Domain":"plazapremiumlounge.com","id":"b7e46712-dfa5-463d-81af-2b5acd7e29fd","last_modified":1659924409779,"password-rules":"minlength: 8; maxlength: 15; required: lower; required: upper; required: digit; allowed: [!#$%&*,@^];"}

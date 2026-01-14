@@ -1,0 +1,1 @@
+{"Domain":"planetary.org","id":"84764ff8-9b16-4923-a32c-61af4c687a6b","last_modified":1624479576889,"password-rules":"minlength: 5; maxlength: 20; required: lower; required: upper; required: digit; allowed: ascii-printable;"}

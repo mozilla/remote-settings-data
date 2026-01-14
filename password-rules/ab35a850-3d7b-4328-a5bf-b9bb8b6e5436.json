@@ -1,0 +1,1 @@
+{"Domain":"maybank2u.com.my","id":"ab35a850-3d7b-4328-a5bf-b9bb8b6e5436","last_modified":1624479576984,"password-rules":"minlength: 8; maxlength: 12; max-consecutive: 2; required: lower; required: upper; required: digit; required: [-~!@#$%^&*_+=`|(){}[:;\"'<>,.?];"}

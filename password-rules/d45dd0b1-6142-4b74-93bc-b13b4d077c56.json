@@ -1,0 +1,1 @@
+{"Domain":"eddservices.edd.ca.gov","id":"d45dd0b1-6142-4b74-93bc-b13b4d077c56","last_modified":1624479577238,"password-rules":"minlength: 8; maxlength: 12; required: lower; required: upper; required: digit; required: [!@#$%^&*()];"}

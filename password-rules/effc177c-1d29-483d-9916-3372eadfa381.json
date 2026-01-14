@@ -1,0 +1,1 @@
+{"Domain":"bitly.com","id":"effc177c-1d29-483d-9916-3372eadfa381","last_modified":1624479577431,"password-rules":"minlength: 6; required: lower; required: upper; required: digit; required: [`!@#$%^&*()+~{}'\";:<>?]];"}

@@ -1,0 +1,1 @@
+{"Domain":"lepida.it","id":"4af7bea9-dc2f-48dd-90e5-f0902e713b64","last_modified":1659924409782,"password-rules":"minlength: 8; maxlength: 16; max-consecutive: 2; required: lower; required: upper; required: digit; required: [-!\"#$%&'()*+,.:;<=>?@[^_`{|}~]];"}

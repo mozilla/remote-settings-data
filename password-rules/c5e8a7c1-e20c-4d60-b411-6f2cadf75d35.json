@@ -1,0 +1,1 @@
+{"Domain":"auth.zennioptical.com","id":"c5e8a7c1-e20c-4d60-b411-6f2cadf75d35","last_modified":1764684322157,"password-rules":"minlength: 8; maxlength: 14; required: lower; required: upper; required: digit; allowed: special;"}
