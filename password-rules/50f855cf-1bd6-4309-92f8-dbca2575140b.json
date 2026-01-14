@@ -1,0 +1,1 @@
+{"Domain":"charlie.mbta.com","id":"50f855cf-1bd6-4309-92f8-dbca2575140b","last_modified":1729598373668,"password-rules":"minlength: 10; required: lower; required: upper; required: digit; required: [!#$%@^];"}

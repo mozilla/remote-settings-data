@@ -1,0 +1,1 @@
+{"Domain":"fedex.com","id":"b3b7d81a-a658-4cbd-8119-2e5e3d31f080","last_modified":1624479217232,"password-rules":"minlength: 8; max-consecutive: 3; required: lower; required: upper; required: digit; allowed: [-!@#$%^&*_+=`|(){}[:;,.?]];"}

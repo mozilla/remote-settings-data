@@ -1,0 +1,1 @@
+{"Domain":"starmarket.com","id":"de0a163b-0538-402a-9a4b-08da580bb03a","last_modified":1747328413846,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

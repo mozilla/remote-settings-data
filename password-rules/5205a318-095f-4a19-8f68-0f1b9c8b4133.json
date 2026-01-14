@@ -1,0 +1,1 @@
+{"Domain":"hotels.com","id":"5205a318-095f-4a19-8f68-0f1b9c8b4133","last_modified":1729598373378,"password-rules":"minlength: 6; maxlength: 20; required: digit; required: [-~#@$%&!*_?^]; allowed: lower, upper;"}

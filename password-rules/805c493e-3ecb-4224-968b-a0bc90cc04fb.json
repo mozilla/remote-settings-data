@@ -1,0 +1,1 @@
+{"Domain":"hertz.fr","id":"805c493e-3ecb-4224-968b-a0bc90cc04fb","last_modified":1729598373529,"password-rules":"minlength: 8; maxlength: 30; max-consecutive: 3; required: lower; required: upper; required: digit; required: [#$%^&!@];"}

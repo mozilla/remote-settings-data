@@ -1,0 +1,1 @@
+{"Domain":"milogin.michigan.gov","id":"b42ac3e7-aeed-4cf8-a052-077be3459e12","last_modified":1729598373445,"password-rules":"minlength: 8; required: lower; required: upper; required: digit; required: [@#$!~&];"}

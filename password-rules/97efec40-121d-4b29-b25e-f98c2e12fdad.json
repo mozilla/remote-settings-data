@@ -1,0 +1,1 @@
+{"Domain":"battle.net","id":"97efec40-121d-4b29-b25e-f98c2e12fdad","last_modified":1624479217504,"password-rules":"minlength: 8; maxlength: 16; required: lower, upper; allowed: digit, special;"}

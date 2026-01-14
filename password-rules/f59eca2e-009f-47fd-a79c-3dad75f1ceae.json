@@ -1,0 +1,1 @@
+{"Domain":"myaccess.dmdc.osd.mil","id":"f59eca2e-009f-47fd-a79c-3dad75f1ceae","last_modified":1624479217010,"password-rules":"minlength: 9; maxlength: 20; required: lower; required: upper; required: digit; allowed: [-@_#!&$`%*+()./,;~:{}|?>=<^'[]];"}

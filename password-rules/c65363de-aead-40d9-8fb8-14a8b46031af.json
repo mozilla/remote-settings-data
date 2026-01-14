@@ -1,0 +1,1 @@
+{"Domain":"sfwater.org","id":"c65363de-aead-40d9-8fb8-14a8b46031af","last_modified":1624479216837,"password-rules":"minlength: 10; maxlength: 30; required: digit; allowed: lower, upper, [!@#$%*()_+^}{:;?.];"}

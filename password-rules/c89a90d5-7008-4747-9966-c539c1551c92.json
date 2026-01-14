@@ -1,0 +1,1 @@
+{"Domain":"marriott.com","id":"c89a90d5-7008-4747-9966-c539c1551c92","last_modified":1624479217042,"password-rules":"minlength: 8; maxlength: 20; required: lower; required: upper; required: digit; allowed: [$!#&@?%=];"}

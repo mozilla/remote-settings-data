@@ -1,0 +1,1 @@
+{"Domain":"publix.com","id":"2f716ab9-e74b-4c12-9c49-0cb6a2e819f7","last_modified":1754067609681,"password-rules":"minlength: 8; maxlength: 28; required: upper; required: lower; allowed: digit,[!#$%*@^];"}

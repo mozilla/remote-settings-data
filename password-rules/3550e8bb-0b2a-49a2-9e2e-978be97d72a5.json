@@ -1,0 +1,1 @@
+{"Domain":"hertz.com.pl","id":"3550e8bb-0b2a-49a2-9e2e-978be97d72a5","last_modified":1729598373564,"password-rules":"minlength: 8; maxlength: 30; max-consecutive: 3; required: lower; required: upper; required: digit; required: [#$%^&!@];"}

@@ -1,0 +1,1 @@
+{"Domain":"netflix.com","id":"48f6925f-ad22-4146-bb30-7b9e078e4d75","last_modified":1624479216981,"password-rules":"minlength: 4; maxlength: 60; required: lower, upper, digit; allowed: special;"}

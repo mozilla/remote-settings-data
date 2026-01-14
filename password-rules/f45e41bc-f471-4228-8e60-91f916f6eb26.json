@@ -1,0 +1,1 @@
+{"Domain":"pret.com","id":"f45e41bc-f471-4228-8e60-91f916f6eb26","last_modified":1729598373432,"password-rules":"minlength: 12; required: lower; required: digit; required: [@$!%*#?&]; allowed: upper;"}

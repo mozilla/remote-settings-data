@@ -1,0 +1,1 @@
+{"Domain":"ecompanystore.com","id":"5524acd6-726c-43a0-b956-6eee0753c3f7","last_modified":1624479217286,"password-rules":"minlength: 8; maxlength: 16; max-consecutive: 2; required: lower; required: upper; required: digit; required: [#$%*+.=@^_];"}

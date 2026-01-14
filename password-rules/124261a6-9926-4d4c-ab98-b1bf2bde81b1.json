@@ -1,0 +1,1 @@
+{"Domain":"savemart.com","id":"124261a6-9926-4d4c-ab98-b1bf2bde81b1","last_modified":1747328413840,"password-rules":"minlength: 8; maxlength: 12; required: digit; required: upper,lower; required: [!#$%&@]; allowed: ascii-printable;"}
