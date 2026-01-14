@@ -1,0 +1,1 @@
+{"bugIds":["1966041"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e117a275-b5e9-4b6e-8adc-aa262008b0f0","last_modified":1753717820809,"schema":1753716582694,"topLevelUrlPattern":"*://moviesunlimited.attn.tv/*","urlPattern":"*://api.attentivemobile.com/*"}

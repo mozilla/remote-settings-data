@@ -1,0 +1,1 @@
+{"bugIds":["1557363"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"cfffebd2-dc41-459d-ab3d-09e164d6c3a7","last_modified":1765205635692,"schema":1764900944718,"topLevelUrlPattern":"*://news.asu.edu/*","urlPattern":"*://*.video.ibm.com/*"}

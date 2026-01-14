@@ -1,0 +1,1 @@
+{"bugIds":["1964942"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e867a9df-cbc2-4fb4-baf3-96106521c8f7","last_modified":1753717820852,"schema":1753716588396,"topLevelUrlPattern":"*://nctueconsumerportal.com/*","urlPattern":"*://api.ipify.org/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1973967"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c08ae169-01de-4647-a181-119e66b9c2c4","last_modified":1753717820770,"schema":1753716551805,"topLevelUrlPattern":"*://tarjetas.bankinterconsumerfinance.com/*","urlPattern":"*://builder-assets.unbounce.com/*"}

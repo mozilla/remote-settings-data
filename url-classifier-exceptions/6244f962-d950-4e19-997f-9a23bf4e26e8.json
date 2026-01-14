@@ -1,0 +1,1 @@
+{"bugIds":["2004899"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6244f962-d950-4e19-997f-9a23bf4e26e8","last_modified":1766134595825,"schema":1765813848626,"topLevelUrlPattern":"*://www.luckyscent.com/*","urlPattern":"*://*.judge.me/*"}

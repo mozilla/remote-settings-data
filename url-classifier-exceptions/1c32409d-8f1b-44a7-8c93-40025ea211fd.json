@@ -1,0 +1,1 @@
+{"bugIds":["1912254"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1c32409d-8f1b-44a7-8c93-40025ea211fd","last_modified":1762173283587,"schema":1762167612760,"topLevelUrlPattern":"*://zeenews.india.com/*","urlPattern":"*://ads.pubmatic.com/*"}

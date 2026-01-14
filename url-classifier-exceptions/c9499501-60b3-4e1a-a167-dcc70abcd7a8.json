@@ -1,0 +1,1 @@
+{"bugIds":["2003022"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c9499501-60b3-4e1a-a167-dcc70abcd7a8","last_modified":1764670676617,"schema":1764555356432,"topLevelUrlPattern":"*://www.radio.de/*","urlPattern":"*://static.ads-twitter.com/*"}

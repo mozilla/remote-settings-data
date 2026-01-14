@@ -1,0 +1,1 @@
+{"bugIds":["1989951"],"category":"convenience","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0ea3a14d-f0b3-466a-b295-cc0b946d9c3f","last_modified":1762352468210,"schema":1762343345244,"urlPattern":"*://api.aws.parking.godaddy.com/*"}

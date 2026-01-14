@@ -1,0 +1,1 @@
+{"bugIds":["2006360"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"786fb47b-f443-4477-bd86-184850208957","last_modified":1766402519314,"schema":1766369407727,"topLevelUrlPattern":"*://challenge.harpcolumn.com/*","urlPattern":"*://chimpstatic.com/*"}

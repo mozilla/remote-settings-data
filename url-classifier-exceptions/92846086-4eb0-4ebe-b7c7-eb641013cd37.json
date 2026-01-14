@@ -1,0 +1,1 @@
+{"bugIds":["1991655"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"92846086-4eb0-4ebe-b7c7-eb641013cd37","last_modified":1759759630384,"schema":1759759136321,"topLevelUrlPattern":"*://www.diamondartclub.com/*","urlPattern":"*://*.swymrelay.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1964559"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"12c473aa-e343-4e50-82e3-e9950474e4d9","last_modified":1760619480094,"schema":1760598978837,"topLevelUrlPattern":"*://forums.ghostbsd.org/*","urlPattern":"*://www.redditstatic.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1817922"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c1172107-2bce-4214-8fa3-d5399f0e6b36","last_modified":1757595932069,"schema":1757580769956,"topLevelUrlPattern":"*://www.aviva.co.uk/*","urlPattern":"*://aviva.inq.com/*"}

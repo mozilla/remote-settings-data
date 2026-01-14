@@ -1,0 +1,1 @@
+{"bugIds":["1915099"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0c77b076-2ab4-4b69-ae48-bd2756f9b1cf","last_modified":1760964299918,"schema":1760962464408,"topLevelUrlPattern":"*://github.dev/*","urlPattern":"*://marketplace.visualstudio.com/*"}

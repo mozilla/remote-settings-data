@@ -1,0 +1,1 @@
+{"bugIds":["2006589"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"dfc3d90e-72c2-4185-9665-6290a4b7a942","last_modified":1766402519306,"schema":1766369407595,"topLevelUrlPattern":"*://dex.koi.security/*","urlPattern":"*://code.visualstudio.com/*"}

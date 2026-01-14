@@ -1,0 +1,1 @@
+{"bugIds":["1975740"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"610b9bf0-090d-4d73-bf4b-4094b4da2a98","last_modified":1753717820695,"schema":1753716537057,"topLevelUrlPattern":"*://monumentmetals.com/*","urlPattern":"*://monumentmetals.attn.tv/*"}

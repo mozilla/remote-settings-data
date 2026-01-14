@@ -1,0 +1,1 @@
+{"bugIds":["1982572"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ff1550e6-91c6-4b40-a47f-1449088627fc","last_modified":1755515729553,"schema":1755481963866,"topLevelUrlPattern":"*://www.empower.com/*","urlPattern":"*://*.amplitude.com/*"}
