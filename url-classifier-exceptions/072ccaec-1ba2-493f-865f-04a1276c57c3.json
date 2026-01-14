@@ -1,0 +1,1 @@
+{"bugIds":["1985726"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"072ccaec-1ba2-493f-865f-04a1276c57c3","last_modified":1756964235420,"schema":1756964224911,"topLevelUrlPattern":"*://portal.we-evolv.com/*","urlPattern":"*://account.gfk.com/*"}

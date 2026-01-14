@@ -1,0 +1,1 @@
+{"bugIds":["2004908"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"4e93dc12-e36e-4ec3-8f07-b238d946d71d","last_modified":1767665409502,"schema":1767665409066,"topLevelUrlPattern":"*://www.reddit.com/*","urlPattern":"*://www.tiktok.com/*"}

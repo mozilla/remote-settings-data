@@ -1,0 +1,1 @@
+{"bugIds":["1844015","1854433","1877437","1893987","1933400","1936585"],"category":"baseline","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d5aae2b2-9e6b-4f29-b4d8-84cddf01c188","last_modified":1761073761605,"schema":1761069509796,"urlPattern":"*://*.cmp.inmobi.com/*"}

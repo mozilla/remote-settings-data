@@ -1,0 +1,1 @@
+{"bugIds":["1964614"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"79757d7a-71c1-48a0-bb21-548059656588","last_modified":1753716608648,"schema":1753716595498,"topLevelUrlPattern":"*://radioplay.fi/*","urlPattern":"*://popmedia-cdn.relevant-digital.com/*"}

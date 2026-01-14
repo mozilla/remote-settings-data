@@ -1,0 +1,1 @@
+{"bugIds":["1979653"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1bdf00bf-5785-4d80-966c-59a9ac19357e","last_modified":1757580771528,"schema":1757580765612,"topLevelUrlPattern":"*://www.nkd.com/*","urlPattern":"*://*.scarabresearch.com/*"}

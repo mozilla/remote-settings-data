@@ -1,0 +1,1 @@
+{"bugIds":["1914878"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"01a2d2f4-8d4b-4a05-be11-5e36013bc508","last_modified":1760962467390,"schema":1760962465873,"topLevelUrlPattern":"*://www.ecstuning.com/*","urlPattern":"*://www.snapengage.com/*"}

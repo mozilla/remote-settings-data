@@ -1,0 +1,1 @@
+{"bugIds":["1976865"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8456f7b3-b07f-4c2a-b6e4-0cda0c549673","last_modified":1753716608502,"schema":1753716526384,"topLevelUrlPattern":"*://vscode.dev/*","urlPattern":"*://marketplace.visualstudio.com/*"}

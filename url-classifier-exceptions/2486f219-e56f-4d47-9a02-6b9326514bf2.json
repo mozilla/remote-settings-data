@@ -1,0 +1,1 @@
+{"bugIds":["1987140"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"2486f219-e56f-4d47-9a02-6b9326514bf2","last_modified":1757580771494,"schema":1757556944767,"topLevelUrlPattern":"*://www.iheart.com/*","urlPattern":"*://pdst.fm/*"}

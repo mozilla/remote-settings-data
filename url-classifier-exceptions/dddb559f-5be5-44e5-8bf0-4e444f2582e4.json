@@ -1,0 +1,1 @@
+{"bugIds":["1999223"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"dddb559f-5be5-44e5-8bf0-4e444f2582e4","last_modified":1763431811367,"schema":1763431810655,"topLevelUrlPattern":"*://www.homedepot.ca/*","urlPattern":"*://cdn.evgnet.com/*"}

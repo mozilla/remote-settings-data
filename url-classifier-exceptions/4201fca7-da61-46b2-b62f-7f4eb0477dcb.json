@@ -1,0 +1,1 @@
+{"bugIds":["1985215"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"4201fca7-da61-46b2-b62f-7f4eb0477dcb","last_modified":1758109273807,"schema":1758109266290,"topLevelUrlPattern":"*://www.outkick.com/*","urlPattern":"*://www.tiktok.com/*"}

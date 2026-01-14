@@ -1,0 +1,1 @@
+{"bugIds":["1809620"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e5762995-4dd2-4c00-94d0-1748beb75cc5","last_modified":1763518207702,"schema":1763518207439,"topLevelUrlPattern":"*://info.cotoacademy.com/*","urlPattern":"*://meetings.hubspot.com/*"}

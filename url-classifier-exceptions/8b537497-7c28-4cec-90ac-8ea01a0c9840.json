@@ -1,0 +1,1 @@
+{"bugIds":["1983035"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8b537497-7c28-4cec-90ac-8ea01a0c9840","last_modified":1755481994033,"schema":1755396936164,"topLevelUrlPattern":"*://www.liverpoolecho.co.uk/*","urlPattern":"*://cdn.viafoura.net/*"}

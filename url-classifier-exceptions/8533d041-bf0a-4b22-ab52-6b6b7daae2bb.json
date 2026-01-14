@@ -1,0 +1,1 @@
+{"bugIds":["1988711"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8533d041-bf0a-4b22-ab52-6b6b7daae2bb","last_modified":1760598985780,"schema":1760598974059,"topLevelUrlPattern":"*://newsletter.amarillo-arts.net/*","urlPattern":"*://pages.convertkit.com/*"}

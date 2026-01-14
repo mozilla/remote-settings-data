@@ -1,0 +1,1 @@
+{"bugIds":["2005210"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7b59b91a-cb60-45fc-a4b2-8225a922cbe6","last_modified":1765813953438,"schema":1765813900959,"topLevelUrlPattern":"*://ad-astra.digital/*","urlPattern":"*://*.hotmart.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1981162"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"bbfc8f73-a0da-4a3e-a709-ccda70849b1c","last_modified":1755481994093,"schema":1755481972531,"topLevelUrlPattern":"*://www.wetter.com/*","urlPattern":"*://*.glomex.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1944339"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f3945528-8622-4ad9-9782-79ea862ea318","last_modified":1757580771532,"schema":1757580767813,"topLevelUrlPattern":"*://twiningsusa.com/*","urlPattern":"*://*.smile.io/*"}

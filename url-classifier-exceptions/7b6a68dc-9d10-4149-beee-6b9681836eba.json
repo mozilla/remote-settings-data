@@ -1,0 +1,1 @@
+{"bugIds":["1985045"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7b6a68dc-9d10-4149-beee-6b9681836eba","last_modified":1756964235423,"schema":1756964228355,"topLevelUrlPattern":"*://www.blick.ch/*","urlPattern":"*://www.npttech.com/*"}

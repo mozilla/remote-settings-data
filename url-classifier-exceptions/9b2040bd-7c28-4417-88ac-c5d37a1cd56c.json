@@ -1,0 +1,1 @@
+{"bugIds":["1986902"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9b2040bd-7c28-4417-88ac-c5d37a1cd56c","last_modified":1757580771503,"schema":1757580763485,"topLevelUrlPattern":"*://www.grancursosonline.com.br/*","urlPattern":"*://*.amplitude.com/*"}

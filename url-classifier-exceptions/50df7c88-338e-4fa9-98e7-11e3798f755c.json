@@ -1,0 +1,1 @@
+{"bugIds":["1998642"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"50df7c88-338e-4fa9-98e7-11e3798f755c","last_modified":1762567812459,"schema":1762567811235,"topLevelUrlPattern":"*://www.dominos.jp/*","urlPattern":"*://dev.visualwebsiteoptimizer.com/*"}

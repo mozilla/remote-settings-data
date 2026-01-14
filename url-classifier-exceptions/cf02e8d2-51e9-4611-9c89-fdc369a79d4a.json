@@ -1,0 +1,1 @@
+{"bugIds":["1987647"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"cf02e8d2-51e9-4611-9c89-fdc369a79d4a","last_modified":1765332611568,"schema":1765332611218,"topLevelUrlPattern":"*://www.play.tv/*","urlPattern":"*://pagead2.googlesyndication.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1950571"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8259eb0d-d6f2-4962-9868-544b3dd6296c","last_modified":1758109273790,"schema":1758109268564,"topLevelUrlPattern":"*://player.radiozet.pl/*","urlPattern":"*://video.onnetwork.tv/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1915588"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1981e83d-4bc6-4002-a6c9-f7da8f78b7f3","last_modified":1760962467375,"schema":1760962462923,"topLevelUrlPattern":"*://www.simplefunforkids.com/*","urlPattern":"*://ads.adthrive.com/*"}

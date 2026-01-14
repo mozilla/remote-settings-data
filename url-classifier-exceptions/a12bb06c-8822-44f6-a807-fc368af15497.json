@@ -1,0 +1,1 @@
+{"bugIds":["1991646"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a12bb06c-8822-44f6-a807-fc368af15497","last_modified":1759759141524,"schema":1759759137123,"topLevelUrlPattern":"*://americasvoice.news/*","urlPattern":"*://*.uplynk.com/*"}

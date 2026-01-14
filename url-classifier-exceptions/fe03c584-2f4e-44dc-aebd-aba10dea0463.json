@@ -1,0 +1,1 @@
+{"bugIds":["1921943"],"category":"baseline","classifierFeatures":["emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"fe03c584-2f4e-44dc-aebd-aba10dea0463","last_modified":1760598985840,"schema":1760598984244,"topLevelUrlPattern":"*://my.farys.be/*","urlPattern":"*://sap-tmvw.accounts.ondemand.com/*"}

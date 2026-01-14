@@ -1,0 +1,1 @@
+{"bugIds":["1966044"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3b532273-36a4-45c3-8864-2d62aa3274e9","last_modified":1753716608601,"schema":1753716580415,"topLevelUrlPattern":"*://www.distro.tv/*","urlPattern":"*://*.jsrdn.com/*"}

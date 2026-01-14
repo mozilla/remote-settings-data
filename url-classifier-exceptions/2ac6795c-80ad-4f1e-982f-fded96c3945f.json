@@ -1,0 +1,1 @@
+{"bugIds":["1992400"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"2ac6795c-80ad-4f1e-982f-fded96c3945f","last_modified":1759759141501,"schema":1759716949454,"topLevelUrlPattern":"*://www.deejay.it/*","urlPattern":"*://static.chartbeat.com/*"}

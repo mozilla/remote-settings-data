@@ -1,0 +1,1 @@
+{"bugIds":["2002528"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1772a922-5069-43a7-a458-d5fcefa05dd4","last_modified":1764209409736,"schema":1764168728960,"topLevelUrlPattern":"*://www.metabo.com/*","urlPattern":"*://cdn-eu.clickdimensions.com/*"}

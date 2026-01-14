@@ -1,0 +1,1 @@
+{"bugIds":["1977999"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"bcaf382b-d115-4eb1-9a77-34c2cab5da00","last_modified":1753716608463,"schema":1753716515112,"topLevelUrlPattern":"*://www.american-giant.com/*","urlPattern":"*://static-us.afterpay.com/*"}

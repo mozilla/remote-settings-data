@@ -1,0 +1,1 @@
+{"bugIds":["1997020"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"2844f552-ae87-4609-abd2-54e828047cb5","last_modified":1762567812530,"schema":1762567811841,"topLevelUrlPattern":"*://www.snopes.com/*","urlPattern":"*://lh.bigcrunch.com/*"}

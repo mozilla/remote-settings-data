@@ -1,0 +1,1 @@
+{"bugIds":["2006860"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e0889d2e-4c87-4bf3-ae48-8341579e60cd","last_modified":1766369408551,"schema":1766369407275,"topLevelUrlPattern":"*://www.silverts.com/*","urlPattern":"*://cdnwidget.judge.me/*"}
