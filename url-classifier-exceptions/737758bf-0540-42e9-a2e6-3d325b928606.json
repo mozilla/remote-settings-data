@@ -1,0 +1,1 @@
+{"bugIds":["1967939"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"737758bf-0540-42e9-a2e6-3d325b928606","last_modified":1753716608614,"schema":1753716578258,"topLevelUrlPattern":"*://www.justmylook.com/*","urlPattern":"*://swymstore-v3premium-01.swymrelay.com/*"}

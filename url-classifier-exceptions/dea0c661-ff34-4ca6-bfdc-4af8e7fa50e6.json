@@ -1,0 +1,1 @@
+{"bugIds":["1687468"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"dea0c661-ff34-4ca6-bfdc-4af8e7fa50e6","last_modified":1763431811391,"schema":1763431811084,"topLevelUrlPattern":"*://wasmweekly.news/*","urlPattern":"*://beautify.us7.list-manage.com/*"}

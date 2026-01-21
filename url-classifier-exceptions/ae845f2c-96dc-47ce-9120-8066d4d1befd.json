@@ -1,0 +1,1 @@
+{"bugIds":["1961764"],"category":"baseline","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ae845f2c-96dc-47ce-9120-8066d4d1befd","last_modified":1754570938156,"schema":1754570899502,"topLevelUrlPattern":"*://earlymusicshop.com/*","urlPattern":"*://chat.chatra.io/*"}

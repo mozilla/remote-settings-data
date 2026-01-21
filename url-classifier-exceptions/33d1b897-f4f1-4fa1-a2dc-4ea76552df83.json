@@ -1,0 +1,1 @@
+{"bugIds":["1985981"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"33d1b897-f4f1-4fa1-a2dc-4ea76552df83","last_modified":1756964235408,"schema":1756964224134,"topLevelUrlPattern":"*://www.totalenergies.es/*","urlPattern":"*://api.ipify.org/*"}

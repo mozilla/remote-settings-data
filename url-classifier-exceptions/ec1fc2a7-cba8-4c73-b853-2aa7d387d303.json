@@ -1,0 +1,1 @@
+{"bugIds":["1985215"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ec1fc2a7-cba8-4c73-b853-2aa7d387d303","last_modified":1758109273787,"schema":1758075346903,"topLevelUrlPattern":"*://www.outkick.com/*","urlPattern":"*://graph.facebook.com/*"}

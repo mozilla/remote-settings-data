@@ -1,0 +1,1 @@
+{"bugIds":["1971940"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8e48bbc0-f1e4-4fd4-999f-b32e2cbdb66e","last_modified":1753716608509,"schema":1753716560477,"topLevelUrlPattern":"*://www.eastbaytimes.com/*","urlPattern":"*://portal.cityspark.com/*"}

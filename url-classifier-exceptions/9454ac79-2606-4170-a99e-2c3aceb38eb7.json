@@ -1,0 +1,1 @@
+{"bugIds":["1960637"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9454ac79-2606-4170-a99e-2c3aceb38eb7","last_modified":1757921883711,"schema":1757921880569,"topLevelUrlPattern":"*://spectrumcustomersurvey.com/*","urlPattern":"*://*.medallia.com/*"}

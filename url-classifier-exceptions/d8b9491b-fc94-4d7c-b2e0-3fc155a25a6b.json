@@ -1,0 +1,1 @@
+{"bugIds":["1924727"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d8b9491b-fc94-4d7c-b2e0-3fc155a25a6b","last_modified":1764036610013,"schema":1764036609751,"topLevelUrlPattern":"*://try.mailgun.com/*","urlPattern":"*://builder-assets.unbounce.com/*"}

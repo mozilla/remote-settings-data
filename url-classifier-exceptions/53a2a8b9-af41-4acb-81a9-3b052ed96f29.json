@@ -1,0 +1,1 @@
+{"bugIds":["1996110"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"53a2a8b9-af41-4acb-81a9-3b052ed96f29","last_modified":1762167613551,"schema":1762136157091,"topLevelUrlPattern":"*://isp.netscape.com/*","urlPattern":"*://pslca.web.aol.com/*"}

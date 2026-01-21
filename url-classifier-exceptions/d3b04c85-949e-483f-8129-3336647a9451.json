@@ -1,0 +1,1 @@
+{"bugIds":["1986667"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d3b04c85-949e-483f-8129-3336647a9451","last_modified":1759147329724,"schema":1759112148279,"topLevelUrlPattern":"*://crazybulk.com/*","urlPattern":"*://www.lightboxcdn.com/*"}

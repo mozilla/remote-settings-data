@@ -1,0 +1,1 @@
+{"bugIds":["2002223"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"968501fb-9878-44f5-9937-077c75833d94","last_modified":1764209409778,"schema":1764209409471,"topLevelUrlPattern":"*://10.com.au/*","urlPattern":"*://pubads.g.doubleclick.net/*"}

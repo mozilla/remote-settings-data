@@ -1,0 +1,1 @@
+{"bugIds":["1929894"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f67123ba-574f-4bd1-9c19-d6c153928370","last_modified":1760598985867,"schema":1760598982682,"topLevelUrlPattern":"*://www.msn.com/*","urlPattern":"*://*.glomex.com/*"}

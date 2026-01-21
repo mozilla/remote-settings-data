@@ -1,0 +1,1 @@
+{"bugIds":["1997075"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6e4b9c9b-28a6-4dde-9597-83273626ffaf","last_modified":1762567812475,"schema":1762567811681,"topLevelUrlPattern":"*://www.theglobeandmail.com/*","urlPattern":"*://adorableattention.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1964351"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"52cbec35-78ca-4865-ad26-d3d3ff36d0f8","last_modified":1753716608658,"schema":1753716598153,"topLevelUrlPattern":"*://appointments.dmv.virginia.gov/*","urlPattern":"*://api.ipify.org/*"}

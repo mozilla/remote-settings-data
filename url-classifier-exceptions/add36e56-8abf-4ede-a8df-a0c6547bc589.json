@@ -1,0 +1,1 @@
+{"bugIds":["1968485"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"add36e56-8abf-4ede-a8df-a0c6547bc589","last_modified":1757921883666,"schema":1757921877452,"topLevelUrlPattern":"*://mashdjango.com/*","urlPattern":"*://www.facebook.com/*"}

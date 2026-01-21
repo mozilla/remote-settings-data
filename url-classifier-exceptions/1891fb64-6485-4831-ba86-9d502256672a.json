@@ -1,0 +1,1 @@
+{"bugIds":["1921233"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1891fb64-6485-4831-ba86-9d502256672a","last_modified":1756964235417,"schema":1756964230408,"topLevelUrlPattern":"*://www.mtvuutiset.fi/*","urlPattern":"*://*.v.fwmrm.net/*"}

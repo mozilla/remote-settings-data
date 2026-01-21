@@ -1,0 +1,1 @@
+{"bugIds":["1977345"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"aa9baa4a-85da-444b-b1cd-ac0da37a5715","last_modified":1753716608484,"schema":1753716519636,"topLevelUrlPattern":"*://www.shape.com/*","urlPattern":"*://*.lightboxcdn.com/*"}

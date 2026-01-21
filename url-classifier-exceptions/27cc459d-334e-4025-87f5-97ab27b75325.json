@@ -1,0 +1,1 @@
+{"bugIds":["1641344"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"27cc459d-334e-4025-87f5-97ab27b75325","last_modified":1757921883720,"schema":1757921882092,"topLevelUrlPattern":"*://infection2020.com/*","urlPattern":"*://*.sharethis.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1994143"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7d788e39-f888-4961-8329-9e2f037f4dc0","last_modified":1760598985759,"schema":1760580954863,"topLevelUrlPattern":"*://eduardhodos.livejournal.com/*","urlPattern":"*://*.rambler.ru/*"}

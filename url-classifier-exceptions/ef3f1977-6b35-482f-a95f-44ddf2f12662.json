@@ -1,0 +1,1 @@
+{"bugIds":["1701170"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ef3f1977-6b35-482f-a95f-44ddf2f12662","last_modified":1763431811378,"schema":1763431810804,"topLevelUrlPattern":"*://rsdn.org/*","urlPattern":"*://sun1-15.userapi.com/*"}

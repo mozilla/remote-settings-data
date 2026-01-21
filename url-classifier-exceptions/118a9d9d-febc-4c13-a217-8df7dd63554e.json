@@ -1,0 +1,1 @@
+{"bugIds":["1976424"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"118a9d9d-febc-4c13-a217-8df7dd63554e","last_modified":1762167613503,"schema":1762167611816,"topLevelUrlPattern":"*://www.metalsupermarkets.com/*","urlPattern":"*://api.ipregistry.co/*"}

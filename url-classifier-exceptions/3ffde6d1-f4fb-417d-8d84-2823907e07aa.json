@@ -1,0 +1,1 @@
+{"bugIds":["1926605"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3ffde6d1-f4fb-417d-8d84-2823907e07aa","last_modified":1760598985875,"schema":1760598983506,"topLevelUrlPattern":"*://flipp.com/*","urlPattern":"*://f.wishabi.net/*"}

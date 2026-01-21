@@ -1,0 +1,1 @@
+{"bugIds":["1926837"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b6e8cf5c-8734-4b0f-99b2-bc663c133880","last_modified":1764036610033,"schema":1764036609385,"topLevelUrlPattern":"*://support.theintelligence.com/*","urlPattern":"*://pages.convertkit.com/*"}

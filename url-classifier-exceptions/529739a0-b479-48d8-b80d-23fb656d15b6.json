@@ -1,0 +1,1 @@
+{"bugIds":["1933662"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"529739a0-b479-48d8-b80d-23fb656d15b6","last_modified":1762167613509,"schema":1762167612366,"topLevelUrlPattern":"*://www.okcupid.com/*","urlPattern":"*://pictures.match.com/*"}

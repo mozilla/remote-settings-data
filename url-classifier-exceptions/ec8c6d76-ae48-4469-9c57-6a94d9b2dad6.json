@@ -1,0 +1,1 @@
+{"bugIds":["1235978"],"category":"baseline","classifierFeatures":["socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ec8c6d76-ae48-4469-9c57-6a94d9b2dad6","last_modified":1756964235476,"schema":1756964233972,"topLevelUrlPattern":"*://redditp.com/*","urlPattern":"*://old.reddit.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1698022"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6c4f3c7d-f5fa-48a3-b97a-ee3d3b411a6f","last_modified":1764123008683,"schema":1764123008417,"topLevelUrlPattern":"*://redditmetis.com/*","urlPattern":"*://api.reddit.com/*"}

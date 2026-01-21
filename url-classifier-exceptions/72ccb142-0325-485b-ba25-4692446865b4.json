@@ -1,0 +1,1 @@
+{"bugIds":["1971962"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"72ccb142-0325-485b-ba25-4692446865b4","last_modified":1753716608532,"schema":1753716558021,"topLevelUrlPattern":"*://www.canarias7.es/*","urlPattern":"*://static.vocstatic.com/*"}

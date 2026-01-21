@@ -1,0 +1,1 @@
+{"bugIds":["1989330"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b82639f3-a318-4911-ab65-efdd4572c53e","last_modified":1760598985829,"schema":1760598971633,"topLevelUrlPattern":"*://thehouseofrare.com/*","urlPattern":"*://ipinfo.io/*"}

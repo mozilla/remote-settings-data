@@ -1,0 +1,1 @@
+{"bugIds":["2003009"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"13bd9379-ef00-41ca-a2ca-9b65a81dc10a","last_modified":1764641409680,"schema":1764641408898,"topLevelUrlPattern":"*://www.verkkokauppa.com/*","urlPattern":"*://mpsnare.iesnare.com/*"}

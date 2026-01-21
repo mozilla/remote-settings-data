@@ -1,0 +1,1 @@
+{"bugIds":["1982600"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5b367244-ba91-471e-942c-a5f8f5651e47","last_modified":1755481994062,"schema":1755481961593,"topLevelUrlPattern":"*://es.wallapop.com/*","urlPattern":"*://*.mparticle.com/*"}

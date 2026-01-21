@@ -1,0 +1,1 @@
+{"bugIds":["2009322"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b41e86b6-1a46-400c-840c-41c5bcefb39d","last_modified":1768356609926,"schema":1768356609591,"topLevelUrlPattern":"*://preferences.myrocket.com/*","urlPattern":"*://cdn.segment.com/*"}

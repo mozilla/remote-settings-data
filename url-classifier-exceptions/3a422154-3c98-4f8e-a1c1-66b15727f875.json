@@ -1,0 +1,1 @@
+{"bugIds":["1988698"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3a422154-3c98-4f8e-a1c1-66b15727f875","last_modified":1760598985784,"schema":1760598976450,"topLevelUrlPattern":"*://www.meczyki.pl/*","urlPattern":"*://cdn.onnetwork.tv/*"}

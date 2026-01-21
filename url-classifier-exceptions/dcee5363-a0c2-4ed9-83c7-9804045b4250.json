@@ -1,0 +1,1 @@
+{"bugIds":["1913097","1914194","1923283"],"category":"baseline","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"dcee5363-a0c2-4ed9-83c7-9804045b4250","last_modified":1761073761578,"schema":1761068557461,"urlPattern":"*://cdn.getshogun.com/*"}

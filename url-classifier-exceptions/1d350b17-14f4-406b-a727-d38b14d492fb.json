@@ -1,0 +1,1 @@
+{"bugIds":["1961131"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1d350b17-14f4-406b-a727-d38b14d492fb","last_modified":1757921883708,"schema":1757921879033,"topLevelUrlPattern":"*://www.atgtickets.com/*","urlPattern":"*://cdn.optimizely.com/*"}

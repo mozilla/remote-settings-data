@@ -1,0 +1,1 @@
+{"bugIds":["1817656"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5a41ab59-dc7a-40bd-84fd-8d70207f54c6","last_modified":1762272011464,"schema":1762272010617,"topLevelUrlPattern":"*://www.cbsnews.com/*","urlPattern":"*://pubads.g.doubleclick.net/*"}

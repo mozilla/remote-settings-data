@@ -1,0 +1,1 @@
+{"bugIds":["1866290"],"category":"convenience","classifierFeatures":["fingerprinting-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") < 0","id":"d173ad7a-68ed-40c1-953b-128de80e275d","last_modified":1760958331603,"schema":1760629703720,"urlPattern":"*://*.geetest.com/*"}

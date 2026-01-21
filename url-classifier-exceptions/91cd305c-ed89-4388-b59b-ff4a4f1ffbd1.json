@@ -1,0 +1,1 @@
+{"bugIds":["2006873"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"91cd305c-ed89-4388-b59b-ff4a4f1ffbd1","last_modified":1766369408532,"schema":1766134596012,"topLevelUrlPattern":"*://pages.charlimarie.com/*","urlPattern":"*://pages.convertkit.com/*"}
