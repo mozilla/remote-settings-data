@@ -1,0 +1,1 @@
+{"Domain":"pavilions.com","id":"2c15e93c-4780-4775-80c8-08c66f9f756f","last_modified":1747328413830,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

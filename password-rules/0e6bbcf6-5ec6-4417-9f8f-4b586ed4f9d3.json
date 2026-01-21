@@ -1,0 +1,1 @@
+{"Domain":"spirit.com","id":"0e6bbcf6-5ec6-4417-9f8f-4b586ed4f9d3","last_modified":1624479216821,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; required: [!@#$%^&*()];"}

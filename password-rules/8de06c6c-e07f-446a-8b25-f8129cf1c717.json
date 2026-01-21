@@ -1,0 +1,1 @@
+{"Domain":"haggen.com","id":"8de06c6c-e07f-446a-8b25-f8129cf1c717","last_modified":1747328413820,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

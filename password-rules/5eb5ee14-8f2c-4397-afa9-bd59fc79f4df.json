@@ -1,0 +1,1 @@
+{"Domain":"mypatientvisit.com","id":"5eb5ee14-8f2c-4397-afa9-bd59fc79f4df","last_modified":1757955608022,"password-rules":"minlength: 8; required: lower; required: upper; required: digit; required: [!#$%&*+.;?@^_~];"}

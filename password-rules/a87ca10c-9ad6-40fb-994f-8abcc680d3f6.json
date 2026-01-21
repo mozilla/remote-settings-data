@@ -1,0 +1,1 @@
+{"Domain":"santander.de","id":"a87ca10c-9ad6-40fb-994f-8abcc680d3f6","last_modified":1624479216871,"password-rules":"minlength: 8; maxlength: 12; required: lower, upper; required: digit; allowed: [-!#$%&'()*,.:;=?^{}];"}

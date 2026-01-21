@@ -1,0 +1,1 @@
+{"Domain":"dbs.com.hk","id":"fe2f51c2-8ccb-4ee4-97cb-73288337f6ab","last_modified":1650895214359,"password-rules":"minlength: 8; maxlength: 30; required: lower; required: upper; required: digit;"}

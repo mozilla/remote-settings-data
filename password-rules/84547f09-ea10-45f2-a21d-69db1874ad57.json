@@ -1,0 +1,1 @@
+{"Domain":"mailbox.org","id":"84547f09-ea10-45f2-a21d-69db1874ad57","last_modified":1624479217051,"password-rules":"minlength: 8; required: lower; required: upper; required: digit; allowed: [-!$\"%&/()=*+#.,;:@?{}[]];"}

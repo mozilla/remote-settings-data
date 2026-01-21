@@ -1,0 +1,1 @@
+{"Domain":"my.konami.net","id":"6a62b70b-6412-4ff4-945a-168dfc38b634","last_modified":1650895214279,"password-rules":"minlength: 8; maxlength: 32; required: lower; required: upper; required: digit;"}

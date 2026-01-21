@@ -1,0 +1,1 @@
+{"Domain":"andronicos.com","id":"982e3235-9d92-4d01-894c-6b81298e4b53","last_modified":1747328413810,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

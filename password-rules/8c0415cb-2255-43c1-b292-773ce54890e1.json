@@ -1,0 +1,1 @@
+{"Domain":"nekochat.cn","id":"8c0415cb-2255-43c1-b292-773ce54890e1","last_modified":1742058014788,"password-rules":"minlength: 8; maxlength: 15; required: lower; required: upper; required: digit;"}

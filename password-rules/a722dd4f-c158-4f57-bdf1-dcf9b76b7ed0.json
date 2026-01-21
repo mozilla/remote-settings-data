@@ -1,0 +1,1 @@
+{"Domain":"wsj.com","id":"a722dd4f-c158-4f57-bdf1-dcf9b76b7ed0","last_modified":1624479216694,"password-rules":"minlength: 5; maxlength: 15; required: digit; allowed: lower, upper, [-~!@#$^*_=`|(){}[:;\"'<>,.?]];"}

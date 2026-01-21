@@ -1,0 +1,1 @@
+{"Domain":"kfc.ca","id":"ca2e08a6-cc00-47a4-8517-737552dfedab","last_modified":1650895214317,"password-rules":"minlength: 6; maxlength: 15; required: lower; required: upper; required: digit; required: [!@#$%&?*];"}

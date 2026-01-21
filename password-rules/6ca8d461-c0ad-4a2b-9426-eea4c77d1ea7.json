@@ -1,0 +1,1 @@
+{"Domain":"hertz.ie","id":"6ca8d461-c0ad-4a2b-9426-eea4c77d1ea7","last_modified":1729598373523,"password-rules":"minlength: 8; maxlength: 30; max-consecutive: 3; required: lower; required: upper; required: digit; required: [#$%^&!@];"}

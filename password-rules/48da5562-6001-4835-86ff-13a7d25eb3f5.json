@@ -1,0 +1,1 @@
+{"Domain":"subscribe.free.fr","id":"48da5562-6001-4835-86ff-13a7d25eb3f5","last_modified":1729598373425,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; required: [!#&()*+/@[_]];"}

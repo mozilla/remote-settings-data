@@ -1,0 +1,1 @@
+{"Domain":"parkmobile.io","id":"cd94b742-46f0-4014-982c-04a08abdb5e4","last_modified":1624479216960,"password-rules":"minlength: 8; maxlength: 25; required: lower; required: upper; required: digit; required: [!@#$%^&];"}

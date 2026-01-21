@@ -1,0 +1,1 @@
+{"Domain":"hertz.com.kw","id":"41fae04f-6fae-4abe-979f-4de7c2f5c2f2","last_modified":1729598373571,"password-rules":"minlength: 8; maxlength: 30; max-consecutive: 3; required: lower; required: upper; required: digit; required: [#$%^&!@];"}

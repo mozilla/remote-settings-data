@@ -1,0 +1,1 @@
+{"Domain":"danawa.com","id":"cb88fc85-9057-4d0b-88ae-506fbe1b776e","last_modified":1624479217350,"password-rules":"minlength: 8; maxlength: 21; required: lower, upper; required: digit; required: [!@$%^&*];"}

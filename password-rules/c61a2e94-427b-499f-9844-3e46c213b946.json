@@ -1,0 +1,1 @@
+{"Domain":"kiwibank.co.nz","id":"c61a2e94-427b-499f-9844-3e46c213b946","last_modified":1768496404211,"password-rules":"minlength: 6; maxlength: 15; required: digit; required: digit; required: upper,lower; required: upper,lower;"}

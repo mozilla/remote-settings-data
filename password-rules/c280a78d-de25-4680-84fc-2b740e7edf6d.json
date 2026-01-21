@@ -1,0 +1,1 @@
+{"Domain":"kiehls.com","id":"c280a78d-de25-4680-84fc-2b740e7edf6d","last_modified":1729598373469,"password-rules":"minlength: 8; maxlength: 25; required: lower; required: upper; required: digit; required: [!#$%&?@];"}
