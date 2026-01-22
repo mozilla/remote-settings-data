@@ -1,0 +1,1 @@
+{"buckets":{"max":"100","min":"10"},"description":"Use GeckoView web renderer in production and beta builds","id":"ad86a328-fda6-4b79-86f1-2a618c2dbaa7","last_modified":1562796064168,"match":{"regions":[],"version":"(^[8-9]\\.[1-9][0-9]*(\\.[0-9]+)?$)|(^[8-9]\\.0\\.[2-9]$)|(^[8-9]\\.[0-9]+\\.[1-9][0-9]+$)"},"name":"use-gecko","schema":1562794911307}
