@@ -1,0 +1,1 @@
+{"appliesTo":[{"application":{"distributions":["mail.com"]},"default":"yes","included":{"everywhere":true}}],"id":"62d232d5-304e-4c35-a4da-46626a9b54c2","last_modified":1589299342012,"schema":1588016493937,"webExtension":{"id":"mailcom@search.mozilla.org"}}
