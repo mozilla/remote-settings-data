@@ -1,0 +1,1 @@
+{"dtype":"q8","featureId":"simple-text-embedder","id":"9df94c44-e62b-4d4f-bcff-06501e46e2eb","last_modified":1744054332234,"modelId":"Xenova/all-MiniLM-L6-v2","modelRevision":"v0.1.0","processorId":"Xenova/all-MiniLM-L6-v2","processorRevision":"v0.1.0","schema":1744054304122,"taskName":"feature-extraction","tokenizerId":"Xenova/all-MiniLM-L6-v2","tokenizerRevision":"v0.1.0"}
