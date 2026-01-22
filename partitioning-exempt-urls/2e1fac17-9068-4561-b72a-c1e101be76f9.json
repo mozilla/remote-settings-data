@@ -1,0 +1,1 @@
+{"filter_expression":"env.channel == 'release' && env.version < '118'","firstPartyOrigin":"*","id":"2e1fac17-9068-4561-b72a-c1e101be76f9","last_modified":1692369928483,"schema":1692369861242,"thirdPartyOrigin":"https://login.live.com"}

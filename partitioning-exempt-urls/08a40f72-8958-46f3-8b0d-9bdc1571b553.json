@@ -1,0 +1,1 @@
+{"filter_expression":"env.channel == 'release' && env.version < '118'","firstPartyOrigin":"*","id":"08a40f72-8958-46f3-8b0d-9bdc1571b553","last_modified":1692369928480,"schema":1692196660207,"thirdPartyOrigin":"https://login.microsoftonline.com"}
