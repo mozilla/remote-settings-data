@@ -1,0 +1,1 @@
+{"click":{"optIn":"button#AcceptCookieLawButton","optOut":"button#RejectCookieLawButton","presence":"div.cookie-banner"},"cookies":{"optIn":[{"name":"BDK_CookieLawAccepted","value":"true"}],"optOut":[{"name":"BDK_CookieLawAccepted","value":"false"}]},"domains":["borger.dk"],"id":"f28b8cb3-c0fc-493c-a8b9-6b147babaf19","last_modified":1670460547318,"schema":1670460542151}

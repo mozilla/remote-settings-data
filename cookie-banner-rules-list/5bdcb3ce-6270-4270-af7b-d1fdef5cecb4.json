@@ -1,0 +1,1 @@
+{"click":{"optIn":"button[data-testid=\"gdpr-btn-accept-all\"]","optOut":"button[data-testid=\"gdpr-btn-refuse-all\"]","presence":"[data-testid=\"cookie-banner\"]"},"domains":["deezer.com"],"id":"5bdcb3ce-6270-4270-af7b-d1fdef5cecb4","last_modified":1702598408535,"schema":1702080004246}
