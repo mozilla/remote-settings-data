@@ -1,0 +1,1 @@
+{"appliesTo":[{"application":{"distributions":["qwant-001","qwant-002"]},"included":{"locales":{"matches":["fr"]}},"orderHint":1500}],"id":"f59fddbc-580b-4672-9cda-32941ceec730","last_modified":1588177845540,"schema":1588177655532,"webExtension":{"id":"qwantjr@search.mozilla.org"}}
