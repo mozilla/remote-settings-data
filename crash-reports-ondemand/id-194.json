@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::RestyleManager::SnapshotFor","hashes":["e8253d00ca51b0888c74fd4091a7baa3f1ec7df84b23ce1f1543920371627ebc","ead6b78d5d063bd786643d8049879a16cfa599a543dd4d3dde84f617937ef988"],"id":"id-194","last_modified":1768898439891,"schema":1768898419708}
+{"description":"gpu (Mac beta): webrender_bindings::moz2d_renderer::BlobReader::read_entry","hashes":["f25afce35cbee5220050993ec6a7c28e61f03c8c03ada295b01799831e63351e"],"id":"id-194","last_modified":1769071240272,"schema":1769071220719}
