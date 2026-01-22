@@ -1,0 +1,1 @@
+{"attachment":{"filename":"weather-pl.json","hash":"736672a8d93565389a2dc63d193bb529e68fa10829ca7c9d815155ae1d40b7f0","location":"main-workspace/quicksuggest-other/b51f096d-7c7a-41a7-b42b-f66fe3990811.json","mimetype":"application/json","size":1037},"filter_expression":"env.locale in ['pl']","id":"weather-pl","last_modified":1751061718292,"schema":1751005882741,"type":"weather"}

@@ -1,0 +1,1 @@
+{"attachment":{"filename":"weather-de.json","hash":"d838760155fecf045323b57bd64ac013a26199d191ed03222011c5379b143f46","location":"main-workspace/quicksuggest-other/be11e24e-1147-4909-98ea-08a5bc013c3c.json","mimetype":"application/json","size":1125},"filter_expression":"env.locale in ['de']","id":"weather-de","last_modified":1751061718298,"schema":1750990529431,"type":"weather"}
