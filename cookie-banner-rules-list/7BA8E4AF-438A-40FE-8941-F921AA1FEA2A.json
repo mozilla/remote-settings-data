@@ -1,0 +1,1 @@
+{"click":{"optIn":"button[data-test-id=\"cookie-notice-accept\"]","optOut":"button[data-test-id=\"cookie-notice-reject\"]","presence":".cookie-notice"},"cookies":{"optOut":[{"name":"ECCC","value":"e"}]},"domains":["ecosia.org"],"id":"7BA8E4AF-438A-40FE-8941-F921AA1FEA2A","last_modified":1697710931606,"schema":1697557061727}

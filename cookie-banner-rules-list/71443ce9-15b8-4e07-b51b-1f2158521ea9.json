@@ -1,0 +1,1 @@
+{"click":{"optIn":".js-accept-cookies","optOut":".js-reject-cookies","presence":".js-consent-banner"},"cookies":{"optOut":[{"name":"OptanonAlertBoxClosed","value":"2030-01-01T00:00:00.000Z"}]},"domains":["stackoverflow.blog","stackoverflow.co","stackoverflowteams.com"],"id":"71443ce9-15b8-4e07-b51b-1f2158521ea9","last_modified":1708772697196,"schema":1708699541450}

@@ -1,0 +1,1 @@
+{"click":{"optIn":"[data-cookiebanner=\"accept_button\"]","optOut":"[data-cookiebanner=\"accept_only_essential_button\"]","presence":"[data-testid=\"cookie-policy-manage-dialog\"]"},"domains":["facebook.com","instagram.com","messenger.com","meta.com","oculus.com","workplace.com"],"id":"d1d8ba36-ced7-4453-8b17-2e051e0ab1eb","last_modified":1717071078306,"schema":1717015159283}

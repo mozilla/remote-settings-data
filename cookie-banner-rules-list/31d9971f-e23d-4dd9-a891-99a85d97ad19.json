@@ -1,0 +1,1 @@
+{"click":{"optIn":"button[data-qa=\"privacy-settings-action-info\"]","optOut":"button[data-qa=\"privacy-settings-action-close\"]","presence":"[data-qa=\"privacy-settings\"]"},"domains":["lieferando.de","lieferando.at","just-eat.ch"],"id":"31d9971f-e23d-4dd9-a891-99a85d97ad19","last_modified":1702633230631,"schema":1702598407647}

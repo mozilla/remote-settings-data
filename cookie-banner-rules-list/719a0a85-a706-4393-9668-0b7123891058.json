@@ -1,0 +1,1 @@
+{"click":{"optIn":".dialog-actions-accept-btn","optOut":".dialog-actions-decline-btn","presence":"[data-testid=\"cookie-dialog-root\"]"},"cookies":{"optIn":[{"name":"sq","value":"3"}],"optOut":[{"name":"sq","value":"0"}]},"domains":["nike.com"],"id":"719a0a85-a706-4393-9668-0b7123891058","last_modified":1700826062638,"schema":1700784006705}
