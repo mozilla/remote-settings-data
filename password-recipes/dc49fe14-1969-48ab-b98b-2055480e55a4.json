@@ -1,0 +1,1 @@
+{"description":"An ephemeral password-shim field is incorrectly selected as the username field.","hosts":["www.discover.com"],"id":"dc49fe14-1969-48ab-b98b-2055480e55a4","last_modified":1599839828177,"schema":1599839796979,"usernameSelector":"#login-account"}

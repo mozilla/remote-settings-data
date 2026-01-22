@@ -1,0 +1,1 @@
+{"description":"okta uses a hidden password field to disable filling","hosts":["mozilla.okta.com"],"id":"99bed888-5309-468f-9924-2a57bd5289ee","last_modified":1599839828186,"passwordSelector":"#pass-signin","schema":1599766903292}
