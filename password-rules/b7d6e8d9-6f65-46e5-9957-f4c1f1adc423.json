@@ -1,0 +1,1 @@
+{"Domain":"hertz.es","id":"b7d6e8d9-6f65-46e5-9957-f4c1f1adc423","last_modified":1731438147995,"password-rules":"minlength: 8; maxlength: 30; max-consecutive: 3; required: lower; required: upper; required: digit; required: [#$%^&!@];"}

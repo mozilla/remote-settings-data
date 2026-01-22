@@ -1,0 +1,1 @@
+{"Domain":"cox.com","id":"a7242ae7-815e-46b6-98ab-d3bd298b4e7f","last_modified":1624479577322,"password-rules":"minlength: 8; maxlength: 24; required: digit; required: upper,lower; allowed: [!#$%()*@^];"}

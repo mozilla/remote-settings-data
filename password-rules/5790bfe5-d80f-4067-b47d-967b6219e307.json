@@ -1,0 +1,1 @@
+{"Domain":"tomthumb.com","id":"5790bfe5-d80f-4067-b47d-967b6219e307","last_modified":1764684322128,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

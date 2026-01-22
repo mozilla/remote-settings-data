@@ -1,0 +1,1 @@
+{"Domain":"hertz-saudi.com","id":"e052799b-5cc4-4d05-983a-52493447bb1a","last_modified":1731438148082,"password-rules":"minlength: 8; maxlength: 30; max-consecutive: 3; required: lower; required: upper; required: digit; required: [#$%^&!@];"}

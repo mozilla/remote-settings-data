@@ -1,0 +1,1 @@
+{"Domain":"lufthansa.com","id":"20072457-629a-4b6c-80c7-776ac743d8cf","last_modified":1624479577006,"password-rules":"minlength: 8; maxlength: 32; required: lower; required: upper; required: digit; required: [!#$%&()*+,./:;<>?@\"_];"}

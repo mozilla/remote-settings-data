@@ -1,0 +1,1 @@
+{"Domain":"jewelosco.com","id":"488c6089-7e00-4081-a207-7baefa5cd259","last_modified":1764684322048,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

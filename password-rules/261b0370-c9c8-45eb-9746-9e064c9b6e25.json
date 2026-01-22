@@ -1,0 +1,1 @@
+{"Domain":"secure.orclinic.com","id":"261b0370-c9c8-45eb-9746-9e064c9b6e25","last_modified":1624479576809,"password-rules":"minlength: 6; maxlength: 15; required: lower; required: digit; allowed: ascii-printable;"}

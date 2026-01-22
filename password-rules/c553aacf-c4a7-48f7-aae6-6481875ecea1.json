@@ -1,0 +1,1 @@
+{"Domain":"benefitslogin.discoverybenefits.com","id":"c553aacf-c4a7-48f7-aae6-6481875ecea1","last_modified":1624479577453,"password-rules":"minlength: 10; required: upper; required: digit; required: [!#$%&*?@]; allowed: lower;"}

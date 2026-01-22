@@ -1,0 +1,1 @@
+{"Domain":"dan.org","id":"b7ca591b-c242-4520-a849-ccd74a90076a","last_modified":1650898337540,"password-rules":"minlength: 8; maxlength: 25; required: lower; required: upper; required: digit; required: [!@$%^&*];"}

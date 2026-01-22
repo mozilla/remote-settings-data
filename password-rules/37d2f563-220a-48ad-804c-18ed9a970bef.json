@@ -1,0 +1,1 @@
+{"Domain":"paypal.com","id":"37d2f563-220a-48ad-804c-18ed9a970bef","last_modified":1624479576908,"password-rules":"minlength: 8; maxlength: 20; max-consecutive: 3; required: lower, upper; required: digit, [!@#$%^&*()];"}

@@ -1,0 +1,1 @@
+{"Domain":"albertsons.com","id":"42346b95-1942-4a8b-9d3d-e4bc87804718","last_modified":1764684322028,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

@@ -1,0 +1,1 @@
+{"Domain":"kingsfoodmarkets.com","id":"68647a6b-179b-4742-86a2-1cbfcd4c564d","last_modified":1764684322102,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

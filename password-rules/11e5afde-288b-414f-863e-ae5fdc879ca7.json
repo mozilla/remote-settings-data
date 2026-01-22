@@ -1,0 +1,1 @@
+{"Domain":"airfrance.us","id":"11e5afde-288b-414f-863e-ae5fdc879ca7","last_modified":1731438148159,"password-rules":"minlength: 8; maxlength: 12; required: lower; required: upper; required: digit; allowed: [-!#$&+/?@_];"}

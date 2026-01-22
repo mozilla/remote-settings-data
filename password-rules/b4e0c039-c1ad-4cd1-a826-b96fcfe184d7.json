@@ -1,0 +1,1 @@
+{"Domain":"indochino.com","id":"b4e0c039-c1ad-4cd1-a826-b96fcfe184d7","last_modified":1624479577072,"password-rules":"minlength: 6; maxlength: 15; required: upper; required: digit; allowed: lower, special;"}

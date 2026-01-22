@@ -1,0 +1,1 @@
+{"Domain":"servizioelettriconazionale.it","id":"fa5fdcb6-0fd9-432e-861a-5c327f639654","last_modified":1624479576792,"password-rules":"minlength: 8; maxlength: 20; required: lower; required: upper; required: digit; required: [!#$%&*?@^_~];"}
