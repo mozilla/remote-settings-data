@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1461410","name":"VK Universal Downloader (malware)","why":"This add-on includes malicious functionality."},"enabled":true,"guid":"@vkmad","id":"cbfa5303-c1bf-49c8-87d8-259738a20064","last_modified":1526322954850,"prefs":[],"schema":1526154098016,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}

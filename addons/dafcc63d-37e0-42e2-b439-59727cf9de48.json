@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1543048","name":"Tech Chip","why":"Remote Script Injection"},"enabled":true,"guid":"{81425b21-cc8c-42d0-98e8-69844bcb7404}","id":"dafcc63d-37e0-42e2-b439-59727cf9de48","last_modified":1554811754967,"prefs":[],"schema":1554811583185,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}

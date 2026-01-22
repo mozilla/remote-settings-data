@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1538141","name":"Fake Security add-on","why":"remote code execution"},"enabled":true,"guid":"{a9c33302-4c97-11e9-9a9d-af400df725e3}","id":"0c09f067-6e5f-4ee0-9040-08b4297ebe02","last_modified":1553616311567,"prefs":[],"schema":1553616259023,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}

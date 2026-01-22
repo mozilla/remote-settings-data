@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1543047","name":"BatchSerialize","why":"Remote Script Injection"},"enabled":true,"guid":"{d85aa6ef-639b-43a1-8560-ddeb59935d10}","id":"204b7b05-d8e1-4de3-86f9-fcf95edb40c0","last_modified":1554811583171,"prefs":[],"schema":1554803024628,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}

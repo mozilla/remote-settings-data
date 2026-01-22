@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1521533","name":"Av Player Helper (Malware)","why":"This add-on executes abusive remote code."},"enabled":true,"guid":"hlper@xero.com","id":"1e2ae4c0-66cd-40bc-9cf6-5ca0ce9548f7","last_modified":1548084072622,"prefs":[],"schema":1548076840649,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}

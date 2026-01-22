@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1538143","name":"Angelic Bit","why":"Remote script injection"},"enabled":true,"guid":"{a3f765c3-8dde-4467-ad6e-fd70c3333e50}","id":"93dc42cc-4ff3-460d-a8f2-12f1d947b530","last_modified":1554119427564,"prefs":[],"schema":1554119395186,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}

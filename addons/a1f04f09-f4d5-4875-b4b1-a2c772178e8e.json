@@ -1,0 +1,1 @@
+{"details":{"bug":"https://bugzilla.mozilla.org/show_bug.cgi?id=1538266","name":"Eval","why":"remote code injection"},"enabled":true,"guid":"{7ab5c514-4ebe-22e9-a925-9b7c7317c373}","id":"a1f04f09-f4d5-4875-b4b1-a2c772178e8e","last_modified":1553616158755,"prefs":[],"schema":1553548654429,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}
