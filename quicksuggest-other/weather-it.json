@@ -1,0 +1,1 @@
+{"attachment":{"filename":"weather-it.json","hash":"2f2874af0834febef84fd258cda23ec4f43fc7a169945a8a78e017e2c69eaf47","location":"main-workspace/quicksuggest-other/596590b7-21dc-47da-a663-a8ff5a62d16b.json","mimetype":"application/json","size":1006},"filter_expression":"env.locale in ['it']","id":"weather-it","last_modified":1751005894595,"schema":1751005882324,"type":"weather"}
