@@ -1,0 +1,1 @@
+{"description":"The Fortuneo bank uses a different form for each input, defeating the password manager (Bug 1433754)","hosts":["mabanque.fortuneo.fr"],"id":"aebc1ea5-ca41-4258-9594-9255bbcadf1e","last_modified":1642005109349,"pathRegex":"\\/identification\\.jsp$","schema":1642002521344,"usernameSelector":"input[name='LOGIN']"}

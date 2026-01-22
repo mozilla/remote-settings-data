@@ -1,0 +1,1 @@
+{"description":"United uses a useless password field plus one per frequent flyer number during checkin. Don't save any of them (Bug 1330810)","hosts":["www.united.com"],"id":"ed57feb9-a928-4f61-8947-c676bd95a7b0","last_modified":1600889016426,"notPasswordSelector":"input[type='password']","pathRegex":"^\\/travel\\/checkin\\/changefqtv.aspx","schema":1599839798880}

@@ -1,0 +1,1 @@
+{"description":"anthem uses a hidden password and username field to disable filling","hosts":["www.anthem.com"],"id":"ef7f2f3f-04b9-49d0-a2b5-3e3766b41d19","last_modified":1600889016440,"passwordSelector":"#LoginContent_txtLoginPass","schema":1599839796360}

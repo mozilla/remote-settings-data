@@ -1,0 +1,1 @@
+{"description":"www.dmv.ca.gov: Checking account form field has type=password fields and gets login suggestions (Bug 1595339)","hosts":["www.dmv.ca.gov"],"id":"85113859-1767-4fe4-bec3-826028b7cc91","last_modified":1600889167888,"notPasswordSelector":"#bankRoutingNo, #validateBankRoutingNo, #bankAcctNo, #validateBankAcctNo","schema":1600889016495}

@@ -1,0 +1,1 @@
+{"description":"The Modern'Imm website uses a field type of 'login' that's not recognized by the internal logic (Bug 1608762)","hosts":["www.modern-imm.fr","modern-imm.fr"],"id":"4f6f6f5b-c6f7-4d16-87a6-1c0172aee649","last_modified":1674595048726,"schema":1673279471898,"usernameSelector":"#login"}
