@@ -1,0 +1,1 @@
+{"buckets":{"max":"100","min":"0"},"description":"Use GeckoView web rendering engine in Nightly builds","id":"4eb60ebe-6bbc-4c26-8221-e446114a3813","last_modified":1536257177280,"match":{"regions":[]},"name":"use-gecko-nightly","schema":1536253038783}

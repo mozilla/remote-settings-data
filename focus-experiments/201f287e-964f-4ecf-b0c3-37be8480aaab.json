@@ -1,0 +1,1 @@
+{"buckets":{"max":"100","min":"0"},"description":"Determines whether to use homescreen tips for Nightly builds of Focus","id":"201f287e-964f-4ecf-b0c3-37be8480aaab","last_modified":1535140333359,"match":{"regions":[]},"name":"use-homescreen-tips-nightly","schema":1535140298800}
