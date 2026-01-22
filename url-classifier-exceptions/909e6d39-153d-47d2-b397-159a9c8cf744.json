@@ -1,0 +1,1 @@
+{"bugIds":["1987337"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"909e6d39-153d-47d2-b397-159a9c8cf744","last_modified":1760964299898,"schema":1760959847258,"topLevelUrlPattern":"*://start.rugiet.com/*","urlPattern":"*://cdn.segment.com/*"}

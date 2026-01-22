@@ -1,0 +1,1 @@
+{"bugIds":["1988685"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c54ae89c-3e85-41e0-aba9-2ed96284ed9f","last_modified":1760619479998,"schema":1760598977248,"topLevelUrlPattern":"*://www.redpocket.com/*","urlPattern":"*://*.livechatinc.com/*"}

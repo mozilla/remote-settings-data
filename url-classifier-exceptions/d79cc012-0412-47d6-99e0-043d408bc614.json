@@ -1,0 +1,1 @@
+{"bugIds":["1980940"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d79cc012-0412-47d6-99e0-043d408bc614","last_modified":1755515729583,"schema":1755481976844,"topLevelUrlPattern":"*://secretlab.co/*","urlPattern":"*://*.stamped.io/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2000151"],"category":"convenience","classifierFeatures":["emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"cd34adcc-9eff-4300-8c8a-def38b8c20e7","last_modified":1763576344099,"schema":1763431810523,"topLevelUrlPattern":"*://thethinkingshop.org/*","urlPattern":"*://app.bentonow.com/*"}

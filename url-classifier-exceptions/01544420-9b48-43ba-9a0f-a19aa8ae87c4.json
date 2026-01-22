@@ -1,0 +1,1 @@
+{"bugIds":["1989923"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"01544420-9b48-43ba-9a0f-a19aa8ae87c4","last_modified":1760619480080,"schema":1760598970910,"topLevelUrlPattern":"*://portal.pixelfederation.com/*","urlPattern":"*://pagead2.googlesyndication.com/*"}

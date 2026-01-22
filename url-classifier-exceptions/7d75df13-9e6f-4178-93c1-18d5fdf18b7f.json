@@ -1,0 +1,1 @@
+{"bugIds":["2004928"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7d75df13-9e6f-4178-93c1-18d5fdf18b7f","last_modified":1768222316819,"schema":1767665408913,"topLevelUrlPattern":"*://www.byutv.org/*","urlPattern":"*://*.uplynk.com/*"}

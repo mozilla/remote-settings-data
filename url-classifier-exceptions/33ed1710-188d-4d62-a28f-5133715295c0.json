@@ -1,0 +1,1 @@
+{"bugIds":["1989204"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"33ed1710-188d-4d62-a28f-5133715295c0","last_modified":1760619479994,"schema":1760598973222,"topLevelUrlPattern":"*://www.thebanner.com/*","urlPattern":"*://*.viafoura.co/*"}

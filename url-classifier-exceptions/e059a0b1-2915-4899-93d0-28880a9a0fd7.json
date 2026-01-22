@@ -1,0 +1,1 @@
+{"bugIds":["2001597"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e059a0b1-2915-4899-93d0-28880a9a0fd7","last_modified":1764083137526,"schema":1763746841298,"topLevelUrlPattern":"*://page.tecplot.com/*","urlPattern":"*://cdn-us.clickdimensions.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1959692"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a2d711b1-edff-4475-99fe-6a57b2c9bcec","last_modified":1757923957843,"schema":1757921881340,"topLevelUrlPattern":"*://ip.elya.fwh.is/*","urlPattern":"*://ipinfo.io/*"}

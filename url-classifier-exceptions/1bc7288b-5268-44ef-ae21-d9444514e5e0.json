@@ -1,0 +1,1 @@
+{"bugIds":["1717588","1964696","1966362"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1bc7288b-5268-44ef-ae21-d9444514e5e0","last_modified":1761134123892,"schema":1761072906445,"urlPattern":"*://*.turnto.com/*"}

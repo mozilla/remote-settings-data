@@ -1,0 +1,1 @@
+{"bugIds":["1975194"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8cb91914-3029-4bde-abb9-6d39160f6415","last_modified":1753717820745,"schema":1753716539768,"topLevelUrlPattern":"*://www.gamepro.de/*","urlPattern":"*://securepubads.g.doubleclick.net/*"}

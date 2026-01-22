@@ -1,0 +1,1 @@
+{"bugIds":["1980390"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"2fa8be05-c2a4-42d1-b556-0097fc0843cf","last_modified":1755515729614,"schema":1755481981141,"topLevelUrlPattern":"*://waltscomicshop.com/*","urlPattern":"*://*.swymrelay.com/*"}

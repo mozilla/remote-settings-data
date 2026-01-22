@@ -1,0 +1,1 @@
+{"bugIds":["2002272"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"fbd41350-9282-4bac-b1be-3523ac3cf565","last_modified":1764235110458,"schema":1764209409249,"topLevelUrlPattern":"*://www.dee-okinawa.com/*","urlPattern":"*://cm-widget.nakanohito.jp/*"}

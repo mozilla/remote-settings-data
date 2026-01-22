@@ -1,0 +1,1 @@
+{"bugIds":["2004026"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0bb8b342-7144-4dd1-9c1e-cdee9f536e9d","last_modified":1766134595834,"schema":1765788014548,"topLevelUrlPattern":"*://www.notebookcheck.net/*","urlPattern":"*://*.twitter.com/*"}

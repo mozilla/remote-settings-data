@@ -1,0 +1,1 @@
+{"bugIds":["1952854"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c7e078b0-bd4e-40f3-9c9d-c22f6117ffc2","last_modified":1758207524976,"schema":1758199076941,"topLevelUrlPattern":"*://www.aussiebroadband.com.au/*","urlPattern":"*://*.livechatinc.com/*"}

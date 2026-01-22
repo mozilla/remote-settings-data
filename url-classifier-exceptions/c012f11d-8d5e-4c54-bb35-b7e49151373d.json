@@ -1,0 +1,1 @@
+{"bugIds":["1911274"],"category":"convenience","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c012f11d-8d5e-4c54-bb35-b7e49151373d","last_modified":1764849053673,"schema":1764769525702,"topLevelUrlPattern":"*://www.dell.com/*","urlPattern":"*://*.salesforceliveagent.com/*"}

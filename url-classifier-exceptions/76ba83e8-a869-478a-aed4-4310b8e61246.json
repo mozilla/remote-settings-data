@@ -1,0 +1,1 @@
+{"bugIds":["2009676"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"76ba83e8-a869-478a-aed4-4310b8e61246","last_modified":1768388574597,"schema":1768356609460,"topLevelUrlPattern":"*://www.fisherpaykel.com/*","urlPattern":"*://*.channeladvisor.com/*"}
