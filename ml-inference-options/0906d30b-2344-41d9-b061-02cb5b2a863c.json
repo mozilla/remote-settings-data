@@ -1,0 +1,1 @@
+{"dtype":"q8","id":"0906d30b-2344-41d9-b061-02cb5b2a863c","last_modified":1728371043398,"modelId":"mozilla/distilvit","modelRevision":"v0.5.0","processorId":"mozilla/distilvit","processorRevision":"v0.5.0","schema":1728370555591,"taskName":"image-to-text","tokenizerId":"mozilla/distilvit","tokenizerRevision":"v0.5.0"}
