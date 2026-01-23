@@ -1,0 +1,1 @@
+{"bugIds":["2011225"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d53045a8-afc1-42d6-80f2-bdb92beff787","last_modified":1769134207636,"schema":1769134207271,"topLevelUrlPattern":"*://auth.proofing.statefarm.com/*","urlPattern":"*://js-cdn.dynatrace.com/*"}
