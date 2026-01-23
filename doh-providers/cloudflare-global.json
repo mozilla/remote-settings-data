@@ -1,1 +1,1 @@
-{"UIName":"Cloudflare","autoDefault":true,"canonicalName":"","id":"cloudflare-global","last_modified":1630593934455,"schema":1630593908716,"uri":"https://mozilla.cloudflare-dns.com/dns-query"}
+{"UIName":"Cloudflare","autoDefault":true,"canonicalName":"","http3First":true,"id":"cloudflare-global","last_modified":1769156050802,"schema":1769155849324,"uri":"https://mozilla.cloudflare-dns.com/dns-query"}
