@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): @0x12a00176","hashes":["cdb85ab441fb0dff0ce77e1c8961525441f29ec285d8600fbac11d624b8775cd"],"id":"id-404","last_modified":1769071240047,"schema":1769071231877}
+{"description":"rdd (Windows nightly): __delayLoadHelper2 | _tailMerge_oleaut32.dll | mozilla::mscom::ProcessRuntime::InitInsideApartment","hashes":["80923bea0967f6b353d9d5047e203b73c416759ce28fcf438328e4a0eb8a135d"],"id":"id-404","last_modified":1769157644643,"schema":1769157635154}
