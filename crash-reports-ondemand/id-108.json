@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::ipc::IProtocol::CanSend","hashes":["075898333d959396b668740e08db2cf1c9b8bad1689d7733608c9945fbe5ed5d"],"id":"id-108","last_modified":1769157645466,"schema":1769157617430}
+{"description":"content (Android nightly): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::dom::Geolocation::NotifyError","hashes":["9fcaf5c0d4d5307bbfb15e84227ad8c72399db1a64a6242b4324411a36bafb66"],"id":"id-108","last_modified":1769244041975,"schema":1769244015008}
