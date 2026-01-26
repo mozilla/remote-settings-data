@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::TransportLayerDtls::SetupAlpn","hashes":["5d5d2f1901c81190b25f5b72389a67815ffc6663da8613d929b4c295e20c3db6"],"id":"id-469","last_modified":1769244040438,"schema":1769244035527}
+{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrGetProcedureAddressForCaller","hashes":["91694d5524b47482d59b564b6ef616e93fda9a1f3411c4e724dba30335238033"],"id":"id-469","last_modified":1769416243393,"schema":1769416238259}
