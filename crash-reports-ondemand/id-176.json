@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::ipc::UntypedEndpoint::Bind","hashes":["e0ceb40f5ee02cd3910fc112fcac6196a0ef327cee158c2d65353005c6f58baf"],"id":"id-176","last_modified":1769244041312,"schema":1769244018779}
+{"description":"gpu (Linux release): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["5298ab1f7ca393c28241014458c3ec1946fe9ff1b9be0ed445188414a474a83b"],"id":"id-176","last_modified":1769416244284,"schema":1769416221450}
