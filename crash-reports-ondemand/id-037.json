@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | js::frontend::BytecodeEmitter::emitFunctionScript","hashes":["2ffbddba38e2b44287cf83a29ef00a1b57fbad3f83c74caf80851d711c1480d4"],"id":"id-037","last_modified":1769416244563,"schema":1769416212033}
+{"description":"content (Mac nightly): TSFNTFont::GetTableOffset","hashes":["ccb1fc9f53ad74591c769616832e2ba09a901ae4d455989df6e6213220dd0dde"],"id":"id-037","last_modified":1769503846426,"schema":1769503814696}

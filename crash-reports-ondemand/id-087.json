@@ -1,1 +1,1 @@
-{"description":"content (Android beta): js::GCMarker::eagerlyMarkChildren<T>","hashes":["488b014c3148ea376fedfab3e699cc3fadd43c057992c9247710891945aa9afa","cb53037e796d5af7b47e54b9b068cacded587342b97a205132dc717a2e326ebe"],"id":"id-087","last_modified":1769416244965,"schema":1769416214772}
+{"description":"content (Android nightly): JS::shadow::Zone::needsIncrementalBarrier","hashes":["67e0ec1e2494e11ae5152e17085f3ac0a30f87c48004cde1b2515c354ca4c4a9"],"id":"id-087","last_modified":1769503846787,"schema":1769503817670}

@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libsrv_um.so","hashes":["5b9526103be68e56c0186ee90da6c9db71f4796b58f1672fa590ee826b5589b7"],"id":"id-249","last_modified":1769416244140,"schema":1769416225972}
+{"description":"gpu (Mac nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["5138eadb5965f537c8c3fc2d402311825490b32aa8fd8248d8d43f2fa9d93f64"],"id":"id-249","last_modified":1769503846069,"schema":1769503827151}
