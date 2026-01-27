@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["5138eadb5965f537c8c3fc2d402311825490b32aa8fd8248d8d43f2fa9d93f64"],"id":"id-235","last_modified":1769244039081,"schema":1769244022129}
+{"description":"gpu (Linux release): core::option::expect_failed | <alloc::vec::Vec<T> as alloc::vec::spec_from_iter_nested::SpecFromIterNested<T, I>>::from_iter","hashes":["2b648b223f31f7fb18913dcfa7c70a86f97efb80712fa350f4bfccf727627ec4"],"id":"id-235","last_modified":1769503843840,"schema":1769503826367}
