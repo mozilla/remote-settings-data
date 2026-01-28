@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsCycleCollectingAutoRefCnt::get","hashes":["cd7503d67b9131ad5a9c79cc6839884222bf2d1a1e90c7c07b724cae0e9845d2","3ab6326c0d0856caf7c412c5aa8ad1990c2cf10af23eb1561c2d12873c264014"],"id":"id-049","last_modified":1769503844010,"schema":1769503815375}
+{"description":"content (Mac nightly): nsINode::GetBoolFlag","hashes":["40255e4bb26454dc6da52e5d74348f28583255828c7b33df92fe4d117e6ad779"],"id":"id-049","last_modified":1769590243704,"schema":1769590213105}
