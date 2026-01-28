@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::wr::RenderTextureHost::Release","hashes":["01257e53aa9c59a85707c3029a9b73c975c9bb4f6441a58af7b0565325982d8f"],"id":"id-242","last_modified":1769503846019,"schema":1769503826760}
+{"description":"gpu (Android beta): libc.so | libGLES_mali.so","hashes":["0b11ff89384250c0746f02288f6bd703c0676a8472712f7a50ab650d96833efd","a27a43f12d27d34879639efccc7f90d57c224204bd751e2ba7694ffb8550c1e9"],"id":"id-242","last_modified":1769590245662,"schema":1769590225492}
