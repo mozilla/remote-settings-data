@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): mozilla::wr::RenderTextureHostSWGL::UpdatePlanes","hashes":["4a351cb4ee0500488e01a2d168fdb679694b7c644eed2b2ef4fca31a591abab4"],"id":"id-204","last_modified":1769590245907,"schema":1769590223033}
+{"description":"gpu (Mac nightly): webrender::spatial_node::SpatialNode::update_transform","hashes":["295d2e5c880b65dec4d3859ff76d4148f6dc19785ea35bf4bff8da08a14b3aeb"],"id":"id-204","last_modified":1769676645190,"schema":1769676623274}

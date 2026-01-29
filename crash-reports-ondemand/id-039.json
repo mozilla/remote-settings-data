@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["2f8ce0bbf3c6727c29a69b7190e92d933a4f54c3780a7450fc1e6cfad1b4a630","0d5c706cb7da225bd28d27159a640d251f5afa4c8e464d6e338c40cba98e9902"],"id":"id-039","last_modified":1769590245947,"schema":1769590212511}
+{"description":"content (Linux nightly): js::gc::TenuringTracer::promoteObjectSlow","hashes":["e5ced54169d7c4a828b3469c625c49fc440f4569fedb27a2d45cfd39e25faad5"],"id":"id-039","last_modified":1769676645232,"schema":1769676613481}
