@@ -1,0 +1,1 @@
+{"feature":"memories-sensitivity-filter-system","id":"memories-sensitivity-filter-system--gemini-2-5-flash-lite--v1","is_default":true,"last_modified":1769799688466,"model":"gemini-2.5-flash-lite","parameters":"{}","prompts":"You are an expert at identifying sensitive statements and content. Return ONLY valid JSON.","schema":1769799382527,"version":"1.2"}
