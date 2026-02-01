@@ -1,0 +1,1 @@
+{"Domain":"websale.cinestar.cz","id":"30c1b990-058d-432f-9e30-53943ccc41c2","last_modified":1769965209657,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: digit; allowed: upper, [-!@#$%&*_+=<>];"}
