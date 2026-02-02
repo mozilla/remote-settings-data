@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["067c3b8891a03c1d21ebf0e52f56ec8ba03409d5e37b81b559d1fa38e4298ced"],"id":"id-469","last_modified":1769935245635,"schema":1769935239580}
+{"description":"socket (Mac release): mozilla::ipc::NodeChannel::OnMessageReceived","hashes":["909eb71dca44103cd9869a73e0a11533240af8c13aa08d9ed58deb6650497c1a"],"id":"id-469","last_modified":1770028242374,"schema":1770028236788}
