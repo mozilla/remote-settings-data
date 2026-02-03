@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::MozPromise<T>::ThenValueBase::ResolveOrRejectRunnable::~ResolveOrRejectRunnable","hashes":["16369db46823109a1891dcc71722a9d4d2aafe2dba455037c8170081f76add00"],"id":"id-105","last_modified":1770028240964,"schema":1770028215399}
+{"description":"content (Android beta): JS::Heap<T>::exposeToActiveJS","hashes":["eeb8d8797bab22dc85d5294bf5ff6cacb062e6da0ec041de15c29d89feda4e96","701d71093ac57d0115a12d89e6c707ddb6591336ef2b414214d27f45f4073d19"],"id":"id-105","last_modified":1770108646448,"schema":1770108619808}
