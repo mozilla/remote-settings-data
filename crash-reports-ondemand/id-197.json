@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): amdxx64.dll | mozilla::layers::CompositorD3D11::UpdateConstantBuffers","hashes":["0d8949b0af5788a9d12ad7b95300ccc7fe8357f41daef16c6943606c455ce2c9","725c5fdbae0e41732de8b6128bec958f3ba3de7a1ada32ad848fd11e47f3a573"],"id":"id-197","last_modified":1770028243021,"schema":1770028220774}
+{"description":"gpu (Linux nightly): webrender::scene_building::SceneBuilder::finalize_picture","hashes":["d3771a881151814d9c255c3f2b9df558edb4619c9d2c901c7aa35b26cf8c0831"],"id":"id-197","last_modified":1770108648922,"schema":1770108625381}

@@ -1,1 +1,1 @@
-{"description":"gmplugin (Linux release): libxul.so | firefox","hashes":["4c4111092e40f10e864de2707ba5e5dff28d6c40a9e5f6b39a7af86de0b4dba5","b925b72f2bdedf9e5347a4e6d9bd21cdcc555445acbcd07f5d8a7f36493df150","9e0196d700fa712ca5c16f890819b108f0ee03979fe043624ca0057a69e16bde"],"id":"id-158","last_modified":1770028242543,"schema":1770028218462}
+{"description":"gmplugin (Linux nightly): mozilla::gmp::GMPLoader::Load","hashes":["922dffb8dd030f1d481be3756df9ab1a3f2c8ef1257bd5b6085e4dc02f553d29"],"id":"id-158","last_modified":1770108648376,"schema":1770108622999}
