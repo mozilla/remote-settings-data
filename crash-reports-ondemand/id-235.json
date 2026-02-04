@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): amdxx64.dll | mozilla::layers::CompositorD3D11::UpdateConstantBuffers","hashes":["725c5fdbae0e41732de8b6128bec958f3ba3de7a1ada32ad848fd11e47f3a573","0d8949b0af5788a9d12ad7b95300ccc7fe8357f41daef16c6943606c455ce2c9"],"id":"id-235","last_modified":1770108647506,"schema":1770108627629}
+{"description":"gpu (Android nightly): @0x6f1333c5c8","hashes":["f02a234eb9575edbc852c28fd3e82e3e400f7df39aed10231560556917f0b10f"],"id":"id-235","last_modified":1770194448854,"schema":1770194427957}
