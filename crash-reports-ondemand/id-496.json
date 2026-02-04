@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["f63de53c99a07f02ad79ecb51cc299fd9cdaea464076925b8f47a7f292be2ced","75da9ce5b2d98a357412c9942ca5265d4bdb6d5916a82b15b16437e4542684e6"],"id":"id-496","last_modified":1770108648098,"schema":1770108643775}
+{"description":"utility (Windows nightly): RtlReportFatalFailure","hashes":["43617e8a8bf7da7d2d390d64fe18e2f6612adc14089111a31a00d099a06a9e28"],"id":"id-496","last_modified":1770194449302,"schema":1770194445549}

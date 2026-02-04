@@ -1,1 +1,1 @@
-{"description":"content (Android beta): libc.so","hashes":["38759e6a61802edc4e811c9127f8903a7cd443721bf7c29132a908fe906d8477","53bd66e0c76c218e309380592b55ac73357925a1f47c9de52365dcad67c01e34"],"id":"id-040","last_modified":1770108648886,"schema":1770108615638}
+{"description":"content (Mac nightly): mozilla::MozPromiseHolder<T>::~MozPromiseHolder","hashes":["95af64903418750b29a2cd3284d15ad06e53b089cf7dc36a717d400a17b164f7","7800a321dc06161f48e886e8a1d24040c8f9d4ef41cfc1c5ff4ec7f84a658a97"],"id":"id-040","last_modified":1770194450227,"schema":1770194414387}
