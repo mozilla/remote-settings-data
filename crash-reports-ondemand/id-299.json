@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["f2b3b2807827a613a92cbae0a7651f6b0e8dfcff9a3566a55a3bb52a8157de2c","c09af2898edf13c57be158aebb9bb3d537360777a237e8b1e8f6b63500350eb0"],"id":"id-299","last_modified":1770194448572,"schema":1770194432315}
+{"description":"utility (Mac release): mozilla::DoublyLinkedList<T>::remove","hashes":["e5ba364e18bd88896fc10479a6fdce3a43e57bccf868117725c7fad5eeb35a14"],"id":"id-299","last_modified":1770281437654,"schema":1770281425578}

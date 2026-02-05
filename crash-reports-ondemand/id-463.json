@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrGetProcedureAddressForCaller","hashes":["f40db6d7ec6137d86a76e88cd8db902239f0c038418cea366c18ac6fbee14ba7"],"id":"id-463","last_modified":1770194448271,"schema":1770194443431}
+{"description":"socket (Windows beta): InjUmon64.dll | BaseThreadInitThunk","hashes":["e28c7f2a2f9a445aeae4c77e7a6b96d778ad2cbee90691d5ccf729ce517e736c"],"id":"id-463","last_modified":1770281437394,"schema":1770281433814}
