@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): PtrInfo::WasTraversed","hashes":["aa8656797197b01d3c80470d04cabf503937b14a0b01fd2040880b593572c2dd","c120e19ee45f945b3868fbd5a4ba2dc3a6f488433a6d96e3a0a8245b1c6bb73b"],"id":"id-427","last_modified":1770281438770,"schema":1770281431948}
+{"description":"gpu (Linux nightly): wgpu_core::storage::Storage<T>::get","hashes":["49ef230b154b1c0beac973fb9a6762f1cdada3e10cb068279506a4100b653f30"],"id":"id-427","last_modified":1770367839047,"schema":1770367831847}

@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): libsystem_platform.dylib","hashes":["7cb9f7a046c3c8e48f3e0fcf494d8fb9607015edf16ba9eec7ac12e74ae4128d","d4ced0f5d62abf28fce5c005451b732eea0d67c0160e4f68fc55998655b0d231"],"id":"id-263","last_modified":1770281439420,"schema":1770281423782}
+{"description":"gpu (Mac nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["db4992409a0fd0f35d2fae816b8b5f76a7af9216324c34fb8a2d492c0a9dab11"],"id":"id-263","last_modified":1770367839762,"schema":1770367822378}

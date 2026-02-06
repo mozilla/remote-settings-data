@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): libvDSP.dylib","hashes":["238fbc12c4f7eff432c13d3a6f17b02c84f43ed3753bd114254a294bcfae63e8","78e93d54c722cf853b390d2051f4b0575d1db2448a7f1943f8b805a68d9d7eb0"],"id":"id-320","last_modified":1770281439593,"schema":1770281426637}
+{"description":"gpu (Android beta): libc.so | gralloc.rogue.so","hashes":["b277fcc68eeb73e21d5922c0f323bb9eca66d77f04ce3425e443c5be9034c2a8","4f27927c532216068081cebcf3990ca6fca0529275b03c5493a63d61fdf12ec4"],"id":"id-320","last_modified":1770367840025,"schema":1770367825591}
