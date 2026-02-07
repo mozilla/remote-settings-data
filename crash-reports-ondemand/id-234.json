@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): -[EXExtensionPointEnumerator initWithSDKDictionary:urls:config:]","hashes":["9de2fa879a531abd740dfdc71dd93263a417cd1ad94d7e27cc4ac5704a54d4a3"],"id":"id-234","last_modified":1770367838847,"schema":1770367820734}
+{"description":"gpu (Linux nightly): wgpu_core::storage::Storage<T>::get","hashes":["49ef230b154b1c0beac973fb9a6762f1cdada3e10cb068279506a4100b653f30"],"id":"id-234","last_modified":1770454244765,"schema":1770454226042}

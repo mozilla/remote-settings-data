@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): libvDSP.dylib","hashes":["78e93d54c722cf853b390d2051f4b0575d1db2448a7f1943f8b805a68d9d7eb0","238fbc12c4f7eff432c13d3a6f17b02c84f43ed3753bd114254a294bcfae63e8"],"id":"id-231","last_modified":1770367839710,"schema":1770367820564}
+{"description":"gpu (Android nightly): @0x0 | mozilla::wr::RendererOGL::MaybeCaptureScreenPixels","hashes":["0f81ebfeac8c366978a3db16cbf9f17e1abee27d947cad2da49240d78bfc9544","47cb5ed76dcf97938a296d10b584e4d4545d7509fe56bf989d79b3af360fff15"],"id":"id-231","last_modified":1770454245677,"schema":1770454225849}
