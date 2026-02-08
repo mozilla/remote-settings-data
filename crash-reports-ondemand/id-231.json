@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): @0x0 | mozilla::wr::RendererOGL::MaybeCaptureScreenPixels","hashes":["0f81ebfeac8c366978a3db16cbf9f17e1abee27d947cad2da49240d78bfc9544","47cb5ed76dcf97938a296d10b584e4d4545d7509fe56bf989d79b3af360fff15"],"id":"id-231","last_modified":1770454243228,"schema":1770454225849}
+{"description":"gpu (Mac beta): naga::valid::Validator::validate_impl","hashes":["09d30647d50c1f0e459635f24f729c24b0a3874cf2503d1a3f1f5cbf54ddb9bf"],"id":"id-231","last_modified":1770539439354,"schema":1770539422305}
