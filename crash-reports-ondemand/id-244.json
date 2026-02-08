@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libGLES_mali.so","hashes":["17c92d790c20ebb04836e58279bd0a49262c2008c897e7e0bfe0b0402bcd3eb5","df28108ec5f97a7fdb80fb7b3a04caee49fbc524a90bf52f15d4f39f97edab47","a2d37a6b548b2b7490fa8367dd9fa42f5d84cf2f6d60b8d1e5866e2af157d659"],"id":"id-244","last_modified":1770454245050,"schema":1770454226679}
+{"description":"gpu (Mac nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["bad2be4fb126a9c8c8d60b68239eb0a27e083699bc6abf80c2b48b466181eb3c"],"id":"id-244","last_modified":1770539441091,"schema":1770539423047}

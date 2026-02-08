@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::Maybe<T>::emplace<T> | mozilla::layers::WebRenderBridgeParent::RequestScreenPixels","hashes":["a257be80e3164fa094aaedffacf2da6cb83d9e10f1c239830005b09273852fcd"],"id":"id-239","last_modified":1770454244749,"schema":1770454226361}
+{"description":"gpu (Mac beta): _CFRelease","hashes":["31fdb3276c29f6d43147854426e3a169d1cfbc4e70c8434353923cb9719c1988"],"id":"id-239","last_modified":1770539440832,"schema":1770539422761}
