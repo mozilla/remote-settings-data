@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrGetProcedureAddressForCaller","hashes":["f40db6d7ec6137d86a76e88cd8db902239f0c038418cea366c18ac6fbee14ba7"],"id":"id-447","last_modified":1770539441686,"schema":1770539434672}
+{"description":"socket (Linux release): mozilla::EnterChroot","hashes":["3cbb07d90c1caa1ef21653d5602e066c9450af9d5fa778cc238b11a603cb0754","d7dda781c78549fb8c6bb67f3569c8154d3df1a5123ebeb8790c73b8b6c2e3cf","3dd9e7b0da7c58df3fdccfe721ae56cdfa36c666d2de0c6b670dbac9df8ae825"],"id":"id-447","last_modified":1770626442674,"schema":1770626435360}
