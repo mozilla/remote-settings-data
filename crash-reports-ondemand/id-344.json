@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::gfx::GPUProcessManager::MaybeCrashIfGpuProcessOnceStable","hashes":["5ba0c6939bc73d4f49de292c71e39211c9e9105847d438629df4e1c0c9db467e","30181734ad4f9df2bd397f648ed4a245bb09449e28287e75fbd2244f06f8f042"],"id":"id-344","last_modified":1770539440158,"schema":1770539428904}
+{"description":"main (Mac beta): google_breakpad::ExceptionHandler::WaitForMessage","hashes":["60668739332cb7a92a44a2bdadccea501ae26d64869418a37a7e42e2d8098a69"],"id":"id-344","last_modified":1770626441191,"schema":1770626429589}
