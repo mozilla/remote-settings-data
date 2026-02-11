@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): msmpeg2vdec.dll","hashes":["67e9e1b569a7b951e31101719dbff468016c1eb16cb62d170f36e7eb35980dbc"],"id":"id-438","last_modified":1770626443084,"schema":1770626434859}
+{"description":"rdd (Windows beta): RtlpWakeSRWLock | LdrpFindLoadedDllByAddress","hashes":["1cefa5ec5cf35dea4152332337f21c973e45d8cf71d04dd721ae3ca98c104b5b","7caacb481d4e70fc2faecad9a519bc0fbdbf7ffe09e3ff830c8a5db9c2fbea31"],"id":"id-438","last_modified":1770799846183,"schema":1770799837743}
