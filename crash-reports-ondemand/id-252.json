@@ -1,1 +1,1 @@
-{"description":"gpu (Linux nightly): wgpu_core::storage::Storage<T>::get","hashes":["49ef230b154b1c0beac973fb9a6762f1cdada3e10cb068279506a4100b653f30"],"id":"id-252","last_modified":1770626440630,"schema":1770626424766}
+{"description":"gpu (Mac nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["3001d53eea1ef5eeb6a2b2601cd3c02c68228bf8073c3930b832f27eadfd7052"],"id":"id-252","last_modified":1770799843698,"schema":1770799828287}

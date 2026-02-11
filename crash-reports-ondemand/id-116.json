@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): JS::shadow::Zone::needsIncrementalBarrier","hashes":["c79de341d3437e5ea5d21b829e08f8e0682c44453e50894d4f77c5b81ddf45fa","c3a35b169a10ff9949e242186d3ba6b8a43c1cdd06061c1e9dbea20b2e458d09","441554650b3ac5b196866c7476c365be88728645973b254b12fd7ad62355a650"],"id":"id-116","last_modified":1770626440561,"schema":1770626417549}
+{"description":"content (Linux nightly): js::gc::Arena::zone","hashes":["03408b8ac58a2f1f49f041dea26164fa5fcbab88c93d98bf654fd2d695f8d4bf"],"id":"id-116","last_modified":1770799843628,"schema":1770799821743}

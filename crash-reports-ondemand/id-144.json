@@ -1,1 +1,1 @@
-{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::gmp::ChromiumCDMChild::RecvDecryptAndDecodeFrame","hashes":["504101ad8b3128f99cd6857655ef86d8b221aaaa7b7f2021ae814e6554a34b90"],"id":"id-144","last_modified":1770626441376,"schema":1770626418997}
+{"description":"gmplugin (Mac beta): libwidevinecdm.dylib","hashes":["885c6586d76c47f5ee402fb2817c56aba947ccb518c3f80dbb5c3feddee5041e"],"id":"id-144","last_modified":1770799844483,"schema":1770799823089}
