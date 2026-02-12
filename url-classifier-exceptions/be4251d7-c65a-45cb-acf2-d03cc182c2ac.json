@@ -1,0 +1,1 @@
+{"bugIds":["2012974"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"be4251d7-c65a-45cb-acf2-d03cc182c2ac","last_modified":1770862211085,"schema":1770862210614,"topLevelUrlPattern":"*://www.flash.gr/*","urlPattern":"*://*.glomex.com/*"}

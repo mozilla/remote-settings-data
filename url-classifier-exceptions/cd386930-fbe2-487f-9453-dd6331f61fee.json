@@ -1,0 +1,1 @@
+{"bugIds":["2013827"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"cd386930-fbe2-487f-9453-dd6331f61fee","last_modified":1770862211045,"schema":1770862210482,"topLevelUrlPattern":"*://www.infowars.com/*","urlPattern":"*://*.x.com/*"}
