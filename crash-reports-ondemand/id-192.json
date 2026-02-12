@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLESv2_powervr.so","hashes":["292bd6f3e0a5aaee035958ce48deb19a8bdd83315e3e66c28bf12d83bafae5a5","7655f4df1db37e8554505c48f83e098a521a693450e3bc3090ac0df47301b4d6"],"id":"id-192","last_modified":1770799845782,"schema":1770799825424}
+{"description":"gpu (Linux nightly): NvGlEglGetFunctions","hashes":["10a41356fe28a0f14820eee25ffe8177a18831e7d12d58f132a44389c5f22997"],"id":"id-192","last_modified":1770886242990,"schema":1770886221333}

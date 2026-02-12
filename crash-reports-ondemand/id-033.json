@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::MozPromise<T>::DispatchAll","hashes":["367e73b912960f7f8660eacc7e20fe3c911c57f9c1ef82d2b8ad5f2d3deb55bf"],"id":"id-033","last_modified":1770799846020,"schema":1770799817764}
+{"description":"content (Android nightly): nsTArray_Impl<T>::nsTArray_Impl<T> | nsTArray<T>::nsTArray | mozilla::HVCCConfig::HVCCConfig","hashes":["e842eb5745df924ae5fedc831d52950d477604928687bc6c05922dc57e1fdd41","b8f545adca59ea652f59f32ac129973179b30f3b151846a0a15e800bf0d20cb0"],"id":"id-033","last_modified":1770886243243,"schema":1770886212316}

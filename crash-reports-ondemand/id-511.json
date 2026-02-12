@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::IdlePeriodState::ClearCachedIdleDeadline","hashes":["7eadc9dc4952b0c059749b82d6feeb7c723bb601c697a00f3580c9eb5e38b1ed"],"id":"id-511","last_modified":1770799845248,"schema":1770799841699}
+{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended","hashes":["129acd20a0ce73c80f2ae12192b1eb820c98ad3dc0818ae4ce9b12395bd2cd8b"],"id":"id-511","last_modified":1770886242427,"schema":1770886238733}

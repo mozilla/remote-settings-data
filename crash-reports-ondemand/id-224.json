@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): core::slice::<T>::copy_from_slice","hashes":["7ffb9ce2ce5407e7921ed79e7b3f279225790afefddabe977ab94bdfc837c4f2"],"id":"id-224","last_modified":1770799846076,"schema":1770799826995}
+{"description":"gpu (Mac beta): <webrender::compositor::sw_compositor::SwCompositor as webrender::composite::Compositor>::bind","hashes":["92c1566cc694497e4effc0fcbc1c6006d537ef75492171c29021471e95c2e897"],"id":"id-224","last_modified":1770886243293,"schema":1770886223095}
