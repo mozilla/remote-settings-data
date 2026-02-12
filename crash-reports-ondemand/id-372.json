@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): nsTSubstring<T>::AssignLiteral<T> | mozilla::net::CaptivePortalService::GetName","hashes":["a24313559fb6c9438d9f1677286c98821baba30933461deb4641b8d4ebee2a97","e0f62830dac3ea2ed106f7e916c1a53ba953ba647ac12dc6cd8ffc42e5a2748c"],"id":"id-372","last_modified":1770799843721,"schema":1770799834270}
+{"description":"main (Mac beta): XPCConvert::JSObject2NativeInterface","hashes":["8decf0b9ec7c5eb61f124ddd8bb4afcbab03344560c4bae121ad87abd4b72e6e"],"id":"id-372","last_modified":1770886240962,"schema":1770886231224}

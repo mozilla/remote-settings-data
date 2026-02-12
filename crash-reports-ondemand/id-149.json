@@ -1,1 +1,1 @@
-{"description":"gmplugin (Mac release): IPC::StringFromIPCMessageType | mozilla::ipc::PortLink::PortObserverThunk::OnPortStatusChanged","hashes":["8abd6bd16aa213b4c802180571c63157927143c7a130dfed5d610b5b0a66f1f6"],"id":"id-149","last_modified":1770799843254,"schema":1770799823322}
+{"description":"gmplugin (Mac beta): mozilla::gmp::GMPChild::ProcessingError","hashes":["bf6e95d31480abbd14f7a4276a618ae8a6fa5eddb9af3640926a66ef6f94e515"],"id":"id-149","last_modified":1770886240475,"schema":1770886218921}
