@@ -1,0 +1,1 @@
+{"bugIds":["2013869"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5f9171a7-69ed-4741-9bb7-54541022971f","last_modified":1770972584078,"schema":1770713749278,"topLevelUrlPattern":"*://www.memoryexpress.com/*","urlPattern":"*://*.ctctcdn.com/*"}
