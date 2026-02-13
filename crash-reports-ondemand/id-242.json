@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["3001d53eea1ef5eeb6a2b2601cd3c02c68228bf8073c3930b832f27eadfd7052"],"id":"id-242","last_modified":1770886242249,"schema":1770886224079}
+{"description":"gpu (Android nightly): libc.so | libGLESv2_adreno.so","hashes":["f72394c9e7b64dd27c8ae9d3cb269887d0c0307a9a648d75565a1410a0ed6bcb","a9fa991f2001ddc8435c49a39c4f45c7108a2ab996fb6a0652a088e11770f0da"],"id":"id-242","last_modified":1770972642946,"schema":1770972625196}

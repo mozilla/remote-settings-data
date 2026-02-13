@@ -1,1 +1,1 @@
-{"description":"gpu (Linux nightly): abort | libgallium-25.3.4 - kisak-mesa PPA.so","hashes":["9d4779bf31430ebe9a7e14bdcd2301a54c230fdd34b6188b15f0e7d10200db7c"],"id":"id-244","last_modified":1770886242440,"schema":1770886224189}
+{"description":"gpu (Mac beta): <webrender::compositor::sw_compositor::SwCompositor as webrender::composite::Compositor>::bind","hashes":["92c1566cc694497e4effc0fcbc1c6006d537ef75492171c29021471e95c2e897"],"id":"id-244","last_modified":1770972643109,"schema":1770972625304}

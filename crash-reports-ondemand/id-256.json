@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["bad2be4fb126a9c8c8d60b68239eb0a27e083699bc6abf80c2b48b466181eb3c"],"id":"id-256","last_modified":1770886242310,"schema":1770886224856}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["a3c6f99a87058aed11ca85bd2dad07ac423fa855ebd3fd52edbc0bdd76336bc3"],"id":"id-256","last_modified":1770972642997,"schema":1770972625959}
