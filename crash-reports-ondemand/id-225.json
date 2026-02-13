@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): libsystem_pthread.dylib","hashes":["bd1c7c70acb4fcea182a4d7181f4fd07b23c20ca1ccfd43e2dc2066fd0db5ec4"],"id":"id-225","last_modified":1770886241578,"schema":1770886223152}
+{"description":"gpu (Android beta): libc.so | libart.so | libbase.so","hashes":["489af92755547fd8ac1582bac3b72d7c246273fe8a6bc92bb9355efa42e27eac","b499e0de4a23ef95e047541b04a8949e29249ae9a81ee9c5d1a39b427c58fb4a"],"id":"id-225","last_modified":1770972642043,"schema":1770972624277}

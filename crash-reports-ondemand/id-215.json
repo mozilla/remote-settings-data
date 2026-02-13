@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): core::slice::<T>::copy_from_slice","hashes":["7ffb9ce2ce5407e7921ed79e7b3f279225790afefddabe977ab94bdfc837c4f2"],"id":"id-215","last_modified":1770886240481,"schema":1770886222601}
+{"description":"gpu (Mac nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["3001d53eea1ef5eeb6a2b2601cd3c02c68228bf8073c3930b832f27eadfd7052"],"id":"id-215","last_modified":1770972641113,"schema":1770972623730}
