@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::Maybe<T>::operator* | mozilla::MediaChangeMonitor::Decode","hashes":["b60835f24cd83ddd79501584f7880cc7b987344bd778352b1f04ea53aac3888f"],"id":"id-047","last_modified":1770972642029,"schema":1770972614263}
+{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["5d8d4c8f8f7eaa946b95ef9237a0308576e5ccc2666e88da2d324e621c872375","1641d4151a3ee58e41a7e07d4a8e04ea64b5cfd765d0e844451b901f5662dd1b"],"id":"id-047","last_modified":1771059045511,"schema":1771059017304}

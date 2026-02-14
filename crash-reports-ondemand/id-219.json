@@ -1,1 +1,1 @@
-{"description":"gpu (Linux nightly): glib_log_writer_func","hashes":["11aa60a8fd008f68f77187f7580d9886887057b7ea5769745a6e4ea391277001"],"id":"id-219","last_modified":1770972641673,"schema":1770972623958}
+{"description":"gpu (Mac nightly): arena_t::Purge | arena_t::PurgeLoop | arena_t::MayDoOrQueuePurge | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["273521f7d592ed1cddcda0b7bf6ceadceed06e646dde0ec16ff45000dec4676c"],"id":"id-219","last_modified":1771059045184,"schema":1771059027122}
