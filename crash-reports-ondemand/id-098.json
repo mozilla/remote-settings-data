@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): NewArrayBufferObject<T>","hashes":["fc9c156b1943c77d0d061758701296d19656604f893c75a4abd67d50f8959a16","e9c98dc5809a1ea82cc6e9fed7993e51411220de289df3902f865a3359adabd3","8060df7b9deb5f62f59ff585947e269300b9a7ff3ebae9c8d552e330b7338daf"],"id":"id-098","last_modified":1770972643794,"schema":1770972617100}
+{"description":"content (Mac nightly): mozilla::ipc::PortLink::SendMessage","hashes":["ceaa80b30f09356ba30021bf9b1f0781666546aa9c541956079a796f36c59833"],"id":"id-098","last_modified":1771059046972,"schema":1771059020327}

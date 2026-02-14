@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | js::frontend::ListNode::accept<T>((anonymous namespace)::NameResolver&)","hashes":["832c1416fcec32bb14732fbfd85f898bbeccf36ec571c5cb3fb5a5402408a4c1"],"id":"id-114","last_modified":1770972643635,"schema":1770972617984}
+{"description":"content (Linux nightly): JS::GetClass","hashes":["a0cdad37b32b278faae113ffbb2ffd3f6552b144d8d11fb905dbc452774c0ba6"],"id":"id-114","last_modified":1771059046809,"schema":1771059021245}

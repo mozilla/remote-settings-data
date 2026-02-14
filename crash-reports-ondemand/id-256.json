@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["a3c6f99a87058aed11ca85bd2dad07ac423fa855ebd3fd52edbc0bdd76336bc3"],"id":"id-256","last_modified":1770972642997,"schema":1770972625959}
+{"description":"gpu (Mac beta): <webrender::compositor::sw_compositor::SwCompositor as webrender::composite::Compositor>::bind","hashes":["92c1566cc694497e4effc0fcbc1c6006d537ef75492171c29021471e95c2e897"],"id":"id-256","last_modified":1771059046229,"schema":1771059029381}
