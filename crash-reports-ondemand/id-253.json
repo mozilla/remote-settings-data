@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libGLESv2_adreno.so","hashes":["a9fa991f2001ddc8435c49a39c4f45c7108a2ab996fb6a0652a088e11770f0da","877ca3735e6e4b5b261bf8907643e2ed51637d6e232c75c4b6a4881e113b1565"],"id":"id-253","last_modified":1771059046503,"schema":1771059029219}
+{"description":"gpu (Android beta): libIMGegl.so","hashes":["29158f2d84afc1d841c9fa052e5e1a9e9772d4e72a1661d88d826a23a599bfa1"],"id":"id-253","last_modified":1771144846766,"schema":1771144829794}

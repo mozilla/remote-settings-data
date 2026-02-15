@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::ipc::PortLink::SendMessage","hashes":["ceaa80b30f09356ba30021bf9b1f0781666546aa9c541956079a796f36c59833"],"id":"id-098","last_modified":1771059046972,"schema":1771059020327}
+{"description":"content (Mac beta): js::gc::AllocSite::zone","hashes":["aeae2db2a3e5d503e581e550fff8ddc01cb98f2e4aabae462dac33ba8a98ca1e","55163be1724ac36fa11cd31800d0d3a488a5a13f6039d4b1cdb96b4712d74ab5"],"id":"id-098","last_modified":1771144847237,"schema":1771144821556}

@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["2174e488767a8785880dfed335298e980123e4356a6d6f934f22ffe5ec81a2b6","ccdc235826e473d1dc6caf0765d2c984123c86169e9fd4ba3de557ae2e51a3ca","91e246435fbfef0a3226ee87411ec07b1c8c10f4c0521bcf6e21fc4d37147b8e"],"id":"id-508","last_modified":1771059046711,"schema":1771059042976}
+{"description":"utility (Windows nightly): Ndr64pClientInit","hashes":["f76cff8da968fb77761bc9963414cfdc53fb13d4296b7f4b83d98edece226714"],"id":"id-508","last_modified":1771144847006,"schema":1771144843620}
