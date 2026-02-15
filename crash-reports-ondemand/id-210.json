@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["3001d53eea1ef5eeb6a2b2601cd3c02c68228bf8073c3930b832f27eadfd7052"],"id":"id-210","last_modified":1771059045159,"schema":1771059026628}
+{"description":"gpu (Mac beta): <webrender::compositor::sw_compositor::SwCompositor as webrender::composite::Compositor>::bind","hashes":["92c1566cc694497e4effc0fcbc1c6006d537ef75492171c29021471e95c2e897"],"id":"id-210","last_modified":1771144845476,"schema":1771144827505}

@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::dom::quota::QuotaManager::Shutdown::$::operator()","hashes":["618b020473d43cedcae616edc3be2fd2b9b14bedc91fdb96fa637a1f7d65501b","288e03d095d48796153f746225d3373485c0ef6ecdbb3f7235fb7896822436e7"],"id":"id-370","last_modified":1771059045549,"schema":1771059035569}
+{"description":"main (Mac nightly): js::gc::detail::GetTenuredGCThingZone","hashes":["73c6f849dc3b4dc24935adfd254dcfbcb049decae5f05fb853e6875f6f16c2b3"],"id":"id-370","last_modified":1771144845825,"schema":1771144836246}
