@@ -1,1 +1,1 @@
-{"description":"gpu (Linux nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["e5ae9512661e3aacdbea40f24941a58546c2bb59f66e3865e62804f68c07a276"],"id":"id-252","last_modified":1771144847265,"schema":1771144829741}
+{"description":"gpu (Mac nightly): arena_t::Purge | arena_t::PurgeLoop | arena_t::MayDoOrQueuePurge | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["273521f7d592ed1cddcda0b7bf6ceadceed06e646dde0ec16ff45000dec4676c"],"id":"id-252","last_modified":1771230645550,"schema":1771230626397}

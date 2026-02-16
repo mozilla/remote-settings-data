@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): ____CFLookupCoreServicesInternalFunction_block_invoke.cold.1","hashes":["156ebf4843debea9252f19d9be32a71a03842ac01f923a9d1e845b9780123abb"],"id":"id-511","last_modified":1771144846609,"schema":1771144843781}
+{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["a6a958a0174bac29b714b7bf9d66f61581da2acc9661bf59b0c755df6b279f98"],"id":"id-511","last_modified":1771230644719,"schema":1771230641022}

@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::gfx::GPUProcessManager::MaybeCrashIfGpuProcessOnceStable","hashes":["2a839a6579d0e8bb077fabc5d699e25a9db176b22999307135ff1b23db36d02d","45bfa34cc69fbea9cc9d4b195c6f9ed61b021438847f17814af2afd56a45de76"],"id":"id-348","last_modified":1771144846250,"schema":1771144835053}
+{"description":"main (Mac nightly): mozilla::net::TRRService::GetHttp3FirstForServer","hashes":["e94244a3f58a7307db7d278aace1b99b1e038ecb8c32fa1dd663e8196f9eb27d"],"id":"id-348","last_modified":1771230644173,"schema":1771230632000}
