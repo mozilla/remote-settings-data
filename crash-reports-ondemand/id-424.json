@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): ff_vp9_ipred_dc_left_8x8_ssse3","hashes":["13718834f9a62ca7b95664313c1904c8972fb9d14e83a37021a6f8617c05f9a1"],"id":"id-424","last_modified":1771144845184,"schema":1771144839142}
+{"description":"rdd (Windows beta): memset | vp9_decode_frame","hashes":["b716d27a5e7b882b2fa31f06420147a3af70dd7807299bfbf4811afdccfb844e"],"id":"id-424","last_modified":1771230642694,"schema":1771230636142}
