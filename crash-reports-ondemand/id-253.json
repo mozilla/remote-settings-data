@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libusc.so","hashes":["c6aae2868f767e7f960f3a2bfc3b740da52ade2fbdad8018684774a446fd3e5f","f860736dfe78512b65beff5a3c21d54006afb6f6683d774e282293e0e8536347","c191b6ef9c21d7a9931c0baaef13ad4b792b0acc23393de2f0095c6c5b39072e"],"id":"id-253","last_modified":1771230642812,"schema":1771230626453}
+{"description":"content (Mac nightly): JS::shadow::Zone::hasAnyGCState","hashes":["25857f556286a4e3059d084621036a5cf53e472e6b05778a77e6a405d8561b61"],"id":"id-253","last_modified":1771322440192,"schema":1771322423566}

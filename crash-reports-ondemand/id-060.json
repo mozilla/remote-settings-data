@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::gc::Arena::getAllocKind","hashes":["0e0b0b5491729ad1132fcbc84d3dd0469d2153898451b144b3cbc2db3459d20f","d5bb2133819ac515682fa84e148abf792b6ec459bc19e62f7f0c53c8b8b6e151"],"id":"id-060","last_modified":1771230642755,"schema":1771230615181}
+{"description":"gmplugin (Mac release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["a7dadd2d1b6f79c87d357be6852779b95ad85fc46f362f1553e557dc3409dfdd"],"id":"id-060","last_modified":1771322440144,"schema":1771322412195}
