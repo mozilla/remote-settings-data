@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::Clean","hashes":["8ccc7569149a3b1148fef9ea816bc812924a1ee299edd8254f7075d811af1ada","a3f7078208d7d697774c7e2907296d70dbc5a0c41d417bbd90ba5524be49dd85"],"id":"id-514","last_modified":1771230644348,"schema":1771230641205}
+{"description":"gpu (Mac nightly): gpumRestoreTextureData","hashes":["76f991cce643dca07f4f957bcba8206fc9da1b5bfb53cb2ed5d9c417ea9fbacb"],"id":"id-514","last_modified":1771322441714,"schema":1771322438886}
