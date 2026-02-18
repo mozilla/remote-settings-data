@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): CDevice::SetMultithreadProtected","hashes":["e00945218980dd5aabdf2d36383906a7a0116a5d8046244c42036c2050887c59"],"id":"id-337","last_modified":1771322440437,"schema":1771322428379}
+{"description":"socket (Linux release): arena_t::ArenaRunRegAlloc | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["2c8357e955dda04eb2fcf9f54e6c1bb1b32305d625dcd23afd12cdc78a08cf80"],"id":"id-337","last_modified":1771404642009,"schema":1771404630468}
