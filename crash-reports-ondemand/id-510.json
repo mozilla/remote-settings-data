@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): av_freep | vp9_tile_data_free | free_buffers | vp9_decode_free | ff_frame_thread_free | ff_codec_close","hashes":["1271ecec0716328572246bc65fb5f686afe9c0a4ad6a88f7d82ed348512c370e"],"id":"id-510","last_modified":1771322442391,"schema":1771322438677}
+{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::gmp::ChromiumCDMChild::RecvInitializeVideoDecoder","hashes":["9b64719522640854f8b09cd206e8db3549cf83b3fc60e846f3776f83863f0a6c"],"id":"id-510","last_modified":1771404643649,"schema":1771404640465}

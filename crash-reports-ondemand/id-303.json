@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["82e0210ebe6f426af9d719b108184d9245dab851703bf2fffcc297de1b2a34e7","4a2927934e4e6bc5f29a25401a6dd0f03137095fb57d9096fc438e454a85cdd9"],"id":"id-303","last_modified":1771322443011,"schema":1771322426391}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["08075baa2b7b7e3681399645ffd6e2b1ae9d1e3a68e348476e9468e61e13d62a"],"id":"id-303","last_modified":1771404644192,"schema":1771404628534}

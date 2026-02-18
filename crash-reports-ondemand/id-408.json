@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libGLESv2_adreno.so","hashes":["d3c5b8cc409b7437a5c795cdd945a376ec608c99ac045f62f6126b80cae5744f","094d1d930e43bd0e931391bcca36516457008d1d70e0f1b09d9027d8223a911f","9f0987cd9a0b0badafd76d02254087b4dada3868dc464aeac928f7551d885949"],"id":"id-408","last_modified":1771322442752,"schema":1771322432368}
+{"description":"gpu (Mac nightly): AGX::BlitContext<T>::copyTextureToBuffer","hashes":["80d2eeb1ae656e3674aef9a189d139548b6b54250cc9773da1030835a1d91dfa"],"id":"id-408","last_modified":1771404643966,"schema":1771404634585}
