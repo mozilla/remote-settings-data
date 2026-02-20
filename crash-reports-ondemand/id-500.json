@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): @0xcd873a4a","hashes":["3d0621c7360b50a897044b322ccca514356d6896313056079aaefffc2828d435","67902bb73fa677647273a30f04088d0c6938d94cd0241307d58a3fb35ebb9cae"],"id":"id-500","last_modified":1771404641705,"schema":1771404639870}
+{"description":"main (Mac nightly): mozilla::net::nsHttpHandler::ExcludeHttp2OrHttp3Internal","hashes":["4b804ab39e8bba2059083a991dc6b2a97b42b6d6ca2b9bdaa2b6384240855eeb"],"id":"id-500","last_modified":1771577443700,"schema":1771577441515}

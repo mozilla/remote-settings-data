@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): AGX::BlitContext<T>::copyTextureToBuffer","hashes":["80d2eeb1ae656e3674aef9a189d139548b6b54250cc9773da1030835a1d91dfa"],"id":"id-408","last_modified":1771404641320,"schema":1771404634585}
+{"description":"gpu (Android beta): libIMGegl.so","hashes":["d4e5ff8f31d8455de4619f958f95a600e97a2d45e3ffdfe5a1511295dc4b2be4","0e7cd961cf810c11f97629de398e48c41cc08b937644bc638647d19b6175616e"],"id":"id-408","last_modified":1771577443046,"schema":1771577436250}
