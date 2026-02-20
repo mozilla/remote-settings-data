@@ -1,0 +1,1 @@
+{"additional_components":[],"feature":"conversation-starters-sidebar-system","id":"conversation-starters-sidebar-system--qwen3-235b-a22b-instruct-2507-maas--v1","is_default":true,"last_modified":1771603503767,"model":"qwen3-235b-a22b-instruct-2507-maas","parameters":"{}","prompts":"Return only the requested suggestions, one per line.","schema":1771597430466,"version":"1.0"}
