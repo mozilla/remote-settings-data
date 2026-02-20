@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): arena_t::MallocLarge | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["e8308bf19e81e54070138ff8e3d96a1116ce71e70f3fba7d1f0f546f3cb32368"],"id":"id-457","last_modified":1771404644182,"schema":1771404637418}
+{"description":"socket (Windows beta): r_assoc_fetch_bucket","hashes":["9053d81f7a448ea130dfebb14adf26bbf91f649749084cd30930093769f3d992"],"id":"id-457","last_modified":1771577445952,"schema":1771577439101}
