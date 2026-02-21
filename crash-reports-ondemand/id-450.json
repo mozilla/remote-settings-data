@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::CycleCollectedJSRuntime::RemoveJSHolder","hashes":["6bb28c93d8a587f2948821d24fa5d8183cc480577a8f94a912631662a77bd728"],"id":"id-450","last_modified":1771577443809,"schema":1771577438693}
+{"description":"socket (Mac release): nsTArray_Impl<T>::~nsTArray_Impl | nsTArray<T>::~nsTArray | CopyableTArray<T>::~CopyableTArray","hashes":["04a136fae9f728883923d769d78fcf83d37a2342f0cdd5a232f37da2dbfbaa68"],"id":"id-450","last_modified":1771663247865,"schema":1771663243386}
