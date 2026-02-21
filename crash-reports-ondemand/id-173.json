@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): @0xcd1b2a4a","hashes":["8c56952ac540597d9ae5cf2407d8a782187ab91fc38478a6348c089a377616c6","09b9ef44503c56509725c0afa7556fd986527a2d96a71174288175ec21c346e0"],"id":"id-173","last_modified":1771577444936,"schema":1771577422790}
+{"description":"gpu (Android beta): libc.so | libufwriter.so","hashes":["7f31e0469ce21df43991cdd88ab01a890c87e2f2bdeadad264ba8dc012dad943","c68e844dfc2e252e186a2b11ce983eedd80aacbc15d6eb69388320853e077c87"],"id":"id-173","last_modified":1771663249322,"schema":1771663228812}

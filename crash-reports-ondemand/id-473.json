@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["3c520e34b2a416521f1746a7991c8539d530cd6e023defb08d3afea4b0d0db30","cce01e33495730d476f7c8f61651114f92d0b71f6e8e9702c65a3766316b6b21"],"id":"id-473","last_modified":1771577444919,"schema":1771577439997}
+{"description":"utility (Windows nightly): ffm64.dll | mozilla::widget::filedialog::GetFileResults","hashes":["1b7cf6b4a4b0c5aa27e8aea2c800677c9a41064c0b964f1e359720a527dc7455"],"id":"id-473","last_modified":1771663249310,"schema":1771663244588}
