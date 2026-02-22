@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): _sigtramp","hashes":["0844cccd341419d57ce1b76214aa4c5e2e6cbc70c1513665f7cdd45501fb857e"],"id":"id-211","last_modified":1771663247850,"schema":1771663230791}
+{"description":"gpu (Android nightly): <.plt ELF section in libxul.so> | mozilla::layers::WebRenderBridgeParent::ScreenPixelsRequest::~ScreenPixelsRequest","hashes":["286481b3c931bf035b0895ef6250ab08e46d21ab75e5105b623b2cd0a053dcc9","453ed14a12553bc5d0d1113403963ba3f84e075b1ff930a8b43b300590bc6fe5"],"id":"id-211","last_modified":1771749639918,"schema":1771749622983}
