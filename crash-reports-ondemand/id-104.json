@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["bc9f841caca3650bb969b708292ab1d08defeb91d360963a28618ca5b991e9f1"],"id":"id-104","last_modified":1771663249962,"schema":1771663225104}
+{"description":"content (Mac beta): mozilla::BitSet<T>::Reference::operator=","hashes":["0b884f0d0dc4e16f572dd49005d9190c2b423483a6a9c0c600152c6aa7e9d3da","0b81a8c52060465bbbeeaa5bb66825b5b7d79754bbd0eec9e18ce07584cb932c"],"id":"id-104","last_modified":1771749641812,"schema":1771749617645}
