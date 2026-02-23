@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): OOM | large | libc.so | libGLESv2_adreno.so","hashes":["6d9f91f8757654b0ff3aee4d47ebb06b241334a2ebfe64566e0bc64373c543f3"],"id":"id-196","last_modified":1771749641837,"schema":1771749622224}
+{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["5d3247e036be0a58cfd116d570a5734e5d72f72a27bec0b306ac7464ff3761f6"],"id":"id-196","last_modified":1771836045960,"schema":1771836024816}

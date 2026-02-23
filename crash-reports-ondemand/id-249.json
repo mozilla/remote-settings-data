@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): mozilla::detail::RC<T>::operator--","hashes":["9a6acc1387316949231c6073e8c5b532401f6c5a17b39c64a0e464d4785981fc"],"id":"id-249","last_modified":1771749642328,"schema":1771749624939}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["d120dab175e6a31ac66aa2a158fce3ee3176833452daed6583c7610aec8e3976"],"id":"id-249","last_modified":1771836046343,"schema":1771836027857}

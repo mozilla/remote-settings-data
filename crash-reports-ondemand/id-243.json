@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): NvGlEglGetFunctions","hashes":["c72718cca4f08bd82fbe180087e8a1482316e758e86d63e137ad39a2fadd2315","9eab8bdf8dbba73cb95d7f6eaa7c81db0d0282aeaa22161630ef69de59631c12","52a873d47d5fb5a0fe99362dd3b21e8995236fb69beb593a9995405c4c686982"],"id":"id-243","last_modified":1771749641963,"schema":1771749624622}
+{"description":"gpu (Mac nightly): abort | gpusKillClientExt","hashes":["ed24de515fbe9a16116e405e3db8a8cc235766fdd905258c67345d8844aca3ca"],"id":"id-243","last_modified":1771836046076,"schema":1771836027441}
