@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["84185585b8f73c486b066f51cb2853ca78d69fd0fb783c6365c121e0a3f3aeb3","82de0b57c72dcfc6fa00f66db59048261dba5ded1f5b1e984ff987a52127fbb0"],"id":"id-453","last_modified":1771749640268,"schema":1771749635678}
+{"description":"socket (Linux release): libc.so.6 | r_log_register","hashes":["e6c482e87eabd90cc4704a8f6f56198844f9740307951a1cc61a0a7ed064a6f0","32ed03c618e54eaa83882d0e733c766d357a90af6536c59eca9e4b3d8fe6a7c9"],"id":"id-453","last_modified":1771836044246,"schema":1771836039043}

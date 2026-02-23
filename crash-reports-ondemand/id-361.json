@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::MozPromise<T>::ThenValueBase::ResolveOrRejectRunnable::~ResolveOrRejectRunnable","hashes":["7cc7d998d53c3cab084b155eca3092ec8d664c69debe4e9ca1ce683c299f44fa"],"id":"id-361","last_modified":1771749640466,"schema":1771749630839}
+{"description":"main (Mac beta): NS_IsMainThread","hashes":["4dc2c5279c61c53861198c1bb33d1a529c60d4645c7def8fb2e874c02bd4aca0"],"id":"id-361","last_modified":1771836044151,"schema":1771836034004}

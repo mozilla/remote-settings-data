@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::dom::RTCStats::operator=","hashes":["6bd2a6e1116820491a01f85869f5385dbefad7578d9474b2fc124d4382968706"],"id":"id-465","last_modified":1771749640722,"schema":1771749636305}
+{"description":"socket (Windows nightly): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["74e04849d68670738098cbc9ba664c48837a14cb8768b36e7a77307020a4b07f"],"id":"id-465","last_modified":1771836044610,"schema":1771836039712}
