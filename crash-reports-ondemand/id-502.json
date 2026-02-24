@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): LiferayNativityUtil_x64.dll | LiferayNativityErrorOverlay_x64.dll | CFSIconOverlayManager::_GetFileOverlayInfo","hashes":["720e8a1aa908d7e6d86461170b779a641043d6434b7c7e11d46ddb5ac525e9d7"],"id":"id-502","last_modified":1771836045458,"schema":1771836041776}
+{"description":"socket (Windows beta): __delayLoadHelper2 | _tailMerge_iphlpapi.dll | stun_getaddrs_filtered","hashes":["54ef9d3fec5ba394ef6d1455d4104d09e1fa920bca0d219a5a0dc42d262dbcf3"],"id":"id-502","last_modified":1771930841690,"schema":1771930838206}

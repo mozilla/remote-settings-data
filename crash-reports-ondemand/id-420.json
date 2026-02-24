@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["0e92ddf3d7d8e67701f45e9a2645a9db2c0150d8ec0f64e2daed42dacd8d1a4d"],"id":"id-420","last_modified":1771836045135,"schema":1771836037207}
+{"description":"content (Mac nightly): PNGReadPlugin::initialize","hashes":["f664bdb57973d8698b12dd509b05f07c6250d6b5e1d12a085afdf1db10ec6368"],"id":"id-420","last_modified":1771930841387,"schema":1771930833916}

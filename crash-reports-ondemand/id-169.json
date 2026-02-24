@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLESv2_powervr.so","hashes":["f9b82a8b4b1dfa2bb04177a04ae7fa765f1327b5e1b5d7de3ce1d7954503ac7b","2cdd6fbe83f32850a11fe3a676275b36108daa09ef1c056c1998a4eea5ec4c4a","2d53a55da0d99b6f0cbd0c696dad710ff39f222fa4cfcf6254ceb47588bf0bc8"],"id":"id-169","last_modified":1771836045573,"schema":1771836023354}
+{"description":"gpu (Linux release): libnvidia-glcore.so.340.108","hashes":["8e96fa79843e1a9cfeee2c8c5e6b0d76167d5e1245317337c344b34caec3582b"],"id":"id-169","last_modified":1771930841785,"schema":1771930820542}
