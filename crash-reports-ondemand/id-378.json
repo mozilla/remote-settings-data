@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): mozilla::FFmpegDataDecoder<T>::~FFmpegDataDecoder","hashes":["2521dd62f4636cac6c7715db749d35ddb975091fa73d5a83a47f4a04c569b4f2"],"id":"id-378","last_modified":1771836043438,"schema":1771836034906}
+{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["5d3247e036be0a58cfd116d570a5734e5d72f72a27bec0b306ac7464ff3761f6"],"id":"id-378","last_modified":1771930839826,"schema":1771930831683}

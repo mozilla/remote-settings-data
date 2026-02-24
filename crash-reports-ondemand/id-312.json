@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): objc_msgSend | -[CALayer actionForKey:]","hashes":["96b6981023e69ca6611241ad03a5b10b2f194b49ee642eeae2a5cd7ca60282bc"],"id":"id-312","last_modified":1771836044251,"schema":1771836031325}
+{"description":"main (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["ef93ef47e61a024c05d4ba29d0848ae00a9233691b542ea38c8c1f93252e45ee"],"id":"id-312","last_modified":1771930840647,"schema":1771930828191}
