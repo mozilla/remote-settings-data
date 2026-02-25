@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): f_sps.dll | LoadLibrarySystem32","hashes":["7590996f93781257cb390c6d8eb92f3a4443d1c4e103f1ffdf5095b964887028"],"id":"id-403","last_modified":1771930840212,"schema":1771930833023}
+{"description":"rdd (Windows beta): RtlpWakeSRWLock | LdrGetProcedureAddressForCaller","hashes":["b927788d44310308db9b66f7f30978aa889efb4c864ad7f901da26bf2881bc73","811da5d251cad38c630f1eeda961b63a9606d931fe0460f75a21947a0f1ec05f"],"id":"id-403","last_modified":1772010040232,"schema":1772010033279}
