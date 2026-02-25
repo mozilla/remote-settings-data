@@ -1,1 +1,0 @@
-{"cities":[{"code":"Q1384","name":"New York","servers":[{"hostname":"prod.browser-proxy.prod.webservices.mozgcp.net","port":443}]}],"code":"US","filter_expression":"!(env.channel == 'default' || env.channel == 'nightly')","id":"7cc4a91e-bbbe-42f4-96d8-1b7e7a3bbe4d","last_modified":1770065524416,"name":"United States of America (GCP)","schema":1768824304297}
