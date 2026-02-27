@@ -1,1 +1,1 @@
-{"description":"rdd (Linux beta): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["5143ecd940780d93852c9d5313733ca2a33268f08910438cb0e1ce50fb95998b"],"id":"id-412","last_modified":1772010042576,"schema":1772010033772}
+{"description":"main (Mac nightly): mozilla::RestyleManager::ElementStateChanged","hashes":["cbcb0c06413d187cd086b79c1b36eea42204c9a973d07576e8128d7770a5d89e"],"id":"id-412","last_modified":1772179088946,"schema":1772178987743}
