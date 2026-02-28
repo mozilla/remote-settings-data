@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): js::AvlTreeImpl<T>::Node::getTag","hashes":["0c9f62abc46a7a496fd5e4e7996fc737d7bbca38262e8172e58bec7c607cfe90","3b3266a5bdfe18c124affc39ae961ecdbb552f9c08307144c76ebf80359e2a9e"],"id":"id-419","last_modified":1772179087057,"schema":1772178993927}
+{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["b7ebb63d4e61503bd504517e4af5c66d6cb8847ee4d792d05178fc35e445366f"],"id":"id-419","last_modified":1772266667855,"schema":1772266577953}
