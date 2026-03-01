@@ -1,0 +1,1 @@
+{"bugIds":["2019226"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7699be38-5b50-465e-88f2-8498a772777c","last_modified":1772331017397,"schema":1772331012842,"topLevelUrlPattern":"*://strick-anleitung.com/*","urlPattern":"*://pagead2.googlesyndication.com/*"}

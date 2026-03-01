@@ -1,0 +1,1 @@
+{"bugIds":["2018922"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f5bae671-449e-4eda-8aae-0b89e3d92952","last_modified":1772331017458,"schema":1772331013070,"topLevelUrlPattern":"*://mnwellindex.web.health.state.mn.us/*","urlPattern":"*://api.ipify.org/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2015392"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b2c75673-595c-41c0-aca7-9e80e3306d91","last_modified":1772331017551,"schema":1772331015571,"topLevelUrlPattern":"*://www.skechers.com/*","urlPattern":"*://edge.curalate.com/*"}

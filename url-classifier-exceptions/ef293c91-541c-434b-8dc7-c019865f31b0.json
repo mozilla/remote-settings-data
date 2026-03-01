@@ -1,0 +1,1 @@
+{"bugIds":["2015541"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ef293c91-541c-434b-8dc7-c019865f31b0","last_modified":1772331017510,"schema":1772331015353,"topLevelUrlPattern":"*://www.getbellhops.com/*","urlPattern":"*://cdn.segment.com/*"}

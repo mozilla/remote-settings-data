@@ -1,0 +1,1 @@
+{"bugIds":["2015826"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1d63de50-4969-479d-96a9-37d8a6901ce6","last_modified":1772331017507,"schema":1772331015239,"topLevelUrlPattern":"*://developer.android.com/*","urlPattern":"*://developers.google.com/*"}

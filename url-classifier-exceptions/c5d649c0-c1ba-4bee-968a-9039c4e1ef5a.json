@@ -1,0 +1,1 @@
+{"bugIds":["2019326"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c5d649c0-c1ba-4bee-968a-9039c4e1ef5a","last_modified":1772331017387,"schema":1772331012637,"topLevelUrlPattern":"*://www.gianteagle.com/*","urlPattern":"*://f.wishabi.net/*"}

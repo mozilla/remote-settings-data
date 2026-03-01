@@ -1,0 +1,1 @@
+{"bugIds":["2019560"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"edc3d0d3-f9ba-46ff-933c-5cf985ea7046","last_modified":1772331017384,"schema":1772331012417,"topLevelUrlPattern":"*://www.progamemarketing.com/*","urlPattern":"*://static-media.hotmart.com/*"}

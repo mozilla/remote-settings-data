@@ -1,0 +1,1 @@
+{"bugIds":["2017241"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d32d8f3d-e378-460a-86ca-5bd77ed76ee4","last_modified":1772331017453,"schema":1772331014229,"topLevelUrlPattern":"*://book.flybermudair.com/*","urlPattern":"*://bermudair-api.ezycommerce.sabre.com/*"}
