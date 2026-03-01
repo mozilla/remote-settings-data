@@ -1,0 +1,1 @@
+{"bugIds":["2014135"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"10235b0f-3be4-4840-a7d2-955407aa9919","last_modified":1772358588312,"schema":1772331016463,"topLevelUrlPattern":"*://www.redditp.com/*","urlPattern":"*://old.reddit.com/*"}

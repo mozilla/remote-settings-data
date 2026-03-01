@@ -1,0 +1,1 @@
+{"bugIds":["2015836"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"de46977a-0b11-426c-9217-484c18c369d0","last_modified":1772358588270,"schema":1772331015125,"topLevelUrlPattern":"*://03.emailinboundprocessing.com/*","urlPattern":"*://rest.iad-03.braze.com/*"}

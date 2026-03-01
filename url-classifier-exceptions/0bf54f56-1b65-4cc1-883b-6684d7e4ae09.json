@@ -1,0 +1,1 @@
+{"bugIds":["2019328"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0bf54f56-1b65-4cc1-883b-6684d7e4ae09","last_modified":1772358588125,"schema":1772331012525,"topLevelUrlPattern":"*://www.fido.ca/*","urlPattern":"*://js-cdn.dynatrace.com/*"}

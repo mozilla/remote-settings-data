@@ -1,0 +1,1 @@
+{"bugIds":["2019249"],"category":"convenience","classifierFeatures":["emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"af540753-5471-43b9-88bf-93c89113eb0e","last_modified":1772358588109,"schema":1772331012738,"topLevelUrlPattern":"*://help.mts-link.ru/*","urlPattern":"*://api.carrotquest.io/*"}

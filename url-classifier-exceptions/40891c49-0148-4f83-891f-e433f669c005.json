@@ -1,0 +1,1 @@
+{"bugIds":["2014462"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"40891c49-0148-4f83-891f-e433f669c005","last_modified":1772358588335,"schema":1772331016240,"topLevelUrlPattern":"*://www.wcvb.com/*","urlPattern":"*://nexus.ensighten.com/*"}
