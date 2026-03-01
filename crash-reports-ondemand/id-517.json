@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlpFreeUserBlockToHeap | RtlEnterCriticalSection | CPropMgrImpl::Clean","hashes":["2c057431afc7d00708fe15542b5c6921306e1c2fac27e1723fa1262572143e0f"],"id":"id-517","last_modified":1772266670385,"schema":1772266665114}
+{"description":"gpu (Mac nightly): PNGReadPlugin::initialize","hashes":["34b57decbb6d27df40e57c945185f8a5f8ff2024869d1948daeecdbd65928197"],"id":"id-517","last_modified":1772353674933,"schema":1772353670772}
