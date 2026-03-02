@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::dom::ShadowRoot::StyleSheetApplicableStateChanged","hashes":["b1dd5a9c09425ad861ed943b164440db24b1a1b0c3829da52196c926460ddaf6"],"id":"id-419","last_modified":1772353673540,"schema":1772353582936}
+{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::ClearProps","hashes":["d5fcd131ba743b75ae2e7e69897e95d19b2d5f1378b2093d4c6b4bf4dc1e3af3"],"id":"id-419","last_modified":1772440068768,"schema":1772439979038}
