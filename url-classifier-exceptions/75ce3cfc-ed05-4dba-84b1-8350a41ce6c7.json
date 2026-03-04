@@ -1,1 +1,0 @@
-{"bugIds":["2014070"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"75ce3cfc-ed05-4dba-84b1-8350a41ce6c7","last_modified":1772358588095,"schema":1772331016566,"topLevelUrlPattern":"*://hostupon.com/*","urlPattern":"*://cdn.livechatinc.com/*"}

@@ -1,1 +1,0 @@
-{"bugIds":["2016650"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9969b4c7-e229-490b-bd99-248b2af0d4ed","last_modified":1772358588226,"schema":1772331014554,"topLevelUrlPattern":"*://www.wowt.com/*","urlPattern":"*://pubads.g.doubleclick.net/*"}
