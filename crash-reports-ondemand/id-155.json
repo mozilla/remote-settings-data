@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | libxul.so | nsRefreshDriver::Tick","hashes":["4967e79f26f8938a287ca778577bd5d253a29395436ba79d3230c2a90f524ef4"],"id":"id-155","last_modified":1772440069568,"schema":1772439745981}
+{"description":"main (Mac beta): libobjc.A.dylib | libobjc.A.dylib | libobjc.A.dylib | libobjc.A.dylib | libobjc.A.dylib | libobjc.A.dylib | SidecarCore","hashes":["9a81fb756cb2dbca178a7f851f2c03640166eb70adae694b97bb6640371e21b0"],"id":"id-155","last_modified":1772613475040,"schema":1772613148941}
