@@ -1,1 +1,1 @@
-{"description":"gmplugin (Windows beta): mozilla::gmp::GMPChild::ProcessingError","hashes":["c0da8fe3a2be415c24ef0199556d5adfd7cf3038d48d4e5fb53bd7f6eae6f2cc"],"id":"id-169","last_modified":1772440070548,"schema":1772439758003}
+{"description":"content (Android nightly): IPCError-content | RecvReloadWithHttpsOnlyException HTTPS-only mode: Illegal state","hashes":["9547e4018d42d7d573262ada99605647661a37fca4470a9393aaed738a87557a","cf3f9e3e810479bceacfac485c953216bcfbe436c1b9c4046bb331bbfc56652a"],"id":"id-169","last_modified":1772613475765,"schema":1772613161287}
