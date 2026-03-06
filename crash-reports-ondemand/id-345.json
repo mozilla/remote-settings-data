@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::Arena::unmarkAll","hashes":["c78a2089da39ca8368bdd903466f43b4da2fbea8f5ce35b86cfdcd749ce3e835","af0b4fc18cae9667d7440e0561b166c7c5bbd8af6f2b6a7cf064bce507c0c5fc"],"id":"id-345","last_modified":1772613475909,"schema":1772613319544}
+{"description":"content (Mac nightly): mozilla::dom::BrowsingContext::BrowsingContext","hashes":["0da89a48bbac992a8399e45530593e85d919c72d730af622ce4622b3c43bc91d"],"id":"id-345","last_modified":1772788678435,"schema":1772788527423}

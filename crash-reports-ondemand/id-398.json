@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): abort | gpusKillClientExt","hashes":["54fddeab2019fe07a3630f83eb74e1c74683733f4daabd49389429a22ec0956d"],"id":"id-398","last_modified":1772613476251,"schema":1772613365822}
+{"description":"content (Linux beta): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["bb3001a21c4bceaac43a4227c8ac1b7613e915e05568596bc59676ddf628ad5a","e07e8b0ddbc7d12b462f9132812847b35fcf5d845ac2e56e8258f73a7e001ee3"],"id":"id-398","last_modified":1772788678746,"schema":1772788575731}
