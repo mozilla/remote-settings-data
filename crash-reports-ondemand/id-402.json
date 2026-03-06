@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): OOM | small","hashes":["ce44f3a72dab69f56d1ff2ff779bf8f1c4a3508e13f52947fa4d0304dfd885ba","77089dd51c27a7df17bad302b2d22b987397978f7825997f3ddfff430b4ce1cc"],"id":"id-402","last_modified":1772613474871,"schema":1772613369306}
+{"description":"content (Linux nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::ReadableStreamCancel","hashes":["576083045f7251f9670349cf5ee5dd4916ee9338cd9562ad70b2afb849ab1364"],"id":"id-402","last_modified":1772788677697,"schema":1772788579171}
