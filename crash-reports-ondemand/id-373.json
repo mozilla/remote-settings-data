@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["68fa5031bdcfa5cabdf07a66b436e5a770ed3a1ae1a35bc5b9bc023c4f95b427","d5480215f5c214a0ae46dd1ff64b67a2a30bca56a944dfb594a4bbe9d5860458"],"id":"id-373","last_modified":1772788678962,"schema":1772788553752}
+{"description":"socket (Windows beta): ffm.dll | BaseThreadInitThunk","hashes":["a79c7e6d8bf8bdee043a722eecafea35d6ead8b0e9cbe4715ebd4ead590033a8"],"id":"id-373","last_modified":1772873275811,"schema":1772873146067}
