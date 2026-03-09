@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): core::option::unwrap_failed","hashes":["0e9c34fac46f67d66959b07ebf932bfcdebc656b33eba3efca5d614b48d6ce4a"],"id":"id-413","last_modified":1772959064234,"schema":1772958976667}
+{"description":"gpu (Mac beta): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["96aa4d77f8cd16cb33c256a6d7883399ae56a5b0c925dcd1fcf718e7be269cc9"],"id":"id-413","last_modified":1773052666572,"schema":1773052576549}

@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended","hashes":["baa7acbec5e8b0f4b4310d8414ac257a30d3e09c09f91cd3248eb6e0641ea417"],"id":"id-491","last_modified":1772959064631,"schema":1772959043593}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurfaceAsFramebuffer","hashes":["24157c3d6002aca77b301e335d77e747aa94a0005ab925bbddfef8b3e03e0ff9"],"id":"id-491","last_modified":1773052667034,"schema":1773052644511}
