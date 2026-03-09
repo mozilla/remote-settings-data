@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::ObjectSlots::isSharedEmptySlots","hashes":["d043fddff47232145cf726a8597cbc5c0737aaf5f29337dbc877dd4a434dbcb2","d29b500f0d75c47479cdd31f9d9d21feacd0f570c1908b909993be2f25096a23"],"id":"id-202","last_modified":1772959066321,"schema":1772958789905}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["31abd422e95ab5b5496b6aa86ec0cc43d3c788b1fa649ce9f66b70536cf94dbf"],"id":"id-202","last_modified":1773052668847,"schema":1773052389321}
