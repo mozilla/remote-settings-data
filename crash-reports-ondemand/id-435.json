@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["72078613a9a0cc7f1884c336dd3b39312084b66c2091b07d82fc7bf0bfc87ad7"],"id":"id-435","last_modified":1773052669278,"schema":1773052595426}
+{"description":"content (Mac beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::InputToReadableStreamAlgorithms::PullCallbackImpl","hashes":["45c109c5b794ab422cd90568517672795f3769f044439f2e6733f3082d615648"],"id":"id-435","last_modified":1773394679500,"schema":1773394605229}

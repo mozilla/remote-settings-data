@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::nsAvailableMemoryWatcher::OnUnloadAttemptCompleted","hashes":["0886278a0ceaac1261e0fe9bd5eb96fd23c2b580ab11e70c5556f483bfb03037"],"id":"id-428","last_modified":1773052668560,"schema":1773052589405}
+{"description":"content (Mac nightly): XPCJSRuntime::UnprivilegedJunkScope","hashes":["e8f4f11d35b426605f39ed2c29fe1de6782894d90ab596061a13ad6738a863b4"],"id":"id-428","last_modified":1773394678789,"schema":1773394599109}

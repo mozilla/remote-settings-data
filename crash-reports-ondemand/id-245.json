@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): arena_t::ArenaRunRegAlloc | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["e30a879395820a216d990fe5b0458d8c63bd3360d94197a5ceaa46dd9e4ee846"],"id":"id-245","last_modified":1773052668834,"schema":1773052426743}
+{"description":"utility (Windows nightly): CMFDXGIDeviceManager::GetVideoService","hashes":["587639d61590a4e55dff96c71e474332e94227d16831ffa2dbbacf66946dc8bf"],"id":"id-245","last_modified":1773394679046,"schema":1773394429223}

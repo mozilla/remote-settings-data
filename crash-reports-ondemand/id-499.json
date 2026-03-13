@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): ZfHookSFDlpPlugin.dll | mozilla::widget::filedialog::MakeFileDialog","hashes":["c703c20de0b74835be2a7aa58cc96bd9a55a692f81da7ba7835743687ab58753"],"id":"id-499","last_modified":1773052668191,"schema":1773052653168}
+{"description":"utility (Windows beta): RtlpReportHeapFailure | RtlpFreeHeap | RtlpFreeHeapInternal | RtlFreeHeap | aiicon.dll | CExtractIconWForA::Extract","hashes":["54eecd3db6d437ab8b083282e030c9e224d7fcaf2c540d0a83d64b2839de1e60"],"id":"id-499","last_modified":1773394678439,"schema":1773394663359}
