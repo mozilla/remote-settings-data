@@ -1,1 +1,1 @@
-{"description":"rdd (Linux beta): mozilla::ipc::ActorLifecycleProxy::~ActorLifecycleProxy","hashes":["8142bb5bef7eb7a933899ca2853def42fdd449f18f8a0a0a344252ce15e26405"],"id":"id-392","last_modified":1773480473877,"schema":1773480363004}
+{"description":"rdd (Linux nightly): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["c4d1147f267e0dc4259decb7a81c5b2412996966db311e8bcc31a9e282a6e030"],"id":"id-392","last_modified":1773566270484,"schema":1773566159385}

@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::gl::AndroidSharedBlitGL::~AndroidSharedBlitGL","hashes":["e1b811708228f4b3ddce6f2887951b91c03a7a6cd20fe8d943f77cc85a3b2d7c"],"id":"id-434","last_modified":1773480473456,"schema":1773480400223}
+{"description":"socket (Linux release): @0x0 | mozilla::SandboxPolicyCommon::EvaluateSyscall","hashes":["59d8ff075738583f77919769c03b9e2e5a1d58c1e71d06df623fceaff5fbd2da"],"id":"id-434","last_modified":1773566270086,"schema":1773566196577}

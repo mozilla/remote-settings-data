@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::IsProxy","hashes":["de8616d47d1c551b578604074c6783356a03e0af1dc8beaeca547f5a0edb55d9"],"id":"id-222","last_modified":1773480473511,"schema":1773480209569}
+{"description":"gpu (Mac nightly): OOM | large | NS_ABORT_OOM | mozilla::layers::SharedSurfacesParent::Add","hashes":["543ceaf47e653ab07259b335c45768c7f2a23b61996ac99fb42df046de68625c"],"id":"id-222","last_modified":1773566270137,"schema":1773566006059}

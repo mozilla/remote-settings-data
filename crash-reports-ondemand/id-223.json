@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::ClearProps","hashes":["1c44d7fbf60d26ff66fc33e2ed160e4b1b1b90287d3c17c80d31dab744e3acf7"],"id":"id-223","last_modified":1773480473444,"schema":1773480210446}
+{"description":"gpu (Mac beta): webrender_bindings::moz2d_renderer::BlobReader::read_entry","hashes":["265e28a605b2fe3e29994d37a6ccc2e02fead33166d43019e534f2eeeb3b3659"],"id":"id-223","last_modified":1773566270077,"schema":1773566006999}
