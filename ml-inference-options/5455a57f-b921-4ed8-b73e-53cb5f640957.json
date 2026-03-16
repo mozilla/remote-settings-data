@@ -1,0 +1,1 @@
+{"dtype":"q8","featureId":"smart-intent","id":"5455a57f-b921-4ed8-b73e-53cb5f640957","last_modified":1773695170160,"modelId":"mozilla/mobilebert-query-intent-detection","modelRevision":"0.3.0","processorRevision":"main","schema":1773100811618,"taskName":"text-classification","tokenizerId":"mozilla/mobilebert-query-intent-detection","tokenizerRevision":"0.3.0"}
