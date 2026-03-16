@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): IOAccelerator","hashes":["86528487375141fd34c7c83b560c42e0faed6fd4f8a51d0b3eab053b043d7a1a"],"id":"id-201","last_modified":1773566271635,"schema":1773565987394}
+{"description":"socket (Linux release): IPC::WriteSequenceParam<T> | IPC::ParamTraitsStd<T>::Write | mozilla::dom::PMediaTransportParent::SendOnEncryptedSending","hashes":["dc7db1214f7d5895956af26885780a6ac360de71e6437d031a4d7d213faa7db3"],"id":"id-201","last_modified":1773653283384,"schema":1773652991951}
