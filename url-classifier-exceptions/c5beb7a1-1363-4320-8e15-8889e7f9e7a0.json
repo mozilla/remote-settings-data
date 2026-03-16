@@ -1,0 +1,1 @@
+{"bugIds":["2017292"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c5beb7a1-1363-4320-8e15-8889e7f9e7a0","last_modified":1773654006026,"schema":1773454207967,"topLevelUrlPattern":"*://play.telenuovo.it/*","urlPattern":"*://*.sascdn.com/*"}
