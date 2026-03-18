@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::LoadInfo::SetReservedClientInfo","hashes":["6474e50dc11711746933b96571494c075ca4fc56a40a72ff09faf557b51de8a6","245268359733bf491114ed517ec1c70b84d873710c90cdf59c958d892faafb0b"],"id":"id-335","last_modified":1773744506050,"schema":1773744328092}
+{"description":"gpu (Mac beta): webrender_bindings::moz2d_renderer::BlobReader::read_entry","hashes":["265e28a605b2fe3e29994d37a6ccc2e02fead33166d43019e534f2eeeb3b3659"],"id":"id-335","last_modified":1773827278984,"schema":1773827112641}

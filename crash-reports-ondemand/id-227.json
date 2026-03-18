@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): nsWrapperCache::HasFlag","hashes":["b1cdcda2db90ffc1abfafa30f22133a5ff242fcf0e889849196b94e7b7604e35","a959f853b79b12c2b19b587b8620690a03132a38af9e7f6ca843e3d172b69edb"],"id":"id-227","last_modified":1773744505637,"schema":1773744222126}
+{"description":"utility (Mac release): mozilla::ShmemRecycleAllocator<T>::ReleaseBuffer","hashes":["d18cf0ee1a31848e62cab930fd336aa688f13e31a6a398cc0282ad2614f34291"],"id":"id-227","last_modified":1773827278553,"schema":1773827015256}
