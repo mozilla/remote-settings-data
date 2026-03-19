@@ -1,1 +1,1 @@
-{"description":"gpu (Linux beta): <.plt ELF section in libnvidia-eglcore.so.580.142> | _glDrawBuffer","hashes":["29a902f900ea04dec74499446d60bc23a62f7ac4b832cc58f8f5719f57e7d460"],"id":"id-096","last_modified":1773827278387,"schema":1773826896575}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["29c5a8b6bde5e2b93d8499d35c7f67e8107b69bbe2ba715752b0747168de5d51"],"id":"id-096","last_modified":1773913095707,"schema":1773912703846}

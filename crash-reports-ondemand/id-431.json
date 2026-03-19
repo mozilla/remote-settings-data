@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["cb9bc20f242ba9c97d0e9b5bfb9ff75bcfe7f7e8c2a2f067ece8c2a369af7965"],"id":"id-431","last_modified":1773827278053,"schema":1773827199788}
+{"description":"gpu (Android nightly): libc.so | libGLESv2_adreno.so","hashes":["6b12897f0522926c3722cbf43d68a5cba7e43141de4abac33c08d14b1f0be4c8","f7d014df956ed106868ed9ead4aaefaf3c8c8d028b086b82e74cf414d13f523c"],"id":"id-431","last_modified":1773913095356,"schema":1773913016225}
