@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | nsTSubstring<T>::nsTSubstring | nsTString<T>::nsTString","hashes":["342d701fb9b66ed376f2eb082900f15d5a680ea646e64724567cade882704561"],"id":"id-489","last_modified":1773913097028,"schema":1773913070171}
+{"description":"gpu (Android nightly): ld-android.so","hashes":["72c7e809c93bb5f2bdb723f2e2141adfe02fc77d089a12f445d6292b88425f1b"],"id":"id-489","last_modified":1773999487832,"schema":1773999461104}

@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): alloc::raw_vec::RawVecInner<T>::current_memory","hashes":["bb1faa0988b6d23d24bb84d8f3a233d81da86fbd0df702591567e88536c1a1af"],"id":"id-391","last_modified":1773913097042,"schema":1773912977669}
+{"description":"gpu (Android beta): mozilla::gl::GLBlitHelper::CreateDrawBlitProg","hashes":["29a2e85c544065313e548e0db9bf32d372507d6f6bbe29f54dac760c87a07a7c","3240a9b7c52f77bc493d07e8fe7b51ad555e0903029f05a52845f5c46a75bdbc"],"id":"id-391","last_modified":1773999487847,"schema":1773999370684}
