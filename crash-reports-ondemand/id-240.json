@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::ShmemRecycleAllocator<T>::ReleaseBuffer","hashes":["d18cf0ee1a31848e62cab930fd336aa688f13e31a6a398cc0282ad2614f34291"],"id":"id-240","last_modified":1773999485762,"schema":1773999231608}
+{"description":"content (Mac beta): JS::shadow::Zone::hasAnyGCState","hashes":["ea3df3c36705b79c8748fb9e0083f54a9eb82e14e4cb5c866037f302e94662aa","306bbffc9e6f4469ccb71c0e0986e1c736aa8e0a978419b70ff0f66a52eefc40"],"id":"id-240","last_modified":1774085278674,"schema":1774085025212}
