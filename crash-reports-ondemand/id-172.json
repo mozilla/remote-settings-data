@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): @0x180036040","hashes":["b59d5b0c39624e46f8f37f894ec017aa75429c1942239e2bb64ef2aa96f25ebb","a8284319ac159d506f6c4da5686bb018f8c189f3bba035fa81c45b672fd3b9b5","00b54393c9f9c43099df43240a72f70038370a7f081ddc461c6609428cc95f4f"],"id":"id-172","last_modified":1774085278913,"schema":1774084963430}
+{"description":"gpu (Android beta): libc.so | libusc.so","hashes":["82b48f5cb707bd084f3d2fd7bda8cc505f597c5ee88c2f2de67a57896f9490b7"],"id":"id-172","last_modified":1774171092056,"schema":1774170768208}
