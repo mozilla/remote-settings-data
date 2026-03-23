@@ -1,0 +1,1 @@
+{"cities":[{"code":"Q30","name":"USA","servers":[{"hostname":"eglc860.m1.fastly-masque.net","port":2499}]}],"code":"US","filter_expression":"env.country == \"GB\"","id":"c00492ea-088c-487f-8e3f-b9bce3319fad","last_modified":1774279059219,"name":"Pinned to GB","schema":1774278622217}

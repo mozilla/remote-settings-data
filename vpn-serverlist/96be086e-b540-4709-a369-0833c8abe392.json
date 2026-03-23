@@ -1,0 +1,1 @@
+{"cities":[{"code":"Q30","name":"USA","servers":[{"hostname":"lfpb115.m1.fastly-masque.net","port":2499}]}],"code":"US","filter_expression":"env.country == \"FR\"","id":"96be086e-b540-4709-a369-0833c8abe392","last_modified":1774279059212,"name":"Pinned to France","schema":1774278775359}
