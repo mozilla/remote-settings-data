@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::Arena::zone","hashes":["857751529675e2fcb5d7b7e7a48539f17b55462222e491ddceebc7059908961d","25ff302e86f61a92e3480c860f67af3e85566d327954a5d3075d08b749780b5a"],"id":"id-278","last_modified":1774171093934,"schema":1774170867580}
+{"description":"content (Linux beta): js::ObjectSlots::isSharedEmptySlots","hashes":["643fde74b0bcd626674483d3954b0d50cca4443db6a345a8a21b352d700215e1","60d9fe1fba62e8b2878e322fe7809c716a9f0bfb24a7e14edafddf201f16dddc"],"id":"id-278","last_modified":1774257478890,"schema":1774257262294}
