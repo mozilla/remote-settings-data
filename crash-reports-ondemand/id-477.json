@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["2f3e401826c86d8330476444e65f5578a1bcf7b23ff4977bfb56868ffb998718","7a4bdec91643ec1667edda40ed90ad53aa44960e928c1acec78f5cdba72d624d"],"id":"id-477","last_modified":1774171092296,"schema":1774171055795}
+{"description":"gpu (Mac nightly): mozilla::wr::RenderTextureHostSWGL::UpdatePlanes","hashes":["c5edc4f14e17e99c0acce334ab6409561d48602e2c0829a61b8a54e529dd5b2a"],"id":"id-477","last_modified":1774257477386,"schema":1774257445454}
