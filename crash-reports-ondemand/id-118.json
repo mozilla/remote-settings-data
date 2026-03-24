@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["9f1fcb5478ca1aa65fd8d114cc5d4bd9ff2ab57e1bde1419be229fffc5290118"],"id":"id-118","last_modified":1774257477687,"schema":1774257116297}
+{"description":"content (Mac nightly): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["f9bedfb135df84650607ce33e383a4f448ad49a8c83289443f5713a6961d48f1","f764d4ca63a3c1fb6f7e888c30ac33cd1173c365223ccbe2d41c742492eaf91b"],"id":"id-118","last_modified":1774344487211,"schema":1774344117270}

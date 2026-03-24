@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::wr::RenderTextureHostSWGL::UpdatePlanes","hashes":["c5edc4f14e17e99c0acce334ab6409561d48602e2c0829a61b8a54e529dd5b2a"],"id":"id-477","last_modified":1774257477386,"schema":1774257445454}
+{"description":"content (Mac beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::WritableStreamClose","hashes":["484ecdd2d040766a4bc49b66014e617e0353e7833c49b5497aecca3408a7351f"],"id":"id-477","last_modified":1774344486863,"schema":1774344455525}

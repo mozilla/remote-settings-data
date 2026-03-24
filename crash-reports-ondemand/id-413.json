@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::ipc::GeckoChildProcessHost::FillMacSandboxInfo","hashes":["71ea92513f8eb884ec4c00dab6bfcefdce941ff86b8102e9ac898fb977e7244a"],"id":"id-413","last_modified":1774257477629,"schema":1774257388145}
+{"description":"content (Linux beta): mozilla::net::HttpChannelChild::ConnectParent","hashes":["10b441c22be0d9b961a532dddea62c7ad5fc6f603fe385a511b6dbbceb33d12b","bb0522ff719bdadf9db7d4affafb97f75704ab03d911774a29fe19c5c10d33c8"],"id":"id-413","last_modified":1774344487146,"schema":1774344396200}
