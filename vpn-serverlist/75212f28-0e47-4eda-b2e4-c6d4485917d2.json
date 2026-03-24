@@ -1,0 +1,1 @@
+{"cities":[{"code":"Q30","name":"USA","servers":[{"hostname":"yyz45.m1.fastly-masque.net","port":2499}]}],"code":"US","filter_expression":"env.country == \"CA\"","id":"75212f28-0e47-4eda-b2e4-c6d4485917d2","last_modified":1774360975696,"name":"Pinned to Canada","schema":1774278711145}

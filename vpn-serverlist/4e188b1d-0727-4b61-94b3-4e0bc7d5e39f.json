@@ -1,0 +1,1 @@
+{"cities":[{"code":"Q30","name":"USA","servers":[{"hostname":"muc139.m1.fastly-masque.net","port":2499}]}],"code":"US","filter_expression":"env.country == \"DE\" ","id":"4e188b1d-0727-4b61-94b3-4e0bc7d5e39f","last_modified":1774360975694,"name":"Pinned to Germany","schema":1774278926009}
