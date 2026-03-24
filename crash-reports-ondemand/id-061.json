@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | large | NS_ABORT_OOM | nsTArray_Impl<T>::AppendElementInternal<T> | nsTArray<T>::AppendElement<T> | mozilla::a11y::NotificationController::ScheduleTextUpdate","hashes":["0f25ecbe0ae59e78e4d1e183dbc2356bfa6ef0bd4a2f7144a059687babc7b330"],"id":"id-061","last_modified":1774257478441,"schema":1774257063545}
+{"description":"gpu (Mac beta): core::option::unwrap_failed","hashes":["c7c5aabde14a7bafecea6156c5b33b8d114159e025d7fafa562afefe70ffdc0e"],"id":"id-061","last_modified":1774344488097,"schema":1774344063738}
