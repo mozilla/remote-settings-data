@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): JSString::isRope","hashes":["aa70c9369e9ab8b5f9f4fedbeae0c13f4e0381c793d3fbe45da03b2603e05346","c03c0e575aa8d63873e1f963e9abbd86eeed8ea55e36718fe50a1293ffcfc62e"],"id":"id-071","last_modified":1774344488602,"schema":1774344072852}
+{"description":"gpu (Android beta): @0x0 | libxul.so | mozilla::gl::GLContext::fBlitFramebuffer","hashes":["9bbae0404877c456cc998e505285ce068a9eb459fdeda936d1ded60de2a02bcc"],"id":"id-071","last_modified":1774430897529,"schema":1774430476514}
