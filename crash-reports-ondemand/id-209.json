@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | mozilla::RunMicroTask","hashes":["624a0a258fb4af46d6e4b223d736274ea2569b56d8a335bf3d04609e5a19f628","fe50d6794006fd7093e7887e90766f99a16aa263fce92ae0c5dd206c65907189"],"id":"id-209","last_modified":1774344487056,"schema":1774344203035}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["82b79a471b3a03044715c35fba6c20ec10333ac6c45e79fc43586eea042eb358"],"id":"id-209","last_modified":1774430895950,"schema":1774430610250}
