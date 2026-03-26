@@ -1,1 +1,1 @@
-{"description":"utility (Linux release): tcmalloc::CentralFreeList::ReleaseToSpans","hashes":["0ae9cca1454e1d3e8747723dbdcd164a319cc5ec18830f4f4a69f3d0694c4f23","4de5ff49a26a8e2958540d0779debb3af6362decd4df0c295a4ef3a1024f324e","e8fbb323a4556dd7392b67c75d2e798c8ad2839fd96fadad88cc44d6a31ba681"],"id":"id-325","last_modified":1774430896748,"schema":1774430720805}
+{"description":"content (Mac beta): JS::Rooted<T>::~Rooted","hashes":["dd22d8de6dedd1ad4e6119715ad303f7ab11322f13734109a71bf6632f44d089"],"id":"id-325","last_modified":1774516699544,"schema":1774516522738}
