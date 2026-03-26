@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CrashRpt1500.dll | LdrpCallInitRoutine","hashes":["baea8517506be7c8de80d5cb1184085d0fb89a1344f79cc1372993d83658c68d"],"id":"id-407","last_modified":1774430895442,"schema":1774430799332}
+{"description":"content (Mac nightly): js::IsWrapper","hashes":["6467a669f6c9bca12d0db74a5f5bd61c63049c33cdd01557930dd8298c24bd09"],"id":"id-407","last_modified":1774516698289,"schema":1774516600926}

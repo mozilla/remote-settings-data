@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): @0x0 | mozilla::TimelineManager::GetScopedTimeline","hashes":["d2583c3db5a05eaac1bd6f65a6dd30087e17b97cd1f95e096d1d1012d400b04d"],"id":"id-348","last_modified":1774430896036,"schema":1774430742736}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["e1670f23b7a75be366bb61c86828e0e710d629844a15ec4735d4cd3fdcfdf9c0"],"id":"id-348","last_modified":1774516698956,"schema":1774516544249}
