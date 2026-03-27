@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): amdxx64.dll | TCLSWrappers<T>::CLSDestroy","hashes":["5787708a480f650e82072388c197286b7cac6befacb3ccf7b05b0bb1513ed30f","a384bd83a2b389b364386d1c778a065c4f57eded1d13d9005c3de430b1474848","ab12ce94f21f2d640c3afa3febc824661e8dbb5b9a702d70558e6d252ece93fc"],"id":"id-261","last_modified":1774516699655,"schema":1774516461172}
+{"description":"content (Mac beta): JS::shadow::Shape::isProxy","hashes":["ab0a1ed06f4d7eefd5160335dc807ca9afb8df556f9b626a4b0da8cee7f619a0"],"id":"id-261","last_modified":1774600094350,"schema":1774599853754}
