@@ -1,0 +1,1 @@
+{"additional_components":[],"feature":"enable-table-instructions","id":"enable-table-instructions--qwen3-235b-a22b-instruct-2507-maas--v1","is_default":true,"last_modified":1774649103677,"model":"qwen3-235b-a22b-instruct-2507-maas","parameters":"{}","prompts":"\nUse Markdown formatting for tables.\n","schema":1774645638372,"version":"1.1"}
