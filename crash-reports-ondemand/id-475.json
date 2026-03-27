@@ -1,1 +1,1 @@
-{"description":"gpu (Linux nightly): libvulkan.so.1","hashes":["2303a2c04de519505950871c300f36b470fb318551aa5f0ad3641947f101ce2a"],"id":"id-475","last_modified":1774516698171,"schema":1774516663772}
+{"description":"gpu (Android nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["2b79e45863d14fb541f07fbc1c0e086b01d5c76b2fe1e2f9450238226cb017e2"],"id":"id-475","last_modified":1774600092884,"schema":1774600058394}
