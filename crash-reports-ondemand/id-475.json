@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["2b79e45863d14fb541f07fbc1c0e086b01d5c76b2fe1e2f9450238226cb017e2"],"id":"id-475","last_modified":1774600095058,"schema":1774600058394}
+{"description":"rdd (Windows beta): mozilla::layers::TextureClientRecycleAllocator::CreateOrRecycle","hashes":["1dcf31f4f927d0598e1389ac13fc464282877d4c336589b19736338dc9877530"],"id":"id-475","last_modified":1774688300495,"schema":1774688264271}

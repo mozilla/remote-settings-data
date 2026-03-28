@@ -1,1 +1,1 @@
-{"description":"content (Android beta): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["67788e3570a921a152105aafb54f80721402eb380fb2e9c59df00c0e9d2b034b","d0f07ea4520fd0b39276e1f4c602158a4729753ad34cf064c197ddc88c5e8be5"],"id":"id-053","last_modified":1774600095209,"schema":1774599657368}
+{"description":"gpu (Android nightly): mozilla::gl::GLContext::LockSurface","hashes":["1a2d92435bfddbb541dbf335658dd5f55f2e7d34415440ce2c33ccc06c716d95"],"id":"id-053","last_modified":1774688300811,"schema":1774687859095}

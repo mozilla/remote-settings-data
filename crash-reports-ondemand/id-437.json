@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): core::option::unwrap_failed","hashes":["c7c5aabde14a7bafecea6156c5b33b8d114159e025d7fafa562afefe70ffdc0e"],"id":"id-437","last_modified":1774600094423,"schema":1774600021698}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["82b79a471b3a03044715c35fba6c20ec10333ac6c45e79fc43586eea042eb358","5c9bd0b784f761179f79b263b4a2b71c61bd7e6905737c1a89bb01f71900330e"],"id":"id-437","last_modified":1774688299957,"schema":1774688226932}
