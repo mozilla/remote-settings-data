@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): objc_release | -[__NSFrozenDictionaryM dealloc]","hashes":["68177eea1e0766591a89d409e3bc7d3eca5fbaf4da08f6c0866984428b18aea8","48d70228a142b3b6c8a327f51a0f7758fb1029c98fbdff0f29297adee3071c96"],"id":"id-169","last_modified":1774773496363,"schema":1774773169346}
+{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["ea019cb1237f60287e90ceb58060fec7842b44e0370f88c73b8b8bba2370adf5"],"id":"id-169","last_modified":1774861121311,"schema":1774860780460}
