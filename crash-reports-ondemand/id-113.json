@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): libc.so.6 | libgallium-24.3.4.so","hashes":["30e545ee11216e4ec13be83f3d7ca6b826348ef05d2b99df2faaa82fece69cfc"],"id":"id-113","last_modified":1774773494987,"schema":1774773115190}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["5c9bd0b784f761179f79b263b4a2b71c61bd7e6905737c1a89bb01f71900330e","82b79a471b3a03044715c35fba6c20ec10333ac6c45e79fc43586eea042eb358"],"id":"id-113","last_modified":1774861119798,"schema":1774860723154}
