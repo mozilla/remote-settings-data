@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::detail::RWLockImpl::readLock","hashes":["ec9b8e98e80e9c86117ca6b2f80fd5c5e77d11da4e9e5649ed6a81ecd0d66660"],"id":"id-491","last_modified":1774861120030,"schema":1774861098313}
+{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["69ab84272e93fdc047f0bde96740382281b24b5d9aab0c3b8aed9b53e2eda7b9"],"id":"id-491","last_modified":1774948109038,"schema":1774948088399}
