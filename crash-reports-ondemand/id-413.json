@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): ATL::CComPtr<T>::CComPtr<T>","hashes":["16e80a32313eb8d49e937c6a5357f809f404637795be5c522e5ee35e9ee408a6"],"id":"id-413","last_modified":1774861121713,"schema":1774861020964}
+{"description":"gpu (Linux release): mozilla::detail::WeakReference::detach","hashes":["25c12f2b45a2a4916b9e618f240975efe5df61c560171d9751c90c9a35b747c3"],"id":"id-413","last_modified":1774948110770,"schema":1774948011644}

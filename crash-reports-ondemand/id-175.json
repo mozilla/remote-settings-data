@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::CheckedInt<T>::value | mozilla::media::TimeUnit::operator<T>","hashes":["eef113ac983100c124c7e183b9a371103ee067c703a9c341718d8e4ef904f32f"],"id":"id-175","last_modified":1774861121968,"schema":1774860786219}
+{"description":"content (Mac beta): mozilla::extensions::StreamFilterParent::Init","hashes":["26791e48ad2e2f71441febd7b9258ba68a6aaa762f330c8bd637de5b74f02de1","1e2ff8dcfa64d88caebaff49836b27b0fbdafcdf36250f7a5bbec2b40c05b4ef"],"id":"id-175","last_modified":1774948111329,"schema":1774947780296}
