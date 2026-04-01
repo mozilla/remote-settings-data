@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): libnvidia-glcore.so.390.157","hashes":["c096249dba32b14cb014cf078b85a1ebd55cd1ac74a2840da0c790ecae2716ec"],"id":"id-233","last_modified":1774948111125,"schema":1774947835021}
+{"description":"gpu (Android nightly): libGLESv2_mtk.so","hashes":["655bfd359885d29035524be9fbb8e46f2721c386d0c6e862338729f27c2325af","312b38900d9dbcfd726ea47ef88416c2cd1d1277b340fd637072112b440f37ee"],"id":"id-233","last_modified":1775034510013,"schema":1775034243434}
