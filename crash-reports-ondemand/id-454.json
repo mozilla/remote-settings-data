@@ -1,1 +1,1 @@
-{"description":"content (Windows nightly): AllocInfo::GetInChunk","hashes":["70105dc5a527336bb7b9d9dbcb7461cbb864055a25981994a708cd1c53cdbc00","2b6395b64411870aeaec30db368785f0d4f96fc4921e7c0ee88b746b63bd1a6c","50b2ac52385640ad32a15e4b09f03bd87a7b3d1a8e4746ad916c45c9635f0c59"],"id":"id-454","last_modified":1774948109227,"schema":1774948050722}
+{"description":"rdd (Windows nightly): mozilla::layers::TextureChild::Lock","hashes":["e6fcd86278c04dbf26419d1da8030325a8d451ed4cace106060e291dd01edfa4"],"id":"id-454","last_modified":1775034508269,"schema":1775034460852}

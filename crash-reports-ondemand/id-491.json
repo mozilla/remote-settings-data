@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["69ab84272e93fdc047f0bde96740382281b24b5d9aab0c3b8aed9b53e2eda7b9"],"id":"id-491","last_modified":1774948109038,"schema":1774948088399}
+{"description":"socket (Mac release): destroy_assoc_chain","hashes":["f1fa97d9785f0fe909e369fc46194fc1f3c032fd001935ed504c90bd9fe46479"],"id":"id-491","last_modified":1775034508106,"schema":1775034495592}
