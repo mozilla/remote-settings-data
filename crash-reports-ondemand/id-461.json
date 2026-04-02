@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["b546bbe7f56797a12384020c54ed1b0a0589bb006b4661dba768bab402edc177"],"id":"id-461","last_modified":1775034508069,"schema":1775034467729}
+{"description":"socket (Windows nightly): ZwQueryObject","hashes":["9e72aea4d2ccb2e7ef7362c39aea056845ab3f89494e9565b38ccad18ac070dd"],"id":"id-461","last_modified":1775121499215,"schema":1775121456947}
