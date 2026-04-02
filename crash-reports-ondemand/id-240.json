@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::safebrowsing::LookupCacheV4::ApplyUpdate","hashes":["3d402ef79313479e2147ee596d9eab8b134d4c58db37f55c3792e89af8d06e76"],"id":"id-240","last_modified":1775034510121,"schema":1775034250117}
+{"description":"content (Mac beta): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["9e264e3a0f729287c23a21e918f47a28e0835d5f5355cb54230b3b08d5e12788","c03d5074224abea121e23268ad4c69fde50c64a11cf65c580b9b27bfb11611c9"],"id":"id-240","last_modified":1775121501693,"schema":1775121242872}
