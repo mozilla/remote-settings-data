@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libGLESv2_adreno.so","hashes":["ddba0689dc00bb674249c3059a125ba3bb2aa47f417187524883b1919d0ddc39","972354eac504ff5a1279c35caf94593ef0b0c60e5fd3bf1a47db3e7a194fbf80"],"id":"id-126","last_modified":1775121500159,"schema":1775121133274}
+{"description":"utility (Windows beta): AcSignCore16.dll | oleaut32.dll | AcSignIcon.dll | <unknown in xul.pdb>","hashes":["2bb2b71b99a0ecc22f74d00ef3a30f224d88b7f2b681827705f9d0927cab4ea9"],"id":"id-126","last_modified":1775207886140,"schema":1775207532109}
