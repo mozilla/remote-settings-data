@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): JS::shadow::Zone::gcState","hashes":["ba85715cce49ad0b0849481e9a7b3e62eb4777eb8a2fab6e25ae8c983c52cfc0","16149020fd1aad736b071de262a7032d24199e7f62df6e15e042d710f80daa00"],"id":"id-196","last_modified":1775121501382,"schema":1775121201543}
+{"description":"utility (Mac release): mozilla::MonitorAutoLock::MonitorAutoLock","hashes":["d21c2f12cc070094d1629b2a0e6e6819cfcdcb7dd806af20192bc3471dbc6746","722fea4d471c85c91463da8c1de381e05e017f765e90ac77bac72eeff321cf3a"],"id":"id-196","last_modified":1775207887255,"schema":1775207602452}

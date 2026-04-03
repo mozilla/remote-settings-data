@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): ZwQueryObject","hashes":["9e72aea4d2ccb2e7ef7362c39aea056845ab3f89494e9565b38ccad18ac070dd"],"id":"id-461","last_modified":1775121500963,"schema":1775121456947}
+{"description":"content (Linux beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["9cbd08a073ab3388a0d66a73fff4b92f85264453e55bb01894931ba1cf3e6818","91aae88c0ec5e2ebce8651eac72e7362a8391312936a7824b62eb2e6ba1e3e06"],"id":"id-461","last_modified":1775207886927,"schema":1775207862573}

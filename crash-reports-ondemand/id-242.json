@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["f8adc20f6cd86fa4be696e3fe312fff56eaed3d100807c0cf936ef2d64d9ac64"],"id":"id-242","last_modified":1775121501146,"schema":1775121244774}
+{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["b3b0f2a34fa0fac24842a21e17ea060710eaee6eb0d8b29c1be73cf3fd166b19","a0541f9f87920f6dea3629fd43f8f2eb3737226c8800def4afc83b6b5d424068"],"id":"id-242","last_modified":1775207887068,"schema":1775207646468}
