@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["7325857e0ea2d07a0c47d54413220763e36d96290e6cf92853b30f425108c2cb"],"id":"id-383","last_modified":1775379481401,"schema":1775379378970}
+{"description":"content (Mac nightly): mozilla::BitSet<T>::Reference::operator=","hashes":["923ae322483e67eb6c44685616fae074ddc29d0d381e654ac631f7de54f073db"],"id":"id-383","last_modified":1775465274330,"schema":1775465178265}
