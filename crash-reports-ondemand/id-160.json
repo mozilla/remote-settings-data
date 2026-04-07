@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): OOM | small","hashes":["bcaa5df90313de68ad7163ecba87f4bdf90f01548bdcc1600a1046d826b44bbd","5839da1ce9f8c4301a084a12a53b12bd1c6d1824e1edb62c39713ac9cb6f6a26","7751ebdbb2366dee7457a2916457b9d4e875d0c9a765cc92321ef875153d9bd1"],"id":"id-160","last_modified":1775465276806,"schema":1775464962276}
+{"description":"utility (Windows nightly): mozilla::MozPromise<T>::ThenCommand<T>::~ThenCommand","hashes":["62533310b3f3ef2a5750829ed8e7e948ac6016bcb9ec02d9018e5df72fc313d2"],"id":"id-160","last_modified":1775558876056,"schema":1775558561944}
