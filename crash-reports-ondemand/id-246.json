@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): CanonicalizeXPCOMParticipant","hashes":["f456f1d7bcd61fa8a83f33760b78a282b7962bf93e9e3a6f14826feac2dc4b52","14b992b2810e040bfc21d513b43f7cea993cf32d882d01b311ae1ebfb78206a8"],"id":"id-246","last_modified":1775465274683,"schema":1775465046936}
+{"description":"content (Mac nightly): mozilla::TaskController::DoExecuteNextTaskOnlyMainThreadInternal","hashes":["0bbe34df573686be1f4b148a2118e70d3ee9c68adb76f7d3d87122a043c7e600"],"id":"id-246","last_modified":1775558874180,"schema":1775558644361}

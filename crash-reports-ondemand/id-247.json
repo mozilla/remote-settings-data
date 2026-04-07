@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): core::option::expect_failed | Servo_ResolveStyle","hashes":["a9c0bc96bce4589302d46dca7a7542d90be626626d23f57dcc18385f83f0a013","ee4afb6e118ff467a6357706fb7e2bd2bd2cbfe4c5454ec6f9b9528a05dbb1c0"],"id":"id-247","last_modified":1775465275014,"schema":1775465047870}
+{"description":"rdd (Windows beta): mozilla::MozPromise<T>::ChainTo","hashes":["281dbae3b98b9806bb37777d5e6329524f34434960be4ef2d88e6028d2cfd159"],"id":"id-247","last_modified":1775558874471,"schema":1775558645271}
