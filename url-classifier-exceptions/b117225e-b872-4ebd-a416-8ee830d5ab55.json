@@ -1,0 +1,1 @@
+{"bugIds":["2024873"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b117225e-b872-4ebd-a416-8ee830d5ab55","last_modified":1775661600355,"schema":1774663809782,"topLevelUrlPattern":"*://chompadelivery.com/*","urlPattern":"*://connect.facebook.net/*"}

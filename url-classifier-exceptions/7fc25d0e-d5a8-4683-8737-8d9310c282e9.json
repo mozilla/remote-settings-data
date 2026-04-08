@@ -1,0 +1,1 @@
+{"bugIds":["2024750"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7fc25d0e-d5a8-4683-8737-8d9310c282e9","last_modified":1775661600364,"schema":1774663809920,"topLevelUrlPattern":"*://www.thestar.com/*","urlPattern":"*://cdn.viafoura.net/*"}

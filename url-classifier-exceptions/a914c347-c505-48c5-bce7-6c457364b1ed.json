@@ -1,0 +1,1 @@
+{"bugIds":["2023881"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a914c347-c505-48c5-bce7-6c457364b1ed","last_modified":1775661600367,"schema":1774663810071,"topLevelUrlPattern":"*://www.vandaaginside.nl/*","urlPattern":"*://*.fwmrm.net/*"}
