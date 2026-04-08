@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): dyld4::Loader::applyFixupsGeneric","hashes":["53eafb887b4a3016d60229a409097f12d5439fbba509e99840d102804b3db7ef","74b1afdfbd71da5e5a3a8d6403918b9c5a10d95fee712f16a261402242a43cf0"],"id":"id-464","last_modified":1775558876227,"schema":1775558855332}
+{"description":"utility (Windows nightly): mozilla::MozPromise<T>::ThenCommand<T>::~ThenCommand","hashes":["62533310b3f3ef2a5750829ed8e7e948ac6016bcb9ec02d9018e5df72fc313d2"],"id":"id-464","last_modified":1775639879368,"schema":1775639861714}
