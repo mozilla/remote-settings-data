@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): core::option::unwrap_failed","hashes":["6b2b5fdc5ca50dabc92b052e5f1d8b41d21d83cea317e720aff774833970dfda","6de3483a0b892239d8cb9cd0e8c755bec5310c07a63fe90c948f1276af9f5152"],"id":"id-434","last_modified":1775639879310,"schema":1775639831238}
+{"description":"gpu (Android nightly): libc.so | mozilla::WebGLContext::BindVertexArray","hashes":["fe1870e2ce6d28d2cfd2d90f32d117ed2b056210fc98fa16f1291975f50a2bc2"],"id":"id-434","last_modified":1775726261857,"schema":1775726227001}

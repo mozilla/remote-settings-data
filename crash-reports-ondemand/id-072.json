@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): nsTSubstring<T>::Finalize | nsTSubstring<T>::~nsTSubstring | CCGraphBuilder::NoteXPCOMChild | nsTSubstring<T>::~nsTSubstring | CCGraphBuilder::NoteJSChild","hashes":["68dc8ec0f556bce5dd3272d442ec5c87c69cbb44f14518713638145f8505c65c"],"id":"id-072","last_modified":1775639878761,"schema":1775639478414}
+{"description":"socket (Linux release): g_main_dispatch","hashes":["8429eb3cb9d8c9a1f7686a9c70528e972aaaffa81d26e058c477bf4474bedde4"],"id":"id-072","last_modified":1775726261211,"schema":1775725877126}

@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::RestyleManager::ProcessPostTraversal","hashes":["c228f16e0c0022bdbf2a2699f51d75e9c399d80ea246edd3d1ce9ac668498ee2","157247cc1a269eeedd419e0e01113ab3ad1d265bdba7d52041508bfe97e9cd58"],"id":"id-303","last_modified":1775639878913,"schema":1775639703026}
+{"description":"content (Mac nightly): js::GenericTracerImpl<T>::onScriptEdge","hashes":["e87ecceca1cea10ff5751d88f6789b346b3810713c8f214098711e2131aa396a"],"id":"id-303","last_modified":1775726261345,"schema":1775726101051}
