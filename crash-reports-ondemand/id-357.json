@@ -1,1 +1,1 @@
-{"description":"main (Android release): None","hashes":["a29110c3c7e4ee82e88a2cf6c2cba6cc32e417fe912dd4a8f60c49fd37fe60a7"],"id":"id-357","last_modified":1775639876974,"schema":1775639757105}
+{"description":"gpu (Android nightly): <alloc::sync::Arc<T, A> as core::clone::Clone>::clone","hashes":["a2820ad44b4f0bdee16b786058b1f4b578a5cc178482adb8090ae97348268154"],"id":"id-357","last_modified":1775726259560,"schema":1775726151828}
