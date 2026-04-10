@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): arena_t::ArenaRunRegAlloc | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["a5e1c51103e51336ecf3f922a8eede319a233131f66c53695f1aaf9666e1b975"],"id":"id-358","last_modified":1775726260034,"schema":1775726152785}
+{"description":"main (Mac beta): mozilla::dom::JSValidatorParent::Create::$::operator()","hashes":["3be0d0a1930a7df40412090b2bc0d1d70212c086b75759e70badc0ee035037e7"],"id":"id-358","last_modified":1775812656661,"schema":1775812550605}
