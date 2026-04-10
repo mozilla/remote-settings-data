@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::ClipboardItem::ItemEntry::RejectPendingPromises","hashes":["f5c9fc601a37bf8c702a2bcb03e8898f5c5942340ed520984ec47fb5adf76fc5"],"id":"id-356","last_modified":1775726261146,"schema":1775726150883}
+{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended","hashes":["50ad735e54b88606ed7048a591cd470bcf671a74a295b544fc0b69f614997293"],"id":"id-356","last_modified":1775812657869,"schema":1775812548802}
