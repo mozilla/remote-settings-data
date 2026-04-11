@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::Http3Session::AddStream","hashes":["05c891804e42e0af5cc423155ade7a6f9cdb797c635f12cda65fade10f0e1909","95fde0ac2d0e9b7779d996f4959aa111bfde3cad40f7e591a8c995727a8f9ab7"],"id":"id-323","last_modified":1775812656448,"schema":1775812517538}
+{"description":"socket (Mac release): BackgroundEventTarget::Dispatch","hashes":["25b9f51658dafa0ad28b6f95dc9a588ccc03fea6c10397750cbf445918112cdb"],"id":"id-323","last_modified":1775904481644,"schema":1775904329751}
