@@ -1,0 +1,1 @@
+{"bugIds":["2029981"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"36edef5d-7707-4bd5-a43c-3e31a35baede","last_modified":1775873412353,"schema":1775661600628,"topLevelUrlPattern":"*://onestream.co.uk/*","urlPattern":"*://*.livechatinc.com/*"}
