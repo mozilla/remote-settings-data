@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): mozilla::wr::RenderTextureHostSWGL::UpdatePlanes","hashes":["3b44a27f2095a3042b227f08b0910b8a0cfe02e08ff0279c11394d182671b916"],"id":"id-396","last_modified":1775904481505,"schema":1775904402476}
+{"description":"socket (Mac release): XUL | mozilla::ipc::SharedPreferenceDeserializer::DeserializeFromSharedMemory","hashes":["929f61946c9e242bdad4ab960255dfc1e5c994f5006a930e3ea90a6fb48f6236"],"id":"id-396","last_modified":1775984883964,"schema":1775984806813}

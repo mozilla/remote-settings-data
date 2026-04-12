@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libusc.so","hashes":["ce7916cd5a838cba2e5e8b9649062c47456455dfa39509fc12769cb43812ca05","9fb3abcf2bde9d75a28b64b878fde89099ea14fe1d09355d86806ca5260aaa8c"],"id":"id-436","last_modified":1775904482088,"schema":1775904441590}
+{"description":"content (Mac nightly): mozilla::detail::EntrySlot<T>::isFree","hashes":["5d284283775988e65abbb0c32a09bca0e3e0a47dc662784db5b06de7022f40b2"],"id":"id-436","last_modified":1775984884506,"schema":1775984845737}
