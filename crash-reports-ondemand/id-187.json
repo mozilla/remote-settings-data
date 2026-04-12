@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["6caeac3a8d8c7b97fed04da6ed9c45f2478272d2575e869e33fb97cf3068ba09","cef2cfe48db75c42653c73c00aed3e1da555c71e482d22fcb9f92b197a3f19db"],"id":"id-187","last_modified":1775904483259,"schema":1775904192871}
+{"description":"content (Android beta): js::IsProxy","hashes":["9a9b078235de2a92312120c212cd25aede6c28723afb8030262c2d4f9d3202f2","cd314895471082895d53b84350069249cea08eb58703501f836c41ad14d930b5"],"id":"id-187","last_modified":1775984885515,"schema":1775984600859}
