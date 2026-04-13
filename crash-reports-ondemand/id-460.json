@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): ZfHookSFDlpPlugin.dll | ZfHookFileMmPlugin.dll | mozilla::interceptor::FuncHook<T>::operator()","hashes":["9b09b81b73c93b60613524e1614977c585bd8fbaa7d80bb17a7dc5c2b55ce0df"],"id":"id-460","last_modified":1775984884489,"schema":1775984869214}
+{"description":"socket (Mac release): -[NSAutoreleasePool drain]","hashes":["dd8494e5d4c4a1d8a7ee295317931aabca614e64b3c2ca43a3f803cc3441d3ca"],"id":"id-460","last_modified":1776071283664,"schema":1776071265385}

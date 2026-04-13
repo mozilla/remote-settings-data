@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): XUL | mozilla::ipc::SharedPreferenceDeserializer::DeserializeFromSharedMemory","hashes":["929f61946c9e242bdad4ab960255dfc1e5c994f5006a930e3ea90a6fb48f6236"],"id":"id-396","last_modified":1775984883964,"schema":1775984806813}
+{"description":"utility (Windows nightly): mozilla::CollectSingleStepData<T>","hashes":["5d720885a9e38c66c926bc5c27f895658b4ba653157a1a6a914ac0223bbf409f"],"id":"id-396","last_modified":1776071283127,"schema":1776071201520}

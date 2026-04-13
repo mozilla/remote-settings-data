@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): <mozglue_static::GeckoAlloc as core::alloc::global::GlobalAlloc>::dealloc","hashes":["b0391053a939506962dc5fb595114d2fad9e50945bc712aa01545b14e0412959"],"id":"id-421","last_modified":1775984884496,"schema":1775984831294}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["fbbdd56074459ec03da55dbee130f9ca486b7d8acbd5404a820052787773f095"],"id":"id-421","last_modified":1776071283672,"schema":1776071228130}

@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): nsThreadPool::PutEvent","hashes":["81104541b1618aa6cecce8d30c35d5b4a1e97bde9e2bd959ec9fe7fa69adf65d"],"id":"id-355","last_modified":1775984884438,"schema":1775984765209}
+{"description":"main (Mac nightly): mozilla::net::nsHttpConnectionInfo::IsHttp3ProxyConnection","hashes":["ba37497685e90064528bf091835ddb3aaf0d38224362ce8fc4f22af610c1776c","f8ffb0836d784ef346f82a25d1baa20aa927639ad2c6e7ac3140c52d303c2a12"],"id":"id-355","last_modified":1776071283619,"schema":1776071160916}

@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["ddc163258c18033cff6a67c54c1fd352da1d712f5ad49d7a6c93469a646c1b4d"],"id":"id-296","last_modified":1775984883955,"schema":1775984708317}
+{"description":"gpu (Mac nightly): abort | gpusKillClientExt","hashes":["fd26187292f0284e28f7f738e1732c719f83bf63c83db459d1f3cd7a8e2b3770"],"id":"id-296","last_modified":1776071283117,"schema":1776071100490}
