@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gl::AndroidSharedBlitGL::~AndroidSharedBlitGL","hashes":["d60a08adf96b9ee16103fe1a6b2862af727fc68c381640662786d43ed07e1e29","566d0fba2944c0b93369e8f3d2adf1e772267eac821e33ab24772f22dcc4847e","8573145ecb6a5c8dbd254e0e4b10f53f88f80c7431c1187775166dbf4c172a34"],"id":"id-378","last_modified":1775984885722,"schema":1775984787655}
+{"description":"socket (Mac release): libdispatch.dylib","hashes":["ee7707ae760a0432a453e9b783a274235aa9839ccec1f6368c80db93d6235954"],"id":"id-378","last_modified":1776071284916,"schema":1776071183431}
