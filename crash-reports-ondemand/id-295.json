@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libsrv_um.so","hashes":["4ceb5a9055d04ce5fe586de49978681f85e70fd010e97dc7c03012fee243defc","340f439a446736a2f0e703baf14a7e1281aed2360a7d9708a5301fbd5a6eb619"],"id":"id-295","last_modified":1776071283621,"schema":1776071099367}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["fbbdd56074459ec03da55dbee130f9ca486b7d8acbd5404a820052787773f095"],"id":"id-295","last_modified":1776158284488,"schema":1776158096140}
