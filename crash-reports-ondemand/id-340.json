@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): CanonicalizeXPCOMParticipant","hashes":["02b7f9ec9d0d0516a77d41b92a58fec78376ac5b181052d91eed25af51cc0102","cb62f5519e1fa02cc847a3304c38866b3a46fbfecc8195153e9dc5acc5ab419c"],"id":"id-340","last_modified":1776071285195,"schema":1776071146000}
+{"description":"content (Linux nightly): JS::shadow::Zone::needsMarkingBarrier","hashes":["dbae2ecbab373b07b9dbdb4f7cbc834ac5161b428c7807102e3331d09ac786a2"],"id":"id-340","last_modified":1776158286105,"schema":1776158141431}

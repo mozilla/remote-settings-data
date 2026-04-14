@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): Microsoft::WRL::ComPtr<T>::As","hashes":["669b66211e6c024fd726b2ef0a1def021d9d75b16c4750e3781ed5dfc148bfe6"],"id":"id-235","last_modified":1776071285545,"schema":1776071041392}
+{"description":"socket (Windows beta): MpDetours.dll | BaseThreadInitThunk","hashes":["c5e988c5332d2597e554effdb1c38325775411be562ce5929a325f804396a3dd"],"id":"id-235","last_modified":1776158286361,"schema":1776158036589}
