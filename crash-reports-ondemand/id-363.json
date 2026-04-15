@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): ZfHookSFDlpPlugin.dll | ZfHookFileMmPlugin.dll | mozilla::interceptor::FuncHook<T>::operator()","hashes":["9b09b81b73c93b60613524e1614977c585bd8fbaa7d80bb17a7dc5c2b55ce0df"],"id":"id-363","last_modified":1776158286152,"schema":1776158165774}
+{"description":"content (Mac nightly): JS::shadow::Zone::hasAnyGCState","hashes":["94ca042e4ed1318fd7ca85628081ff65b6f681df59b91beffe63b22dc565bbce","81d32d27045274d2b25f42141f3f113d8ea83028583b50be882155ae6aae939f"],"id":"id-363","last_modified":1776245288607,"schema":1776245166588}

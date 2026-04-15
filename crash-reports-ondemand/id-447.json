@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libgsl.so","hashes":["5cea51129c16adbbd64c63faffa66b3bbb358be3058bb8089cf72d0d1f247d84"],"id":"id-447","last_modified":1776158285912,"schema":1776158248850}
+{"description":"gpu (Mac nightly): abort | gpusKillClientExt","hashes":["51e3ef52e4d1deccd058b1797223dc661a0f43fff0f309f9956addbafc328672","fd26187292f0284e28f7f738e1732c719f83bf63c83db459d1f3cd7a8e2b3770"],"id":"id-447","last_modified":1776245288389,"schema":1776245248818}
