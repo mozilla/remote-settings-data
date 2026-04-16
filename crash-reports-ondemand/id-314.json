@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): av_freep | vp9_tile_data_free | free_buffers | vp9_decode_free | ff_frame_thread_free | ff_codec_close","hashes":["fc49b0e66882a5b49454a05cd7037f4a30d0ea0b5bf73a7a0b33e45344d303ea","c4f8b5e3b3ae62e2e3ab5e03b0d489c011da3b8d8328ea508f4859102dce9797"],"id":"id-314","last_modified":1776245286920,"schema":1776245119770}
+{"description":"rdd (Windows beta): dav1d_prep_8tap_8bpc_ssse3","hashes":["aa4aa2699e9140ad9032fa1154ed74db7e755235d8246449a951860bf2d459a1"],"id":"id-314","last_modified":1776331091951,"schema":1776330924665}

@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gl::GLContext::LockSurface","hashes":["17e44a60430907821cfdb8c496215a19f64d9a20b8440bca4a0f56afda1f09d8","8044199b73106b9777b9fab74bb43cd8c5483314642fec9809ab51b293c6bee0"],"id":"id-371","last_modified":1776245287422,"schema":1776245176065}
+{"description":"gpu (Linux release): libgallium-26.0.4 - kisak-mesa PPA.so","hashes":["d5e03de1aa1c8750c80d0a5fab899e80fcadb0e4e81bde447d3bdcdfea52a33a"],"id":"id-371","last_modified":1776331092508,"schema":1776330979521}
