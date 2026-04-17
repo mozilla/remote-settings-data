@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): __delayLoadHelper2 | _tailMerge_oleaut32.dll | mozilla::mscom::ProcessRuntime::InitInsideApartment","hashes":["f75838412ab064557d83d3cd0820923cdfe2338127a372861e7052127b4cc354"],"id":"id-423","last_modified":1776331093821,"schema":1776331031294}
+{"description":"gpu (Android nightly): mozilla::gl::AndroidSharedBlitGL::~AndroidSharedBlitGL","hashes":["5cf11c6a58e9f22360de79788ace46ab5f877be5166ebd93d75ae587c9d829ff"],"id":"id-423","last_modified":1776428289995,"schema":1776428226704}
