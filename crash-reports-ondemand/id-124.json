@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["8eb039b9b60669de47bd11a76d9b9203b864e730c6f55568f028817ab0ce4d5c","acc1662f5adc78be0f1d33fd7800fb97e4b8c42afd16634412232679edd8ccbd"],"id":"id-124","last_modified":1776331091938,"schema":1776330736057}
+{"description":"rdd (Windows beta): CLayeredObject<T>::QueryInterface","hashes":["b88b694112825f78efafadf23a85e184285a5a406d812fa7f005a431476ec5a9"],"id":"id-124","last_modified":1776428288149,"schema":1776427931842}

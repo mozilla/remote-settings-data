@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gl::AndroidSharedBlitGL::~AndroidSharedBlitGL","hashes":["5cf11c6a58e9f22360de79788ace46ab5f877be5166ebd93d75ae587c9d829ff"],"id":"id-482","last_modified":1776331091787,"schema":1776331087917}
+{"description":"gpu (Android beta): libc.so | libvulkan_virtio.so","hashes":["5850990db2f4acbb234be2badef41018bbee032f240f6522afcb5715137a6fa6"],"id":"id-482","last_modified":1776428287671,"schema":1776428282367}

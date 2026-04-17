@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libGLESv2_mtk.so","hashes":["556c4ea37a8ae47e0a673550463818cb42f6da4548958f062c0ff7ebed8f632e","7a4c7cf2a7b5c976a02b1397b6af77e5bd99e8a7698c5ee186324b277bd7dfc1"],"id":"id-322","last_modified":1776331092735,"schema":1776330932357}
+{"description":"gpu (Android nightly): mozilla::gl::GLContext::LockSurface","hashes":["8044199b73106b9777b9fab74bb43cd8c5483314642fec9809ab51b293c6bee0"],"id":"id-322","last_modified":1776428288848,"schema":1776428128331}

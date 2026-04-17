@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): InjUmon64.dll","hashes":["deddd55773e9d2ece43b0b687d4f7d9673d2455a1960727d6f2eadd11e5e98e9","bfffefc1270ed56fe83106c2a32b7b1c7c0858047180a3e8aab932cec3e6c6c0"],"id":"id-374","last_modified":1776331092585,"schema":1776330982417}
+{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["a2061df9cf62307951471d0aafd9d8cb2782343261b246c61df8c41682b117ad"],"id":"id-374","last_modified":1776428288717,"schema":1776428178067}
