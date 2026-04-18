@@ -1,0 +1,1 @@
+{"bugIds":["2027786"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"701637e0-e19c-4ae0-a91e-97ce9b096c93","last_modified":1776478211184,"schema":1776478210672,"topLevelUrlPattern":"*://www.hondashadow.net/*","urlPattern":"*://static.criteo.net/*"}

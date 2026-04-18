@@ -1,0 +1,1 @@
+{"bugIds":["2031972"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e5203d37-9439-4bbc-9365-2dfd607fb889","last_modified":1776478211152,"schema":1776478210123,"topLevelUrlPattern":"*://www.skyscrapercity.com/*","urlPattern":"*://static.criteo.net/*"}
