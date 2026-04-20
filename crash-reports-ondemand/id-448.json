@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): webrender_bindings::moz2d_renderer::BlobReader::read_entry","hashes":["3a987037327fedba6e9e5ac8d8776f54272c8e62bfa3e97c0f63f7c86b58ea82"],"id":"id-448","last_modified":1776428289634,"schema":1776428250211}
+{"description":"gpu (Android nightly): mozilla::gl::AndroidSharedBlitGL::~AndroidSharedBlitGL","hashes":["5cf11c6a58e9f22360de79788ace46ab5f877be5166ebd93d75ae587c9d829ff","74c7a19cf6a3228d9b3ab5adc61882edff5e20a547077eba9d6f8e95724a4222"],"id":"id-448","last_modified":1776676109211,"schema":1776676068023}

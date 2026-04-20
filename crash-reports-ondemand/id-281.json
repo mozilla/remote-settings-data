@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::AllocSite::zone","hashes":["04728e7220279e207c7889a4e4614bd4879c50220ab155771a7ebcbdab221b10","33b4d327705a941d301c2ece13bfc66c02720495192bb35b8b52f01a1749ab1e"],"id":"id-281","last_modified":1776428289735,"schema":1776428087459}
+{"description":"gpu (Linux nightly): wgpu_bindings::server::process_message","hashes":["feaa0ebf0da1aabc61bae96602c241771e9c944ab6d9f5e1beb9240a0ec532c4"],"id":"id-281","last_modified":1776676109319,"schema":1776675896054}
