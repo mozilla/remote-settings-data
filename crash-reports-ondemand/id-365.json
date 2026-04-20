@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): NvGlEglGetFunctions","hashes":["f3a2145bb86fb297e8acf362b4fe52836803b60411cc97f4c05f4cda9146d8cd","8dffd4bad9115409eef703b3c423382ce889deacdb23f0c58ce87390e5f5f0a1"],"id":"id-365","last_modified":1776428288416,"schema":1776428169596}
+{"description":"gpu (Mac nightly): mozilla::wr::RenderTextureHostSWGL::UpdatePlanes","hashes":["32fd6382217a469894bee3ecdc8602c03e39bf7340ec1b6bd03fae860a402b28"],"id":"id-365","last_modified":1776676107983,"schema":1776675983042}
