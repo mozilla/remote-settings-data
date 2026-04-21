@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libglslcompiler.so","hashes":["091caf036b97d21a95162e1f9629955b2e87cf94429a26ec51ce250ec51ad23b"],"id":"id-241","last_modified":1776676109502,"schema":1776675856163}
+{"description":"content (Android beta): mozilla::jni::detail::ProxyNativeCall<T>::Call<T>","hashes":["f0ccb8f87259bc8d2b3c979dab128bda12a188fd24839fdda55ce89c0c37a220","f79ef9f1e55989f3ccba3066b72c88862d4462b98fc8f6236b664d5b706cbc95"],"id":"id-241","last_modified":1776763090215,"schema":1776762852359}

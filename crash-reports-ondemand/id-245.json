@@ -1,1 +1,1 @@
-{"description":"utility (Linux release): libxul.so | firefox","hashes":["1e34aa9edbf71b91435140eb96a617dbad687a635c548d8c9ea80e00f977524d","ed8d562990c381352b45eea0a8885177280819694a9c731547b565effd639091"],"id":"id-245","last_modified":1776676110019,"schema":1776675860079}
+{"description":"gpu (Mac nightly): mozilla::wr::RenderTextureHostSWGL::UpdatePlanes","hashes":["32fd6382217a469894bee3ecdc8602c03e39bf7340ec1b6bd03fae860a402b28"],"id":"id-245","last_modified":1776763090720,"schema":1776762858031}
