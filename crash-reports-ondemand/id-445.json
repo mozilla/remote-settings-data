@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpFreeHeapInternal | RtlFreeHeap | ShellExtBridge118.dll | HDXA_QueryContextMenu","hashes":["a949c50ac3d8491e12d81fb49ee67334fdb94e00ee506fd950309c14a5aab9ac"],"id":"id-445","last_modified":1776763090344,"schema":1776763052821}
+{"description":"main (Mac nightly): mozilla::InitPref_bool","hashes":["328d9406eb89a549b69beef7c56947ded5ac9a7ee2866405e7d4ed76734dc544","6c31f9b357e01d08a530b4e4f3255033d92b03597889397d65f1624fc186f314"],"id":"id-445","last_modified":1776850682893,"schema":1776850643463}

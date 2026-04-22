@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | js::AutoEnterOOMUnsafeRegion::crash | js::gc::AllocateTenuredCellInGC","hashes":["fa4804ecf017bacf0725fa6383403d777d186df93039eee525b51af7c5a78260"],"id":"id-449","last_modified":1776763090128,"schema":1776763056740}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["b9409a131c6ad31d6b876aef0623089b16273f7fb4333805a14125f9fbf4b30d"],"id":"id-449","last_modified":1776850682670,"schema":1776850647298}
