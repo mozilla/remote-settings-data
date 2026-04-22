@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): nsThreadPool::PutEvent","hashes":["02ecc0c5667b1158c3765b04f1cbaedb1161c47575c34fca76062d4c3babf561"],"id":"id-359","last_modified":1776763088802,"schema":1776762968931}
+{"description":"gpu (Android nightly): mozilla::StyleOwnedSlice<T>::AsSpan","hashes":["0c7e83ceca6359030c13787e426b0b8f572d152f74eddb3c202bd42385ead242"],"id":"id-359","last_modified":1776850681439,"schema":1776850558677}

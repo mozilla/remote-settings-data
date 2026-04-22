@@ -1,1 +1,1 @@
-{"description":"content (Android beta): js::SinglyLinkedList<T>::Iterator::next","hashes":["aa4ac5165f4e6aa9e7878ca5d582c5e476864baa6b52f43adb8648fcd1fa9380"],"id":"id-410","last_modified":1776763089379,"schema":1776763017371}
+{"description":"content (Android nightly): mozilla::detail::nsTStringLengthStorage<T>::operator unsigned long","hashes":["7bd6a555316d49fa7172eb82518a46dde5566b9afbd5aa9aaff6cb212ed6de36","94a101b47d67b3a8104a1af36bf5eeb4c993513d38ca76897f2c6838f4172b78"],"id":"id-410","last_modified":1776850681948,"schema":1776850609639}
