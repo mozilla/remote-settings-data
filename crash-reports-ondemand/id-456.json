@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): core::result::unwrap_failed | wgpu_server_pack_free_swap_chain_buffer_ids | mozilla::webgpu::WebGPUParent::SwapChainDrop","hashes":["e158233209d53389da95bcbc756eb9f31d3de62055e329714c1fc757912b4c1d"],"id":"id-456","last_modified":1776935276223,"schema":1776935257088}
+{"description":"gpu (Linux nightly): abort | libgallium-26.0.5 - kisak-mesa PPA.so","hashes":["74b9e3663cd25a9f526b3bc5a94667c665b426276fc5adb7b423f76e1555f13e"],"id":"id-456","last_modified":1777018673206,"schema":1777018656752}

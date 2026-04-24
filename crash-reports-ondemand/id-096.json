@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): nsObserverService::EnsureValidCall | nsObserverService::RemoveObserver | gfxGlyphExtents::SizeOfIncludingThis","hashes":["b2222822c92576450bca271fd6aac1bc8079db6319c3aeb7bcce0ac1faff5ea4"],"id":"id-096","last_modified":1776935276430,"schema":1776934905677}
+{"description":"utility (Windows beta): Microsoft::WRL::ComPtr<T>::As","hashes":["7cba087bd50e78c4b3fb559ee5f4873aef1a5adfce09e8e155785aeea2d34896"],"id":"id-096","last_modified":1777018673443,"schema":1777018301205}
