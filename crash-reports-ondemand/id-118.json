@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | <.plt ELF section in libxul.so> | libxul.so | mozilla::IdleTaskRunner::~IdleTaskRunner","hashes":["98a4eb0de838facf33e50ea2a1912106781f5e217c3be5ac72281cee0d42003e"],"id":"id-118","last_modified":1776935278563,"schema":1776934926705}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["e764030a54a3b6273586d4b93643e86e5b001395213519129e6c1b1d498ccc3b"],"id":"id-118","last_modified":1777018675478,"schema":1777018322295}

@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): RtlDuplicateUnicodeString | LoadLibraryExW","hashes":["2267fb851cc762998e2c398f2122f44e1e8f294166e41d583bc1350f297bcc4c"],"id":"id-451","last_modified":1776935277897,"schema":1776935252161}
+{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["cb0f346ded01fb220853880b54ccc38c43a048b1db89a006680729245e300db8"],"id":"id-451","last_modified":1777018674745,"schema":1777018651794}

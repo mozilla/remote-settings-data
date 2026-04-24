@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["cb0f346ded01fb220853880b54ccc38c43a048b1db89a006680729245e300db8"],"id":"id-424","last_modified":1776935277918,"schema":1776935226239}
+{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended","hashes":["56f387465be3ca631d612a8c26bc5be1745d3180c93f2b33190014f9dd461c82"],"id":"id-424","last_modified":1777018674752,"schema":1777018625704}
