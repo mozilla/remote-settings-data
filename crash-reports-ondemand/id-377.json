@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::CreateDecoderParams::AudioConfig","hashes":["b637bb0da4416dd849dfd2d4f24fdae4157a1d896c3170f8c10e5ace4ad657c7"],"id":"id-377","last_modified":1777018673581,"schema":1777018578705}
+{"description":"gpu (Android beta): nsObserverService::EnsureValidCall | nsObserverService::RemoveObserver | gfxGlyphExtents::SizeOfIncludingThis","hashes":["b2222822c92576450bca271fd6aac1bc8079db6319c3aeb7bcce0ac1faff5ea4"],"id":"id-377","last_modified":1777106866468,"schema":1777106777392}

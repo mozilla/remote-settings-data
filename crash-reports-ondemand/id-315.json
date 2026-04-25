@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): nsThreadPool::PutEvent","hashes":["7b810078b5c9e027bb02285721970177a0fc5fb3039ab01a56431fa518254e32"],"id":"id-315","last_modified":1777018673574,"schema":1777018517319}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["e764030a54a3b6273586d4b93643e86e5b001395213519129e6c1b1d498ccc3b"],"id":"id-315","last_modified":1777106866464,"schema":1777106716446}
