@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): nsINode::GetBoolFlag","hashes":["4c111ce0814c3972132c7f88ec9db56ff9befd3e9337fee09d7b87ae81a9d523","8b57dfe285a894fbdfea035c30cdb62ed43c6c0699dbf00623cec5322629c0d7"],"id":"id-079","last_modified":1777106867789,"schema":1777106485597}
+{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["ad5a09c8deccc7b56c7834c4bb3480423cf367eae4aff9ec7a0f9c06d3ef0428","9913582bb47903e86c6193b43934c367691d33dc56f95104967e9ff3c16ed885"],"id":"id-079","last_modified":1777279070462,"schema":1777278687645}
