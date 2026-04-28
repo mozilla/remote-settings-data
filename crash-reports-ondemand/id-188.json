@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["cc04942be47d529e35cbb21c0055702abf62487b01a9d23e85eac26869dbe44e"],"id":"id-188","last_modified":1777279069879,"schema":1777278795015}
+{"description":"content (Mac nightly): mozilla::SegmentedVector<T>::PopLastN | mozilla::dom::DeferredFinalizerImpl<T>::DeferredFinalize","hashes":["9e584aa3c191649f41daffd0a95aff2cf8375739055b32833969797a7ac8a2dc"],"id":"id-188","last_modified":1777368478134,"schema":1777368202131}

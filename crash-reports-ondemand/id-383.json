@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): libsystem_kernel.dylib","hashes":["2b4c6582d8872c482b8e62f4ebe981742781da5e98143d7cce3146c398418e3c","0b41d0769140df198c4d5315f0805e445e30ec1f62a369c45f48ecb63e8ca1df"],"id":"id-383","last_modified":1777279070265,"schema":1777278989391}
+{"description":"socket (Mac release): mozilla::TaskController::DoExecuteNextTaskOnlyMainThreadInternal","hashes":["ea0eaaf54586cc571420902aba919165b864ec70b2008b1b823eecd332f6c3ff"],"id":"id-383","last_modified":1777368478268,"schema":1777368401519}
