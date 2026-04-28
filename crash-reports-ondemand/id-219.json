@@ -1,1 +1,1 @@
-{"description":"main (Android beta): mozilla::net::nsHttpConnectionMgr::CheckTransInPendingQueue","hashes":["ac1bd519c57652b7f51d5566bd6e01e443b1f0c077dc55cdecd813ee2eab67b7","e70d9b1af7f8c8a255a26052575d915f671c43b64e0ecdba0ce5e616109e17b9"],"id":"id-219","last_modified":1777279069202,"schema":1777278828973}
+{"description":"socket (Linux release): <[A] as core::slice::cmp::SlicePartialEq<B>>::equal","hashes":["93cc46577a9f4657413ca22f6015b6e138fcf19b966feb9ed8fb185d39dd67ee"],"id":"id-219","last_modified":1777368477481,"schema":1777368233262}
