@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): objc_exception_rethrow | __NSWindowGetDisplayCycleObserverForLayout_block_invoke","hashes":["f7a6c75da402b32994d3f6048484510a31513d17e13dbcfbad16e1f3c9a84fe1"],"id":"id-200","last_modified":1777368478682,"schema":1777368214221}
+{"description":"content (Linux nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["8c9cc3c65916b6e53ffddf29acf37b21931cdb5fac81b10ebc609b8af78c14f3"],"id":"id-200","last_modified":1777539482715,"schema":1777539214131}
