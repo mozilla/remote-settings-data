@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gl::GLContext::LockSurface","hashes":["3ea5aa8d62e09288aa6648b6644a08080fd3a6c4fe3bf24a98ad943dcf0982d4"],"id":"id-196","last_modified":1777539481288,"schema":1777539210037}
+{"description":"content (Mac nightly): AllocInfo::GetInChunk","hashes":["8fa44322d52b07197e481a58234fa95262c74b54de591a0d1bc9afba8bbe06bf"],"id":"id-196","last_modified":1777625883269,"schema":1777625609639}

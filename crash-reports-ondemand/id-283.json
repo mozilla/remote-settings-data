@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::wr::RenderTextureHostSWGL::UpdatePlanes","hashes":["8308c4f18f9e93de83ca5d2978bfa6b5a8c5dab5c0d481392a765f071e85e75c"],"id":"id-283","last_modified":1777539480743,"schema":1777539301828}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["d6039984382b4ea0d048966a4e8a99ea41429897817c3d53ba1d720fab5b9f31"],"id":"id-283","last_modified":1777625882639,"schema":1777625698325}

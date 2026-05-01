@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::MozPromise<T>::ChainTo","hashes":["09b73eaa552e4ce640b96dceefabab12e7a80b61b5f1f6b3f2b2189e85de7f71","7140120abdec0b404aa2421617214398a5d61555af453864f0ceabec10448f3b"],"id":"id-450","last_modified":1777539480737,"schema":1777539473413}
+{"description":"main (Mac nightly): nsTSubstring<T>::ReplaceSubstring | MOZ_StripRelativeComponents","hashes":["ac2102016063a79b00c27f2216018eee99019528e1438f6380fca3d29be5e9b4"],"id":"id-450","last_modified":1777625882631,"schema":1777625871299}
