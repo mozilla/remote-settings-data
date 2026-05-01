@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): NewArrayBufferObject<T>","hashes":["46b257ce178c57f0fb5ab7c5b1945564bb4a5c0625931bdee07421152f9cde70","81a3ddf38452b6ea20325796ee40100191568a392493d1f4661fee4ac5bab6f4"],"id":"id-201","last_modified":1777539482100,"schema":1777539215145}
+{"description":"gpu (Android nightly): mozilla::gl::AndroidSharedBlitGL::~AndroidSharedBlitGL","hashes":["1fed7046996ee358cce3c57846845aeb0cbce7a3109e4246e9ca0ad6275ce73e","dfe522b659f9af20f7a98af2c170d82af0bb11d9a1d33ecd6584970848056d62"],"id":"id-201","last_modified":1777625884127,"schema":1777625614592}

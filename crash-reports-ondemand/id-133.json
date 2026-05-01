@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): core::option::unwrap_failed","hashes":["69e7a775a058a5fa2a3e73a19ed651966a5dc64cb3c332d72d2cd3d66f30d699","e888334a05eebbb0bb10f89abaa1ea8ad03cecfa399dfc68ee077e3ac6afe723"],"id":"id-133","last_modified":1777539482278,"schema":1777539143944}
+{"description":"content (Mac nightly): mozilla::BitSet<T>::Reference::operator=","hashes":["37bc1e6bda5661aa28d32baaeb8094d3af1b640e972492ea068351c271cdfbe2","b34b344a51c331cc0745678472458893924be22a1c47f9b02e627a83b55e5325"],"id":"id-133","last_modified":1777625884289,"schema":1777625546237}
