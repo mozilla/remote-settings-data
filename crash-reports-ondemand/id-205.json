@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): objc_msgSend | mozilla::ipc::MessagePump::Run","hashes":["4ea162b30b89d1e337520f1c5a80309dc515918177d7242ba6d3de54970a9c3c","1426d993a16e7b6c1686bd16d5d177db2627ed2a2d18011fa78d50405540ca69"],"id":"id-205","last_modified":1777625884645,"schema":1777625618899}
+{"description":"socket (Mac release): mozilla::BufferList<T>::WriteBytes","hashes":["0b9ff17cffcbc9183501d7a2f46fa84f15f9bc924b3f544df63c47dad43c1445"],"id":"id-205","last_modified":1777712889158,"schema":1777712619651}

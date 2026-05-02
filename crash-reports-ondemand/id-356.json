@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::net::LoadInfo::SetReservedClientInfo","hashes":["cd92e078273634e88f9ea30af60e0747d1ff25a8f83cc2fd643f4cf3d7fa092f"],"id":"id-356","last_modified":1777625884260,"schema":1777625774730}
+{"description":"content (Android beta): mozilla::jni::detail::ProxyNativeCall<T>::Call<T>","hashes":["d84ea052a52a90b03dcaf1cfcaf61ebf76f25d66db4d34fc0d432323ee36d47a","f692e7ff3eb9d3626b9a80d6a8b49bebcacab928cde8250818c0702306a36ff1"],"id":"id-356","last_modified":1777712888838,"schema":1777712772995}

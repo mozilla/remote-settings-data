@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::MakeRefPtr","hashes":["b4f55aebf3424ed68768c0909e149c51f6bb01bfda66707026b37e2478ce8652"],"id":"id-228","last_modified":1777625884400,"schema":1777625641660}
+{"description":"socket (Mac beta): arena_t::GetNonFullBinRun | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["51c4bf711a0c100d6dde543f15882b3e037916843aa72ee78252e4b6dc9bf7aa"],"id":"id-228","last_modified":1777712888961,"schema":1777712642611}
