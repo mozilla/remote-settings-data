@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gl::GLContextEGL::Cast","hashes":["84954045d37cfcceac7d7dd9e2847996bc820f8d46c599d6c436885b5c509912"],"id":"id-284","last_modified":1777712889237,"schema":1777712700423}
+{"description":"main (Mac beta): mozilla::detail::MaybeStorageBase<T>::Union::Union","hashes":["6ae71458eca646005ca70603e140279216c581eb2a759597d164dba63af018e0"],"id":"id-284","last_modified":1777799276802,"schema":1777799094061}

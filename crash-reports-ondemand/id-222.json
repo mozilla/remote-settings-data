@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): msmpeg2vdec.dll","hashes":["db91d64344186352b901ec69d8dd2dbc1f907776ae1aeb8c8835196de7e5f464","7067f2e5896883309fc9664eb3cfdcbf29fd412bd851aff460303fb25e374dc8"],"id":"id-222","last_modified":1777712889234,"schema":1777712636622}
+{"description":"gpu (Android nightly): IPC::MessageReader::FatalError | IPC::ParamTraits<mozilla::ipc::BigBuffer>::Read | mozilla::dom::PWebGLParent::OnMessageReceived","hashes":["9f41a70ff39eb1028a57aa86d4936e4ea23d80b5e5e3b69870ec177c73183ed4"],"id":"id-222","last_modified":1777799276801,"schema":1777799034076}
