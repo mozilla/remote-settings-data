@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["11cd20653731186eed107282bd634215c4edd35adb223e52f909ad6dd42d125b","5ff8a430ee7afc7f02760328ec7b25d58fe10db5f8d143903893cbef5dcd7c9e"],"id":"id-275","last_modified":1777712888183,"schema":1777712689682}
+{"description":"socket (Windows nightly): flhhlp.dll | LdrpSendDllNotifications","hashes":["5710dad777f71819555473a9522400bcd82168f45ab7fa48c1a5b597839c27fe"],"id":"id-275","last_modified":1777799276034,"schema":1777799085461}
