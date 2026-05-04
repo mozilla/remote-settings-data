@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::ipc::PortLink::SendMessage","hashes":["8cd22af3e02679e43ab3338f363634931a0bde41240883374ebfb43e608d015d"],"id":"id-295","last_modified":1777799276078,"schema":1777799104647}
+{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["e2ff6307f1ae46646c88a65b3a7d64c3a36efaaaf3696196ecb144aeeb727a8c","c8613c7ffa4edf1109815bb4472704b4b1a81beb272a3865b7ab2929ad3d0140"],"id":"id-295","last_modified":1777884494155,"schema":1777884312116}

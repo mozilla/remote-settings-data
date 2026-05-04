@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): huge_dalloc | <mozglue_static::GeckoAlloc as core::alloc::global::GlobalAlloc>::dealloc","hashes":["96ec6c54d9adfb6750d61ce9940ee05b67acf512fb8bd236aff8ff3990adac77"],"id":"id-431","last_modified":1777799275358,"schema":1777799240731}
+{"description":"utility (Linux release): AllocInfo::GetInChunk","hashes":["81305b5dad801fe64a7cc12ad2e2655511890469c7e935c894407d2197d07ba1"],"id":"id-431","last_modified":1777884493235,"schema":1777884453452}
