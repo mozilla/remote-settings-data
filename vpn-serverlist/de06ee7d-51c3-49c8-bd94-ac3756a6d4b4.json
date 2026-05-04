@@ -1,0 +1,1 @@
+{"cities":[{"code":"ANY","name":"Closest","servers":[{"hostname":"us.m1.fastly-masque.net","port":2499}]}],"code":"US","filter_expression":"env.version|versionCompare(\"152.0a1\") >= 0","id":"de06ee7d-51c3-49c8-bd94-ac3756a6d4b4","last_modified":1777909874096,"name":"United States Of America","schema":1777907316751}
