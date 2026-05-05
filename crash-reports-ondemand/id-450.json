@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): PR_Close | mozilla::net::PollableEvent::~PollableEvent","hashes":["86eafca3acf24be7fa55dcbe1e015d0f7bce378626ced7728bab0ecb07b6e6c9"],"id":"id-450","last_modified":1777884493311,"schema":1777884472839}
+{"description":"socket (Linux release): abort | nr_transport_addr_is_loopback","hashes":["2b44029b0e840fa3b97d752de049e2cd325e5dc0e03056bf897b83e151df7f87"],"id":"id-450","last_modified":1777971904717,"schema":1777971890494}

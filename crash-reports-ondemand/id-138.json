@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): JS::shadow::Shape::isProxy","hashes":["4568dd04a6981f3a77545c4f4c4a5fcd3f5cb825243c5871ed49ecf72a772cfb"],"id":"id-138","last_modified":1777884493217,"schema":1777884149671}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["b5deedd13d558fda49f549a7b0be09fe5c4092bee50bba52cb51c341234cc6b2"],"id":"id-138","last_modified":1777971904651,"schema":1777971698064}
