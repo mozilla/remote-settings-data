@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["e2ff6307f1ae46646c88a65b3a7d64c3a36efaaaf3696196ecb144aeeb727a8c","c8613c7ffa4edf1109815bb4472704b4b1a81beb272a3865b7ab2929ad3d0140"],"id":"id-295","last_modified":1777884495481,"schema":1777884312116}
+{"description":"socket (Mac release): objc_release | -[__NSDictionaryI dealloc]","hashes":["d144eb09a508fb4770f87515f2b886b032090bf730a031c1d9252e5ea79e339f"],"id":"id-295","last_modified":1777971906338,"schema":1777971796431}
