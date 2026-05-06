@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::BitSet<T>::Reference::operator=","hashes":["37bc1e6bda5661aa28d32baaeb8094d3af1b640e972492ea068351c271cdfbe2","b34b344a51c331cc0745678472458893924be22a1c47f9b02e627a83b55e5325"],"id":"id-281","last_modified":1777971905858,"schema":1777971786722}
+{"description":"socket (Mac release): objc_release | -[__NSDictionaryI dealloc]","hashes":["d144eb09a508fb4770f87515f2b886b032090bf730a031c1d9252e5ea79e339f"],"id":"id-281","last_modified":1778059506871,"schema":1778059383583}
