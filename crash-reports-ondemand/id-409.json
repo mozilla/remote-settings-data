@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): __CF_IS_OBJC.cold.1","hashes":["d23cca730881bb2a2b4dc52f66ffca8afc7790b29154d7ac2cec9878c1d9cf23","db1ce7e6638129e91d1370d7ae370657b31d64c5aefc014cebfdfe011e8b138c"],"id":"id-409","last_modified":1777971904639,"schema":1777971866119}
+{"description":"content (Mac beta): nsTArray_Impl<T>::Elements | nsTArray_Impl<T>::ApplyIf<T> | mozilla::FrameProperties::GetInternal","hashes":["b929e1f87e73b2d090fbbe94531b926f21ba690b5b4ce4d91077c34e56969791"],"id":"id-409","last_modified":1778059505343,"schema":1778059462071}
