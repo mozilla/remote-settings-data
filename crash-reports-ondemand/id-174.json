@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::gl::GLContext::fCheckFramebufferStatus","hashes":["60f8636bc8371c8a91d5968b4ea07ae5b4d46e1665905f309229c1737a23bf70"],"id":"id-174","last_modified":1778059506041,"schema":1778059317448}
+{"description":"gpu (Android nightly): libc.so | libglslcompiler.so","hashes":["b504bf12b3144ef1e50d979053d6ef90ee0f99ec77609c9f6d0109831486544b","89bb10110126bd37ca39955d5923dd850df4d60c4783e40cdcab4329cbe893b7","f05501275fa29f021377efceba92c042bf31386de1c9ec888ff7fefed9aeb4c9"],"id":"id-174","last_modified":1778142905378,"schema":1778142714652}

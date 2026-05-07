@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): UIItemsView::_OnBatchTimer","hashes":["ef552c2de6d0ff253326c762320d3c62745f3b05124ae606346107a84e55224d"],"id":"id-245","last_modified":1778059506198,"schema":1778059361687}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["c949992ea941b71cdefaebb3d4ba33261f694ca60662e8c3a319ce79e3f35046"],"id":"id-245","last_modified":1778142905610,"schema":1778142757302}
