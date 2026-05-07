@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["4ec75d609f831d2e04cd34db3bfa7119533133cc25b9f54cc36a36c7359062a0"],"id":"id-301","last_modified":1777971906333,"schema":1777971800016}
+{"description":"content (Linux nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["52f9c41f233500c9937d3601730658ba50ca17eeb51b860c8ce0f08214ecb1ef"],"id":"id-301","last_modified":1778142906815,"schema":1778142792041}
