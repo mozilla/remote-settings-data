@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): IUnknown_SetSite","hashes":["223d410de01d938b9034ab90ebfae407ef603db851194eec89b10435c770c654"],"id":"id-451","last_modified":1778142904794,"schema":1778142886174}
+{"description":"socket (Windows beta): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::dom::PMediaTransportParent::OnMessageReceived","hashes":["c905dae7e57e5674e7c4dcdccb3e5ecf500dfc51a4b66442f0c467c589d3a04c"],"id":"id-451","last_modified":1778229313293,"schema":1778229295416}
