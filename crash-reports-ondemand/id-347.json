@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): CrashChannel::OpenContentStream","hashes":["dc496a7d7bda07bbbcf7241e4e991947f0adfef355afba7646763831fc399524"],"id":"id-347","last_modified":1778142906980,"schema":1778142821670}
+{"description":"socket (Mac release): arena_t::GetNewEmptyBinRun | arena_t::GetNonFullBinRun | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["18af947cbf9f51b96029c30587cdef190bb70d638fb95a79b4b2f7327ad37363"],"id":"id-347","last_modified":1778229315407,"schema":1778229231885}
