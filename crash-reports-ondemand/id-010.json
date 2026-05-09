@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): mozilla::widget::WlLogHandler","hashes":["ccc1f18bcf699a15231d7417ae265df3cff4facefc0b2eba956abd4545d66d7d","3bc7e65a85592cd2ff3070277faefa306ccdb2eacb9b40f45f410056e289a81b","99b30578d76f5bec7d2d6cd938627e4746695f5c0d7099785dfb4af24ccb01d8"],"id":"id-010","last_modified":1778229315605,"schema":1778229016641}
+{"description":"rdd (Windows beta): mozilla::mscom::ProcessRuntime::ProcessRuntime","hashes":["ae2519480c536c8f3350e0c5ba1e0547e1f0d4a75414ebb11117b06ca28dd5b6"],"id":"id-010","last_modified":1778315703914,"schema":1778315413795}
