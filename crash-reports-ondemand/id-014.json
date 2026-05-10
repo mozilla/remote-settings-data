@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): OOM | small","hashes":["cc0eacc3f996f7c7c0370dd5ea13700e3f467046faa3abb5ed331daa3687acc1","890cd1fc57c82ec7cce174a1537592c3d188f99f8e0a9b21631b6065f54aad01","ec2a1eb7e2a0bd5e9c94544244d1ecc0f743f0a3b27fe1e10dd302254a0f4d4e"],"id":"id-014","last_modified":1778315702350,"schema":1778315416251}
+{"description":"content (Linux nightly): js::gc::Arena::getAllocKind","hashes":["42933465ef05738a464e3182aff6a4ecbe8cae5d5fd38b1083c2989a815e55c1"],"id":"id-014","last_modified":1778401504827,"schema":1778401216618}
