@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): nsTArray_Impl<T>::end | mozilla::ImplCycleCollectionTraverse","hashes":["c36591331eec637e5060a750237a41bdbec76374ce88db0048f143629e0fc7a8"],"id":"id-045","last_modified":1778315703979,"schema":1778315435272}
+{"description":"content (Mac beta): mozilla::dom::ClipboardItem::ItemEntry::RejectPendingPromises","hashes":["50c453dc2e5e082152b360fd9713ad1ff054faa6840cf3e50c7c28f13e909f94","e46ddd1e5d3ccd337c3a989c6367efd0e09de397307ffb67a43cfc2fbebe0ab6"],"id":"id-045","last_modified":1778401506233,"schema":1778401236384}
