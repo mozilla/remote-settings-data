@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): google_breakpad::ExceptionHandler::WaitForMessage | thread_start","hashes":["749b841c48f468e0af68b8fb4b81c31395b402aa8680baf48361abcee090d21e"],"id":"id-393","last_modified":1778401504833,"schema":1778401450776}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["ff5ca22e7760b5c15b07cd463389a2bf32325e662bc63a90d9b8f331b1e4485f"],"id":"id-393","last_modified":1778487908407,"schema":1778487851286}

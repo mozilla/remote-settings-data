@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | webrender::renderer::Renderer::draw_frame","hashes":["8c9fe8434dd77ef7490a90c05fec4f1009dd03ec896e5cc4fbd71ba7fbf1dfcb"],"id":"id-384","last_modified":1778401504427,"schema":1778401445305}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["b5deedd13d558fda49f549a7b0be09fe5c4092bee50bba52cb51c341234cc6b2"],"id":"id-384","last_modified":1778487907985,"schema":1778487845918}
