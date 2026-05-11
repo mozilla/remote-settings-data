@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): <alloc::sync::Arc<T, A> as core::ops::drop::Drop>::drop","hashes":["6152e97e6ad237a83f58bae05258bbb040d521714d251a955684d11ac022526c"],"id":"id-078","last_modified":1778401506091,"schema":1778401256457}
+{"description":"gpu (Android nightly): libGLESv2_mtk.so","hashes":["2b3b5268c73ef9150a1b377b55d3ddbba83ee0eefd932463f7c91ef7153afdf7","933724af44e4e8d4d705c911b70d6bc535644c60106014b073b185cf5f83f6e2"],"id":"id-078","last_modified":1778487909780,"schema":1778487655669}
