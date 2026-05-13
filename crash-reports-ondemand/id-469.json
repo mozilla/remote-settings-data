@@ -1,1 +1,1 @@
-{"description":"utility (Linux release): libavcodec.so.60","hashes":["1bbc1e115a2008d448df4fb43ff4b6640bfb16e7f423cf2a23190d9935b1574b","feda83e9a3e6bc1afafcf8923ef070ecf11b1b472dbd2621d45104c76bc64053"],"id":"id-469","last_modified":1778574908027,"schema":1778574896460}
+{"description":"socket (Linux release): arena_t::ArenaRunRegAlloc | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["79af02e7a0eb5967602555dc5972fcef787172e763a1014707bac0d535050720"],"id":"id-469","last_modified":1778661941560,"schema":1778661931675}

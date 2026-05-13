@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): OOM | large | new[] | std::make_unique","hashes":["b4f1001826e4f71f19fadb8e28b0def6ea10a91c0ce84a38617ab5572e5c18dc"],"id":"id-199","last_modified":1778574908192,"schema":1778574730975}
+{"description":"socket (Windows beta): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::dom::PMediaTransportParent::OnMessageReceived","hashes":["c905dae7e57e5674e7c4dcdccb3e5ecf500dfc51a4b66442f0c467c589d3a04c"],"id":"id-199","last_modified":1778661941700,"schema":1778661746865}

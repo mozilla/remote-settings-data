@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["32170906af34082955722d8b0233a5fc5b1b8c818711292e089637af50cb709c"],"id":"id-309","last_modified":1778574908328,"schema":1778574798476}
+{"description":"socket (Windows beta): InjUmon64.dll | UserRealizePalette","hashes":["b4a3aa735865bcd2b7c3f3beda6ced49bea9b4ec62c4bcb67fb978cca6d9d7e2"],"id":"id-309","last_modified":1778661941835,"schema":1778661822525}
