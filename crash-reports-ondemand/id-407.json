@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libart.so | ReplaceMalloc::malloc","hashes":["120434fac4539748b0a6fcde8dbd63c590702674371be36e6b4c71a377686941"],"id":"id-407","last_modified":1778574907362,"schema":1778574858830}
+{"description":"gpu (Android beta): libc.so | gralloc.rogue.so","hashes":["ec9475d2c2e0ab90680e410f42375353727c0db248e21977340c1b1446193b03"],"id":"id-407","last_modified":1778661940874,"schema":1778661890166}
