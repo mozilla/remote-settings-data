@@ -1,0 +1,1 @@
+{"additional_components":[],"feature":"memories-quality-filter-system","id":"memories-quality-filter-system--gemini-3-1-flash-lite--v1","is_default":true,"last_modified":1778771126416,"model":"gemini-3.1-flash-lite","parameters":"{}","prompts":"You are an expert at evaluating the quality of user memories. Return ONLY valid JSON.\n","schema":1778685026908,"version":"1.0"}
