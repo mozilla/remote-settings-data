@@ -1,0 +1,1 @@
+{"bugIds":["2035795"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a93a66e3-59fc-4f3d-88c2-0dc21c3bab90","last_modified":1778724610594,"schema":1778680516163,"topLevelUrlPattern":"*://www.n-tv.de/*","urlPattern":"*://sso.guj.de/*"}
