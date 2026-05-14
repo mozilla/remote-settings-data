@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsWrapperCache::HasFlag","hashes":["e65f0cc077fb81da505da8aab55fc23c0cd746dc1284a85efa79a4758330328f","8ea4c94512b8174aed3fd7a35ecde16a85eda8e2f7917b40d1387399408a0dee","0e74032ad7c58127fe907ea6e2b06b0cc11529fdfe17ec3b25fc648a758f86e9"],"id":"id-480","last_modified":1778661940333,"schema":1778661938395}
+{"description":"utility (Windows nightly): nsTimerImpl::CancelImpl","hashes":["08155940fed871da04ad06442f07c0f82e61f797a1bacf60eb630943a0eb5676"],"id":"id-480","last_modified":1778749511342,"schema":1778749509414}
