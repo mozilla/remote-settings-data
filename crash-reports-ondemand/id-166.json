@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::detail::ProxyRunnable<T>::~ProxyRunnable","hashes":["a6be36fb276a3b33ab6bd1bdf1b7c1f29b2aeaf24ddfaeaacc69ba073bc1f4c7"],"id":"id-166","last_modified":1778661941578,"schema":1778661724818}
+{"description":"content (Mac beta): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["1660e7887964e4aebf75f29130f34736645a8af9692f24f0b8d7223535477c1a","3b109b380ab6f4b99d9359e409a667a12b0165f46412eedbbc6156230aa8455a"],"id":"id-166","last_modified":1778749512610,"schema":1778749317267}

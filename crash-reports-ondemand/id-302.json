@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpLowFragHeapAllocFromContext | <unknown in ntdll.pdb>","hashes":["b0fc4024caa84ebf385c911ffaa0869a354600434ea434f509bdde71d9645833"],"id":"id-302","last_modified":1778661942321,"schema":1778661817784}
+{"description":"content (Linux nightly): nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | TelemetryQueue::AccumulateAndMaybeSendTelemetry","hashes":["224b5d797136ceee224b4b7f1520496c4a904bc18b40d2137cf24c419a4469e8"],"id":"id-302","last_modified":1778749513386,"schema":1778749399846}
