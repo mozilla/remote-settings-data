@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): core::option::unwrap_failed","hashes":["540ec6492ef2020feff339e1f6036ce60b1ca072d7bd4916550a3c588c1027ae","3ecfdf75f24d6b52c7b05b3a0718ad1801990145f05604510e30d7860e832762"],"id":"id-452","last_modified":1778749512113,"schema":1778749492651}
+{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["fb0db4835bab2611a8cc3785726b30004aed32d4406b25e5c0db6198f4159a26"],"id":"id-452","last_modified":1778834150969,"schema":1778834129154}
