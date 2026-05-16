@@ -1,0 +1,1 @@
+{"bugIds":["2036684"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8fde2fde-c204-4ff3-859c-0de0a531dc03","last_modified":1778897409903,"schema":1778897409060,"topLevelUrlPattern":"*://www.myvipon.com/*","urlPattern":"*://ipapi.co/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2035187"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d0cebacb-cd3a-4cc8-8096-55d045788f61","last_modified":1778897409936,"schema":1778897409209,"topLevelUrlPattern":"*://app.smartpushedm.com/*","urlPattern":"*://cdn.kmalgo.com/*"}
