@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | large | NS_ABORT_OOM | mozilla::ipc::BigBuffer::AllocBuffer","hashes":["5408e8efb720903744577f5c4040a76efaad892c21b78a087935b567306a4bcf","a18a489587a710518b2a5d7fe1a5e24601e33d9298228893250e35eed3bf0980"],"id":"id-196","last_modified":1778834150056,"schema":1778833951457}
+{"description":"gpu (Android beta): OOM | small","hashes":["865815c7374b8425424d517287f145017f25450c722448714cdbc48bd704d41c"],"id":"id-196","last_modified":1778920538478,"schema":1778920348808}
