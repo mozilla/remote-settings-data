@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): XPCJSRuntime::UnprivilegedJunkScope","hashes":["3518c1bf58bebfc4f2199033af42f3da9e7c7ea3c68b3150e3e7e02c55d929f8","60b17ed3982cf5613e82c1c7368fa45825072bf2767a408ecb0be7e7a84f53f7"],"id":"id-434","last_modified":1778920540034,"schema":1778920506509}
+{"description":"utility (Windows nightly): RtlFreeHeap | ShellExtBridge118.dll | IShellExtInit_Initialize","hashes":["35afd583e50028e818a48232f95c9b14d3a5e93746303365f86a557330673d55"],"id":"id-434","last_modified":1779013543628,"schema":1779013509061}

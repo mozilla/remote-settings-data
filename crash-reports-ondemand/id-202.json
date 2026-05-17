@@ -1,1 +1,1 @@
-{"description":"main (Android beta): libc.so | libaaudio_internal.so","hashes":["42a342f6158b6131cadbadfb8ad25b0e0658fef81a9d4b0ad350ac0e8e9b1da9","c538e9aeb52ffde68a2dea042aa9349f804b58c3217db24e636ee2465b6c3752"],"id":"id-202","last_modified":1778920540974,"schema":1778920352737}
+{"description":"gpu (Android nightly): libc.so | libglslcompiler.so","hashes":["b1473e5f8fc72326cc7f4470cdaaaf93e805227d0e755a91850b985959ec32cc","351bd43f56bdd9a713d1041917b8edb189b66f9c4bd82562a9ca25c95dcc5c25"],"id":"id-202","last_modified":1779013544295,"schema":1779013348330}

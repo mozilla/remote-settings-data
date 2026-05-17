@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsHttpConnectionMgr::CheckTransInPendingQueue","hashes":["2d31bb750e286bb1dda8f130223cb5f5df4e0100a06a7959ae2a0ab180ab6d12"],"id":"id-395","last_modified":1778920539970,"schema":1778920480981}
+{"description":"utility (Windows nightly): nsTimerImpl::CancelImpl","hashes":["08155940fed871da04ad06442f07c0f82e61f797a1bacf60eb630943a0eb5676"],"id":"id-395","last_modified":1779013543579,"schema":1779013482091}

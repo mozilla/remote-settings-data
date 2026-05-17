@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::gfx::SourceSurfaceSharedDataWrapper::~SourceSurfaceSharedDataWrapper","hashes":["0c779f69ae3da9f538fef212185b8d188f4e0eeeff98ce82739b862a43baa252"],"id":"id-354","last_modified":1778920540744,"schema":1778920453146}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["ce1b1ffd4dadcb3e1ceb515affe0c042c144adc97a6060654a7f7ff6f831b9fd","14a453f8fd109f65e5de7e6f075cb31059fa8c436e77921209d3cf4ad70ec3b0"],"id":"id-354","last_modified":1779013544202,"schema":1779013452694}
