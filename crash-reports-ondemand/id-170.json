@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): objc_msgSend | mozilla::ipc::MessagePumpForNonMainThreads::Run","hashes":["ae7f26fa9e083e356ac396a67c203b9eead16ccf5959478308bd23d036926cfe"],"id":"id-170","last_modified":1779013542533,"schema":1779013324737}
+{"description":"socket (Linux release): libxul.so | firefox","hashes":["ee83123ce5230267feaeb39db5f6c430060125d12e6735913d77619223f6fc5e","3044cbed76d38b93bb8d8eb4752a6dd46ebb0899d7ef896caff4395e72a0903a"],"id":"id-170","last_modified":1779092733907,"schema":1779092523608}
