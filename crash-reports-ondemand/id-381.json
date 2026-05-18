@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["b2b324e4ba0cebef059a16c5059b3166a4e8bf7dda18fdd3b3aa1c5600be48a4","fa8ae3be22e273d3f73feee70aba01effa057f999c6b96e6eb1d0373006bc9d4"],"id":"id-381","last_modified":1779013544163,"schema":1779013471026}
+{"description":"rdd (Windows nightly): mozilla::MozPromise<T>::MaybeChain","hashes":["9b9805d25ae90bc6e5d4ba3e810aaea5ff6427ae7a8d590839a576d42bf3df1e"],"id":"id-381","last_modified":1779092736019,"schema":1779092664902}

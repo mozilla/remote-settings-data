@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): InjUmon64.dll","hashes":["2fc5904b91b74099193f153b365d6500c00de11de8e0c4cf76c969733ece014d","74ee7cfe753b97f1a929fbc219cb77285f4bf9f25caa3beebdef3eb9c5daf0b6"],"id":"id-218","last_modified":1779013543549,"schema":1779013358981}
+{"description":"content (Android nightly): mozilla::jni::detail::ProxyNativeCall<T>::Call<T>","hashes":["7eb303e03f753e2fd050b2e791f6188db24cbabbfedc5f0e11bd0c7cdbf5e9e8","3610d787c2f69949b8eea22e8e71b0aedefb81d5f2c264be8b13b975bf279621"],"id":"id-218","last_modified":1779092735117,"schema":1779092556567}
