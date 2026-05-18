@@ -1,0 +1,1 @@
+{"bugIds":["2039506"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d5c8e237-8b8d-4bc0-afd0-0e5a89be63e3","last_modified":1779116127946,"schema":1778897408583,"topLevelUrlPattern":"*://www.the-independent.com/*","urlPattern":"*://live.primis.tech/*"}
