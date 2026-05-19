@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): objc_msgSend | mozilla::ipc::MessagePumpForNonMainThreads::Run","hashes":["ae7f26fa9e083e356ac396a67c203b9eead16ccf5959478308bd23d036926cfe"],"id":"id-373","last_modified":1779092735268,"schema":1779092659703}
+{"description":"utility (Mac release): @0x0 | _xpc_connection_mach_event","hashes":["be99d30f8172729fce80fd19df47160683e772814d660792d32a434eb4162a30","6abbd33e5a9945086ece89b3fb7caba3ae780c6c37b6c198e5266cc05f8d8a30"],"id":"id-373","last_modified":1779180328844,"schema":1779180257529}
