@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlFreeHeap | ShellExtBridge118.dll | IShellExtInit_Initialize","hashes":["35afd583e50028e818a48232f95c9b14d3a5e93746303365f86a557330673d55"],"id":"id-058","last_modified":1779092734422,"schema":1779092448188}
+{"description":"content (Linux nightly): mozilla::dom::JSActorManager::ReceiveRawMessage","hashes":["94f2bc6e4ee030c418abad2cd51a21203d565d08310cc771e7a78002101543b1","2332d392ce4b3a2e716b97b3e0e0aafb2bab5065fc21544bc18cf17d9e8d2b68"],"id":"id-058","last_modified":1779180327981,"schema":1779180048392}

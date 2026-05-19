@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): mozilla::EnterChroot","hashes":["f6553feff0817d3f366cc21b8fd3b9d68694c0a50d5042e1c5efd058fe884be0"],"id":"id-448","last_modified":1779092733958,"schema":1779092710241}
+{"description":"socket (Mac nightly): arena_t::GetNonFullBinRun | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["ba8d2ea9c44ed2031d4d61761c0e25707c6c14cffed3afa94083d9fd1c539f44"],"id":"id-448","last_modified":1779180327637,"schema":1779180307905}
