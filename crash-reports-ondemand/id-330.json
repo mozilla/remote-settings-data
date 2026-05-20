@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): abort | gpusKillClientExt","hashes":["db3fbba7fc3a9289e085a203aec17915d3b5578dedf3322a05204cde926ebd44"],"id":"id-330","last_modified":1779180328881,"schema":1779180228505}
+{"description":"main (Mac nightly): mozilla::net::nsHttpConnectionMgr::CheckTransInPendingQueue","hashes":["8c1f6d641b8b0624341a23711bbafa758aa3422fe1f91216b52abcd3d4b52482"],"id":"id-330","last_modified":1779266726705,"schema":1779266627736}

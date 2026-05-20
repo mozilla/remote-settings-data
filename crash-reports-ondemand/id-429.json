@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): JS::Zone::shouldMarkInZone","hashes":["d20ef6cd07d0978d01ee591eca74e3118b6396ab2801d71666a01c10ca6931b5","3411e42bf27b52e9aa4b85190f4ae7fea4eacbcc9e466ec6280b3c3e6ddf3378"],"id":"id-429","last_modified":1779180329618,"schema":1779180294181}
+{"description":"content (Mac nightly): JSScript::getScope","hashes":["7d708a01a4ba911bcf997cb3664b1f113f9153fbb9d7d062071f7fc936a8f8ba","5eafc222f129c9d9422e379f4fdd4d4ac1898dbda2bcfa481df8ec7ef32913d3"],"id":"id-429","last_modified":1779266727419,"schema":1779266693361}
