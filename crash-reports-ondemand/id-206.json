@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): nsThreadPool::PutEvent","hashes":["eb1ad6499a7bd50ad2735eb4aebbf30fa0386c1f9b6c2c511eeb2dbbda9d612e","3080ce05ce3fb4f6d5e3c311791fc292490dd1d2f90d9e607752f9efffe7d213"],"id":"id-206","last_modified":1779180327166,"schema":1779180145423}
+{"description":"socket (Windows beta): mozilla::StaticPrefs::InitStaticPrefsFromShared","hashes":["742a4c3a33a9fde1b6b8c9188fe504099fff7f5da84db415abcf35cc25cb7ba0"],"id":"id-206","last_modified":1779266725387,"schema":1779266545614}
