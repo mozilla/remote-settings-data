@@ -1,1 +1,1 @@
-{"description":"utility (Linux release): ld-linux-x86-64.so.2","hashes":["ca00cdde956bfc85e972271e5e51c566e25dbaff1ebe171f86fd0933d0ae8e3a","909236178aae3bbbc1cc191ec13d3807ee498859411201aabdd2703b58216e3d"],"id":"id-401","last_modified":1779266725788,"schema":1779266675178}
+{"description":"content (Linux nightly): servo_arc::Arc<T>::is_static","hashes":["5e58465570a0fc82142be948baa9575f4fe076e2654d063d856de26f8f32dbf6","d6b7ada9170829198ba9456da35886993076bc67d6ad57c627bc0c4f15b3d1c2"],"id":"id-401","last_modified":1779351927072,"schema":1779351877379}

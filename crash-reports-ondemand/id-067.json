@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): servo_arc::Arc<T>::is_static","hashes":["5e58465570a0fc82142be948baa9575f4fe076e2654d063d856de26f8f32dbf6","9e0c58f6d971c542f8b6bf4f8ea1cd246294543a696a6bc8de5a327a82867f54","d6b7ada9170829198ba9456da35886993076bc67d6ad57c627bc0c4f15b3d1c2"],"id":"id-067","last_modified":1779266725737,"schema":1779266453337}
+{"description":"gpu (Android nightly): mozilla::wr::Moz2DRenderCallback","hashes":["a21affd668b17a6e12dfe707ba394f72b1cda04bcc0ffb2bd27de64679980eb3"],"id":"id-067","last_modified":1779351926989,"schema":1779351653772}

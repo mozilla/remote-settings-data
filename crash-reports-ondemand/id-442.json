@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::dom::ClipboardItem::ItemEntry::RejectPendingPromises","hashes":["1ccd6c2901b6e47c4f925fe83ab1e301867e725bad68dff5bf604da3c79949b1"],"id":"id-442","last_modified":1779266725550,"schema":1779266701746}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["05754205d993097039d836074e462b5736665099df2dabe38d6f92eaf5d506ef","14a453f8fd109f65e5de7e6f075cb31059fa8c436e77921209d3cf4ad70ec3b0"],"id":"id-442","last_modified":1779351926734,"schema":1779351904349}
