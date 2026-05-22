@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): mozilla::StaticPrefs::InitStaticPrefsFromShared","hashes":["742a4c3a33a9fde1b6b8c9188fe504099fff7f5da84db415abcf35cc25cb7ba0"],"id":"id-393","last_modified":1779351929126,"schema":1779351871007}
+{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["e59f8ff607b5b8734a35154d4acca5439416562eef00ae982b7221f6bcbd8fff","1a1416390d85fd60896409936722097d7ac65ef39100851cdc328bec10f5b6bc"],"id":"id-393","last_modified":1779435335082,"schema":1779435277860}

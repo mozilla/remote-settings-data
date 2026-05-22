@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): libsystem_kernel.dylib","hashes":["1f56de158fb52e7bdc00e92f0954137119e48935d2514052953a0a3f0b9e363e","78b7da3e5b2d303714a3d2199c308776cf82cf41d9a1b82b67161747e01fc0a5"],"id":"id-171","last_modified":1779351928509,"schema":1779351723227}
+{"description":"gpu (Android nightly): crossbeam_channel::channel::Sender<T>::send","hashes":["10e999f6dbe4b3d0086592d11fc83a454d539995528dc08b665d8742b3f51664"],"id":"id-171","last_modified":1779435334463,"schema":1779435130274}
