@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["7c050b849a700ce9889d4e1ec12067e35756b245c23de6f5877783bdc8b6bfcb","531345341a52c69759a8e9f48bb0aa62d558452ffd70253718d53398905f7e7f"],"id":"id-123","last_modified":1779351926453,"schema":1779351691802}
+{"description":"socket (Linux release): mozilla::InstallSyscallFilter","hashes":["80cdcf61d9e527982304dfe7ce41922c1ecf9446e81f765b93468488282ab43a","1be66c3ca97f78aa16f52700bd10e122b55d964235f85a131f2f8fc52bc191c1"],"id":"id-123","last_modified":1779435332647,"schema":1779435097442}

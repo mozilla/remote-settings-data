@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): gralloc.rogue.so","hashes":["345932854686dd571302b40ef3a6a2acf7630450f413fa5b7ea1a83dc1fd9f64"],"id":"id-433","last_modified":1779351926981,"schema":1779351898578}
+{"description":"socket (Mac release): PR_AtomicIncrement | nssSlot_AddRef | nssToken_GetSlot | nssTrustDomain_GetActiveSlots | nssTrustDomain_FindTrustForCertificate | fill_CERTCertificateFields","hashes":["76f3169f7776198759d46af556b2fc4f26986845861f1355fd809ab5aa2551b6"],"id":"id-433","last_modified":1779435333185,"schema":1779435305472}
