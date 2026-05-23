@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["ede6c83de621cfb77f691b3b7c504f70ccd8d3d9aa24830d410ea8b11f4dd0c0"],"id":"id-127","last_modified":1779435335288,"schema":1779435099982}
+{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["3021c1086c125f0e96b521cded9e7504aeca0a5a57f007cfe93aa13d77a40489","c3f3ba2f509ebb8cd647257a141b1352eabfaa55348611def13e23484a5f0c9f"],"id":"id-127","last_modified":1779522934783,"schema":1779522694599}
