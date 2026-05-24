@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["e59f8ff607b5b8734a35154d4acca5439416562eef00ae982b7221f6bcbd8fff","1a1416390d85fd60896409936722097d7ac65ef39100851cdc328bec10f5b6bc"],"id":"id-446","last_modified":1779522934129,"schema":1779522913503}
+{"description":"rdd (Windows beta): LdrpMapAndSnapDependency","hashes":["164dc79bcd19c7c30dc0473dc41f36677d3778607564fff3c9946811f2fc42de"],"id":"id-446","last_modified":1779611733345,"schema":1779611713072}

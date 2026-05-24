@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::ipc::PortLink::SendMessage","hashes":["976861e9489161422ac6ac196a2a204ceca788759c7cdee59e8818450f762812","6b8800b1f267d04da865dafc54a2177efee5262e0b4525e2fad2123fcb5b56b1"],"id":"id-221","last_modified":1779522934179,"schema":1779522758829}
+{"description":"content (Mac nightly): js::GenericTracerImpl<T>::onScriptEdge","hashes":["248e2c3d8720168a33bf7742f8440dcd5630581b626e67516109491fe3a445f7"],"id":"id-221","last_modified":1779611733389,"schema":1779611560364}

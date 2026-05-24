@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["3021c1086c125f0e96b521cded9e7504aeca0a5a57f007cfe93aa13d77a40489","c3f3ba2f509ebb8cd647257a141b1352eabfaa55348611def13e23484a5f0c9f"],"id":"id-127","last_modified":1779522934783,"schema":1779522694599}
+{"description":"content (Linux beta): CrashChannel::OpenContentStream","hashes":["778babff9c879434bdd8ab5408be511c6b325a17b017609cb7f5803e5682110b"],"id":"id-127","last_modified":1779611734005,"schema":1779611496384}

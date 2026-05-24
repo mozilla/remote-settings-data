@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::dom::JSActorManager::ReceiveRawMessage","hashes":["69d710ea390c08ec07b7fdadede5155a51f9a59d658d6949a471deec8e138db5","d9adf3c887824cecc555c59247ffa4f3351fc924672263a1eae416cd43a23d24"],"id":"id-402","last_modified":1779522934551,"schema":1779522884625}
+{"description":"socket (Linux release): sandbox::bpf_dsl::Arg<T>::Arg","hashes":["0a06e264ae934c34473a32081420427d7ead81006f8da5082469337237e40f90"],"id":"id-402","last_modified":1779611733756,"schema":1779611683609}
