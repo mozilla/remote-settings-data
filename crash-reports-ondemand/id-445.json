@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): _dlerror_run","hashes":["8068d2a25799aa9ecd3066a3adbc70a41bd123755340cf56401b964a9c69339e"],"id":"id-445","last_modified":1779522932439,"schema":1779522912865}
+{"description":"socket (Windows beta): ssl3_DestroyRemoteExtensions | ssl3_DestroySSL3Info | ssl_DestroySocketContents | ssl_NewSocket | ssl_ImportFD | mozilla::TransportLayerDtls::Setup","hashes":["3d04670820e0797f52f63c26378a3544ae7b7a40ec2c763ea87202c4c6f454c5"],"id":"id-445","last_modified":1779611731365,"schema":1779611712409}

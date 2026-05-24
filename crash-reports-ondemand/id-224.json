@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["5e843e4bd4bf2884509f948f4086cfcb92f492d9f1fdab6dbedbe2b80a54ab2c"],"id":"id-224","last_modified":1779522932891,"schema":1779522760837}
+{"description":"socket (Windows beta): mozilla::StaticPrefs::InitStaticPrefsFromShared","hashes":["742a4c3a33a9fde1b6b8c9188fe504099fff7f5da84db415abcf35cc25cb7ba0"],"id":"id-224","last_modified":1779611731924,"schema":1779611562323}
