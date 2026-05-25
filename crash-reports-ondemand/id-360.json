@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::dom::ClipboardItem::ItemEntry::RejectPendingPromises","hashes":["1ccd6c2901b6e47c4f925fe83ab1e301867e725bad68dff5bf604da3c79949b1"],"id":"id-360","last_modified":1779611731669,"schema":1779611654453}
+{"description":"content (Mac nightly): mozilla::ipc::PortLink::SendMessage","hashes":["19da12018dbe7cf1473071fc896c20ee8233164942ee70b85912d3ec98db1656","d0651005a22ad753642d4efa9fcee6dd06e31e42d2b703a652811d345cccda3e"],"id":"id-360","last_modified":1779698730325,"schema":1779698654266}
