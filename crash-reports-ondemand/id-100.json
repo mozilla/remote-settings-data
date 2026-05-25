@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): ZfHookSFDlpPlugin.dll | ZfHookFileMmPlugin.dll | mozilla::interceptor::FuncHook<T>::operator()","hashes":["41d41b329865a4e69412dbf072352552d0254df53ea22285f0bc93cb6838113a"],"id":"id-100","last_modified":1779611732947,"schema":1779611478375}
+{"description":"content (Mac beta): nsAtom::IsStatic","hashes":["46d1618c0514d210ea884b4e8598035be19d7e6c15a1ba56c531226c8d6b7fdb"],"id":"id-100","last_modified":1779698731460,"schema":1779698477472}

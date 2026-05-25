@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): libavcodec.so.62","hashes":["c0554eb660335f11eeee07ff31ad5c7e0cc8be646ad920a05cc09139955d36d1"],"id":"id-447","last_modified":1779611733070,"schema":1779611713725}
+{"description":"socket (Windows beta): ssl3_DestroyRemoteExtensions | ssl3_DestroySSL3Info | ssl_DestroySocketContents | ssl_NewSocket | ssl_ImportFD | mozilla::TransportLayerDtls::Setup","hashes":["3d04670820e0797f52f63c26378a3544ae7b7a40ec2c763ea87202c4c6f454c5"],"id":"id-447","last_modified":1779698731534,"schema":1779698713822}

@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): mozilla::StaticPrefs::InitStaticPrefsFromShared","hashes":["742a4c3a33a9fde1b6b8c9188fe504099fff7f5da84db415abcf35cc25cb7ba0"],"id":"id-224","last_modified":1779611734142,"schema":1779611562323}
+{"description":"content (Mac beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["1f9692db8ba5e700e03860cca3d97c41dcd3379687eedf70b27506af51f8cc6c","2b94fb3555bf299a92379b5fdd48bd34e020d5a59899f320274ca9ba5816458f"],"id":"id-224","last_modified":1779698732394,"schema":1779698560545}
