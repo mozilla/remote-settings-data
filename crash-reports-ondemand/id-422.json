@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): libavutil.so.60","hashes":["06d419101a450119ce1c1a19f30a3e477ae0492919aee633ddb93aa551035db8"],"id":"id-422","last_modified":1779698730358,"schema":1779698696097}
+{"description":"socket (Windows beta): ssl3_DestroyRemoteExtensions | ssl3_DestroySSL3Info | ssl_DestroySocketContents | ssl_NewSocket | ssl_ImportFD | mozilla::TransportLayerDtls::Setup","hashes":["3d04670820e0797f52f63c26378a3544ae7b7a40ec2c763ea87202c4c6f454c5"],"id":"id-422","last_modified":1779783339407,"schema":1779783305583}

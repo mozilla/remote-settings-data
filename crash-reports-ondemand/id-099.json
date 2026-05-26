@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): __CFStringHash","hashes":["276e92c6fd294036ffee00da4112993483952b9a99a9a0bf20477d6fbd880109","48928fe2273368b83c2267f33183e0fa3bc0920d07787d27a90e4f94dda1957c"],"id":"id-099","last_modified":1779698730296,"schema":1779698476828}
+{"description":"socket (Linux release): <bincode::ser::Compound<W, O> as serde_core::ser::SerializeStruct>::serialize_field","hashes":["b72408bc7bd23da2db0e5ca86e40ed7b9b3dbdbff2613dae51c940eafd768b17"],"id":"id-099","last_modified":1779783339340,"schema":1779783078243}
