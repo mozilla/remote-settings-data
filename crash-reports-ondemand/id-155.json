@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["ae4a33bb1e8519de423d3d7d5dcc1f2ef1c998987051f409dbf55bd594b972d3"],"id":"id-155","last_modified":1779698732044,"schema":1779698515021}
+{"description":"utility (Windows nightly): CUniversalSearchBand::sUniversalSearchWndProc","hashes":["48bcea2ce87b0c692838ac6edab2cf8d64c56cbb4b8a1a2248244a4720a51723"],"id":"id-155","last_modified":1779783341430,"schema":1779783116636}
