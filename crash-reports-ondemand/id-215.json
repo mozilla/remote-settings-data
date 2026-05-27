@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::wr::Moz2DRenderCallback","hashes":["67a844215810ffcd182e6ba78a128a6abf643c0c28c11dcd5a90d21e3b149d06"],"id":"id-215","last_modified":1779783341345,"schema":1779783158983}
+{"description":"socket (Linux nightly): mozilla::net::nsHttpConnectionMgr::CheckTransInPendingQueue","hashes":["5b8404daac5ae3f6a079cfafe008812f8729d5a515540702b4ded06ef009cc91"],"id":"id-215","last_modified":1779870932133,"schema":1779870757599}

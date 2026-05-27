@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): <bincode::ser::Compound<W, O> as serde_core::ser::SerializeStruct>::serialize_field","hashes":["b72408bc7bd23da2db0e5ca86e40ed7b9b3dbdbff2613dae51c940eafd768b17"],"id":"id-099","last_modified":1779783340929,"schema":1779783078243}
+{"description":"content (Android beta): <.plt ELF section in libmozglue.so> | mozilla::OffTheBooksMutex::Unlock","hashes":["3c1b5b4f675f4ac53a3c813268fb0b991ac7466fb311903ea6db6e52dc0adf64"],"id":"id-099","last_modified":1779870931738,"schema":1779870679997}
