@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): mozilla::FFmpegVideoDecoder<T>::FFmpegVulkanVideoDecoder::Cleanup","hashes":["caf78888a8a6edc752375e3b5cd2546b443b5a133cfbc3a4d9d541edcea39374"],"id":"id-198","last_modified":1779870932445,"schema":1779870746266}
+{"description":"socket (Linux release): <bincode::ser::Compound<W, O> as serde_core::ser::SerializeStruct>::serialize_field","hashes":["b72408bc7bd23da2db0e5ca86e40ed7b9b3dbdbff2613dae51c940eafd768b17"],"id":"id-198","last_modified":1779957340441,"schema":1779957147431}

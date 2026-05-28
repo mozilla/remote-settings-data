@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): js::ObjectSlots::isSharedEmptySlots","hashes":["31115e9b1ceafcb27b4af2ed45cd30f2cfcca1af0262f49015edfe4d4987381f","774667055b3c188a4d0e167ea00c1cc904454b2bbcae5c562b5de4a33a061816"],"id":"id-160","last_modified":1779870931888,"schema":1779870720155}
+{"description":"content (Linux nightly): mozilla::detail::EntrySlot<T>::isLiveHash","hashes":["d6ad0f623d93f1541cac182ba6ed1cf7ad89a938363132d1f825061d9f3a532d"],"id":"id-160","last_modified":1779957339931,"schema":1779957122498}
