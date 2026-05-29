@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): nsTString<T>::get","hashes":["9590f73968499acbe359d13e95ea5bfe97d0db7e6343888a773ad28b4fa3f4fd","05c03c8124670524589b9aa7724a375f8dcf1903350ab0171bb65ef6e5214e6a"],"id":"id-473","last_modified":1779957340598,"schema":1779957335218}
+{"description":"content (Android beta): mozilla::MozPromise<T>::ChainTo","hashes":["e282709e71ac5c8d40251cb397b67977269d78928e34660fd0f59b8904c0dca0","7a925ee9da03a7ddbb92b50131f5b7748a209c4b48aa0788c3dab445aacafc66"],"id":"id-473","last_modified":1780043136019,"schema":1780043130022}
