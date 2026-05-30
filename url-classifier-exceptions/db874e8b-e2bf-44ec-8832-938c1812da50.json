@@ -1,0 +1,1 @@
+{"bugIds":["2036729"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"db874e8b-e2bf-44ec-8832-938c1812da50","last_modified":1780107010366,"schema":1780049735948,"topLevelUrlPattern":"*://play.usatoday.com/*","urlPattern":"*://*.ex.co/*"}
