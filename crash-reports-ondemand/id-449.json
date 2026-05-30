@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["21b8fa46858e8cc06407ca366379a7811e87d12fcc66554b405662e87210bda1"],"id":"id-449","last_modified":1780043133631,"schema":1780043112834}
+{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValueBase::ResolveOrRejectRunnable::~ResolveOrRejectRunnable","hashes":["cdf888fd2ee11819fb47028ecf3137104be3b0aa1bae80ebc40b5e5d5554e390"],"id":"id-449","last_modified":1780131933414,"schema":1780131912396}
