@@ -1,1 +1,1 @@
-{"description":"rdd (Linux beta): nsThreadPool::PutEvent","hashes":["3013275d6ade79b1e2bb2f1520a392b45b561a95f273d12fb0b1352ae578a6b7","964f3d2df5a643fc3154b799a8f977e9e4ed6628ff3c2ecdbec3d8eb12089459","1c6447d6795b7ad9b000c249ee8b273ee67aef6233da13ba48a631f8fdfdb81b"],"id":"id-454","last_modified":1780043136312,"schema":1780043116103}
+{"description":"gpu (Linux release): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["3a056fb5e64144bc6200c92e90d8fd14cb1353d7b3f65175a05e6d8c7c4def40"],"id":"id-454","last_modified":1780131935381,"schema":1780131915640}

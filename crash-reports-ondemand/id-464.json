@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): __CF_IS_OBJC.cold.1","hashes":["05288dfe2fab9fdd97a34c70c7aa0b0d5b29cc02d945acbdee01251fc9faed3a","448e54448d34d73ddfdcced3fd49541ad910ebfc1cdab912d0c8935f751b769a"],"id":"id-464","last_modified":1780043135435,"schema":1780043122789}
+{"description":"main (Mac nightly): objc_exception_rethrow | -[NSApplication run]","hashes":["fc05642e05ea1c5b3d673f3706b5b204fc1ec8bf98f3dafa783b2bee2f8c92f7"],"id":"id-464","last_modified":1780131934735,"schema":1780131922540}

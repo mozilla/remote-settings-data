@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): <Unknown>","hashes":["5a9887c2e983dabc4364fb04538b5144cc77ab8f4721931d222ed6cec338bd84","78c7811f9c028c6afe4b9daacf5cb3bcf551ed5481cc4ccef6f70aa46de43d16"],"id":"id-115","last_modified":1780043135649,"schema":1780042887111}
+{"description":"gpu (Mac nightly): webrender::renderer::gpu_buffer::GpuBufferBuilderImpl<T>::write_blocks","hashes":["c44e7524438fa572fe211dddddd819f74c534457fbe689365871dc20576f1e9a"],"id":"id-115","last_modified":1780131934974,"schema":1780131687530}
