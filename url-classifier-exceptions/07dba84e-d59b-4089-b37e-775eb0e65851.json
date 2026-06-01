@@ -1,0 +1,1 @@
+{"bugIds":["2035128"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"07dba84e-d59b-4089-b37e-775eb0e65851","last_modified":1780307079883,"schema":1780107009472,"topLevelUrlPattern":"*://shopee.com.br/*","urlPattern":"*://connect.facebook.net/*"}

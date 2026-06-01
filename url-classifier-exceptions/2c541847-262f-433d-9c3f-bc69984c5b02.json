@@ -1,0 +1,1 @@
+{"bugIds":["2034728"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"2c541847-262f-433d-9c3f-bc69984c5b02","last_modified":1780307079889,"schema":1780107009623,"topLevelUrlPattern":"*://www.flinnsci.com/*","urlPattern":"*://cg.optimizely.com/*"}
