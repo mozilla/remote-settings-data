@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): wgpu_core::storage::Storage<T>::remove","hashes":["4d6e3b91b256b2d1da1e56aaee6a8e510253fcba319d8115f7d5bc21513c6e2c"],"id":"id-079","last_modified":1780131935260,"schema":1780131662160}
+{"description":"socket (Mac release): mozilla::net::SocketProcessBackgroundParent::RecvInitWebSocketConnection","hashes":["42816ffe72beb3dff149baa6e2aa05d282f49065b4de6342c436400873242720"],"id":"id-079","last_modified":1780305936373,"schema":1780305662233}

@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): <usize as core::slice::index::SliceIndex<[T]>>::index_mut","hashes":["ff83e267601261a95524cfcc5d133b918d153d350e863e043512b16811d62320"],"id":"id-397","last_modified":1780131934628,"schema":1780131877889}
+{"description":"main (Linux beta): mozilla::widget::WlLogHandler","hashes":["ce9e7088fceb4c8d329c2168c54d408dc83e801ee51d2053df7bce4fb558271a","a9a7aca6912c4b73f0ff817b436c255df187657edfdccce9d68dfd56756fd892"],"id":"id-397","last_modified":1780305935404,"schema":1780305877699}
