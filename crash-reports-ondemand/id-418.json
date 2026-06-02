@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_NOT_AVAILABLE)","hashes":["2ccb97bede510e37e3483e60418326e359a43ccbf9b51c020b1d309cb1d5e8fb"],"id":"id-418","last_modified":1780305936182,"schema":1780305891842}
+{"description":"socket (Mac release): objc_release | _xpc_pipe_mach_msg","hashes":["cce4babd34cda4fc98e5955693d5013d9172e715a37282fd2b20a33584678729"],"id":"id-418","last_modified":1780393539706,"schema":1780393494857}
