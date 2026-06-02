@@ -1,0 +1,1 @@
+{"bugIds":["2041683"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8d25124a-0c18-4b34-86e7-e66aa393c06f","last_modified":1780366215602,"schema":1780366214016,"topLevelUrlPattern":"*://www.duden.de/*","urlPattern":"*://pagead2.googlesyndication.com/*"}

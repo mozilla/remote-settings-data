@@ -1,0 +1,1 @@
+{"bugIds":["2041229"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"61517d65-1fe5-4714-913b-79d7aeedf031","last_modified":1780366215636,"schema":1780366214873,"topLevelUrlPattern":"*://www.edeka.de/*","urlPattern":"*://cdn.tagcommander.com/*"}

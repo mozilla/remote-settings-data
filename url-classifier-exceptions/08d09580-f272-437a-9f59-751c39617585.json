@@ -1,0 +1,1 @@
+{"bugIds":["2042792"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"08d09580-f272-437a-9f59-751c39617585","last_modified":1780366215612,"schema":1780366213677,"topLevelUrlPattern":"*://docs.datadoghq.com/*","urlPattern":"*://*.hotjar.com/*"}
