@@ -1,0 +1,1 @@
+{"bugIds":["2037047"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"17c8bb4a-7411-48c6-9527-dcd6afff0647","last_modified":1780396307189,"schema":1780366215209,"topLevelUrlPattern":"*://vegas.williamhill.com/*","urlPattern":"*://tags.tiqcdn.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2043135"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"10727696-e413-4f42-9f1f-c6510da0145c","last_modified":1780396307220,"schema":1780366213504,"topLevelUrlPattern":"*://checkout.mood.com/*","urlPattern":"*://platform.smile.io/*"}
