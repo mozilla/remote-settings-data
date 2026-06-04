@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["7e3beac1eaa0e1f31039bf1e6807de09c94f9c5193cfb253811358a01cd22f58"],"id":"id-422","last_modified":1780393539930,"schema":1780393497502}
+{"description":"utility (Mac beta): @0x0 | mozilla::ProfilerChild::RecvStop","hashes":["a02eff8b98448b5dc2fe504a8750366fc63232652516032efd408700eb307062"],"id":"id-422","last_modified":1780566312389,"schema":1780566274144}
