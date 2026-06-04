@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["902cb9d85ec6a2c31dde1de6357940ad17aed73053cfa679116928f92f6d36d5"],"id":"id-426","last_modified":1780393538084,"schema":1780393500155}
+{"description":"gpu (Android nightly): libGLESv2_powervr.so","hashes":["0e6808271c0a0b810987be813084c243128619d146087b48dc5c9711a02121ad","ac678c0f0847a711e7071b9ba03a61d8af5c3ccd5fe0c03ff6c566981e433c26"],"id":"id-426","last_modified":1780566310880,"schema":1780566276603}

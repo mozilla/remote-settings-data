@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["a0f731cbd3e5269a9c976aa1b867a3841773aa55e3397ae9d7f2e55966ba5197"],"id":"id-471","last_modified":1780393538330,"schema":1780393531937}
+{"description":"content (Android nightly): mozilla::media::Interval<T>::Interval<T> | mozilla::TrackBuffersManager::RemoveFrames","hashes":["3b59fde81876643d5edc0cc44f5c4eb15c8c9c7c2c27f00fefc8e2ebee36aa79"],"id":"id-471","last_modified":1780566310105,"schema":1780566304396}

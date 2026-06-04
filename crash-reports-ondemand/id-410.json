@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libhwui.so","hashes":["98feaa503fb4c9301922fb6bd73ed164e672aa51db45e462cf573d1518296368"],"id":"id-410","last_modified":1780393537722,"schema":1780393489535}
+{"description":"gpu (Mac nightly): mozilla::gl::GLContext::LockSurface","hashes":["4e0902d5197474a0b42a8b5ec776a92a1f2d398ce54e79d3525f499f1b774d26"],"id":"id-410","last_modified":1780566310641,"schema":1780566266797}
