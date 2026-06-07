@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): nsTArray<T>::~nsTArray | nsTArray<T>::~nsTArray | mozilla::ipc::IPDLAsyncReturnsCallbacks::~IPDLAsyncReturnsCallbacks","hashes":["73f15181481995890db07271e91d97dd3a3547cc1cdf48fd95a26996dc0193db"],"id":"id-417","last_modified":1780656337915,"schema":1780656292135}
+{"description":"rdd (Windows nightly): EtwpFindRegistration","hashes":["49b9423c8aeb1c81f3bbee1472763c8cbcad407d05c74cae2fce7047f213162f"],"id":"id-417","last_modified":1780821920605,"schema":1780821875421}
