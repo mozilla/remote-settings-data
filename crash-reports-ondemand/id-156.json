@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["485216fb481d98ac2fe8a879f533e570c920e0510d638948f2abb607e9186eff"],"id":"id-156","last_modified":1780821918986,"schema":1780821710358}
+{"description":"socket (Windows beta): K32EnumProcessModules","hashes":["0181abc414bda2eb97ee01b85ff1f2ffa2fbb58b97eb74487510fc131bf24bb5"],"id":"id-156","last_modified":1780908321073,"schema":1780908111759}
