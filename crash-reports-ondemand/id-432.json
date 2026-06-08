@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | webrender::renderer::Renderer::draw_frame","hashes":["e2cd52566bcef75bf61f5192730d427811454f5b1393222d1a38fcdb3e208ca7"],"id":"id-432","last_modified":1780821920384,"schema":1780821886457}
+{"description":"main (Mac beta): mozilla::net::DocumentLoadListener::OpenDocument","hashes":["504ee2fc3df4b9280dec623c54e232f85e0d91d70e159517292aaa913453bbdf","e77bb0708ca78eac576de5177f074b85896e7c7c05b521e4697366da792e971e"],"id":"id-432","last_modified":1780908322784,"schema":1780908285645}

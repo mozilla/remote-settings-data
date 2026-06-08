@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): r_assoc_fetch_bucket","hashes":["b80f3b3eb759d4625f0129190e9b45209b7ce60a7723cdc3be6611d06e8cb636"],"id":"id-391","last_modified":1780821920178,"schema":1780821859318}
+{"description":"gpu (Linux release): core::result::unwrap_failed | wgpu_server_pack_free_swap_chain_buffer_ids | mozilla::webgpu::WebGPUParent::SwapChainDrop","hashes":["9e5a457d5c963ef9202c36c5dac94ec24395bee6d7b968f4b44686881a3e1909"],"id":"id-391","last_modified":1780908322577,"schema":1780908260346}
