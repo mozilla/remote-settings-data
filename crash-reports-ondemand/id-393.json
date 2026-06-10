@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["8083cdb136b77727a3ec276c7a16f0d231364d7cdde7e715d7157706e2bd6eb4","91bdc599cdfa18dcfa94fa753f4ea39f070dba0032f870a72ae0e44e188ecad2"],"id":"id-393","last_modified":1780908322770,"schema":1780908261584}
+{"description":"rdd (Mac release): mozilla::LazyLogModule::operator mozilla::LogModule*","hashes":["96779f691a33f68aa4b328ca7881be24a8a4b8d09eae8c3b6608bb3c503c47bd"],"id":"id-393","last_modified":1781084139926,"schema":1781084074071}
