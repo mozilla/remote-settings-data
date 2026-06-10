@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["cfac3f7c35244ef10ed559fb4710ab6b72709fba41679617b16260f11122c03f"],"id":"id-459","last_modified":1780908320878,"schema":1780908303370}
+{"description":"utility (Mac release): objc_opt_class","hashes":["98c17ee65c6195153493f3d35fd6d80f91daa53249d0fd26681694c3cb3d2bc7"],"id":"id-459","last_modified":1781084137997,"schema":1781084117958}
