@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): <unknown in kernel32.pdb>","hashes":["4b1f708436ec034c545af3ffe6142affb7d753fc514d1bc3e12ca02a6314e80d"],"id":"id-340","last_modified":1781084139565,"schema":1781084038147}
+{"description":"gpu (Linux release): wgpu_core::storage::Storage<T>::get","hashes":["8d8925749cc2571240cc2e84d110e3e212210d38440100ed39a38463e3f3be42","a13245e7e501630022a4c1cecf3a980b32cd702da4e460053cc232271ec6e081"],"id":"id-340","last_modified":1781168135289,"schema":1781168041270}
