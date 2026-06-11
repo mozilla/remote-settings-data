@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): GetHandleInformation","hashes":["23d82e0346f01da977db727835044ef715f3ed6817c476475fd6469e34c3c961"],"id":"id-171","last_modified":1781084138106,"schema":1781083924374}
+{"description":"socket (Windows nightly): NtReadFile","hashes":["e2e1cb414fcc96baf83713baccb62a11cef3559b3f0f9cc1d377038554642530"],"id":"id-171","last_modified":1781168133855,"schema":1781167924299}
