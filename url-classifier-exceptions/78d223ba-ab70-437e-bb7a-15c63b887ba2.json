@@ -1,0 +1,1 @@
+{"bugIds":["2045692"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"78d223ba-ab70-437e-bb7a-15c63b887ba2","last_modified":1781274436094,"schema":1781230213517,"topLevelUrlPattern":"*://adele.cnp.fr/*","urlPattern":"*://cdn.tagcommander.com/*"}

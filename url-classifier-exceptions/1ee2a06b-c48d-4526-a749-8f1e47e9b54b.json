@@ -1,0 +1,1 @@
+{"bugIds":["2044903"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1ee2a06b-c48d-4526-a749-8f1e47e9b54b","last_modified":1781274436211,"schema":1781230215329,"topLevelUrlPattern":"*://signup.live.com/*","urlPattern":"*://*.hsprotect.net/*"}

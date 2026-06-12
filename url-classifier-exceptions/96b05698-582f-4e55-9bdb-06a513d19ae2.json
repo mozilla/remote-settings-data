@@ -1,0 +1,1 @@
+{"bugIds":["2045270"],"category":"baseline","classifierFeatures":["tracking-protection","fingerprinting-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"96b05698-582f-4e55-9bdb-06a513d19ae2","last_modified":1781274436069,"schema":1781230213973,"topLevelUrlPattern":"*://tw.istayreal.com/*","urlPattern":"*://*.cdn.91app.com/*"}

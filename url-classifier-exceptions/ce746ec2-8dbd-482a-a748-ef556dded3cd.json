@@ -1,0 +1,1 @@
+{"bugIds":["2044355"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ce746ec2-8dbd-482a-a748-ef556dded3cd","last_modified":1781274436200,"schema":1781230215808,"topLevelUrlPattern":"*://www.hunterfan.com/*","urlPattern":"*://rapid-cdn.yottaa.com/*"}
