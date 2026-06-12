@@ -1,0 +1,1 @@
+{"bugIds":["2044648"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c73ceb50-07da-4214-a650-d6211e82d596","last_modified":1781230216664,"schema":1781230215497,"topLevelUrlPattern":"*://www.princess.com/*","urlPattern":"*://*.optimizely.com/*"}

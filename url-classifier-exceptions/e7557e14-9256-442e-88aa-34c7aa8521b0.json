@@ -1,0 +1,1 @@
+{"bugIds":["2044936"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e7557e14-9256-442e-88aa-34c7aa8521b0","last_modified":1781230216525,"schema":1781230214765,"topLevelUrlPattern":"*://www.fedex.com/*","urlPattern":"*://cdn.optimizely.com/*"}

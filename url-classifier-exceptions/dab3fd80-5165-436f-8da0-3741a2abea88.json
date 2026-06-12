@@ -1,0 +1,1 @@
+{"bugIds":["2045001"],"category":"baseline","classifierFeatures":["tracking-protection","fingerprinting-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"dab3fd80-5165-436f-8da0-3741a2abea88","last_modified":1781230216565,"schema":1781230214115,"topLevelUrlPattern":"*://www.poyabuy.com.tw/*","urlPattern":"*://*.cdn.91app.com/*"}
