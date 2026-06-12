@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): nsComponentManagerImpl::GetServiceLocked(mozilla::Maybe<T>&, (anonymous namespace)::EntryWrapper&, nsID const&, void**)","hashes":["5ab15093e98fb17c923a4999ac8619999fffa4986e8f33bcfc70674dc03fd174"],"id":"id-219","last_modified":1781168133926,"schema":1781167957436}
+{"description":"socket (Mac release): nr_ice_ctx_destroy","hashes":["d224edc4125fe34d267ef475bc0659ab9efd8b670068cb0fb05ef437ac722c5b"],"id":"id-219","last_modified":1781253939798,"schema":1781253762717}

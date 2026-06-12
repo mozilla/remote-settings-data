@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::RemoteMediaManagerParent::CreateForContent","hashes":["da88bb8d5351f9ce78048315d3fd8fed5680b6704129c8c66118df1370a8ade8"],"id":"id-162","last_modified":1781168133377,"schema":1781167918417}
+{"description":"content (Linux nightly): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["ed361629924aa7fdbdc763b0a0cfbf4ddba62d62f18ee21496b8d0c97e9a7c77","096db6b8d7fd6b1f442fb43a3ef068d769c976cbaa0362f3fb05d36e086de694"],"id":"id-162","last_modified":1781253939395,"schema":1781253723882}
