@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["98b4b9ded8384ebf39ed7ef1a45b89f464480d038f68c411ff716cef5c0368f8","5c95337eb8cae7e3b82173b47eef99e3cde72fc9698e98ffaa181b02735c1a4f"],"id":"id-384","last_modified":1781253940036,"schema":1781253873817}
+{"description":"socket (Linux nightly): libc.so.6 | libc.so.6 | libc.so.6 | PollWrapper","hashes":["e7d42cfe122182f989cfd268cfed0b5331e64a1e5787f8b541055f903668d65d"],"id":"id-384","last_modified":1781340936007,"schema":1781340868971}
