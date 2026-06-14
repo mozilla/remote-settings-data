@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["84aed38ddd81771b85af7ef829dd4c74c5403318ba95d67f5ba265cb750251e0"],"id":"id-228","last_modified":1781340937502,"schema":1781340762162}
+{"description":"socket (Windows beta): dlphook64.dll | BaseThreadInitThunk","hashes":["67ce9866b926e3af3b1130329cb5eb76cc03c006091b0bb7a8fd3c79d96b27f6"],"id":"id-228","last_modified":1781426142189,"schema":1781425966730}
