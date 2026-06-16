@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): mozilla::dom::ClipboardItem::ItemEntry::RejectPendingPromises","hashes":["82b457c7ac6621fd8d8e6d470b6103d796f77eb8fc663b36e4d2049f862f9f8e"],"id":"id-443","last_modified":1781426141236,"schema":1781426112435}
+{"description":"content (Android nightly): mozilla::dom::NavigationWaitForAllScope::CommitNavigateEventSuccessSteps | mozilla::dom::Navigation::RunNavigateEventHandlerSteps::$::operator()","hashes":["3fc2a893642d0fa0feecb4348580a2479824e15f12d895a59325710f4d2d4e2c"],"id":"id-443","last_modified":1781601939490,"schema":1781601911258}
