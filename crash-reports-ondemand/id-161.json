@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): nsTArray_Impl<T>::end | mozilla::MozPromise<T>::DispatchAll","hashes":["1a88c8d541ed6b25a7cc08d547b64f7a991f7b752464aad8fe11012f44261c32"],"id":"id-161","last_modified":1781426142349,"schema":1781425920592}
+{"description":"socket (Mac release): mozilla::StaticMutex::Lock","hashes":["e6c2cea84ca3f8f86dcd9665f758a284f429d6a0c7e97a14b38d22f46beab92f","9ce2c9d9ea8d7c940da1e8476f3fac3cef0fc2e0253392626a988345c8fedce8"],"id":"id-161","last_modified":1781601940679,"schema":1781601719191}

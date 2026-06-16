@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["ed361629924aa7fdbdc763b0a0cfbf4ddba62d62f18ee21496b8d0c97e9a7c77","096db6b8d7fd6b1f442fb43a3ef068d769c976cbaa0362f3fb05d36e086de694"],"id":"id-425","last_modified":1781426141753,"schema":1781426100663}
+{"description":"rdd (Windows beta): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["1f1c10148d0e20c9783e561dbd715051f63d9d050d8c59b0b71fea97c3293e80"],"id":"id-425","last_modified":1781601940094,"schema":1781601899174}

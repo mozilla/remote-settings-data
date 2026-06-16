@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gl::GLContext::LockSurface","hashes":["62280b5d73c58aaf4e6196468c08f0dca5e69fc927edb83097fefd43b5bf00f8","a2cfc6b407923e757a8058c9950a0fe74411fb665cfd4f55cbb0cae999430ff0"],"id":"id-375","last_modified":1781426142073,"schema":1781426067545}
+{"description":"gpu (Android nightly): libc.so | libgallium_dri.so","hashes":["28cd29e96776701046aac08b3f5ab5e0767fa414e81d937e6bb56c1b5a4c73e6"],"id":"id-375","last_modified":1781601940411,"schema":1781601864108}

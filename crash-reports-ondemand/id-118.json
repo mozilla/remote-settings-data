@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::SetUpReadableByteStreamController","hashes":["e8699dc7946c2d0c956bf0f838dca67bffa35f4619f414b026c04db60668bc44"],"id":"id-118","last_modified":1781426142226,"schema":1781425891825}
+{"description":"content (Mac nightly): js::GenericTracerImpl<T>::onScriptEdge","hashes":["1a7daa70a15f456295d3b5eab9ae30cf077bbf7b8f86448a4fdf3b104c4e29ea"],"id":"id-118","last_modified":1781601940550,"schema":1781601690702}
