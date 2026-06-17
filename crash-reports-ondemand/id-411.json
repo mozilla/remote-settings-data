@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): nsThreadPool::PutEvent","hashes":["c4d18f3103e4c039938c891a997f377c4650342b55e777d08944c6abb3978bd2"],"id":"id-411","last_modified":1781601938601,"schema":1781601889625}
+{"description":"content (Linux beta): mozilla::detail::InvalidArrayIndex_CRASH | mozilla::Vector<T>::operator[] | js::jit::BytecodeAnalysis::init","hashes":["96752b0dfe076c832078178aeaccc00cdf69a1b6786fd55363ede852a2c0ab72"],"id":"id-411","last_modified":1781686540420,"schema":1781686488929}
