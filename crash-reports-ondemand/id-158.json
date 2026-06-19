@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::ipc::MessageChannel::AssertWorkerThread | mozilla::ipc::MessageChannel::Send | mozilla::ipc::IProtocol::ChannelSend | Mutex::Unlock","hashes":["5c7515f31a03e87cc791436733b7f59c5f0f5209e88ade559e4ab6f84d333c62"],"id":"id-158","last_modified":1781686541034,"schema":1781686317078}
+{"description":"socket (Linux nightly): libc.so.6 | libc.so.6 | libc.so.6 | PollWrapper","hashes":["e7d42cfe122182f989cfd268cfed0b5331e64a1e5787f8b541055f903668d65d"],"id":"id-158","last_modified":1781862946091,"schema":1781862719177}

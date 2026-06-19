@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["0f5151e99905d13ecd470cbb5913d985c4d23118ee67faaedd13fa99707a40ed"],"id":"id-436","last_modified":1781686540451,"schema":1781686505493}
+{"description":"socket (Mac release): mozilla::ipc::NodeChannel::OnMessageReceived","hashes":["63c6ebef9fa2af8667375cdc2d77fd8a9759568182ce607a195c85fdb3aab500"],"id":"id-436","last_modified":1781862945475,"schema":1781862909427}

@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): JSScript::getScope","hashes":["5fdc55b11f7c661329381ac754a7455c09e10eed13e57299d3f70544ad054dee","88c9be2b2f61a353778f4e2df807743fdee98bd24a8aa578c03cbbb22396aeb5"],"id":"id-086","last_modified":1781686540833,"schema":1781686268459}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["0f5151e99905d13ecd470cbb5913d985c4d23118ee67faaedd13fa99707a40ed"],"id":"id-086","last_modified":1781862945869,"schema":1781862669762}

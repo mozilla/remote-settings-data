@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): arena_dalloc | <mozglue_static::GeckoAlloc as core::alloc::global::GlobalAlloc>::dealloc","hashes":["9640f3cab1127ca423d0f2a185a17e36a0bcd1a462322074ca1da520f8857299"],"id":"id-434","last_modified":1781686540997,"schema":1781686504199}
+{"description":"rdd (Mac release): __CF_IS_OBJC","hashes":["bbd9e72c682905b9a590dfd791be0f43992ac36d0555a9c8a17a57acc6f6a0e3","6805121484905932270fd5af84d35fd3be18ca1e38987b776f15063cbe4cd8b6"],"id":"id-434","last_modified":1781862946051,"schema":1781862908100}
