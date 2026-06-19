@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): @0xb1a6a452","hashes":["35072acd6c0ddfa476b102dd0986abac2d45082de50818c136e23c6ae5bbd6b6"],"id":"id-455","last_modified":1781686542388,"schema":1781686517861}
+{"description":"content (Android nightly): mozilla::media::Interval<T>::Interval<T> | mozilla::TrackBuffersManager::RemoveFrames","hashes":["45b94e58088e7e5d3252405db817974fc22ac0647014a15887c0f85d9374857f","0272cec7f60e6861c6b33ef269094a58d660a95aa22d0ec2ef897a8df71529a8"],"id":"id-455","last_modified":1781862947735,"schema":1781862921807}

@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): <core::ops::range::Range<usize> as core::slice::index::SliceIndex<[T]>>::index_mut | webrender::visibility::update_prim_visibility","hashes":["c0f7c8ef2c96d0f7e6765f7397a8061d61a544e01eb287c75253149e56ed01c3"],"id":"id-398","last_modified":1781686542165,"schema":1781686479185}
+{"description":"gpu (Linux nightly): NvGlEglGetFunctions","hashes":["3581ef60ae058724701511c172450af10be8f5d5ce4758613f84d6d56eacfc14"],"id":"id-398","last_modified":1781862947500,"schema":1781862882214}
