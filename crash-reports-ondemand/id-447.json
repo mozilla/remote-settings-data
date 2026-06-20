@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): PtrInfo::WasTraversed","hashes":["64e256c5cd43b490e3c642201878789d78a1870f17a1720ea1871b71c49d536a"],"id":"id-447","last_modified":1781862947819,"schema":1781862916586}
+{"description":"content (Android nightly): mozilla::ipc::SentinelReadError | mozilla::dom::PContentChild::OnMessageReceived","hashes":["1a356bfb323141ed2d6b4858eaacbbcbee929a83ffa737129b54db1d5ec3680a"],"id":"id-447","last_modified":1781949912842,"schema":1781949890365}

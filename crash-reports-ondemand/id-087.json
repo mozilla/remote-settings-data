@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["9bcc4ce5a9f1d33e7811dc07bf2ca84d34d022aa001709d3f400fd745d44fa60"],"id":"id-087","last_modified":1781862947428,"schema":1781862670417}
+{"description":"gpu (Linux release): <core::ops::range::Range<usize> as core::slice::index::SliceIndex<[T]>>::index_mut | webrender::visibility::update_prim_visibility","hashes":["c0f7c8ef2c96d0f7e6765f7397a8061d61a544e01eb287c75253149e56ed01c3"],"id":"id-087","last_modified":1781949912519,"schema":1781949664410}
