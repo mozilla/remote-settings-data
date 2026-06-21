@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["1e813eb4e11987d07102678bba06dead9aafb88c8db3293f7315fe53b51b60c2"],"id":"id-164","last_modified":1781949911779,"schema":1781949712697}
+{"description":"gpu (Mac nightly): wgpu_core::indirect_validation::draw::calculate_src_offsets","hashes":["680ac5f83b6edbe2b3e802d833d989aa4a2417bcac97e98453ef3956a592ae01"],"id":"id-164","last_modified":1782033934684,"schema":1782033720397}
