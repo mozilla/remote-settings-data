@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): EnterJit","hashes":["76533a69e36b2b783e47bf7f172b28b21cf0a8ee8eb156eeef4282542d2dcc2e","5a807c0fed456c102697fa5ed673eda2a56d4c542eb60145ae6cf9d8979c35a7"],"id":"id-375","last_modified":1781949912608,"schema":1781949844707}
+{"description":"gpu (Android beta): mozilla::gl::GLContext::LockSurface","hashes":["bdd958301f1eb71a71b1beb71df43b4ed3d9cae204ddefbd5c925c7f51dcb53f","dc1ad0f1b0cd1d13e7dff67097f5f744c79880f4321daf77591f15e37d44b254"],"id":"id-375","last_modified":1782033935496,"schema":1782033862803}
