@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): mozilla::StaticPrefs::InitStaticPrefsFromShared","hashes":["d8e2c6964859535d82addbc37606dc3e9ffc81dd1b524e25f85c8342f8106e26"],"id":"id-050","last_modified":1782033934048,"schema":1782033642095}
+{"description":"socket (Mac release): once_cell::imp::OnceCell<T>::is_initialized","hashes":["8acccc6df997d6c0468079dd352f33dc0ea299ed08e8c76dc703d3aa834c86c1"],"id":"id-050","last_modified":1782116134383,"schema":1782115841535}
