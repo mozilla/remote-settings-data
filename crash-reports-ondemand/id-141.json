@@ -1,1 +1,1 @@
-{"description":"socket (Mac nightly): objc_msgSend | -[__NSDictionaryM __setObject:forKey:]","hashes":["121124e0f530b69e4d8f140178d12108814ee41930fccc61853d6f07d89503c7"],"id":"id-141","last_modified":1782033935630,"schema":1782033703754}
+{"description":"content (Mac beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["aa372f88bb4e0f910b3fb5f02dee0448e17d2243096ca4e06d3457e2b2d53eaf","c8266666c6e91ce6acf355f9f884493dc9bd10c0f05892a8b60e901689b3fe63"],"id":"id-141","last_modified":1782116137410,"schema":1782115903255}
