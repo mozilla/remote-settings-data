@@ -1,0 +1,1 @@
+{"additional_components":[],"feature":"smart-cursor-explain","id":"smart-cursor-explain--qwen3-235b-a22b-instruct-2507-maas--v1","is_default":true,"last_modified":1782151635306,"model":"qwen3-235b-a22b-instruct-2507-maas","parameters":"{}","prompts":"Explain this: {textSelection}","schema":1781719562560,"version":"1.0"}
