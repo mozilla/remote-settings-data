@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["6bef20a40d2a21e0fcd685d34b414810a7230bfd3e4de309d607523772eddc5f"],"id":"id-228","last_modified":1782116137335,"schema":1782115961995}
+{"description":"content (Android beta): mozilla::media::Interval<T>::Interval<T> | mozilla::TrackBuffersManager::RemoveFrames","hashes":["cc4c8dd41a90515c709a65dfbe2f84574c0e82aa76052f142387a96ddc93a55f","88d5a4214b7649b4d29f05f5b58ad5da70441858daf5103359043584c976387e"],"id":"id-228","last_modified":1782204936541,"schema":1782204764430}
