@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): js::gc::MarkingTracerT<T>::eagerlyMarkChildren","hashes":["a86aab7141bc1e89d5efd631e33f97a9366cb8e855d94f27d236b4e70258d9fd"],"id":"id-313","last_modified":1782116135929,"schema":1782116020077}
+{"description":"content (Mac beta): js::jit::ICStub::resetEnteredCount","hashes":["d101187b4743cea040e617387157cc49a8cc92c5854b86048d11e79e3c72bea5"],"id":"id-313","last_modified":1782204935663,"schema":1782204820891}
