@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::jit::ICStub::resetEnteredCount","hashes":["d101187b4743cea040e617387157cc49a8cc92c5854b86048d11e79e3c72bea5"],"id":"id-313","last_modified":1782204937098,"schema":1782204820891}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["754a4271534a52be1e4b4a8f3db8125c47111d78e1db86004b8d83fac5b95bfe","7b6185e7804e3c666a362e6cb8c588b6a3d959d7616264141ee8389cdd2e3c03"],"id":"id-313","last_modified":1782296736854,"schema":1782296623214}
