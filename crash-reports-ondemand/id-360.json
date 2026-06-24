@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): pthread_kill | libsystem_c.dylib","hashes":["ec6eb1d4447c4042fa149090db4e201b91439b8c61c6a71f653a0541b52f0424","26febfc604228e5fe9771410377f0b242d992c9a3ce2942a5d26880b5f28ac2d"],"id":"id-360","last_modified":1782204935121,"schema":1782204853554}
+{"description":"utility (Mac release): mozilla::BufferList<T>::IterImpl::RemainingInSegment","hashes":["f42a959d4d4cd95582368bced5d8bd241b24034453dd8e555c2b0431f2b25d0e"],"id":"id-360","last_modified":1782296735186,"schema":1782296656351}
