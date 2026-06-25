@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.co.in","id":"a23fb2c8-3d8d-415d-bfff-8bbea9d90b9e","isBaseline":false,"last_modified":1774357016600,"overrides":"-CanvasRandomization","schema":1774353517855}
+{"firstPartyDomain":"google.co.in","id":"a23fb2c8-3d8d-415d-bfff-8bbea9d90b9e","isBaseline":false,"last_modified":1782394397529,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782393729806}
