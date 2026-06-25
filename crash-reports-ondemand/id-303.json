@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::MozPromise<T>::ThenCommand<T>::~ThenCommand","hashes":["b14d202759d2663f24ceaa3cb34e999395b27f4e6d8d66496aec362c53536ceb"],"id":"id-303","last_modified":1782296735608,"schema":1782296616602}
+{"description":"content (Mac beta): servo_arc::Arc<T>::is_static","hashes":["22ffac59b3090322fd9a01a46231d483b6f4a896513064d4cab78b17c790a5b5"],"id":"id-303","last_modified":1782375928406,"schema":1782375814356}

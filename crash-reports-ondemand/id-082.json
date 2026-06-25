@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["1fdb55a2e8d86ca56f9346468e527fe2287de3968508d13d8ac78ebdf6842868"],"id":"id-082","last_modified":1782296735661,"schema":1782296465215}
+{"description":"content (Android nightly): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["d978e2f60b064957f427589a2fb1f95ddf728a26dbf391d293d1b464cdcef2e2","c18eee09a6ff6d298541c014c20d288fa22f384ef6918d1fd078f33e23950aed"],"id":"id-082","last_modified":1782375928373,"schema":1782375665620}

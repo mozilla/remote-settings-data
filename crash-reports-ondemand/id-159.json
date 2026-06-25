@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["3851f2198819ad9a22f28ef02d2c92612507b023d2487cd006c3604566a07df7"],"id":"id-159","last_modified":1782296735010,"schema":1782296518973}
+{"description":"socket (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["0be499c944c505bf24b13d86c929393f09d43f404cd224d61be24542f81bf59b"],"id":"id-159","last_modified":1782375927747,"schema":1782375715869}
