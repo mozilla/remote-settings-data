@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.com.au","id":"485e413c-f476-4933-97d0-b3fd48bcd3d3","isBaseline":false,"last_modified":1774355850715,"overrides":"-CanvasRandomization","schema":1774353544351}
+{"firstPartyDomain":"google.com.au","id":"485e413c-f476-4933-97d0-b3fd48bcd3d3","isBaseline":false,"last_modified":1782394182106,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782393479839}

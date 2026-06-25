@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.lv","id":"ee5307cd-37b4-414b-b629-193118c0489d","isBaseline":false,"last_modified":1774355850498,"overrides":"-CanvasRandomization","schema":1774353509559}
+{"firstPartyDomain":"google.lv","id":"ee5307cd-37b4-414b-b629-193118c0489d","isBaseline":false,"last_modified":1782394181994,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782393804245}
