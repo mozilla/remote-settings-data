@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): js::gc::ChunkMarkBitmap::markIfUnmarked","hashes":["4d1f5c9eb9a0ac430bb79106f9860841b107983aa78d5e2f488d44cbf3042546","aae1d4ca97d4d587d7254e4201eebcff142f4c683dd8abcca2d7fa8e42dca0a1"],"id":"id-330","last_modified":1782296736367,"schema":1782296634822}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["278dbf3a347cde2a8a524c4b9076c9ea98970aea160b8362709db0868b0221c6"],"id":"id-330","last_modified":1782375929341,"schema":1782375831935}
