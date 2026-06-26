@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): mozilla::dom::ContentParent::StorePendingLoadState","hashes":["4730f14f4bd6d0c8fb59d9c9cce982cc646deaf72cec1700aad9a57cbe3f5543","50e7cdf9d2c36703dbae663adad72bb1d56c736cf66e7de62f8960e73c063ed4"],"id":"id-396","last_modified":1782375927887,"schema":1782375877148}
+{"description":"content (Linux beta): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["cf9cbe793b4da6bb0c5cb47d5863b247920657e952a4c238490bb5ae684f2f36"],"id":"id-396","last_modified":1782462310711,"schema":1782462262905}
