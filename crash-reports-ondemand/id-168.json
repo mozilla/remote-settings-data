@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::gl::GLContext::LockSurface","hashes":["dc1ad0f1b0cd1d13e7dff67097f5f744c79880f4321daf77591f15e37d44b254"],"id":"id-168","last_modified":1782375929508,"schema":1782375721930}
+{"description":"gpu (Android nightly): libc.so | libGLESv2_mtk.so","hashes":["c599ed7ffe869f7cc17d0a50184e8aae7b2fb5eed022ef333b6b49adb02269ca","4c1b28fd36fee9fbab8dc30d16ee362c433c75c281640d983f3376ae82d1f7dc","06d61845312477064bed21a36194c20b6d27b4136cca439269bff6ffe16e45d1"],"id":"id-168","last_modified":1782462311959,"schema":1782462118452}
