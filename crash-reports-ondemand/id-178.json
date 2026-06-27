@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): <unknown in firefox.pdb>","hashes":["3f7c17f03a9d5df774d0ca26b651d70e696a94ca2eed202bcdd7624e7b586e44","f9c4055c102ed7357a9bb8ad4595815cb9597d489ce7f3b3ffe3ce5ea0f437e5"],"id":"id-178","last_modified":1782462310488,"schema":1782462124662}
+{"description":"content (Linux beta): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["cf9cbe793b4da6bb0c5cb47d5863b247920657e952a4c238490bb5ae684f2f36"],"id":"id-178","last_modified":1782550524607,"schema":1782550325403}
