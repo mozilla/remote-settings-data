@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): js::PropMap::lookup","hashes":["caddece37aa86d316bc31079dc6f8b74487fd209fc3b9862a227c3220eecc429"],"id":"id-469","last_modified":1782550525608,"schema":1782550517578}
+{"description":"content (Android beta): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["2d11a9ed23445d8b2325331447200fe64de1626465fca757d0598a136bb854bd"],"id":"id-469","last_modified":1782636339674,"schema":1782636330718}
