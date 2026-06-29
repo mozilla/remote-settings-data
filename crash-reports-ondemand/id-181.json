@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["371b8f3c95ddc1ddd924aec72afef658a2666b117ba1e70d119963826c92bfcc","5d3141a202f457b199d134b2883206929ca9d0689f12c3547e49a4fcebf8c6b7"],"id":"id-181","last_modified":1782636341262,"schema":1782636133291}
+{"description":"content (Mac beta): mozilla::extensions::StreamFilterParent::Init","hashes":["60cd92522add9fb1d93fdc33f5077201cf2435fd71270d7c65ae7fc8ae7f0f89"],"id":"id-181","last_modified":1782720915756,"schema":1782720721772}

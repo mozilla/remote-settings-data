@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): CDevice::SetMultithreadProtected","hashes":["04f868308cd9c4a79a432ee1399e664972bad7f458bbcd54aa482f35cfd166c4"],"id":"id-228","last_modified":1782636340889,"schema":1782636164660}
+{"description":"gpu (Linux release): core::option::expect_failed | <alloc::vec::Vec<T> as alloc::vec::spec_from_iter_nested::SpecFromIterNested<T, I>>::from_iter","hashes":["99d95337ac9d61445f4d5e1181c95513a1e54488fad4521cf12f658bf4ffe337"],"id":"id-228","last_modified":1782720915303,"schema":1782720752129}

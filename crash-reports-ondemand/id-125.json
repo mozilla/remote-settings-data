@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gl::AndroidSharedBlitGL::~AndroidSharedBlitGL","hashes":["4802f8e69aaaf481c5d2e27978164fb0fe1ef4b822e6aa075dfcb1fa00439cd4","df26adce8939ce8418b5193b4cf8529edf884094a195d395178700d66d37d299"],"id":"id-125","last_modified":1782636340769,"schema":1782636094543}
+{"description":"gpu (Android beta): libc.so | webrender::renderer::Renderer::draw_frame","hashes":["aec58e87cfd5771f49a40e9b450aed2bdae0d937feda425055be92d2ead1ae05"],"id":"id-125","last_modified":1782720915150,"schema":1782720686879}
