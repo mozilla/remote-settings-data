@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended","hashes":["5b47e7ac45e40937da61cc13cc8dd60e9240bd9d5d6a16cc15d86389271067eb"],"id":"id-456","last_modified":1782636340058,"schema":1782636321958}
+{"description":"rdd (Windows beta): stackoverflow | RtlpFindNextActivationContextSection | RtlFindActivationContextSectionGuid | FindActCtxSectionGuidWorker","hashes":["22410150f2bb9d697312caba99a05c8bd32be1995e9a0941cd9fd6f4e0aa9b60"],"id":"id-456","last_modified":1782720914100,"schema":1782720898755}

@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["0def774ec3b062218a60d86f17f9eed0a6fd16c897f780d8f696397c5288c06a","04a78fd79fa8c81ce01f1d99d25810c88d55493e3a30a095092c3118f7d1aff7"],"id":"id-447","last_modified":1782636339810,"schema":1782636315970}
+{"description":"gpu (Android beta): libc.so | libusc.so","hashes":["887250bdb7f57460b04b4f25e020ad74a5bac5f56b4508babf61a1cb00721b27"],"id":"id-447","last_modified":1782720913812,"schema":1782720892578}

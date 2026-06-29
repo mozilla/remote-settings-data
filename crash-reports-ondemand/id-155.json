@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): JSScript::getScope","hashes":["dd35f1bf8dd9913cc1ff718095dcb80a87730a23b45f1e28a0b1bf97ff5b36bf","77c3aaa39fca45ab446d474099bbb66a92565c42554cc98661fffacc5ce39a6e","cd83011f1a8a826a50e9ae3d18fcf5ffd8972d0e484cbd988435c746d93d5b5e"],"id":"id-155","last_modified":1782636339504,"schema":1782636114468}
+{"description":"content (Android nightly): JS::Heap<T>::exposeToActiveJS","hashes":["178ea76bc7b760194efb666012710239973e6187b6ff95ed05260072f4321de9"],"id":"id-155","last_modified":1782720913457,"schema":1782720705627}
