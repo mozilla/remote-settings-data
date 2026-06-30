@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::StyleAtom::IsStatic","hashes":["06dae9a6966bab7555ca7f07c66041b00c7da752ada227636dc7a5a8b96cb363"],"id":"id-217","last_modified":1782720914295,"schema":1782720745299}
+{"description":"content (Android beta): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["2d11a9ed23445d8b2325331447200fe64de1626465fca757d0598a136bb854bd","c822482efe54f42597f40161fca7db9389152d642ffc392914f5596713eb516c"],"id":"id-217","last_modified":1782808102492,"schema":1782807836256}

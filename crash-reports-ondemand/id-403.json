@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): JS::MutableHandle<T>::set","hashes":["092a42dd794e949d0c8a120eaba60f7806daf14a61a7ee0e6b03e00598573a03"],"id":"id-403","last_modified":1782720914217,"schema":1782720864556}
+{"description":"content (Mac beta): <servo_arc::Arc<T> as core::clone::Clone>::clone","hashes":["396fce840f63ebbfbe4f708590a9cd5e5d3f6276705493ea46cc85ca5fc7c936"],"id":"id-403","last_modified":1782808102439,"schema":1782808027615}
