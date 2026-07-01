@@ -1,0 +1,1 @@
+{"feature":"browser-context","id":"browser-context--tab--generic--v1","kind":"module","last_modified":1782943505334,"model":"generic","module":"tab","prompts":"This is my active tab:\nURL: {url}\nPage title: {title}\nDescription: {description}","schema":1782331669779,"version":"1.0"}

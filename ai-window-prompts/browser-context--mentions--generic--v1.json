@@ -1,0 +1,1 @@
+{"feature":"browser-context","id":"browser-context--mentions--generic--v1","kind":"module","last_modified":1782943505331,"model":"generic","module":"mentions","prompts":"I want you to pay special attention to this list of @mentioned tabs:\n{contextUrls}","schema":1782331669779,"version":"1.0"}
