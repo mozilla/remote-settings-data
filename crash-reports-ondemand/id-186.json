@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): mozilla::net::PSocketProcessChild::SendUpdateChildScalars","hashes":["6eb8d33372befc07764fbc450c7723ede8376791e64e7c1425ff72e2b970f9d1"],"id":"id-186","last_modified":1782808101866,"schema":1782807805312}
+{"description":"content (Mac nightly): abort | std::sys::pal::unix::abort_internal | std::process::abort | style::stylist::CascadeData::add_styles","hashes":["0d84128b139ccccf84b392a60135c539dd88bcd9a09e89f127a28bb968daad1a"],"id":"id-186","last_modified":1782895089161,"schema":1782894796840}
