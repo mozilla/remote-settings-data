@@ -1,1 +1,0 @@
-{"feature":"chat","id":"chat--params--mistral-small-2603--v8","is_default":false,"kind":"params","last_modified":1782943505375,"model":"mistral-small-2603","owner_name":"Mistral","parameters":"{\"temperature\": 1.0}","purpose":"chat","schema":1782331669779,"service_type":"ai","version":"8.0"}

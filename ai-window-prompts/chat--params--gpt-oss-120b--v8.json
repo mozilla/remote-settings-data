@@ -1,1 +1,0 @@
-{"feature":"chat","id":"chat--params--gpt-oss-120b--v8","is_default":false,"kind":"params","last_modified":1782943505373,"model":"gpt-oss-120b","model_choice_id":"3","owner_name":"OpenAI","parameters":"{\"temperature\": 1.0}","purpose":"chat","schema":1782331669779,"service_type":"ai","version":"8.0"}

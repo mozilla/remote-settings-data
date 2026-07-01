@@ -1,1 +1,0 @@
-{"feature":"chat","id":"chat--params--generic--v8","is_default":false,"kind":"params","last_modified":1782943505370,"model":"generic","model_choice_id":"0","owner_name":"","parameters":"{\"temperature\": 1.0}","purpose":"chat","schema":1782331669779,"service_type":"ai","version":"8.0"}
