@@ -1,1 +1,1 @@
-{"cities":[{"code":"JNB","name":"South Africa","servers":[{"hostname":"jnb70.m1.fastly-masque.net","port":2499}]}],"code":"ZA","id":"4577b7c8-f875-4a01-ab24-c4c38b61bfdc","last_modified":1780941989706,"name":"South Africa","schema":1780495245988}
+{"cities":[{"code":"JNB","name":"South Africa","servers":[{"hostname":"jnb70.m1.fastly-masque.net","port":2499}]}],"code":"ZA","filter_expression":"env.country != \"CN\"","id":"4577b7c8-f875-4a01-ab24-c4c38b61bfdc","last_modified":1782919209309,"name":"South Africa","schema":1782904314872}

@@ -1,1 +1,1 @@
-{"cities":[{"code":"CPH","name":"Denmark","servers":[{"hostname":"cph232.m1.fastly-masque.net","port":2499}]}],"code":"DK","id":"54273e95-3642-4e49-a1a9-d94471356c0a","last_modified":1780941989731,"name":"Denmark","schema":1780495241272}
+{"cities":[{"code":"CPH","name":"Denmark","servers":[{"hostname":"cph232.m1.fastly-masque.net","port":2499}]}],"code":"DK","filter_expression":"env.country != \"CN\"","id":"54273e95-3642-4e49-a1a9-d94471356c0a","last_modified":1782919209335,"name":"Denmark","schema":1782904405672}

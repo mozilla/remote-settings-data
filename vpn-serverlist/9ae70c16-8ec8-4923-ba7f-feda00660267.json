@@ -1,1 +1,1 @@
-{"cities":[{"code":"SCL","name":"Chile","servers":[{"hostname":"scl222.m1.fastly-masque.net","port":2499}]}],"code":"CL","id":"9ae70c16-8ec8-4923-ba7f-feda00660267","last_modified":1780941989729,"name":"Chile","schema":1780495240921}
+{"cities":[{"code":"SCL","name":"Chile","servers":[{"hostname":"scl222.m1.fastly-masque.net","port":2499}]}],"code":"CL","filter_expression":"env.country != \"CN\"","id":"9ae70c16-8ec8-4923-ba7f-feda00660267","last_modified":1782919209333,"name":"Chile","schema":1782904410385}

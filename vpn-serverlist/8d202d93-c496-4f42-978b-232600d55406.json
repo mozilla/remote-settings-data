@@ -1,1 +1,1 @@
-{"cities":[{"code":"BKK","name":"Thailand","servers":[{"hostname":"bkk231.m1.fastly-masque.net","port":2499}]}],"code":"TH","id":"8d202d93-c496-4f42-978b-232600d55406","last_modified":1780941989747,"name":"Thailand","schema":1780495245675}
+{"cities":[{"code":"BKK","name":"Thailand","servers":[{"hostname":"bkk231.m1.fastly-masque.net","port":2499}]}],"code":"TH","filter_expression":"env.country != \"CN\"","id":"8d202d93-c496-4f42-978b-232600d55406","last_modified":1782919209401,"name":"Thailand","schema":1782904329699}

@@ -1,1 +1,1 @@
-{"cities":[{"code":"KUL","name":"Malaysia","servers":[{"hostname":"kul98.m1.fastly-masque.net","port":2499}]}],"code":"MY","id":"3c1f82b9-d068-48fa-bc66-30b445ea7d0b","last_modified":1780941989720,"name":"Malaysia","schema":1780495243287}
+{"cities":[{"code":"KUL","name":"Malaysia","servers":[{"hostname":"kul98.m1.fastly-masque.net","port":2499}]}],"code":"MY","filter_expression":"env.country != \"CN\"","id":"3c1f82b9-d068-48fa-bc66-30b445ea7d0b","last_modified":1782919209323,"name":"Malaysia","schema":1782904379213}

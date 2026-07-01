@@ -1,1 +1,1 @@
-{"cities":[{"code":"BRU","name":"Belgium","servers":[{"hostname":"bru148.m1.fastly-masque.net","port":2499}]}],"code":"BE","id":"67eb29a7-339c-458b-9dbd-1b82b222702e","last_modified":1780941989723,"name":"Belgium","schema":1780495240340}
+{"cities":[{"code":"BRU","name":"Belgium","servers":[{"hostname":"bru148.m1.fastly-masque.net","port":2499}]}],"code":"BE","filter_expression":"env.country != \"CN\"","id":"67eb29a7-339c-458b-9dbd-1b82b222702e","last_modified":1782919209326,"name":"Belgium","schema":1782904419544}

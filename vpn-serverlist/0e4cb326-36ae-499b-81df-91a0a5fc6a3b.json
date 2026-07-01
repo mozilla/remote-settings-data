@@ -1,1 +1,1 @@
-{"cities":[{"code":"WSAT","name":"Singapore","servers":[{"hostname":"wsat188.m1.fastly-masque.net","port":2499}]}],"code":"SG","id":"0e4cb326-36ae-499b-81df-91a0a5fc6a3b","last_modified":1780941989745,"name":"Singapore","schema":1780495245362}
+{"cities":[{"code":"WSAT","name":"Singapore","servers":[{"hostname":"wsat188.m1.fastly-masque.net","port":2499}]}],"code":"SG","filter_expression":"env.country != \"CN\"","id":"0e4cb326-36ae-499b-81df-91a0a5fc6a3b","last_modified":1782919209398,"name":"Singapore","schema":1782904335380}

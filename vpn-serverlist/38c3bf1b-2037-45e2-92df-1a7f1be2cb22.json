@@ -1,1 +1,1 @@
-{"cities":[{"code":"MMQT","name":"Mexico","servers":[{"hostname":"mmqt107.m1.fastly-masque.net","port":2499}]}],"code":"MX","id":"38c3bf1b-2037-45e2-92df-1a7f1be2cb22","last_modified":1781540828531,"name":"Mexico","schema":1781514044815}
+{"cities":[{"code":"MMQT","name":"Mexico","servers":[{"hostname":"mmqt107.m1.fastly-masque.net","port":2499}]}],"code":"MX","filter_expression":"env.country != \"CN\"","id":"38c3bf1b-2037-45e2-92df-1a7f1be2cb22","last_modified":1782919209406,"name":"Mexico","schema":1782904287909}

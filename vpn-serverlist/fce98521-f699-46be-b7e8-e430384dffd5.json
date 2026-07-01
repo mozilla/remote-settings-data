@@ -1,1 +1,1 @@
-{"cities":[{"code":"LIS","name":"Portugal","servers":[{"hostname":"lis149.m1.fastly-masque.net","port":2499}]}],"code":"PT","id":"fce98521-f699-46be-b7e8-e430384dffd5","last_modified":1780941989710,"name":"Portugal","schema":1780495244520}
+{"cities":[{"code":"LIS","name":"Portugal","servers":[{"hostname":"lis149.m1.fastly-masque.net","port":2499}]}],"code":"PT","filter_expression":"env.country != \"CN\"","id":"fce98521-f699-46be-b7e8-e430384dffd5","last_modified":1782919209314,"name":"Portugal","schema":1782904351853}

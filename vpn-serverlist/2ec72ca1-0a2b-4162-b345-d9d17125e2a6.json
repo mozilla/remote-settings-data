@@ -1,1 +1,1 @@
-{"cities":[{"code":"LETO","name":"Spain","servers":[{"hostname":"leto235.m1.fastly-masque.net","port":2499}]}],"code":"ES","id":"2ec72ca1-0a2b-4162-b345-d9d17125e2a6","last_modified":1780941989718,"name":"Spain","schema":1780495241561}
+{"cities":[{"code":"LETO","name":"Spain","servers":[{"hostname":"leto235.m1.fastly-masque.net","port":2499}]}],"code":"ES","filter_expression":"env.country != \"CN\"","id":"2ec72ca1-0a2b-4162-b345-d9d17125e2a6","last_modified":1782919209321,"name":"Spain","schema":1782904401187}

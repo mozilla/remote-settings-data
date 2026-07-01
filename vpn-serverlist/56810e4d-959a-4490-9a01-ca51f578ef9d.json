@@ -1,1 +1,1 @@
-{"cities":[{"code":"OSL","name":"Norway","servers":[{"hostname":"osl65.m1.fastly-masque.net","port":2499}]}],"code":"NO","id":"56810e4d-959a-4490-9a01-ca51f578ef9d","last_modified":1780941989727,"name":"Norway","schema":1780495243947}
+{"cities":[{"code":"OSL","name":"Norway","servers":[{"hostname":"osl65.m1.fastly-masque.net","port":2499}]}],"code":"NO","filter_expression":"env.country != \"CN\"","id":"56810e4d-959a-4490-9a01-ca51f578ef9d","last_modified":1782919209330,"name":"Norway","schema":1782904368517}
