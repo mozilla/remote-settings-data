@@ -1,1 +1,1 @@
-{"cities":[{"code":"MUC","name":"Germany","servers":[{"hostname":"muc139.m1.fastly-masque.net","port":2499}]}],"code":"DE","id":"3c355687-d26a-4932-936f-f6a46eeb4188","last_modified":1780495349417,"name":"Germany","schema":1780495246897}
+{"cities":[{"code":"MUC","name":"Germany","servers":[{"hostname":"muc139.m1.fastly-masque.net","port":2499}]}],"code":"DE","filter_expression":"env.country != \"CN\"","id":"3c355687-d26a-4932-936f-f6a46eeb4188","last_modified":1782904476574,"name":"Germany","schema":1782904305938}

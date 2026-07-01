@@ -1,1 +1,1 @@
-{"cities":[{"code":"ESSB","name":"Sweden","servers":[{"hostname":"essb127.m1.fastly-masque.net","port":2499}]}],"code":"SE","id":"1e901322-389a-41dd-8408-9a88ea229362","last_modified":1780495349483,"name":"Sweden","schema":1780495245017}
+{"cities":[{"code":"ESSB","name":"Sweden","servers":[{"hostname":"essb127.m1.fastly-masque.net","port":2499}]}],"code":"SE","filter_expression":"env.country != \"CN\"","id":"1e901322-389a-41dd-8408-9a88ea229362","last_modified":1782904476611,"name":"Sweden","schema":1782904340821}

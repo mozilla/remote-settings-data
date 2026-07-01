@@ -1,1 +1,1 @@
-{"cities":[{"code":"YSBK","name":"Australia","servers":[{"hostname":"ysbk106.m1.fastly-masque.net","port":2499}]}],"code":"AU","id":"c5f7a2c4-30a4-464b-bcbc-80054ffa2655","last_modified":1780495349444,"name":"Australia","schema":1780495240056}
+{"cities":[{"code":"YSBK","name":"Australia","servers":[{"hostname":"ysbk106.m1.fastly-masque.net","port":2499}]}],"code":"AU","filter_expression":"env.country != \"CN\"","id":"c5f7a2c4-30a4-464b-bcbc-80054ffa2655","last_modified":1782904476591,"name":"Australia","schema":1782904424228}

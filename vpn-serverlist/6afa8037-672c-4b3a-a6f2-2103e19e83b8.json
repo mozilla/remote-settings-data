@@ -1,1 +1,1 @@
-{"cities":[{"code":"EHRD","name":"Netherlands","servers":[{"hostname":"ehrd229.m1.fastly-masque.net","port":2499}]}],"code":"NL","id":"6afa8037-672c-4b3a-a6f2-2103e19e83b8","last_modified":1780495349463,"name":"Netherlands","schema":1780495243632}
+{"cities":[{"code":"EHRD","name":"Netherlands","servers":[{"hostname":"ehrd229.m1.fastly-masque.net","port":2499}]}],"code":"NL","filter_expression":"env.country != \"CN\"","id":"6afa8037-672c-4b3a-a6f2-2103e19e83b8","last_modified":1782904476600,"name":"Netherlands","schema":1782904374210}

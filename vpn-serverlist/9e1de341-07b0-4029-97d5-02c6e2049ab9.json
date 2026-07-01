@@ -1,1 +1,1 @@
-{"cities":[{"code":"LFPB","name":"France","servers":[{"hostname":"lfpb115.m1.fastly-masque.net","port":2499}]}],"code":"FR","id":"9e1de341-07b0-4029-97d5-02c6e2049ab9","last_modified":1780495349423,"name":"France","schema":1780495247216}
+{"cities":[{"code":"LFPB","name":"France","servers":[{"hostname":"lfpb115.m1.fastly-masque.net","port":2499}]}],"code":"FR","filter_expression":"env.country != \"CN\"","id":"9e1de341-07b0-4029-97d5-02c6e2049ab9","last_modified":1782904476578,"name":"France","schema":1782904301042}

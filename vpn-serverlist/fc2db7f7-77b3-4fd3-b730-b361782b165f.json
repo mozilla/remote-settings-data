@@ -1,1 +1,1 @@
-{"cities":[{"code":"DUB","name":"Ireland","servers":[{"hostname":"dub43.m1.fastly-masque.net","port":2499}]}],"code":"IE","id":"fc2db7f7-77b3-4fd3-b730-b361782b165f","last_modified":1780495349487,"name":"Ireland","schema":1780495242311}
+{"cities":[{"code":"DUB","name":"Ireland","servers":[{"hostname":"dub43.m1.fastly-masque.net","port":2499}]}],"code":"IE","filter_expression":"env.country != \"CN\"","id":"fc2db7f7-77b3-4fd3-b730-b361782b165f","last_modified":1782904476613,"name":"Ireland","schema":1782904390893}

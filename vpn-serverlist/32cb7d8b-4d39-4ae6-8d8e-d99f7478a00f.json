@@ -1,1 +1,1 @@
-{"cities":[{"code":"SOF","name":"Bulgaria","servers":[{"hostname":"sof151.m1.fastly-masque.net","port":2499}]}],"code":"BG","id":"32cb7d8b-4d39-4ae6-8d8e-d99f7478a00f","last_modified":1780495349436,"name":"Bulgaria","schema":1780495240636}
+{"cities":[{"code":"SOF","name":"Bulgaria","servers":[{"hostname":"sof151.m1.fastly-masque.net","port":2499}]}],"code":"BG","filter_expression":"env.country != \"CN\"","id":"32cb7d8b-4d39-4ae6-8d8e-d99f7478a00f","last_modified":1782904476587,"name":"Bulgaria","schema":1782904414699}

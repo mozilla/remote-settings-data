@@ -1,1 +1,1 @@
-{"cities":[{"code":"VIE","name":"Austria","servers":[{"hostname":"vie63.m1.fastly-masque.net","port":2499}]}],"code":"AT","id":"1cf3ca80-2f49-44db-94fa-9a12eea6f474","last_modified":1780495349448,"name":"Austria","schema":1780444807723}
+{"cities":[{"code":"VIE","name":"Austria","servers":[{"hostname":"vie63.m1.fastly-masque.net","port":2499}]}],"code":"AT","filter_expression":"env.country != \"CN\"","id":"1cf3ca80-2f49-44db-94fa-9a12eea6f474","last_modified":1782904476593,"name":"Austria","schema":1782904429611}

@@ -1,1 +1,1 @@
-{"cities":[{"code":"REC","name":"Recomended City","servers":[{"hostname":"p.m1.fastly-masque.net","port":2499}]}],"code":"REC","id":"fe42b8cc-4519-4512-8e2c-d4c8437f979d","last_modified":1776437319073,"name":"Recomended Location","schema":1776437181846}
+{"cities":[{"code":"REC","name":"Recomended City","servers":[{"hostname":"p.m1.fastly-masque.net","port":2499}]}],"code":"REC","filter_expression":"env.country != \"CN\"","id":"fe42b8cc-4519-4512-8e2c-d4c8437f979d","last_modified":1782904476572,"name":"Recomended Location","schema":1782904434358}

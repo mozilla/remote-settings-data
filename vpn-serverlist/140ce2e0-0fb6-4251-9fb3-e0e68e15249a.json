@@ -1,1 +1,1 @@
-{"cities":[{"code":"AKL","name":"New Zealand","servers":[{"hostname":"akl103.m1.fastly-masque.net","port":2499}]}],"code":"NZ","id":"140ce2e0-0fb6-4251-9fb3-e0e68e15249a","last_modified":1780495349476,"name":"New Zealand","schema":1780495244235}
+{"cities":[{"code":"AKL","name":"New Zealand","servers":[{"hostname":"akl103.m1.fastly-masque.net","port":2499}]}],"code":"NZ","filter_expression":"env.country != \"CN\"","id":"140ce2e0-0fb6-4251-9fb3-e0e68e15249a","last_modified":1782904476608,"name":"New Zealand","schema":1782904361118}
