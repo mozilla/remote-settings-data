@@ -1,0 +1,1 @@
+{"feature":"chat","id":"chat--params--qwen3-235b-a22b-instruct-2507-maas--v8","is_default":true,"kind":"params","last_modified":1782943596782,"model":"qwen3-235b-a22b-instruct-2507-maas","model_choice_id":"2","owner_name":"Alibaba","parameters":"{\"temperature\": 1.0}","purpose":"chat","schema":1782331669779,"service_type":"ai","version":"8.0"}
