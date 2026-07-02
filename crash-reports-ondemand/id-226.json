@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libGLESv2_samsung.so","hashes":["f9a2b67398035035c90b2d77eb33b37a68a185dceb9b7d62ce9ad833433ead72"],"id":"id-226","last_modified":1782895091126,"schema":1782894836511}
+{"description":"gpu (Android nightly): libc.so | libglslcompiler.so","hashes":["5d403506f02834f95a36b2f082f221a90efc679666aab4b7f836274ff011d897","c856a165b20c09b84aadc0b758773b088c17f47b6977d70ba79c510600c42d12"],"id":"id-226","last_modified":1782981498116,"schema":1782981242208}

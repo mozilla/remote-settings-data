@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): <usize as core::slice::index::SliceIndex<[T]>>::index","hashes":["7d43d44bb51a7a69241071d50d988849c9974d868976c7e25989837e14cd0329"],"id":"id-173","last_modified":1782895090313,"schema":1782894783742}
+{"description":"content (Linux nightly): <.plt ELF section in libxul.so> | CallQueryInterface<T>","hashes":["5ce28ffd7825d6086057f6e528fc4e17a2ad14a3fe2fc890420acc53c202c268"],"id":"id-173","last_modified":1782981497490,"schema":1782981186253}
