@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlReportFatalFailure","hashes":["5fdb68dac2c98ee76cf8f9721a9bda313c336769cc41733536766f9503cf1c03","475cd6727f3ef7fdad5f67a3f39740c99a9fa9c1b2e59919625b58e2ddd14449"],"id":"id-409","last_modified":1782895089669,"schema":1782895022978}
+{"description":"content (Android nightly): mozilla::jni::detail::ProxyNativeCall<T>::Call<T>","hashes":["a05dd45de98609e63f44f376f20b151261db62c889110fb7e069bf240483eefd"],"id":"id-409","last_modified":1782981496861,"schema":1782981430469}

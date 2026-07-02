@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): GetHandleInformation","hashes":["8e1c273866ab29d9fa1aeb0cf4a3bf3dfc1808d7ccebd72d3eb361c3f95e72d6"],"id":"id-183","last_modified":1782895089392,"schema":1782894793855}
+{"description":"content (Mac beta): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["7a12f8c92df0eb6320acd1ed7fc8e5d64f4bcfffd0853c90e8ad09873d823e51","6aa796524e5dbf811af310288f88717c37360754836b0581687919a9cb671229"],"id":"id-183","last_modified":1782981496575,"schema":1782981196012}

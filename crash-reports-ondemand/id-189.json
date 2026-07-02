@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["1da62d4026392e24e970ce61674f7383f0a251e6b94501ae2a2b57243325a236","1ecec9cf6d86be922ff384e29c294fc4cc2ed8541e1863beb9e2a8ea27f2999f"],"id":"id-189","last_modified":1782895089181,"schema":1782894799836}
+{"description":"utility (Windows nightly): nsTArray_Impl<T>::~nsTArray_Impl | mozilla::CryptoTrack::~CryptoTrack","hashes":["5e307b5c05eb98a625bee3fca593494cd27302c8d1b31c5620f383c754576164"],"id":"id-189","last_modified":1782981496366,"schema":1782981204086}

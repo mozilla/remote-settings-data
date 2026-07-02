@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::RLogConnector::ShouldLog","hashes":["e1ca63b1f0197d387eb7698d0d7a9d235924143f90f8b71858606e0de0b54073"],"id":"id-435","last_modified":1782895089224,"schema":1782895048999}
+{"description":"rdd (Linux nightly): mozilla::MozPromise<T>::ThenValueBase::DoResolveOrReject","hashes":["d6c993eaf0fc673255eb40bc9aa46ead84e6f5ae2cec76a65603aa3d8da4910c"],"id":"id-435","last_modified":1782981496413,"schema":1782981456606}

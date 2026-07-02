@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended","hashes":["1bd42f6c17b93c4f8c052eb940c16841a6d85f63a792871f7457a57b7f646b98"],"id":"id-424","last_modified":1782895089729,"schema":1782895038139}
+{"description":"content (Mac nightly): abort | std::sys::pal::unix::abort_internal | std::process::abort | style::stylist::CascadeData::add_styles","hashes":["0d84128b139ccccf84b392a60135c539dd88bcd9a09e89f127a28bb968daad1a"],"id":"id-424","last_modified":1782981496924,"schema":1782981445520}
