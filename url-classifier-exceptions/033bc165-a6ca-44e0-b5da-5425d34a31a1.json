@@ -1,0 +1,1 @@
+{"bugIds":["2049956"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"033bc165-a6ca-44e0-b5da-5425d34a31a1","last_modified":1783044610220,"schema":1783044609826,"topLevelUrlPattern":"*://www.alamoareampo.org/*","urlPattern":"*://listgrowth.ctctcdn.com/*"}

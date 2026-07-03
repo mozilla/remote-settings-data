@@ -1,0 +1,1 @@
+{"bugIds":["2051220"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c0463957-c2b9-46b5-ba3a-46f3b605a395","last_modified":1783044610268,"schema":1783044609251,"topLevelUrlPattern":"*://www.mutuionline.it/*","urlPattern":"*://dev.visualwebsiteoptimizer.com/*"}
