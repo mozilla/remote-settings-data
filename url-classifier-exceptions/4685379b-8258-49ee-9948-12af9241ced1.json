@@ -1,0 +1,1 @@
+{"bugIds":["2051643"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"4685379b-8258-49ee-9948-12af9241ced1","last_modified":1783080349553,"schema":1783044608800,"topLevelUrlPattern":"*://www.hainanairlines.com/*","urlPattern":"*://static.trustdecision.com/*"}

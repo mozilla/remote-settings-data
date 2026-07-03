@@ -1,0 +1,1 @@
+{"bugIds":["2051192"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"06b9c493-db02-479c-ac65-f1778e1998ac","last_modified":1783080349526,"schema":1783044609492,"topLevelUrlPattern":"*://bluedollar.net/*","urlPattern":"*://pagead2.googlesyndication.com/*"}
