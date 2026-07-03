@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::gl::AndroidSharedBlitGL::~AndroidSharedBlitGL","hashes":["79a9f36691813118239c79ad1973b4535057a8f4b30b5294aedbf7b1527ef313","9ec78323024b13b189d3605c06955c08d8219dac395a1f5e1c2f2e9d4bdd2fec"],"id":"id-361","last_modified":1782981497643,"schema":1782981380342}
+{"description":"socket (Mac release): mozilla::RLogConnector::ShouldLog","hashes":["e1ca63b1f0197d387eb7698d0d7a9d235924143f90f8b71858606e0de0b54073"],"id":"id-361","last_modified":1783067295915,"schema":1783067178198}
