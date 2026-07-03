@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["1da62d4026392e24e970ce61674f7383f0a251e6b94501ae2a2b57243325a236","1ecec9cf6d86be922ff384e29c294fc4cc2ed8541e1863beb9e2a8ea27f2999f"],"id":"id-433","last_modified":1782981496849,"schema":1782981454481}
+{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["74921e1127e57f4cd69c574a0e212117a600cb11c1a6072341cc5ed26aacef12"],"id":"id-433","last_modified":1783067294928,"schema":1783067251842}
