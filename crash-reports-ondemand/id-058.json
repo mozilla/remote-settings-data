@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): ssl3_SetPolicy | ssl_CipherPolicySet | SSL_CipherPolicySet | SSL_SetPolicy | NSS_SetDomesticPolicy | mozilla::psm::InitializeCipherSuite","hashes":["bb864154325d25562882eb0c69e03973efa59653c6bd271b463b9f34f8ac6c4e"],"id":"id-058","last_modified":1783067296330,"schema":1783066869179}
+{"description":"gpu (Android beta): libc.so","hashes":["68b46b3639a15524e785d3699494a78dcf4d4b574669d43ed9c33fd5e3c4b8c5"],"id":"id-058","last_modified":1783154298566,"schema":1783153867132}

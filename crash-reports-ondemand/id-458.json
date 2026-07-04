@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::dom::Navigation::InnerFireNavigateEvent","hashes":["70c4e9441e376972392c1d0635d798ff845e54f71c97e14fa43b4f6db17e5a38"],"id":"id-458","last_modified":1783067296231,"schema":1783067276960}
+{"description":"content (Android beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::dom::Geolocation::NotifyError","hashes":["fc6ec7b04f452445b6bdf9866bd3f84c818699cbd44fbee7dc53be0461118ff4"],"id":"id-458","last_modified":1783154298477,"schema":1783154279073}

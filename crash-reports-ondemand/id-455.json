@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["060b0e4e67ce6b5640508527492ee2173ea195450633e2d40aad2c5781764cff","5d3141a202f457b199d134b2883206929ca9d0689f12c3547e49a4fcebf8c6b7"],"id":"id-455","last_modified":1783067295527,"schema":1783067273992}
+{"description":"content (Mac beta): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["9cc41a5c0a5c8ab8eb0783d8c50311e4480594cf18e2af9675023440da1f5deb"],"id":"id-455","last_modified":1783154297782,"schema":1783154276114}
