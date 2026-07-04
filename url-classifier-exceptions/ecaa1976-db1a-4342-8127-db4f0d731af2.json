@@ -1,0 +1,1 @@
+{"bugIds":["2051961"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ecaa1976-db1a-4342-8127-db4f0d731af2","last_modified":1783131010636,"schema":1783131010348,"topLevelUrlPattern":"*://www.airbnb.com.sg/*","urlPattern":"*://a0.muscache.com/*"}
