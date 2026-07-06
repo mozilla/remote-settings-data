@@ -1,1 +1,1 @@
-{"description":"rdd (Linux beta): <.text ELF section in libnvidia-glcore.so.595.71.05>","hashes":["13e7bc5dfb9ccd3c94f319540f7974469fa21620855bc8e91dc19592f4780024"],"id":"id-463","last_modified":1783154296752,"schema":1783154284048}
+{"description":"gpu (Mac nightly): core::result::unwrap_failed | wgpu_server_pack_free_swap_chain_buffer_ids | mozilla::webgpu::WebGPUParent::SwapChainDrop","hashes":["451f24daf35e50a20f28516e20d8f857155841c3b7879a63a5735a7326a0d0ac"],"id":"id-463","last_modified":1783326487854,"schema":1783326475118}

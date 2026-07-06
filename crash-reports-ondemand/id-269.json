@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): core::result::unwrap_failed | wgpu_server_pack_free_swap_chain_buffer_ids | mozilla::webgpu::WebGPUParent::SwapChainDrop","hashes":["451f24daf35e50a20f28516e20d8f857155841c3b7879a63a5735a7326a0d0ac"],"id":"id-269","last_modified":1783154297140,"schema":1783154083938}
+{"description":"content (Mac beta): mozilla::dom::Navigation::UpdateEntriesForSameDocumentNavigation","hashes":["8430623952bb8837d8ee3ecabe4597a7ddd28381ff3803b93f0a4a8c6d327230"],"id":"id-269","last_modified":1783326488222,"schema":1783326278939}

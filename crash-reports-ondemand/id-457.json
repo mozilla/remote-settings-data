@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): firefox","hashes":["27c5ef0ddeb12c23e72e6f6951388af542e2437229c76579f0ff2f42bf3ea9c9"],"id":"id-457","last_modified":1783154297133,"schema":1783154278081}
+{"description":"utility (Mac release): IPC::ChannelPosix::ProcessOutgoingMessages | IPC::ChannelPosix::Send | mozilla::ipc::NodeChannel::SendMessage","hashes":["6d979d3c1a3f715f0bb92a30fdd585dfd306042b2e3c630ff91eda645e9940c2"],"id":"id-457","last_modified":1783326488214,"schema":1783326469164}
