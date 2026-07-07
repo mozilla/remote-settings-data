@@ -1,1 +1,1 @@
-{"description":"main (Android nightly): libart.so | libc.so | libartbase.so","hashes":["4408a11d3901d33c4d6f013b9847d1957a71073ba46605ed907b817aaf6dd64b"],"id":"id-387","last_modified":1783326487416,"schema":1783326399913}
+{"description":"gpu (Android nightly): libc.so | libufwriter.so","hashes":["f5950048a39fea0156111233f1aac1b88ba7123710942639cff37fa431aaa653"],"id":"id-387","last_modified":1783412898753,"schema":1783412801205}

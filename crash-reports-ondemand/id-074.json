@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libufwriter.so","hashes":["f5950048a39fea0156111233f1aac1b88ba7123710942639cff37fa431aaa653"],"id":"id-074","last_modified":1783326488412,"schema":1783326081977}
+{"description":"rdd (Windows beta): mozilla::layers::TextureClientRecycleAllocator::CreateOrRecycle","hashes":["34cc99e7c328a26db79d5db74b6fa9437a3025afb5dc091d940671ebc0648cf1"],"id":"id-074","last_modified":1783412899691,"schema":1783412485319}

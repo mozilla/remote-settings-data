@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): core::result::unwrap_failed | wgpu_server_pack_free_swap_chain_buffer_ids | mozilla::webgpu::WebGPUParent::SwapChainDrop","hashes":["451f24daf35e50a20f28516e20d8f857155841c3b7879a63a5735a7326a0d0ac"],"id":"id-463","last_modified":1783326487854,"schema":1783326475118}
+{"description":"content (Linux nightly): char_buffer_add","hashes":["08abad77f0d1474626105efd1ca4cf78996f63bda304dc4aac1ada99fdcbb5aa"],"id":"id-463","last_modified":1783412899201,"schema":1783412878392}

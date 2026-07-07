@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlReportFatalFailure","hashes":["021c4e3e77701c313413938fb5ec897659e8462e588fc2e357c989f56016e5bb"],"id":"id-436","last_modified":1783326487300,"schema":1783326448383}
+{"description":"utility (Windows nightly): Microsoft::WRL::ComPtr<T>::As","hashes":["bfb7b9f79c91da6b4bf54568fa1f6bc42a291c5b627d72e0bd4434a399e611d4"],"id":"id-436","last_modified":1783412898657,"schema":1783412851584}
