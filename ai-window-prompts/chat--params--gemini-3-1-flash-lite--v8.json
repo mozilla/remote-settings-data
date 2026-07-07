@@ -1,1 +1,0 @@
-{"feature":"chat","id":"chat--params--gemini-3-1-flash-lite--v8","is_default":false,"kind":"params","last_modified":1782943596768,"model":"gemini-3.1-flash-lite","model_choice_id":"1","owner_name":"Google","parameters":"{\"temperature\": 1.0}","purpose":"chat","schema":1782331669779,"service_type":"ai","version":"8.0"}
