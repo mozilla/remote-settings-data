@@ -1,1 +1,1 @@
-{"cities":[{"code":"HEL","name":"Finland","servers":[{"hostname":"hel141.m1.fastly-masque.net","port":2499}]}],"code":"FI","filter_expression":"env.country != \"CN\"","id":"cb85284d-8f30-4f17-80e7-21902c498154","last_modified":1782904476610,"name":"Finland","schema":1782904396437}
+{"cities":[{"code":"HEL","name":"Finland","servers":[{"hostname":"hel141.m1.fastly-masque.net","port":2499}]}],"code":"FI","id":"cb85284d-8f30-4f17-80e7-21902c498154","last_modified":1783435836866,"name":"Finland","schema":1783435709449}

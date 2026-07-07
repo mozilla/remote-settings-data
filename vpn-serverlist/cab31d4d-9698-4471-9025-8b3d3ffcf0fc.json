@@ -1,1 +1,1 @@
-{"cities":[{"code":"CA","name":"Canada","servers":[{"hostname":"ca.m1.fastly-masque.net","port":2499}]}],"code":"CA","filter_expression":"env.country != \"CN\"","id":"cab31d4d-9698-4471-9025-8b3d3ffcf0fc","last_modified":1782904476576,"name":"Canada","schema":1782904310069}
+{"cities":[{"code":"CA","name":"Canada","servers":[{"hostname":"ca.m1.fastly-masque.net","port":2499}]}],"code":"CA","id":"cab31d4d-9698-4471-9025-8b3d3ffcf0fc","last_modified":1783435836836,"name":"Canada","schema":1783435777029}
