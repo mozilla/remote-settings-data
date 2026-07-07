@@ -1,0 +1,1 @@
+{"feature":"agent-monitor","id":"agent-monitor--params--generic--v1","is_default":true,"kind":"params","last_modified":1783459301088,"model":"generic","parameters":"{\"temperature\": 1.0}","purpose":"monitor","schema":1783446046655,"service_type":"agent","version":"1.0"}
