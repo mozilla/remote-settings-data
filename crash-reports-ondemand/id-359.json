@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::PipeToPump::OnReadFulfilled","hashes":["1856f7e485b75bee0b4592689dd6a7ac3e64a249360b4986f76ab472e6bbd57a"],"id":"id-359","last_modified":1783412900292,"schema":1783412773746}
+{"description":"content (Mac nightly): nsINode::IsMaybeSelected","hashes":["76197df29845a22ddca52dbb956eabb1da400315140f3c6f88705883af76e0c0"],"id":"id-359","last_modified":1783586305484,"schema":1783586178212}

@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): core::result::unwrap_failed | wgpu_server_pack_free_swap_chain_buffer_ids | mozilla::webgpu::WebGPUParent::SwapChainDrop","hashes":["451f24daf35e50a20f28516e20d8f857155841c3b7879a63a5735a7326a0d0ac"],"id":"id-061","last_modified":1783412900624,"schema":1783412472444}
+{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["66618d70cc1a08e6d7c85da43f3af22304e7c0ff9d8c81520e733b7a0df0c227"],"id":"id-061","last_modified":1783586305910,"schema":1783585875915}
