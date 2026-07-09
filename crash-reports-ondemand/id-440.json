@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): @0x758e3764b4","hashes":["b3db31bcbf22e3c3bc6a82e9106c17a031274b00726355eaefc80fb04425a465"],"id":"id-440","last_modified":1783412898907,"schema":1783412855653}
+{"description":"gpu (Mac nightly): <core::ops::range::Range<usize> as core::slice::index::SliceIndex<[T]>>::index | <alloc::vec::Vec<T, A> as core::ops::index::Index<I>>::index","hashes":["101475e6b1d2ffbb7ac01161dc23a5afe2d21023db2899c9a61cd5fa14a457a0"],"id":"id-440","last_modified":1783586303996,"schema":1783586261319}

@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["568d49ae5c527f96a37260315050d679e95b285a655e158aafff67b2a8da4444","c52c7f8d5cf9e052f4a32f4f07c2ee46a1cc4c7d2ac80989c085d2e51ab324c2"],"id":"id-324","last_modified":1783412898835,"schema":1783412739283}
+{"description":"content (Linux nightly): nsINode::GetBoolFlag","hashes":["dc888d13775fb19486a3333d4f5ffbc066a7e9aafb180de92703f5c3b315c233"],"id":"id-324","last_modified":1783586303923,"schema":1783586141383}
