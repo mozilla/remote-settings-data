@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::PipeToPump::OnReadFulfilled","hashes":["1856f7e485b75bee0b4592689dd6a7ac3e64a249360b4986f76ab472e6bbd57a"],"id":"id-304","last_modified":1783586303954,"schema":1783586121439}
+{"description":"utility (Mac release): InstanceConfig::Create","hashes":["a60cd45e179e20741fa692839057ebd188d70b404ec6fff59875ee487b6d0ba1"],"id":"id-304","last_modified":1783672705200,"schema":1783672521517}

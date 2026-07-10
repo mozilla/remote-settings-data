@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::net::SocketProcessChild::GetSingleton","hashes":["729bf5050ded7133e40b76e31b467051a5333c6cb3919b73c2374daf67b77c5d"],"id":"id-460","last_modified":1783412899137,"schema":1783412875353}
+{"description":"socket (Windows beta): crossbeam_channel::flavors::list::Channel<T>::write","hashes":["29688ce9b11174e64de86ea904e424c49ef32106a16776564ef904f87516b0c0"],"id":"id-460","last_modified":1783672705387,"schema":1783672680979}
