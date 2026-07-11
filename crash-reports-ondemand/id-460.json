@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): crossbeam_channel::flavors::list::Channel<T>::write","hashes":["29688ce9b11174e64de86ea904e424c49ef32106a16776564ef904f87516b0c0"],"id":"id-460","last_modified":1783672705387,"schema":1783672680979}
+{"description":"gpu (Android nightly): mozilla::ipc::MessageChannel::DispatchAsyncMessage","hashes":["1069ba1eca5b446312e883ef975d5607ffeb03b0b07946c8af4e60ca13774924"],"id":"id-460","last_modified":1783758518201,"schema":1783758491243}
