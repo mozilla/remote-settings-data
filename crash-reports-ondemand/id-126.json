@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libglslcompiler.so","hashes":["caf3348883fd6c93f728ccda94b9da3dbb731c92d4d66fecc512f2ef12ce5bcb","5c40464d075fff321c46fe26368471494e9a7142ae381adb779311a221331d99","c0b7bfbe4cabe9be463ddc003db760424385e83fc67c364d389ff16e0263f4da"],"id":"id-126","last_modified":1783672707206,"schema":1783672339353}
+{"description":"gpu (Android nightly): libc.so | libnativedisplay.so","hashes":["7a2e0bbda344823485a5e24cd77ea6261d81d262d0fc3898f87e5a5b46b810f2"],"id":"id-126","last_modified":1783758519543,"schema":1783758141660}
