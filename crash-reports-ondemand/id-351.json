@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::net::SocketProcessChild::GetSingleton","hashes":["729bf5050ded7133e40b76e31b467051a5333c6cb3919b73c2374daf67b77c5d"],"id":"id-351","last_modified":1783758518737,"schema":1783758377669}
+{"description":"gpu (Android nightly): mozilla::ipc::MessageChannel::DispatchAsyncMessage","hashes":["1069ba1eca5b446312e883ef975d5607ffeb03b0b07946c8af4e60ca13774924"],"id":"id-351","last_modified":1783845490245,"schema":1783845362343}

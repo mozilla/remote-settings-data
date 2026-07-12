@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["fad389f8c190413b0dca80c642cf2aebcfee02e4f2c72be2946b8ea98b87c83c"],"id":"id-442","last_modified":1783758517995,"schema":1783758472837}
+{"description":"utility (Mac release): SpectralData::Deserialize","hashes":["1bc8e91255b4ec4ae877c2859559198fc70f17a4cdba552354a9135b2f291078","1aece65bc32a14bce339d722d59c46fac4a0f7dd0a2ec2ec3b8d2a1dcefafc02"],"id":"id-442","last_modified":1783845489339,"schema":1783845454333}
