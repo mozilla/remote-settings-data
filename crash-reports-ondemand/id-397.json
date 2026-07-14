@@ -1,1 +1,1 @@
-{"description":"content (Windows nightly): mozilla::detail::EntrySlot<T>::isFree","hashes":["8482da45c21882e75c88cfdd9b0bebf44cbdcacae9e69cc54ba648a744d9c356","dc628ae5aff5f8978bb08aa143723dfe7ff3c411a89747e0661661c4a0928de2","4f7e0b297f1d0bb2b827deeca60fc733f948342d98354f67e699560b32bcc5f8"],"id":"id-397","last_modified":1783934909432,"schema":1783934825371}
+{"description":"socket (Mac release): mozilla::ipc::SetThisProcessName","hashes":["99e5f1af957aef135bbd9b9f096df144c48f8d23b57b76c910cb80dbbcbd5801"],"id":"id-397","last_modified":1784021911921,"schema":1784021831297}
