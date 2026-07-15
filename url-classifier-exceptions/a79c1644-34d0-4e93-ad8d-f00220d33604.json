@@ -1,0 +1,1 @@
+{"bugIds":["2052111"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a79c1644-34d0-4e93-ad8d-f00220d33604","last_modified":1784107312140,"schema":1783131010203,"topLevelUrlPattern":"*://ultimateclassicrock.com/*","urlPattern":"*://townsquare.media/*"}
