@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended","hashes":["f4140095d3870ea188ed5c4f7923e5ff971d12669383e31a25ce42ab52536784"],"id":"id-328","last_modified":1784021912590,"schema":1784021755890}
+{"description":"rdd (Windows beta): mozilla::layers::TextureClientRecycleAllocator::CreateOrRecycle","hashes":["2c78aafc4a0612168a551dc8c490d33d18a889b5e8d98fb5770cd8ae84ac4aba"],"id":"id-328","last_modified":1784113708706,"schema":1784113558258}
