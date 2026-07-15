@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["56c6898734a3c99f7f926ed6178ecd48da5bc34febc8e1573fc234132851d3fc"],"id":"id-399","last_modified":1784021911159,"schema":1784021833302}
+{"description":"gpu (Android nightly): libc.so | libnativedisplay.so","hashes":["7a2e0bbda344823485a5e24cd77ea6261d81d262d0fc3898f87e5a5b46b810f2","ccb25170882034a5be7438282f6a32f0c3ed838b67b441d428e8c379b219e03b"],"id":"id-399","last_modified":1784113706388,"schema":1784113631765}

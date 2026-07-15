@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | nsDocShellLoadState::nsDocShellLoadState","hashes":["67ce47afacbf04856d53d148c0b8998c27212f723b85693da78bc944f82be110","ef4a110f97fb74e3b16d5619e1d84507b9b25122cf9d0442aa8c1ea666108351"],"id":"id-420","last_modified":1784021911823,"schema":1784021854526}
+{"description":"main (Mac nightly): _kernelrpc_mach_port_deallocate_trap","hashes":["2aebbde31c94d8e9933ea5b8d5f1318fdf989f41c401014e974b6a1abce04dcd"],"id":"id-420","last_modified":1784113707207,"schema":1784113652979}

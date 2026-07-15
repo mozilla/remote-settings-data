@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): mozilla::DoublyLinkedList<T>::popFront","hashes":["1997cb98ee49e34febd83bc85dc6841eb25d8a8ea4e0504585acea5421bed1ab"],"id":"id-381","last_modified":1784021911928,"schema":1784021814828}
+{"description":"utility (Linux release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["55bea7e811a1d1148beefa1fb218c2a440cd5ac2b8ddce1849a190259261d23e","142cfa86141f3037311916ac066266c7914cd6ab59e402a14db5a99f467f1383"],"id":"id-381","last_modified":1784113707298,"schema":1784113611423}
