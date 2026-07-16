@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["d9d41ff62da7489e0154822ab384fad46355ae7de427e9e595a75f35ef411a3e"],"id":"id-262","last_modified":1784113709199,"schema":1784113489393}
+{"description":"content (Mac beta): mozilla::LinkedListElement<T>::~LinkedListElement","hashes":["1e5db8aaf2d03bad69a0da1f9b122947b48f5d3669162b3e4883c4daf78e8ffb"],"id":"id-262","last_modified":1784200112168,"schema":1784199888525}

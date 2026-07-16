@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): destroy_assoc_chain","hashes":["a5e428cf2241c2c5595632a3194137204c8b68d9c5dbb5a531da36cfa1ec8396","2830cf2b6f0800a7bcc0db536290b9ca994411b804587928ee298323f5dd3035","4919a8843a6e7e95570898e5f52df18434e72789f447e3b3089f1884215e8b1b"],"id":"id-211","last_modified":1784113708672,"schema":1784113437301}
+{"description":"socket (Windows beta): mozilla::DoublyLinkedList<T>::popFront","hashes":["1997cb98ee49e34febd83bc85dc6841eb25d8a8ea4e0504585acea5421bed1ab"],"id":"id-211","last_modified":1784200111702,"schema":1784199833725}
