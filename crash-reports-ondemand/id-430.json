@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): abort | libgallium-26.1.4.so","hashes":["07e58243b488f00c1e368b48555f5b30ba26752bce0ef8fc0838e4397474f60c","5a351ab1431d1adc6e12168fe74bc08e70f66a0151b666ce5ca67a9306207c6a"],"id":"id-430","last_modified":1784200110696,"schema":1784200063519}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["97901e18a303ba8baf808692a0a892b012d2413d6edf7b0c25fbd43e8b43324c"],"id":"id-430","last_modified":1784279311180,"schema":1784279261662}
