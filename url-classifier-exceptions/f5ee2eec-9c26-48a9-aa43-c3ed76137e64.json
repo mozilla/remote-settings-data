@@ -1,0 +1,1 @@
+{"bugIds":["2052834"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f5ee2eec-9c26-48a9-aa43-c3ed76137e64","last_modified":1784340614437,"schema":1784340613925,"topLevelUrlPattern":"*://www.lumen.com/*","urlPattern":"*://static.addtoany.com/*"}

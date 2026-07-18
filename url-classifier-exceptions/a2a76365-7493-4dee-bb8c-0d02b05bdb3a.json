@@ -1,0 +1,1 @@
+{"bugIds":["2052832"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a2a76365-7493-4dee-bb8c-0d02b05bdb3a","last_modified":1784340614355,"schema":1784340614041,"topLevelUrlPattern":"*://www.butcherbox.com/*","urlPattern":"*://cdn.segment.com/*"}

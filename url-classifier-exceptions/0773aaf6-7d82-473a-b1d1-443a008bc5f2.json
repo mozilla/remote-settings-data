@@ -1,0 +1,1 @@
+{"bugIds":["2053120"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0773aaf6-7d82-473a-b1d1-443a008bc5f2","last_modified":1784340614341,"schema":1784340613543,"topLevelUrlPattern":"*://store.mineberry.org/*","urlPattern":"*://headless.tebex.io/*"}

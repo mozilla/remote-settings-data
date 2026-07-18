@@ -1,0 +1,1 @@
+{"bugIds":["2054496"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0665a800-4e8b-4d6f-ac26-46ea22572aed","last_modified":1784340614369,"schema":1784340612248,"topLevelUrlPattern":"*://www.clickondetroit.com/*","urlPattern":"*://*.ex.co/*"}

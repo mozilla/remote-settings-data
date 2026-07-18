@@ -1,0 +1,1 @@
+{"bugIds":["2054956"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c2c8851d-0191-4db4-b40a-e08b0a4b97a4","last_modified":1784340614345,"schema":1784340612013,"topLevelUrlPattern":"*://auth0.alaskaair.com/*","urlPattern":"*://*.quantummetric.com/*"}

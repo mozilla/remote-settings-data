@@ -1,0 +1,1 @@
+{"bugIds":["2054475"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f916bcb0-afdf-44e8-9372-80749dc16749","last_modified":1784340614376,"schema":1784340612357,"topLevelUrlPattern":"*://shop.2b2t.org/*","urlPattern":"*://headless.tebex.io/*"}
