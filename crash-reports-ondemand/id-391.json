@@ -1,1 +1,1 @@
-{"description":"main (Android nightly): base.odex","hashes":["d893c7f1c93b2247bcb36aab29ac1f7aff8ab4a728caca6e4b3426b0edea0bd0","7c49ef4f9d7d450152ce4786e6ba2c2344d4f774f4961521dcbc0599033f2d6e","a2a065bf6f9e2a76e8d3a8e2cb2b7cff6917f98649da55920dad3d2e0afadcb2"],"id":"id-391","last_modified":1784279310367,"schema":1784279222060}
+{"description":"main (Mac nightly): mozilla::dom::ServiceWorkerRegistrar::GetShutdownPhase","hashes":["6bdf5d43c9adbf6d5b01957ecb9c1a69e9a2dd766a97614341de4d66543568af"],"id":"id-391","last_modified":1784379497668,"schema":1784379415157}

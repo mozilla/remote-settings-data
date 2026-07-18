@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): RegGetValueW","hashes":["382826f20b24c5432009545e8f033e246e3108efc478ff606867fabe51409b40"],"id":"id-452","last_modified":1784279310416,"schema":1784279283783}
+{"description":"utility (Mac release): mozilla::ipc::MessageChannel::SendMessageToLink | mozilla::ipc::MessageChannel::Send | mozilla::ipc::IProtocol::ChannelSend | mozilla::ipc::IPDLResolverInner::ResolveOrReject","hashes":["5aa527c0ad5461a7ff99b3008899ca199884853544d035db9eddbbcaa968f507"],"id":"id-452","last_modified":1784379497722,"schema":1784379477143}
