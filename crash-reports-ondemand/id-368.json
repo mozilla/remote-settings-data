@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): __cxxabiv1::failed_throw | objc_exception_throw | -[__NSPlaceholderArray initWithObjects:count:]","hashes":["4a5c6f71ea96383580973c54423e9cae5eab263cac61a2c3086ea02eca365522","0e4c78aaed41df4aedf759ff9a561cf7188fc4bd7b84a8b2d79cde1187daef35"],"id":"id-368","last_modified":1784279311755,"schema":1784279198659}
+{"description":"utility (Windows nightly): CDXGISwapChain::GetFrameStatisticsCore","hashes":["b941d05e76bbf50029b378950ce4e17d3bc04954418d85e71087888a146c1e62"],"id":"id-368","last_modified":1784379499163,"schema":1784379390104}
