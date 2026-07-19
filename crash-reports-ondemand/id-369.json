@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::MarkingTracerT<T>::processMarkStackTop","hashes":["e45dd1336a2dc279efb3aa8a81ee148477ed23c06c40fa0e090922ba43c2a888","fef4d935cb75d8d4dace3feab12333bdabec400c4520efa46d1c5ada9ca0c69c"],"id":"id-369","last_modified":1784379499332,"schema":1784379391092}
+{"description":"socket (Linux release): mozilla::SetCurrentProcessSandbox","hashes":["d28f3dc997f4731ca9e96aeff6fe1dece6c8bacf808b7bd83384692812cbd10a"],"id":"id-369","last_modified":1784452107718,"schema":1784451999572}
