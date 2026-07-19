@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["cf1a0d3f45efecaaad63fbf1c2841ab2af524259b48654642488f541a00b9bcd"],"id":"id-325","last_modified":1784379498368,"schema":1784379346506}
+{"description":"content (Linux nightly): PtrInfo::WasTraversed","hashes":["7b4981ed02d059751f673c9e74a596ee96095c6eed049945d55cc726f7665251","bb1a28627e102d599230dd19a1e3c9a81a5157a896666ead26db7e2837309bee"],"id":"id-325","last_modified":1784452106590,"schema":1784451954585}

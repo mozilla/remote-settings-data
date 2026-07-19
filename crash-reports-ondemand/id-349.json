@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["38570f5feea9eeed468da04909ee20ada84b039dd2067e1f23a93ffb10a95210","8b66d5bd4e182e8de4be6a8bdd24e72163feaaabbf728b9b306320ec3a59f2eb"],"id":"id-349","last_modified":1784379498364,"schema":1784379370736}
+{"description":"rdd (Windows beta): mozilla::layers::TextureClientRecycleAllocator::CreateOrRecycle","hashes":["1d53045425314e6b008451a87c7ad16bf0e1893db5dc69cdff801a11981a9d1f"],"id":"id-349","last_modified":1784452106586,"schema":1784451979176}
