@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): CDXGISwapChain::GetFrameStatisticsCore","hashes":["b941d05e76bbf50029b378950ce4e17d3bc04954418d85e71087888a146c1e62"],"id":"id-450","last_modified":1784536087022,"schema":1784536062184}
+{"description":"gpu (Mac nightly): <usize as core::slice::index::SliceIndex<[T]>>::index_mut","hashes":["0ee3949a2aa3538f258142e92f09ffa3837f174887b2924226c9d093b1d6cef0"],"id":"id-450","last_modified":1784623094376,"schema":1784623065343}

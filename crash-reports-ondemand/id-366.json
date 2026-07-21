@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::ReadableStreamCancel","hashes":["56d7cbecd83009ccca3472a94cc8104bb14d0a1bef9b5c22e22a1023c3c92520"],"id":"id-366","last_modified":1784536087318,"schema":1784535978766}
+{"description":"content (Mac nightly): mozilla::dom::Document::GetDocBaseURI","hashes":["0a8d24f7332758f3cbae56c1d7b2fd1e74fb94b51b26352ff957fd9f4f5060a2"],"id":"id-366","last_modified":1784623094695,"schema":1784622979385}
