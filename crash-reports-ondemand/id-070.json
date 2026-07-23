@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::ipc::IProtocol::CanSend","hashes":["cc8bf09f40d679de8a4e53e7b93935ec3b73d6ae98e4e26aeec64a8b0a59094d"],"id":"id-070","last_modified":1784623094362,"schema":1784622677521}
+{"description":"content (Linux beta): js::frontend::CompilationAtomCache::getExistingStringAt","hashes":["391ace3191a5a5f16eab929f110c397fdeca9614ac9bf2945441a590aacd892b","d79562268ea5ee9ccdec527ba86e0bae290d86ad7e9418b17b0464e5b8cb2f2f"],"id":"id-070","last_modified":1784795315471,"schema":1784794884225}

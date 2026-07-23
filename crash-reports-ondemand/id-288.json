@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libcuda.so.1","hashes":["c691e0c2edfc2e8af85c73234c9741ee41be08f3df26660d06ab6bf16ad82f21","fd8c4db64fa4ca143bd9b67c3d732c62c914432b458f57bc490ac490c8e74a68"],"id":"id-288","last_modified":1784623094815,"schema":1784622901251}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["72620279cec0062b2c00db9a5bed59c4de0d2c81f9e9f012c2eb0add1257c690"],"id":"id-288","last_modified":1784795315956,"schema":1784795113344}
