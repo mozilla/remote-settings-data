@@ -1,0 +1,1 @@
+{"feature":"smart-form-fill","id":"smart-form-fill--field-detection-user-data--generic--v1","kind":"module","last_modified":1784918023085,"model":"generic","module":"field-detection-user-data","prompts":"Page title:\n{title}\n\nPage url:\n{url}\n\nFields to classify:\n{fields}","schema":1784678406486,"version":"1.0"}
