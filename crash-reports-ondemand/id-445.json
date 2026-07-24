@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::InputToReadableStreamAlgorithms::PullCallbackImpl","hashes":["8e6a0bac4f5c3ab797d482aabcf43c0e580d9794f03d0872a9df1ddf93fa58e1"],"id":"id-445","last_modified":1784795315240,"schema":1784795279916}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["72620279cec0062b2c00db9a5bed59c4de0d2c81f9e9f012c2eb0add1257c690"],"id":"id-445","last_modified":1784878702296,"schema":1784878673890}
