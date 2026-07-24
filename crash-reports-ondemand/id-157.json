@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libIMGegl.so","hashes":["831ee3fddd9923dc3d33a03820dbbac709befa2a11a6163bf9e2e1b37ab28551","4e3142cf6ecb8b59093d2d9c08ac2401b2a731e51df86430565a6376c0e0389c","951801a37607784ce508ae120fd14e84f27ab6fd05063806a7b2e718b197e182"],"id":"id-157","last_modified":1784795314532,"schema":1784794976404}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["aa07ff8a7c25c138aea45a8e411bb2fd6e3a44ff1cb44a7f9d9b73b9f7570e71"],"id":"id-157","last_modified":1784878701376,"schema":1784878373434}
