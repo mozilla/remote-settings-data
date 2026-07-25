@@ -1,1 +1,1 @@
-{"description":"content (Windows nightly): mozilla::detail::EntrySlot<T>::isFree","hashes":["601f6ca96a93906a45c5c72a4bbeddb501022b40ce4fc397c9f36bddcb9718e0","b8803c87270551c7cbe7832dbb86d5a03af265d6eef4eac65c3001f5bdf65bc3","f76ca5bd517ff5a9e9d9251ed7f016c7e3030b4a8d76302831782cea8512ce93"],"id":"id-174","last_modified":1784878700592,"schema":1784878390668}
+{"description":"socket (Linux release): mozilla::EnterChroot","hashes":["0498f05b05c9c80e7525357eae7d2152929c5d53711b5e3b30f4591365e12779"],"id":"id-174","last_modified":1784965693059,"schema":1784965385067}
