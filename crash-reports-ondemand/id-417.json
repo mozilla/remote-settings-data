@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::jit::UsePosition::use","hashes":["ec2b0046c590011d859af7753b5f15f24fbad0cd498f069562f356838edcf182"],"id":"id-417","last_modified":1784965695027,"schema":1784965637498}
+{"description":"utility (Mac release): nsTArray_Impl<T>::ClearAndRetainStorage | nsTArray_Impl<T>::~nsTArray_Impl | nsTArray<T>::~nsTArray | CopyableTArray<T>::~CopyableTArray","hashes":["6f83772dca067b84c264943b7fd14c2e471180a0a90e2fc222f0f76e5b33259b"],"id":"id-417","last_modified":1785052697447,"schema":1785052639640}
