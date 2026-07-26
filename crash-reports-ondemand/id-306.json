@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::net::InputChannelThrottleQueueChild::AddRef","hashes":["f97820d398fd7a6dc2f71979df7ec5b3d1a51c4e27e907499406328df8220181"],"id":"id-306","last_modified":1784965693419,"schema":1784965523266}
+{"description":"content (Android beta): mozilla::dom::syncedcontext::Transaction<T>::Commit | nsTSubstring<T>::operator= | mozilla::net::nsStandardURL::GetAsciiSpec","hashes":["95f2f7a2fd4b376734a6d465c48323f7717e463fc61a8e5a70461aff5237bd9b"],"id":"id-306","last_modified":1785052695665,"schema":1785052523195}

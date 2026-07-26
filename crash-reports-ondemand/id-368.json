@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): hb_ot_map_t::apply<T>","hashes":["7efdb416d214fd8db6328208b00f68d3ba747a5d3d62ae59d473c8171788fc77"],"id":"id-368","last_modified":1784965692963,"schema":1784965586063}
+{"description":"utility (Linux release): mozilla::BufferList<T>::IterImpl::RemainingInSegment","hashes":["f10b3fa5a051a46b31415753ac73d1625e988b8431de0107b90d0c8d18d65c26","51bc5f4e31f443ecc3944e353e67adafcfa39ea0daf6206cd916fa4c9ff343cf"],"id":"id-368","last_modified":1785052695255,"schema":1785052587760}
