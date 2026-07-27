@@ -1,1 +1,1 @@
-{"description":"utility (Linux release): mozilla::BufferList<T>::IterImpl::RemainingInSegment","hashes":["f10b3fa5a051a46b31415753ac73d1625e988b8431de0107b90d0c8d18d65c26","51bc5f4e31f443ecc3944e353e67adafcfa39ea0daf6206cd916fa4c9ff343cf"],"id":"id-368","last_modified":1785052696986,"schema":1785052587760}
+{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["635f49e40c4c0cc02d5275cf5611643c390e42085e97d21d1389ed03619ce68d"],"id":"id-368","last_modified":1785139100569,"schema":1785138990765}

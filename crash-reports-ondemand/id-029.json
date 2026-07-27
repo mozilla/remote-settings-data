@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["aa07ff8a7c25c138aea45a8e411bb2fd6e3a44ff1cb44a7f9d9b73b9f7570e71"],"id":"id-029","last_modified":1785052697880,"schema":1785052238077}
+{"description":"content (Mac beta): nsPIDOMWindowInner::GetExtantDoc","hashes":["6c0ff4ff37ac206f6e58d9ca069abc70dd68b2615f40fb8654f6dea44506ac74","db0fc2fd59934bcb93308ad30fecc17a08600e3f5502d408260b0a90c95f709c","aa3b4da92b41ffdca20a6a09990d6ee9ab482e33a4a386517598f2fbd86a138f"],"id":"id-029","last_modified":1785139101428,"schema":1785138636886}
