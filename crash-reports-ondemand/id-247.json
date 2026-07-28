@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::detail::nsTStringRepr<T>::IsTerminated | nsTPromiseFlatString<T>::Init","hashes":["e5c21974bd4048e72715f3c1a720ed4b50c0cc1cc105bddffffe96af33c1906c"],"id":"id-247","last_modified":1785139099180,"schema":1785138863638}
+{"description":"gpu (Mac beta): mozilla::layers::CanvasTranslator::ReadNextEvent","hashes":["e8e8eca2a4fd81fe346444c04eac4f8f7991669927dd49dd81454a288ef5d6fa"],"id":"id-247","last_modified":1785227304912,"schema":1785227071615}

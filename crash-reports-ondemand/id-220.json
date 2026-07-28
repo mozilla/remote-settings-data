@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::Maybe<T>::ref | nsRange::SetStartInternal","hashes":["14f6212f7e1eaffc1e568a73be17ef8ed22fb3ab102d6d6aa0004f27ca7eaa2e"],"id":"id-220","last_modified":1785139099202,"schema":1785138836214}
+{"description":"utility (Linux release): @0x0 | libxul.so | <.plt ELF section in libxul.so>","hashes":["f4ff68346e318c5b967c4772b668f17ee8c1a790883af12bc086685548a91a5c"],"id":"id-220","last_modified":1785227304930,"schema":1785227044046}
