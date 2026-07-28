@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::CheckedInt<T>::value | mozilla::media::TimeUnit::operator<T>","hashes":["5092273e4419004b9cd6a596e526f237935290cbc40a7d26f9f33ee967fcce68"],"id":"id-362","last_modified":1785139100689,"schema":1785138984769}
+{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["635f49e40c4c0cc02d5275cf5611643c390e42085e97d21d1389ed03619ce68d"],"id":"id-362","last_modified":1785227306395,"schema":1785227192588}

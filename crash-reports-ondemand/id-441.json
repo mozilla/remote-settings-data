@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): libxul.so","hashes":["ef4b8fb260a42495ebe0a468fb043ef50a19f2458e031c9dffdf5345210a6659"],"id":"id-441","last_modified":1785139101470,"schema":1785139065028}
+{"description":"gpu (Android nightly): libc.so | libsrv_um.so","hashes":["ab10f434b323b41b1160cefe0e69f446af41546aefccff10d02446baf25a660e","d155b66cf38f1877f7dfbfa546602c213bb095b38a471d4b8c816724da3b1e6f"],"id":"id-441","last_modified":1785227307188,"schema":1785227276749}
