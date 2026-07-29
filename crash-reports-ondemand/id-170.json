@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): @0x0 | mozilla::wr::RenderCompositorOGLSWGL::MaybeCaptureScreenPixels","hashes":["cd582754a44f45991834f6e49c0df9f74edecf3a942916c22d0dc253bed5670a","04dec3ba1f72465c70db5f094279721aa639394da0a65fcbc844816347ed26db"],"id":"id-170","last_modified":1785227305441,"schema":1785226989970}
+{"description":"rdd (Linux beta): mozilla::layers::SurfaceDescriptor::get_SurfaceDescriptorBuffer","hashes":["8b9fb8ad453b4c19bde1bfeed5ef21b43c12c9129d328fc0b2ccf2be92fc1ead"],"id":"id-170","last_modified":1785313107099,"schema":1785312787484}

@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): JS::Value::isGCThing","hashes":["9b1b2c6feaf41a3c2fac4c5088a2f93859802f617e4c7700e1e689d93c457419"],"id":"id-291","last_modified":1785227305556,"schema":1785227119292}
+{"description":"content (Mac nightly): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["fcc34f02677b93eb1498ed6a59336920836758dde239c8ac9f69f2909933e787"],"id":"id-291","last_modified":1785313107226,"schema":1785312916453}

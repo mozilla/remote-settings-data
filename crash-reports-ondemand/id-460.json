@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): arena_t::GetNewEmptyBinRun | arena_t::GetNonFullBinRun | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["acadeb47a474f5c3e6eea6cf385d831ada353c336db7cb203649eda41937dae7"],"id":"id-460","last_modified":1785227305445,"schema":1785227296399}
+{"description":"utility (Linux release): mozilla::LinkedListElement<T>::asT","hashes":["1f42c139b24339631281a4efcafc51d89749d718c3bfc25af3a7c026af915e09"],"id":"id-460","last_modified":1785313107104,"schema":1785313098035}
