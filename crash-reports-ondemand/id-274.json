@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["f3757e92fb9f3da0f020059545399ecc4497e4cf9ddf415aaf95bb5cf5c97b18"],"id":"id-274","last_modified":1785227307134,"schema":1785227099447}
+{"description":"rdd (Mac release): __DISPATCH_WAIT_FOR_QUEUE__","hashes":["4db528618e9012e27b64aaabc425eb5f87f715c081fb676b9f9b818c18859803","efa0e9a8cb0ff55e7909e6f3f6865bb53a798cc34297b4408ec21e83a6a1b087"],"id":"id-274","last_modified":1785313108817,"schema":1785312898770}

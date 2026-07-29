@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): dlphook.x64.dll | CFileOpenSave::CFileOpenSave","hashes":["9373d1f3d44ae3039ec9b7f862a91a537777660d52086933e6ac94ee601cf601"],"id":"id-299","last_modified":1785227306429,"schema":1785227127628}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["755bed914b23f14a335f5c890641afe27b208dd3038dc5c3bc8748612f6eb9a8"],"id":"id-299","last_modified":1785313108049,"schema":1785312924823}
