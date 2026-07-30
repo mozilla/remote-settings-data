@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::ReadableStreamCancel","hashes":["bcc11abce26c61f5977b735be6a068bf661a40f5321c06965c69afa382f066b8"],"id":"id-365","last_modified":1785313107925,"schema":1785312995769}
+{"description":"gpu (Mac nightly): abort | gpusKillClientExt","hashes":["0f5aeb5925b87860f4ff3bb10cb93461f441a095d0020b50918a4f15a01bef8c"],"id":"id-365","last_modified":1785400103257,"schema":1785399996654}
