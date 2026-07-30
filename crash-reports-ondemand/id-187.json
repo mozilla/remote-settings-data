@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): abort | gpusKillClientExt","hashes":["0f5aeb5925b87860f4ff3bb10cb93461f441a095d0020b50918a4f15a01bef8c"],"id":"id-187","last_modified":1785313107192,"schema":1785312805610}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["bad4f4c9ea3be4ecbcbea1e05c2020c113afae84f49e0e0e075485fc914031c0"],"id":"id-187","last_modified":1785400102330,"schema":1785399808957}
