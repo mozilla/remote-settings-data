@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): libnvidia-glcore.so.595.44.11","hashes":["240424805a1b4ae757a2fb3528a2f43059a188e74cb93da60dd46bbe0b9d8c8e"],"id":"id-083","last_modified":1785400102423,"schema":1785399698392}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["198cc03b94b8c6393601f3c71738d45729bc7114d6707777d8ab508eec3cf9c0"],"id":"id-083","last_modified":1785487097960,"schema":1785486696983}
