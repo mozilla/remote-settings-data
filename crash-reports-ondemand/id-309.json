@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): <.plt ELF section in libxul.so> | nsFrameList::DestroyFrames","hashes":["5bbde523be5cc0c9cf86a146ba58573e1ddd83763120368764d0c6deb88023f6","1714fb049c8d4cba8d510c4367afe16d2cd984954e5cafe12a4d560b040b7001"],"id":"id-309","last_modified":1785487097333,"schema":1785486942193}
+{"description":"content (Android nightly): mozilla::RestyleManager::ProcessPostTraversal","hashes":["bd386321632ed4f91168cb99af029924e29e23fd7f34f794077e848e51742091"],"id":"id-309","last_modified":1785572896191,"schema":1785572739395}
