@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): RtlpReportHeapFailure | RtlpFreeHeapInternal | RtlFreeHeap | _free_base | free | _aligned_free | dav1d_free_aligned_internal | close_internal","hashes":["60501c0fa7a386ab293732c083d74b3b9e5ab293378072ef8860d2e1c0bdfacd"],"id":"id-429","last_modified":1785572898326,"schema":1785572867492}
+{"description":"socket (Windows beta): r_assoc_fetch_bucket","hashes":["268861a1c860c989aee4de29c38e80befccce26f1514005a4b8d2c539307ec8a"],"id":"id-429","last_modified":1785658700653,"schema":1785658672344}

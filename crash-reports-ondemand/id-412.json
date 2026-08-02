@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["f3757e92fb9f3da0f020059545399ecc4497e4cf9ddf415aaf95bb5cf5c97b18"],"id":"id-412","last_modified":1785572898089,"schema":1785572849661}
+{"description":"main (Mac beta): nsHttpNegotiateAuth::ChallengeReceived","hashes":["ae166a67aa7b0dbcc4b34453c6280943459b2122af3f09344d279b95382491c1"],"id":"id-412","last_modified":1785658700440,"schema":1785658654653}
