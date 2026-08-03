@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): mozilla::SharedSubResourceCache<T>::LoadCompleted","hashes":["750141c9e748c022476445efb9e96aa8580de634f6d5dea0155d83f7624b596b","21c956a9f948d4e2ffb5246bf235887ae42645321022183ca32f4709bbe8a00f"],"id":"id-343","last_modified":1785658700937,"schema":1785658580051}
+{"description":"main (Mac beta): mozilla::dom::quota::QuotaManager::Shutdown::$::operator()","hashes":["5258dc7c8f7db10a158b0e4761027f9bd288d8e8d50b94f66e08d84e3cb795c0"],"id":"id-343","last_modified":1785745702557,"schema":1785745574242}
