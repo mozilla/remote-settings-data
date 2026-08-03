@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::NodeController::ContactRemotePeer","hashes":["a8e7b86c3f1a3ac64cea3da077b214c04149473e15886c310c3cfe443b70bd69"],"id":"id-126","last_modified":1785658699490,"schema":1785658347818}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["1da53a1557f1f074d99f562cea675d62a356d8d4e64f99e59d3f8daf53bb274b"],"id":"id-126","last_modified":1785745701449,"schema":1785745339909}

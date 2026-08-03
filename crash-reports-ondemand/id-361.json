@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["f3757e92fb9f3da0f020059545399ecc4497e4cf9ddf415aaf95bb5cf5c97b18"],"id":"id-361","last_modified":1785658699139,"schema":1785658598877}
+{"description":"utility (Mac release): AudioCodecGetProperty","hashes":["e25a88597b9940dc634fee6f154558882e13643554acfd8638610565da0e53bf"],"id":"id-361","last_modified":1785745701047,"schema":1785745595296}

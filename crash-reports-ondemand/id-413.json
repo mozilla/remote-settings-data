@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["755bed914b23f14a335f5c890641afe27b208dd3038dc5c3bc8748612f6eb9a8"],"id":"id-413","last_modified":1785658699052,"schema":1785658655687}
+{"description":"socket (Mac release): mojo::core::ports::UserData::AddRef","hashes":["6fa76dfd71762dccef48c2c3303d7c03b2c3c2782ba482602ee26925acd39868"],"id":"id-413","last_modified":1785745700967,"schema":1785745650581}
