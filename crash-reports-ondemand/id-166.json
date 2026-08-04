@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["3863eb599e534a63a8b0fd44963584ec81579374c0c85eac73f36ab259a83ef1"],"id":"id-166","last_modified":1785745702320,"schema":1785745383494}
+{"description":"main (Mac nightly): mozilla::dom::syncedcontext::Transaction<T>::Commit | mozilla::dom::BrowsingContext::SetExplicitActive","hashes":["907f88d68e9e55d33cb20aa7fbe4bfc58f8519008ac8398dd26bc6a7f2791fb4"],"id":"id-166","last_modified":1785833297228,"schema":1785832985647}

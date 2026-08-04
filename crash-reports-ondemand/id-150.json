@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): K7Crvr.dll | mozilla::interceptor::FuncHook<T>::operator()","hashes":["c6837d1c5dd6919fec1c426bbefd52eb03640374bb37f9c66615be7cde5ada79"],"id":"id-150","last_modified":1785745702160,"schema":1785745364952}
+{"description":"utility (Windows nightly): std::default_delete<T>::operator()","hashes":["7ce5bc758019c59aa063c41f83d0877fcb6dbae3793a65d4b00b25e13052a181"],"id":"id-150","last_modified":1785833297036,"schema":1785832969304}
