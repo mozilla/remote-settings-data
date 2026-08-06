@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): mozilla::ipc::MessageChannel::AssertWorkerThread | mozilla::ipc::MessageChannel::MessageTask::Run","hashes":["54b44c00bfa671f0a764b971af13625d65d22443d80a6635a7864e993d6a53d7"],"id":"id-404","last_modified":1785833295447,"schema":1785833239717}
+{"description":"content (Mac nightly): mozilla::dom::CheckIsBadPolicy","hashes":["111cbcf12ef7db8e52ec6b3adb3477596cd04a72437e4b7c33449fa2d5cac871"],"id":"id-404","last_modified":1786005493419,"schema":1786005437496}
