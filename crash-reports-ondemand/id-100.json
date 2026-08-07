@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): libmozglue.dylib","hashes":["92951b8d31cbe7c10056477510d5a182ec40ed68f39a1397a438a9bd90a3b4a2","249c69b710b24452cedba2c7482a5a19800dd17a3e103ffee0e08cb9f8e756df"],"id":"id-100","last_modified":1786005495730,"schema":1786005114478}
+{"description":"rdd (Windows nightly): mozilla::MozPromise<T>::ForwardTo","hashes":["11480f14b2b11146e20030e01e1f885daa7c138a76ac215df01853ab5c6406c9"],"id":"id-100","last_modified":1786092496510,"schema":1786092116218}
