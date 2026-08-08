@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): decode_coefs","hashes":["de5977408915dd21a5f5ba5dad0fa4e564086dda8dd52aa9e7a759cb3c32909f"],"id":"id-195","last_modified":1786092494272,"schema":1786092215636}
+{"description":"gpu (Android nightly): <usize as core::slice::index::SliceIndex<[T]>>::index","hashes":["4d1b6d19959fb1835cb78d21d0a3574a0c2557609861ceba73641a39308377ce"],"id":"id-195","last_modified":1786178298997,"schema":1786178016526}
