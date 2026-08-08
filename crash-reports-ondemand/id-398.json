@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlReportFatalFailure","hashes":["653d5d5acdb3a8871305eeef623c3be4d5f86417f7155fafd16332ad3f2fa2a2"],"id":"id-398","last_modified":1786092496473,"schema":1786092433705}
+{"description":"socket (Linux release): @0x0 | mozilla::NrSocket::sendto","hashes":["12e0c570d5556c1488f82a6b62bb2ffe6a2d53ded5267c68801c940ef3bc43ce"],"id":"id-398","last_modified":1786178301112,"schema":1786178234160}

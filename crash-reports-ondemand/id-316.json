@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | nvEncMFTH264x.dll | CSerialWorkQueue::QueueItem::ExecuteWorkItem","hashes":["68121a09562e34525f293209f5b488fc374f8c3f76573fda941bf37a99574044"],"id":"id-316","last_modified":1786092495792,"schema":1786092347286}
+{"description":"socket (Windows nightly): std::default_delete<T>::operator()","hashes":["ad06f5498465d73007a7023942638312d4e45cb6f7bafe5b34c3dd50a9f4746b"],"id":"id-316","last_modified":1786178300448,"schema":1786178145909}
