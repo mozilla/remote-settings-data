@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): <usize as core::slice::index::SliceIndex<[T]>>::index","hashes":["4d1b6d19959fb1835cb78d21d0a3574a0c2557609861ceba73641a39308377ce"],"id":"id-195","last_modified":1786178300625,"schema":1786178016526}
+{"description":"content (Android beta): js::gc::ChunkBase::getKind","hashes":["e6ed5264546fe0cecbe51ab7696d1cd9688737e3efacbe72a961426ea1da7f9b"],"id":"id-195","last_modified":1786264096219,"schema":1786263812087}

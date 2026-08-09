@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): libsystem_kernel.dylib","hashes":["d7597e8d0b5fa5e7d30e5c3cdfce6407aa6f9f9dc4f3189612238061d0f72994","adb55600630c495d7cd8379cb7c3c31266a2117399a5ba4d9c4689849013881b","2faaf7ee2ea52aa69bd9484db2e0b7ba42014a4db615a422c721dfd7224cd664"],"id":"id-074","last_modified":1786178300459,"schema":1786177887927}
+{"description":"utility (Mac release): dyld4::Loader::applyFixupsGeneric","hashes":["17ddfaa23d30a2fe40dc332218b6ccdef5e10f4b97e181e61b70c2fc09669c12"],"id":"id-074","last_modified":1786264096050,"schema":1786263684148}
