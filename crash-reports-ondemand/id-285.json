@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): <naga::back::spv::CachedExpressions as core::ops::index::Index<naga::arena::handle::Handle<naga::ir::Expression>>>::index","hashes":["7c259d8519a3f8b6393ade3a34174b005f0d786ac0a908851fb5f89b10b44420"],"id":"id-285","last_modified":1786178299698,"schema":1786178113514}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurfaceAsFramebuffer","hashes":["dfde3b654c0341d75aa51a71ea6b648c1523214676564149aa992768122a0899"],"id":"id-285","last_modified":1786264095323,"schema":1786263907673}

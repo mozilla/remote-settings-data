@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::layers::AndroidHardwareBuffer::DeserializeFromFileDescriptor","hashes":["4763981ea0d8c9a4f42b869a848bb3027c399113659ae8805146d8c54abf3a37"],"id":"id-400","last_modified":1786178299045,"schema":1786178236242}
+{"description":"socket (Linux release): mozilla::SetSocketProcessSandbox","hashes":["a34049a52acb8a03d2a2710c29a8e52d92e648037f35c023df3934a11ff54e81"],"id":"id-400","last_modified":1786264094683,"schema":1786264029324}
