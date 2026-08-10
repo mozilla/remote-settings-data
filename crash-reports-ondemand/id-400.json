@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): mozilla::SetSocketProcessSandbox","hashes":["a34049a52acb8a03d2a2710c29a8e52d92e648037f35c023df3934a11ff54e81"],"id":"id-400","last_modified":1786264096447,"schema":1786264029324}
+{"description":"socket (Linux release): mozilla::SandboxPolicyCommon::EvaluateSyscall","hashes":["d8e33932e859d8e4d12ff90273f83b114159d79da949ed89a1a46e7238f5a10a"],"id":"id-400","last_modified":1786349913596,"schema":1786349844027}

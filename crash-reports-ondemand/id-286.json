@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): std::default_delete<T>::operator()","hashes":["f864b60da8ad669fb7a3f3096c9299cfa217254698b862657626d39c84f40d3b"],"id":"id-286","last_modified":1786264096488,"schema":1786263908686}
+{"description":"content (Linux nightly): EdgePool::Iterator::operator*","hashes":["942e30c4403735cf74171e2305e4600e33fb3b93042eeefab858433f9ef3f685","c34344cf128f4262d327927aed3fd38bdfddc52fbb1076586da027ffe851e073"],"id":"id-286","last_modified":1786349913644,"schema":1786349720091}

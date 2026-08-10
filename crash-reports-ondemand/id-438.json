@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): std::default_delete<T>::operator()","hashes":["ad06f5498465d73007a7023942638312d4e45cb6f7bafe5b34c3dd50a9f4746b"],"id":"id-438","last_modified":1786264095886,"schema":1786264071024}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurfaceAsFramebuffer","hashes":["dfde3b654c0341d75aa51a71ea6b648c1523214676564149aa992768122a0899"],"id":"id-438","last_modified":1786349912983,"schema":1786349885069}
