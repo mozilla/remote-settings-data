@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): mozilla::MFTDecoder::~MFTDecoder","hashes":["2515ecb309fbf3aea64c4fd82113ba557625e23482313ffe98e9cb7247e57fde","4a1bf46b113358e9ebf0f0dc5c0198b72b6ffbe93ad951ad8256af6ec5682437"],"id":"id-447","last_modified":1786349913213,"schema":1786349894721}
+{"description":"content (Mac nightly): mozilla::ipc::PortLink::SendMessage","hashes":["c1b6341cfbf543244320706dfe1ebf3621d148082b90dcbc9f7aa1a23564e762"],"id":"id-447","last_modified":1786437502438,"schema":1786437493878}

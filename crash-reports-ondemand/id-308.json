@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): mc","hashes":["f98f1b7346c49f52a01a0763ca6c30b53899bda0edefd051874206220f5d0940"],"id":"id-308","last_modified":1786349913537,"schema":1786349743795}
+{"description":"rdd (Mac release): IPC::MessageReader::FatalError | IPC::ParamTraits<mozilla::layers::SurfaceDescriptorDXGIYCbCr>::Read | mozilla::layers::VideoBridgeChild::CreateTexture","hashes":["faa4d8686570461157b8a00daa3eb7749ec0894e3e684a67f7f1f4c04a03f555"],"id":"id-308","last_modified":1786437502739,"schema":1786437344380}
