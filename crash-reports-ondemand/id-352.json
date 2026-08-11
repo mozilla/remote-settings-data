@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): @0x0 | libart.so","hashes":["f1903bbf2cdbec9c76ab86c2fac0cc276bdbee98cc779984e477ee2e8d481bc9"],"id":"id-352","last_modified":1786349912335,"schema":1786349793000}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurfaceAsFramebuffer","hashes":["dfde3b654c0341d75aa51a71ea6b648c1523214676564149aa992768122a0899"],"id":"id-352","last_modified":1786437501583,"schema":1786437390817}
