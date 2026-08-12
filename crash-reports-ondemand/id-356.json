@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): webrender::compositor::sw_compositor::SwCompositor::queue_composite","hashes":["b099ee9f28d7acfdc11a8922cfc028eec1d8f9992d01d3cc09fa9076febe39e1"],"id":"id-356","last_modified":1786437500985,"schema":1786437394968}
+{"description":"content (Mac nightly): mozilla::ContentCache::AssertIfInvalid","hashes":["e0c77206300d96108f2acf419ffc3796c22f57611362d3d7efd228c9486ab946"],"id":"id-356","last_modified":1786523894085,"schema":1786523793938}
