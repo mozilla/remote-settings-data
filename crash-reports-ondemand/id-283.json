@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::dom::TimeoutManager::RescheduleTimeout","hashes":["b2ef868e415d324e9c761e62982cb57294477f6be294757c7bd0c5714577a373","979fc37eb08739afc34cd1c295504636ad57dd4c81d1982c27ec0f200e837e94"],"id":"id-283","last_modified":1786523894146,"schema":1786523714887}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurfaceAsFramebuffer","hashes":["dfde3b654c0341d75aa51a71ea6b648c1523214676564149aa992768122a0899"],"id":"id-283","last_modified":1786610296964,"schema":1786610109312}

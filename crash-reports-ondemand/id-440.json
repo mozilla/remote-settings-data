@@ -1,1 +1,1 @@
-{"description":"rdd (Mac beta): FigXPCRemoteClientDispose","hashes":["cf330cf4eb5812915638e55716a2f7b0124b21a30578b707a6128ff2474378ad"],"id":"id-440","last_modified":1786523894512,"schema":1786523882155}
+{"description":"rdd (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | nvEncMFTH264x.dll | CSerialWorkQueue::QueueItem::ExecuteWorkItem","hashes":["aa09fa2317beaef08dbe04d1044524c431032a797c6b527a1d7e7274cdb3808c"],"id":"id-440","last_modified":1786610297430,"schema":1786610280052}
