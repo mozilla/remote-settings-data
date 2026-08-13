@@ -1,1 +1,1 @@
-{"description":"content (Android beta): JS::Heap<T>::exposeToActiveJS","hashes":["2c24a6e90e37ecb5461abc1a2ca1fd7147168239fe64cba40b3076dc4db69e43"],"id":"id-410","last_modified":1786523895326,"schema":1786523850494}
+{"description":"content (Android nightly): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["2d64411c430c21d19549e89835bc1162c228257e0bb46e9b75c6c9e6519a90fe"],"id":"id-410","last_modified":1786610298340,"schema":1786610248132}

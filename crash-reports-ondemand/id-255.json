@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): EdgePool::Iterator::operator*","hashes":["942e30c4403735cf74171e2305e4600e33fb3b93042eeefab858433f9ef3f685","c34344cf128f4262d327927aed3fd38bdfddc52fbb1076586da027ffe851e073"],"id":"id-255","last_modified":1786523895238,"schema":1786523685426}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["20226399f26cdd66cfd3545fffe68ec32506e2b383ae70977dd2648f61899dd9"],"id":"id-255","last_modified":1786610298237,"schema":1786610079873}
