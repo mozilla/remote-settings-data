@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): <mozglue_static::GeckoAlloc as core::alloc::global::GlobalAlloc>::alloc","hashes":["2ee1a5ccb88eec1611ff5135698b4e996a9bbd6b585fe56b8ee9ca26911516be","c3741d2546bece28e4bbfe6674b2ec743b645e56b9d86caf7190d8d4b4b2e01a"],"id":"id-345","last_modified":1786610298252,"schema":1786610177095}
+{"description":"gpu (Mac beta): webrender::compositor::sw_compositor::SwCompositor::queue_composite","hashes":["b099ee9f28d7acfdc11a8922cfc028eec1d8f9992d01d3cc09fa9076febe39e1"],"id":"id-345","last_modified":1786696705721,"schema":1786696581245}

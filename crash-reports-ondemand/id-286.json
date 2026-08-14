@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libmedia_codeclist_capabilities.so","hashes":["aa6ea6371c1fe0e17f5062fccefd0cb88413c2b1de312384d15023e9c9c25865"],"id":"id-286","last_modified":1786610299136,"schema":1786610112493}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["0c35c73c925c6e92e0ad3be4a9acc7ddd2911e8cfbfc5313d64fd03927f4bd4f"],"id":"id-286","last_modified":1786696706123,"schema":1786696518567}
