@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurfaceAsFramebuffer","hashes":["dfde3b654c0341d75aa51a71ea6b648c1523214676564149aa992768122a0899"],"id":"id-283","last_modified":1786610296964,"schema":1786610109312}
+{"description":"content (Android nightly): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["2d64411c430c21d19549e89835bc1162c228257e0bb46e9b75c6c9e6519a90fe"],"id":"id-283","last_modified":1786696704654,"schema":1786696515429}
