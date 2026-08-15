@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): libxul.so (deleted)","hashes":["0c8a3a412c18d105975021274de2aa29572ba9ff591e3ecd3adf536eb35fe257","7eeed364ae9a9bd4cef0c92516ebcc32b6cb9d208554f67e244ae9eab5a8d653"],"id":"id-430","last_modified":1786696704744,"schema":1786696673390}
+{"description":"main (Mac beta): mozilla::dom::quota::QuotaManager::Shutdown::$::operator()","hashes":["2e4f67efb3133ab3179954867b012f8a38379db22dca3c543885acc6bdc3a447","583f750f460b68f73cd3877412946e322bdd90f605040251ac23965eba831004"],"id":"id-430","last_modified":1786783091182,"schema":1786783062212}
