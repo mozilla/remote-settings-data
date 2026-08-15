@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): decode_sb","hashes":["a97a3e526194bec2223fe01ddb9afa36699fe12b996cf35c95390d1f5dd01b79"],"id":"id-443","last_modified":1786696705658,"schema":1786696687055}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["0c35c73c925c6e92e0ad3be4a9acc7ddd2911e8cfbfc5313d64fd03927f4bd4f"],"id":"id-443","last_modified":1786783092426,"schema":1786783075915}

@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsPIDOMWindowInner::GetExtantDoc","hashes":["b4751326ac61c6086781baeb7c91bab9b860e1c385c153025e14bd33340080ef","a9d258a75e9008defa2bdd253532878eecec7878b8a172325a99f140a99e436a"],"id":"id-390","last_modified":1786696705518,"schema":1786696630923}
+{"description":"content (Linux nightly): nsWrapperCache::GetWrapperMaybeDead","hashes":["29ac3e2955297d16b6d438ea5953f72f40c5172ff6ae3926561bc845316d0582","fbe719b549cd605efbaaf281341f030625417b09b203c70fd22a8fa736afd1d2"],"id":"id-390","last_modified":1786783092170,"schema":1786783018617}
