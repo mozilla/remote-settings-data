@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::gfx::TranslateDoubleToShifts","hashes":["d5792fb01007a98553bf79e36e287b815346e13fdf95494d0ad914badc8a9c75"],"id":"id-220","last_modified":1786783093337,"schema":1786782840340}
+{"description":"socket (Mac release): objc_msgSend | _xpc_dictionary_node_free | _xpc_dictionary_dispose","hashes":["d8e61a20919ab638899e1eb8cdd813f9f3e953f7172db64ee274cb22147f8cdc"],"id":"id-220","last_modified":1786868295872,"schema":1786868042003}
