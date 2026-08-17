@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["7a36c5a8564378548e26a593b1f2c5dff732b3a58424508f0329ce4ba0f1d72a"],"id":"id-339","last_modified":1786868293290,"schema":1786868168796}
+{"description":"gpu (Mac nightly): mozilla::gfx::RecordedScaledFontCreation::PlayEvent","hashes":["427a12c3707ee766bfde273b0dcec5595be94257ccc3692a91929068b215bea4"],"id":"id-339","last_modified":1786955305077,"schema":1786955179466}

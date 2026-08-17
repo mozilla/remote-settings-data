@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): abort | libgallium-26.1.2.so","hashes":["b050aba0e01470c52fd7b0bc1a942fd7d889ccd95b8e21fd074037144f2df6d2"],"id":"id-443","last_modified":1786868293712,"schema":1786868279445}
+{"description":"socket (Windows beta): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["2633688a2c4485d54f42635c66454307efa5c783b9b809e323bfaf6c194d4b6c"],"id":"id-443","last_modified":1786955305562,"schema":1786955293892}

@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): LdrpIncrementModuleLoadCount","hashes":["b4a3464ce850427b79234591ed3d5379d71f5f7155cd7b3ff66aafd61e1cb7ae"],"id":"id-352","last_modified":1786868294109,"schema":1786868184515}
+{"description":"socket (Linux release): mozilla::InstallSyscallFilter","hashes":["2549bb13a3f6f36e8f33764c4337d4144f1fb072409bea8b049b7fc94074bbba","4e9e262b285d806e6c589ef887cd69d52602ed0ffb9c8c3d5e327440c18deb37"],"id":"id-352","last_modified":1786955305941,"schema":1786955193492}
