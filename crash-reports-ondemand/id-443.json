@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["2633688a2c4485d54f42635c66454307efa5c783b9b809e323bfaf6c194d4b6c"],"id":"id-443","last_modified":1786955307430,"schema":1786955293892}
+{"description":"socket (Windows nightly): nsThreadPool::PutEvent","hashes":["a73b5c47bb37b33d3af70f9ac3279b7f81287ef6b48e40f3c5a65ccf216e8ba3","80beca2691037e17e122a74c10990f4e3e441b2ab7d1ac1f5923a654cda761bf"],"id":"id-443","last_modified":1787042306714,"schema":1787042300522}
