@@ -1,0 +1,1 @@
+{"bugIds":["2046060"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"97bebe1b-82a1-4e38-9419-e253a2946918","last_modified":1787019011580,"schema":1787019011320,"topLevelUrlPattern":"*://checkersandrallys.com/*","urlPattern":"*://*.cdn4dd.com/*"}
