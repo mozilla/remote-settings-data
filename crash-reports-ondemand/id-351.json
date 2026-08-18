@@ -1,1 +1,1 @@
-{"description":"utility (Linux release): tcmalloc::CentralFreeList::ReleaseToSpans","hashes":["d29d402a396d87bcdf3a4f344fa57caaf2c1073477aa4195228f8b525ecddf79","22f24d11f133153bf8d26002e25645c3c2024a10dae196f073bfe7bc7749cdcb"],"id":"id-351","last_modified":1786955305258,"schema":1786955192436}
+{"description":"socket (Mac release): objc_msgSend | _xpc_dictionary_node_free | _xpc_dictionary_dispose","hashes":["d8e61a20919ab638899e1eb8cdd813f9f3e953f7172db64ee274cb22147f8cdc"],"id":"id-351","last_modified":1787042305241,"schema":1787042199221}
