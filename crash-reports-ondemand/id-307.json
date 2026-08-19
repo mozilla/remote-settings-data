@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::gfx::RecordedScaledFontCreation::PlayEvent","hashes":["427a12c3707ee766bfde273b0dcec5595be94257ccc3692a91929068b215bea4"],"id":"id-307","last_modified":1787042306651,"schema":1787042150915}
+{"description":"socket (Mac release): pthread_mutex_lock | nsAppShell::Init","hashes":["89662cad610e474f29b5181d7177221fa5e8d0679d0a45d405c6527972459836"],"id":"id-307","last_modified":1787128706024,"schema":1787128549618}
