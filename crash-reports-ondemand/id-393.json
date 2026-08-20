@@ -1,1 +1,1 @@
-{"description":"rdd (Linux beta): vk_common_QueueSubmit","hashes":["9a748541ab9a03a84e038403c68dbaaf60e9840eff0d616b0a827ef62808c504"],"id":"id-393","last_modified":1787128706515,"schema":1787128645193}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | prcore.dll | remote_eka_prague_loader.dll | inproc_agent.dll | BaseThreadInitThunk","hashes":["39eb6c423fc475dec12f0dc18e479ca5b69dc258c7a457e56e96669bfc705218"],"id":"id-393","last_modified":1787215691001,"schema":1787215635937}

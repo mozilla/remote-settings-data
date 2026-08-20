@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): NtDeviceIoControlFile","hashes":["0cb18b87af77a9dfcf37fa18291032a5459e7ea38d711b74ed8e680c0d383c37"],"id":"id-392","last_modified":1787128705771,"schema":1787128644125}
+{"description":"socket (Mac release): IPC::ChannelPosix::ProcessIncomingMessages | IPC::ChannelPosix::OnFileCanReadWithoutBlocking | base::MessagePumpKqueue::ProcessEvents","hashes":["cf7167af1b5af4cbdf726a69c72ed6e48047eebc12afbf7cb0a8ae37a2b09f8b"],"id":"id-392","last_modified":1787215690224,"schema":1787215634748}
