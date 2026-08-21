@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::layers::AndroidHardwareBuffer::DeserializeFromFileDescriptor","hashes":["33c1a54f55043af443f014253d7ad31a6cf1c70c4253a296a5ddf12fa598c754"],"id":"id-287","last_modified":1787215691081,"schema":1787215520389}
+{"description":"rdd (Windows beta): mozavcodec.dll | mc_luma_unscaled","hashes":["96c8e199c6db6a7b35d2a0d7c69f64b039d4ab04b0dd07d538c4540edca09df8"],"id":"id-287","last_modified":1787300289509,"schema":1787300130437}
