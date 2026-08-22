@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): _os_workgroup_join_token_tsd_cleanup","hashes":["c8ee6816255200dd8a368e05499f03d4756edcea88ba6ba61eac830715e3ad97"],"id":"id-304","last_modified":1787300288838,"schema":1787300149003}
+{"description":"socket (Mac release): IPC::ChannelPosix::ProcessIncomingMessages | IPC::ChannelPosix::OnFileCanReadWithoutBlocking | base::MessagePumpKqueue::ProcessEvents","hashes":["cf7167af1b5af4cbdf726a69c72ed6e48047eebc12afbf7cb0a8ae37a2b09f8b"],"id":"id-304","last_modified":1787387905764,"schema":1787387752985}
