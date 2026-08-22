@@ -1,0 +1,1 @@
+{"bugIds":["2064338"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b1b11f06-7473-477a-ba5c-11143cf6eedc","last_modified":1787364611536,"schema":1787364610708,"topLevelUrlPattern":"*://www.silencershop.com/*","urlPattern":"*://www.lightboxcdn.com/*"}

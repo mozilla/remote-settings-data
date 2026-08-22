@@ -1,0 +1,1 @@
+{"bugIds":["2064016"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d661fbff-6f6a-4b78-a5fa-deb641649801","last_modified":1787364611559,"schema":1787364611212,"topLevelUrlPattern":"*://www.mitre10.co.nz/*","urlPattern":"*://cdn-eu.dynamicyield.com/*"}
