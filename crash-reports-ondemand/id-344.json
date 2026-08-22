@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): memcpy | mozilla::WebGL2Context::GetBufferSubData","hashes":["105a838836b4d81712e7f106ab4e812e867fab31bb94c99d25c6b7f04edceb56"],"id":"id-344","last_modified":1787300287916,"schema":1787300194584}
+{"description":"utility (Linux nightly): mozilla::BufferList<T>::IterImpl::RemainingInSegment","hashes":["af729fa2db465af589da07262094ff0535bb7551d4e0da5c31765897120236e6"],"id":"id-344","last_modified":1787387904603,"schema":1787387799393}
