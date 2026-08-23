@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::css::SheetLoadData::~SheetLoadData","hashes":["4eaa5c4f22defb163a9168566f6bf9216ea31a8ddb68b97ecd57e46b3d34088a"],"id":"id-238","last_modified":1787387906528,"schema":1787387679375}
+{"description":"utility (Linux nightly): mozilla::BufferList<T>::IterImpl::RemainingInSegment","hashes":["af729fa2db465af589da07262094ff0535bb7551d4e0da5c31765897120236e6"],"id":"id-238","last_modified":1787479713682,"schema":1787479488957}
