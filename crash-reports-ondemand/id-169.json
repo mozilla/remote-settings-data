@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["51f7cb4259ac7605308bf8f8197c10c9278eb950f379145a089818f6bc7b45c1","753eb505f5c4f6b6160eba6bfd9202f7636a819e2fdd1c089e3599bf3953cdec"],"id":"id-169","last_modified":1787479713446,"schema":1787479412467}
+{"description":"content (Mac nightly): js::gc::BufferAllocator::traceMediumAlloc","hashes":["dc91b63eab43e7b976db73289c72be694aaef85da85495b6a60072c8bb356897"],"id":"id-169","last_modified":1787561309904,"schema":1787561000253}

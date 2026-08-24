@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): core::option::expect_failed | <std::collections::hash::map::HashMap<K, V, S, A> as core::ops::index::Index<&Q>>::index","hashes":["4217a5935544997ad13fc4e355d1d4e7e4c767b1f2e817e6b145534aa9f55ab7"],"id":"id-379","last_modified":1787479712361,"schema":1787479642614}
+{"description":"socket (Windows beta): @0x4c60030","hashes":["049ecd1698c4037ae87d793b7be0d955b641945139a1dbb6b3c62ff8022c512a"],"id":"id-379","last_modified":1787561309006,"schema":1787561234768}
