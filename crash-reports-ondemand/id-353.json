@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::wr::SpaceAndClipChainHelper::SpaceAndClipChainHelper","hashes":["85643bec8324f1397aa2f85aa4603c3f8d323aff7e1c9c17c9ad5f05d999d362"],"id":"id-353","last_modified":1787479711744,"schema":1787479614669}
+{"description":"content (Mac nightly): js::gc::MarkingTracerT<T>::processMarkStackTop","hashes":["9a9ee636f88274acc2e8549ada104d7bd404ed1e23e0f3d2f557efd09967e9cb"],"id":"id-353","last_modified":1787561308016,"schema":1787561206452}

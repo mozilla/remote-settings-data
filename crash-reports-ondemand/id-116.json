@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["37d707c963b132cc787ff56ee16537519a124d30970e69c4043fecc7dccb4dd9","148b9444d678704035a7c6d64512531338f083d754183705d6e8709bf381d3a5"],"id":"id-116","last_modified":1787479711490,"schema":1787479355484}
+{"description":"socket (Windows beta): mozilla::ipc::MessageChannel::ReportConnectionError","hashes":["c9ef0e39a5255ea93f4add98f5a89ce8af533fe60a9b7b773dc39d0b4ff4a1e6"],"id":"id-116","last_modified":1787561307704,"schema":1787560940149}
