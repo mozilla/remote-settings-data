@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::WeakPtr<T>::get","hashes":["3da0a041aafdef5987c17711aaa23cb75b13557ca925c039d1bce707c43d2947"],"id":"id-438","last_modified":1787736514019,"schema":1787736501749}
+{"description":"content (Mac beta): servo_arc::Arc<T>::is_static","hashes":["138586dc252c113f5e7cf2b411ad56df8f02585556e5c051ffc9b0323cbbce77"],"id":"id-438","last_modified":1787908723028,"schema":1787908698795}
