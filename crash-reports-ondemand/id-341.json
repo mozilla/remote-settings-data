@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::PresShell::DoFlushPendingNotifications","hashes":["44f9c255179eec9c80aeafb3dee6bcf68258fe79e6296b962a3b7925a25d238a","da1ed45c0a128b30558793bde5c3a3c639f8a415c4addc1b76e66fc039dd7703"],"id":"id-341","last_modified":1787736512580,"schema":1787736393184}
+{"description":"socket (Windows beta): mozilla::ipc::MessageChannel::ReportConnectionError","hashes":["c9ef0e39a5255ea93f4add98f5a89ce8af533fe60a9b7b773dc39d0b4ff4a1e6"],"id":"id-341","last_modified":1787908721555,"schema":1787908590704}
