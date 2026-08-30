@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): <T>::read_with","hashes":["26739fdb8fdce73fcfadeb832450e33041272cc45633086ee5e2a89aecee0910"],"id":"id-456","last_modified":1787908722688,"schema":1787908718257}
+{"description":"content (Linux nightly): nsTArray_Impl<T>::ClearAndRetainStorage | nsTArray_Impl<T>::Clear | mozilla::dom::HTMLInputElement::SetFiles","hashes":["58484ea3ff83a034275f63542fd04a299fdcabcc7608142bd6c8a5c1e4ed23f4"],"id":"id-456","last_modified":1788079131883,"schema":1788079127132}

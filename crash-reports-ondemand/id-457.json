@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): IPC::MessageReader::FatalError | mozilla::ipc::shared_memory::HandleBase::FromMessageReader","hashes":["dc49de10fbeaf9215240c04bdf589c237d7148598b97f968dc71b88c35a1d880"],"id":"id-457","last_modified":1787908722703,"schema":1787908719342}
+{"description":"content (Mac beta): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_NOT_AVAILABLE)","hashes":["00f8711fc6ae7fb0f3bc5fb0a40b1f408cfd502e21bc1388ec92d27193467cf4"],"id":"id-457","last_modified":1788079131865,"schema":1788079128203}
