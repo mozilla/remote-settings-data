@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): StrCmpICW","hashes":["bbb5291b0d2e0806a2619d076f84f9e8c3d95c667999e019880e1ae1ae8df4ad"],"id":"id-409","last_modified":1787908723042,"schema":1787908667079}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["b598280b6e50a2fe1bfafe704756284f878f0c6e4ab694c8674085fe8c6ab672"],"id":"id-409","last_modified":1788079132991,"schema":1788079072906}
