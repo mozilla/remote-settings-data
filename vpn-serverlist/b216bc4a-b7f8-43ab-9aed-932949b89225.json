@@ -1,1 +1,1 @@
-{"cities":[{"code":"SKBO","name":"Colombia","servers":[{"hostname":"skbo234.m1.fastly-masque.net","port":2499}]}],"code":"CO","id":"b216bc4a-b7f8-43ab-9aed-932949b89225","last_modified":1785274516918,"name":"Colombia","schema":1783435796173}
+{"cities":[{"code":"SKBO","name":"Colombia","servers":[{"hostname":"skbo234.m1.fastly-masque.net","port":2499}]}],"code":"CO","id":"b216bc4a-b7f8-43ab-9aed-932949b89225","last_modified":1788206114487,"locked":true,"name":"Colombia","schema":1786534897596}
