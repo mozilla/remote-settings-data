@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): Abort | NS_DebugBreak | mozilla::Logger::~Logger","hashes":["5204ceef42109d0b7e6bee524d8891f6ec590551028261abd161ea436ccf31cd"],"id":"id-458","last_modified":1788079134042,"schema":1788079129317}
+{"description":"utility (Mac release): objc_msgSend | -[_LSStringsFileContent uncheckedObjectsForKeys:forLocaleCode:fromBundle:cacheLocalizations:]","hashes":["12c335abfc626394194f3153a3773468e1f3fc8748bee82d22a82478b0b76adf"],"id":"id-458","last_modified":1788165545699,"schema":1788165536001}
