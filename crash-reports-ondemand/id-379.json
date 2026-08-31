@@ -1,1 +1,1 @@
-{"description":"utility (Linux beta): nsThreadPool::PutEvent","hashes":["d6de1557d9735b2ff073ebbe7e8e756cf35a73b5a77dc56f80292447065487f5"],"id":"id-379","last_modified":1788079131687,"schema":1788079039703}
+{"description":"socket (Mac nightly): Abort | NS_DebugBreak | mozilla::Logger::~Logger","hashes":["1cff4d9d648a3d2e206acc2a3e5c348dd4f405ce01066a4a87d8bb1b57ec83e2"],"id":"id-379","last_modified":1788165544081,"schema":1788165447648}
