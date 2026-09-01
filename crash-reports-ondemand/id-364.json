@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["3822e64daee72579c97f7697a6ae9bb84a969e24a82c52aae5f2663306a7cf5d"],"id":"id-364","last_modified":1788165544446,"schema":1788165431336}
+{"description":"utility (Linux release): mozilla::EnterChroot","hashes":["ecd4ad3d64d22b2de9672459ed557b6d411e59e9f541ef377d6a3bad2f939fa1","a62b55d439511e3527255026709cb4eb8c5d61bef0de15f0d85e919fda11fc93"],"id":"id-364","last_modified":1788253130606,"schema":1788253017284}
