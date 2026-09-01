@@ -1,0 +1,1 @@
+{"feature":"memories-context","id":"memories-context--params--mistral-small-2603--v1","is_default":false,"kind":"params","last_modified":1788293240564,"model":"mistral-small-2603","modules":[{"name":"relevant-memories","version":"1.0"}],"parameters":"{}","schema":1787871904659,"service_type":"memories","version":"1.0"}

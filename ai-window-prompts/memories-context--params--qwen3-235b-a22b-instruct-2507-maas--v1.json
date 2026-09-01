@@ -1,0 +1,1 @@
+{"feature":"memories-context","id":"memories-context--params--qwen3-235b-a22b-instruct-2507-maas--v1","is_default":false,"kind":"params","last_modified":1788293240567,"model":"qwen3-235b-a22b-instruct-2507-maas","modules":[{"name":"relevant-memories","version":"1.0"}],"parameters":"{}","schema":1787871904659,"service_type":"memories","version":"1.0"}
