@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): objc_msgSend | -[_LSStringsFileContent uncheckedObjectsForKeys:forLocaleCode:fromBundle:cacheLocalizations:]","hashes":["12c335abfc626394194f3153a3773468e1f3fc8748bee82d22a82478b0b76adf"],"id":"id-367","last_modified":1788253130350,"schema":1788253020605}
+{"description":"main (Mac nightly): getMethodFromListArray<T>","hashes":["ac413bd82b0414157ecf2b8d5ab0c6e5bfbd1feb0a502f46908f651b2a4c7f17"],"id":"id-367","last_modified":1788424734739,"schema":1788424629504}

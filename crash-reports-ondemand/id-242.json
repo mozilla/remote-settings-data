@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): AsyncShutdownTimeout | profile-before-change-telemetry | CrashManager: submitting Glean crash ping(s)","hashes":["50a92aa22c0ae70c6f1cd8a898b2d0f23844a9c34e105bc664d3a591d0eb87e0"],"id":"id-242","last_modified":1788253130307,"schema":1788252879749}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["3822e64daee72579c97f7697a6ae9bb84a969e24a82c52aae5f2663306a7cf5d"],"id":"id-242","last_modified":1788424734694,"schema":1788424487703}
