@@ -1,1 +1,1 @@
-{"description":"content (Windows nightly): mozilla::dom::JSActorManager::ReceiveRawMessage","hashes":["87dd8084b7ee56d200ae5dd596f6e4a8413ad8a0dd029a6eb3dd660d69f6bc86","70d5884911b7c756ea833af9889e9071e9eded06ae54438ce856df251c5c6738","ef048775eb068ac2cb02c51c8b15d3b88cb44ae35bf04227d45f238304223d69"],"id":"id-262","last_modified":1788424734690,"schema":1788424509892}
+{"description":"utility (Windows beta): RtlReportFatalFailure","hashes":["9508b9f01397cb644f0c782cff8ec82075cf20acfe0a5a24f6acd79e6f1fe911"],"id":"id-262","last_modified":1788510518860,"schema":1788510308196}

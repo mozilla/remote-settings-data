@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): @0x0 | mozilla::wr::RendererOGL::MaybeCaptureScreenPixels","hashes":["15d6782cf2904a6ec74c678505812f8c72303ad2861cf685bdb1ed34b84d45ff"],"id":"id-373","last_modified":1788424735651,"schema":1788424636243}
+{"description":"gpu (Android nightly): libc.so | libnativedisplay.so","hashes":["ce397372d6343cd5872a9f9e7614d79e1afdab95a415085945aeeeda27fa76ad"],"id":"id-373","last_modified":1788510520258,"schema":1788510435761}
