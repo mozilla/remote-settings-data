@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): InjUmon64.dll | StartDocAStub","hashes":["a625edb7586f01df3a29db5641811d79ea818686e37f2325eb91893d5878d5ab"],"id":"id-279","last_modified":1788510521354,"schema":1788510327441}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["3822e64daee72579c97f7697a6ae9bb84a969e24a82c52aae5f2663306a7cf5d"],"id":"id-279","last_modified":1788597515178,"schema":1788597330311}

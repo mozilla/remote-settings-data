@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["c105a70d9e28f22a338bedc6a231aa7b23479384c1ce97c53a995d0ffc18a2dd"],"id":"id-352","last_modified":1788510521530,"schema":1788510412300}
+{"description":"content (Android beta): mozilla::CycleCollectedJSRuntime::AfterWaitCallback","hashes":["610de72a8c9a0cbfef0660af8e11170113930cc899ccccc413a4181aee26536b"],"id":"id-352","last_modified":1788597515445,"schema":1788597414548}
