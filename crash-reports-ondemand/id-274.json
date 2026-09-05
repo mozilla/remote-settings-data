@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::dom::syncedcontext::Transaction<T>::Commit | nsTSubstring<T>::operator= | mozilla::net::nsStandardURL::GetAsciiSpec","hashes":["05b0f738e1a44950a13ca191070c9ad92c74bd7677c8ba0fe5a493abf0616ea5"],"id":"id-274","last_modified":1788510520397,"schema":1788510321907}
+{"description":"socket (Mac release): nsTAutoStringN<T>::nsTAutoStringN","hashes":["a2febd5182352fef6b6a380daed88ef9eae6d376f08122b286316fa2047332ef"],"id":"id-274","last_modified":1788597514225,"schema":1788597324719}
