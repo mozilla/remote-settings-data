@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): nsQueryInterface<T>::operator()","hashes":["1a83de0485fb41dd9447b401653042b1623b49361ac19ae1d2c4c34f815e4058"],"id":"id-369","last_modified":1788597513242,"schema":1788597433401}
+{"description":"gpu (Linux release): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["6c2cd3aba9b18c1ca81c6aa33c0901ebbb872b21b1182c062341021c76f4a107"],"id":"id-369","last_modified":1788769717264,"schema":1788769632951}
