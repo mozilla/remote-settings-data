@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): core::result::unwrap_failed | webrender::bump_allocator::BumpAllocator::new","hashes":["e66125b4fa5cfd22f1194b9e4a0420bd1b248f404247e5aee1e0bed070311a3c","372f8710d759bc579182203d308deb18e67c4be6a392ccdc4b124769e577cb8e"],"id":"id-393","last_modified":1788597515097,"schema":1788597460769}
+{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["1f9f260dd7f10a451640cfbaba2c1bf4ad26dabb8b7f8c462b9398983044831a"],"id":"id-393","last_modified":1788769719142,"schema":1788769659862}
