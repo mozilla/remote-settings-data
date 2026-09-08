@@ -1,2 +1,3 @@
 1788888309011	firefox-referral-newtab-messaging
 1788891815986	launch-at-login-infobar-existing-user-experiment
+1788901374870	launch-at-login-infobar-existing-user-experiment
