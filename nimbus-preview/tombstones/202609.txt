@@ -8,3 +8,5 @@
 1788945021658	launch-on-login-for-existing-users-exit-dialog-vs-auto-enable
 1788968578470	firefox-referral-newtab-messaging
 1788969394978	firefox-referral-newtab-messaging
+1788972945109	share-button-test
+1788972955159	sw-organize-tabs-callout
