@@ -3,3 +3,6 @@
 1788901374442	launch-at-login-infobar-existing-user-experiment
 1788903580651	smart-window-promotion-ai-sidebar
 1788911525584	smart-window-promotion-split-view
+1788944981294	launch-on-login-for-existing-users-show-and-tell-triple-check-infobar
+1788945009017	launch-on-login-for-existing-users-show-and-tell-mf-global-vs-tab-infobar
+1788945021248	launch-on-login-for-existing-users-exit-dialog-vs-auto-enable
