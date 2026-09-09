@@ -7,3 +7,4 @@
 1788945009017	launch-on-login-for-existing-users-show-and-tell-mf-global-vs-tab-infobar
 1788945021248	launch-on-login-for-existing-users-exit-dialog-vs-auto-enable
 1788968578046	firefox-referral-newtab-messaging
+1788969394608	firefox-referral-newtab-messaging
