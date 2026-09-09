@@ -1,3 +1,5 @@
 1788888309011	firefox-referral-newtab-messaging
 1788891815986	launch-at-login-infobar-existing-user-experiment
 1788901374870	launch-at-login-infobar-existing-user-experiment
+1788903580934	smart-window-promotion-ai-sidebar
+1788911526047	smart-window-promotion-split-view
