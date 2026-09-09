@@ -6,3 +6,4 @@
 1788944981680	launch-on-login-for-existing-users-show-and-tell-triple-check-infobar
 1788945009403	launch-on-login-for-existing-users-show-and-tell-mf-global-vs-tab-infobar
 1788945021658	launch-on-login-for-existing-users-exit-dialog-vs-auto-enable
+1788968578470	firefox-referral-newtab-messaging
