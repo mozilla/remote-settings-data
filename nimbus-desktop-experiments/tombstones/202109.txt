@@ -1,0 +1,13 @@
+1630510282929	nimbus-user-cohort-targeting-experiment
+1630510462434	captive-portal-vpn-infobar-nightly-validation-2
+1630517228978	nimbus-user-cohort-targeting-experiment-1
+1630517252825	nimbus-user-cohort-targeting-experiment-7
+1630517272852	nimbus-user-cohort-targeting-experiment-14
+1630517295518	nimbus-user-cohort-targeting-experiment-21
+1631643256159	keep-in-dock
+1631643312111	one-click-set-to-default
+1631646243092	firefox-vpn-test-1629
+1632930101818	firefox-100-user-agent
+1633028302752	smarter-suggestions-in-the-awesomebar
+1633028411432	firefox-suggest-history-vs-offline
+1633030067272	firefox-suggest-history-rollout-3

@@ -1,0 +1,17 @@
+1707254186914	device-migration-q4-spotlights
+1707330244473	contextual-opt-in-for-firefox-suggest
+1707413758088	desktop-long-term-holdback-validation-first-run-sub-experiment
+1707413775122	desktop-long-term-holdback-validation-general-sub-experiment
+1707413792008	firefox-desktop-long-term-holdback-validation
+1707944411010	moments-page-january-en
+1707944430620	moments-page-january-fr
+1707944455804	moments-page-january-de
+1708032599997	address-autofill-desktop-release-rollout
+1708032615910	address-autofill-desktop-beta-rollout
+1708032630789	address-autofill-desktop-nightly-rollout
+1708446174350	performance-metric-calibration-with-lcp-release
+1708446200920	performance-metric-calibration-with-lcp-beta
+1708709673865	showing-3rd-sponsored-tile-on-the-newtab-page-phase-4-de-ff121
+1708709709682	showing-3rd-sponsored-tile-on-the-newtab-page-phase-4-ukfresit-ff121
+1708709732187	showing-3rd-sponsored-tile-on-the-newtab-page-phase-4-us-ff121
+1709159045149	webcompat-reporting-tool-dropdown-menu-test

@@ -1,0 +1,13 @@
+1659554860802	download-mobile-regular-eco2204-en
+1659644349760	rally-first-prompt-for-users-without-an-enrolled-study-3rd-stage-rollout
+1659983001156	set-to-default-wording-infrequent-eco2206
+1659983018088	set-to-default-wording-casual-eco2206
+1659983035341	set-to-default-wording-regular-eco2206
+1659983056124	set-to-default-wording-core-eco2206
+1660588121534	pocket-newtab-send-to-pocket-2
+1660669191871	deploy-benchmark-1-survey-to-sample-of-rally-users-on-fx
+1660841266127	import-data-onboarding-time-saved
+1661453176730	pin-private-windows-to-taskbar-beta-study
+1661537033265	set-firefox-as-default-pdf-handler-on-windows-for-new-users-experiment-phase4
+1661537056967	set-firefox-as-default-pdf-handler-on-windows-for-new-users-experiment-phase3
+1661963442584	adaptive-history-autofill
