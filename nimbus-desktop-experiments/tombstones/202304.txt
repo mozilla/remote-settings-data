@@ -1,0 +1,16 @@
+1680628217598	import-bookmarks-copy
+1681492808065	firefox-accounts-toolbar-button-default-visibility-new-users-2
+1681493381286	firefox-accounts-toolbar-button-default-visibility-2
+1681757299396	first-run-easy-set-up-fx108-rollout
+1681913528569	first-run-easy-set-up-fx111
+1681918285835	import-infrequent-rollout-make-yourself-at-home
+1681918317347	fox-doodle-pin-to-taskbar-rollout-100
+1681918342454	fox-doodle-set-default-rollout-100
+1681934454313	q2-pin-to-taskbar-fox-doodle-en-holdback
+1681934475488	q2-pin-to-taskbar-fox-doodle-de-holdback
+1681934535786	q2-set-to-default-fox-doodle-en-holdback
+1681934559284	q2-set-to-default-fox-doodle-de-holdback
+1682351941873	mixed-content-level-2-roll-out-release
+1682434740713	marketing-attribution-reach
+1682442985414	understanding-the-reach-of-our-triggers-fx112release-part-1
+1682621807175	device-migration-new-user-onboarding-pt-2

@@ -1,0 +1,11 @@
+1672763478149	first-run-easy-as-one-click-ver-1
+1673447335951	dap-telemetry-first-ingress-test
+1673473498902	106-major-release-firefox-new-user
+1673473625140	106-major-release-firefox-existing-user-experience
+1673476297654	onboarding-welcome-video-experiment
+1673549737966	sponsored-topsites-via-pocket
+1673970749116	import-infrequent-make-yourself-at-home
+1674258267814	test-import-spotlight-and-eco-group-10-rollout-test
+1674671394036	new-user-device-migration-onboarding
+1674783070654	abouthome-startup-cache-3
+1675106528397	colorways-expiring-fx108

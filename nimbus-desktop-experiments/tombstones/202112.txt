@@ -1,0 +1,8 @@
+1638919216857	captive-portal-vpn-info-experiment
+1639073833310	pocket-newtab-compact-layout
+1639073963479	pocket-newtab-compact-layout-aa
+1639517989538	mr2-aboutwelcome-holdback
+1639597870761	more-from-mozilla
+1640109389527	firefox-100-user-agent-nightly-96-97
+1640109443602	firefox-100-user-agent-beta-95-96
+1640709149756	mr2-upgrade-spotlight-holdback

@@ -1,0 +1,14 @@
+1717509542109	no-code-event-instrumentation-for-firefox-desktop-exploration
+1717515917988	weather-suggestions-simplified
+1718037812296	mozillaaccounts-toolbar-button-default-visibility-existing-user
+1718117399507	animated-illustrations-in-aboutwelcome
+1718117987473	guidance-notification-split-set-to-default-and-pin-onto-separate-screens
+1718132922179	post-quantum-key-exchange-for-tls
+1718277839677	yelp-suggestions-pilot-v3
+1718732084722	pocket-newtab-3rd-sponsored-tile-rollout
+1718732181659	showing-3rd-sponsored-tile-on-the-newtab-page-rollout-to-beta
+1718732199787	showing-3rd-sponsored-tile-on-the-newtab-page-rollout-to-non-release
+1718732996563	showing-3rd-sponsored-tile-on-the-newtab-page-rollout-to-esr-copy
+1719242437878	fox-guide-reader-mode-existing-user-holdback
+1719498650724	fox-guide-reader-mode-early-day-user-holdback
+1719601584959	long-term-holdback-2024-h1-velocity-desktop

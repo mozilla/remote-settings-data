@@ -1,0 +1,11 @@
+1646759063522	more-from-mozilla-panel-fx97-release
+1646766815394	firefox-100-user-agent-nightly-97-99
+1646864851538	validate-private-browsing-mode-pbnewtab-as-experimentation-surface
+1646938901529	increase-frequency-of-syncing-after-tab-changes
+1647367612437	pocket-newtab-compact-layout-spoc-positions
+1647367657655	pocket-newtab-headers-layout-spoc-positions
+1647367688632	pocket-newtab-gradient-layout
+1647971558180	picture-in-picture-first-time-toggle-text
+1648483446700	peace-of-mind-a-rollout
+1648483465694	better-internet-c-rollout
+1648674889563	better-internet-infrequent-eco2202
