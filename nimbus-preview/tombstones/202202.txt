@@ -1,0 +1,10 @@
+1643747078887	firefox-suggest-opt-in-modal
+1643830550356	better-internet-infrequent-eco2202
+1644350255513	fenix-100-user-agent-nightly-98-99
+1644844836899	focus-ios-aa-experiement
+1644947045890	pocket-newtab-compact-layout-spoc-positions
+1644947059217	pocket-newtab-headers-layout-spoc-positions
+1644947067457	pocket-newtab-gradient-layout
+1645039528206	increase-frequency-of-syncing-after-tab-changes
+1645200316727	picture-in-picture-first-time-toggle-text
+1645733901561	validate-private-browsing-mode-pbnewtab-as-experimentation-surface
