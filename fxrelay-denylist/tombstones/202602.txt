@@ -1,0 +1,16 @@
+1770733206328	auth-services-adobe-com
+1770733206331	discord-com
+1770733206334	secure-indeed-com
+1770733206336	secure-soundcloud-com
+1770733206339	signin-aws-amazon-com
+1770733206342	www-tiktok-com
+1770733206344	www-reddit-com
+1770733206347	account-booking-com
+1770733206350	appleid-apple-com
+1770733206353	mail-google-com
+1770733206356	onlyfans-com
+1770733206359	www-amazon-co-uk
+1770733206361	www-amazon-com
+1770733206364	www-amazon-de
+1770733206367	www-google-com
+1770733206369	www-youtube-com
