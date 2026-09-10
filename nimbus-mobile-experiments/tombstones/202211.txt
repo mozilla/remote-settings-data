@@ -1,0 +1,4 @@
+1668457104776	viewpoint-survey-2022-nov-ios
+1668457123004	viewpoint-survey-2022-nov-android
+1668695682564	firefox-ios-homepage-experiment-sponsored-shortcuts
+1668695758569	firefox-android-sponsored-shortcuts-experiment

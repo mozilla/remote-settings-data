@@ -1,0 +1,13 @@
+1751472678437	new-menu-redesign
+1751475994342	reset-app-color-icon-on-all-beta-disable-v1
+1751476020682	reset-app-color-icon-on-all-nightly-disable
+1751476489077	change-app-color-icon-on-release-smoke-test-reset-to-control-for-enrolled-users
+1751645705508	anti-fingerprinting-characteristic-evaluation-androidreleaseglobal-round-1
+1752615800968	viewpoint-android-2025-rolling
+1752617629803	viewpoint-ios-2025-rolling
+1752873002364	roll-out-private-browsing-mode-release
+1753284806029	viewpoint-ios-jul-2025
+1753284975587	viewpoint-android-jul-2025
+1753313025739	hnt-sponsored-shortcut-feature
+1753796591365	feature-prioritization-android
+1753899474320	feature-prioritization-ios

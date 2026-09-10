@@ -1,0 +1,9 @@
+1662565541427	firefox-ios-first-run-validation-aa-2-weeks
+1662565566121	fenix-first-run-validation-aa-2-weeks
+1663263609670	firefox-ios-inactive-tabs-100-rollout
+1663273348513	fenix-first-run-validation-aa-4-weeks
+1663273400165	firefox-ios-first-run-validation-aa-4-weeks
+1663707133011	all-users-firefox-android-aa-experiment
+1663707958366	viewpoint-survey-2022-sept-ios
+1663710872449	default-browser-winning-branch-extended-holdback-study-beta
+1663777962514	viewpoint-survey-2022-sept-android
