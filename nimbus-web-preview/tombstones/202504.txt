@@ -1,0 +1,2 @@
+1744139084375	mozilla-accounts-integration-aa-experiment-prod
+1744923493889	mozilla-accounts-integration-aa-roll-out-stage
