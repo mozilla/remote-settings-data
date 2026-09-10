@@ -19,3 +19,6 @@
 1788983359694	addons-productivity-extensions-promo
 1788983639388	addons-video-extensions-promo-v2
 1788986472350	set-up-your-email-web-app-welcome-back-spotlight-v2
+1789052000171	win10-eos-using-multiple-bookmarks-as-reminders-to-save-data-pre-migration
+1789052214482	using-first-bookmark-as-reminders-to-save-data-pre-migration
+1789052235416	using-first-password-as-reminders-to-save-data-pre-migration
