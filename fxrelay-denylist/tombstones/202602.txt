@@ -1,0 +1,16 @@
+1770734209755	auth-services-adobe-com
+1770734209758	discord-com
+1770734209761	secure-indeed-com
+1770734209764	secure-soundcloud-com
+1770734209766	signin-aws-amazon-com
+1770734209769	www-tiktok-com
+1770734209772	www-reddit-com
+1770734209775	account-booking-com
+1770734209778	appleid-apple-com
+1770734209780	mail-google-com
+1770734209783	onlyfans-com
+1770734209786	www-amazon-co-uk
+1770734209789	www-amazon-com
+1770734209791	www-amazon-de
+1770734209794	www-google-com
+1770734209796	www-youtube-com
