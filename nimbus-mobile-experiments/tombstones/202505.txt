@@ -1,0 +1,17 @@
+1746459935998	ios-pdf-improvements
+1746459998041	search-v1-homescreen-3
+1746545853996	enhanced-cross-platform-suggest-android-relaunch-2-rollout
+1746558050718	ios-enable-closing-tabs-remotely
+1746724567603	sent-from-firefox-android-1-rollout
+1747229266777	sent-from-firefox-android-full-experiment-20
+1747235322193	new-toolbar-ios-ios-redesign-beta-roll-v2
+1747320593861	address-bar-engagement-android
+1747320636774	address-bar-engagement-ios-en-us
+1747840735297	ios-deep-links-rollout
+1747843396671	enhanced-cross-platform-suggest-ios-test
+1747843777328	clean-up-history-release-rollout-v137
+1747940528279	search-v1-homescreen-2-treatment-a-rollout
+1748448852176	anti-fingerprinting-characteristic-evaluation-androidnightlyus-only-round-2
+1748459412674	turn-off-shipped-domain-suggestions
+1748478130716	address-bar-engagement-ios-en-us-v2
+1748571386996	search-v1-homescreen

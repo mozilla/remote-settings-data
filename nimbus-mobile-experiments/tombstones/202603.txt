@@ -1,0 +1,15 @@
+1772559945928	local-network-access-andorid-nightly-rollout
+1772643725341	android-tou-experience-0-experiment
+1772643751123	android-tou-experience-1-experiment
+1773333088926	homescreen-default-content-android-nightly
+1773852577149	homescreen-default-content-android
+1773870104288	stay-on-last-tab-nightly
+1773927122713	doh-autoselect-fenix-nightly-149
+1773937592735	android-tou-experience-2-experiment
+1774280399545	brand-refresh-onboarding-ios
+1774387522673	viewpoint-ios-march-2026
+1774454179859	anti-fingerprinting-characteristic-evaluation-androidnightlyworld-round-2
+1774472538204	android-ui-redesign-release
+1774472567767	android-menu-redesign-release
+1774902459284	stay-on-last-tab
+1774991537903	fxa-keychain-refactor-ios-rollout-copy
