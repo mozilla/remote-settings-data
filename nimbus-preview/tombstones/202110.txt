@@ -1,0 +1,12 @@
+1633728337349	pocket-newtab-compact-layout-aa
+1634052805605	captive-portal-vpn-info-experiment
+1634073404004	all-users-home-screen-android
+1634147871236	mr2-home-screen-impact-assessment-experiment
+1634147878963	upgraded-user-home-screen-impact-assessment-experiment
+1634575065591	firefox-100-user-agent-nightly-95-96
+1634766395387	upgraded-home-screen-impact-assessment-experiment-ios
+1634831435382	all-users-homescreen-ios
+1634938240389	new-user-home-screen-impact-assessment-experiment-ios
+1635274352764	mr2-upgrade-spotlight-holdback
+1635361133783	emotive-pin-firefox-modal
+1635451837221	focus-android-aa-experiment

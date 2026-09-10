@@ -1,0 +1,11 @@
+1641250642946	firefox-100-user-agent-nightly-97-99
+1641308500188	pocket-newtab-new-spoc-positions
+1641308511876	pocket-newtab-compact-layout-2
+1642109097990	more-from-mozilla-panel-fx97
+1642187647998	all-users-homescreen-ios-production-100-rollout
+1642189053674	testing-preview-collection-selection
+1642540763610	more-from-mozilla-96
+1642627091866	all-users-firefox-ios-aa-experiment
+1643036909167	new-focus-android-aa-experiment-on-production-version-96
+1643672818501	better-internet-c-rollout
+1643672821218	peace-of-mind-a-rollout

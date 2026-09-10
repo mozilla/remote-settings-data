@@ -1,0 +1,13 @@
+1628178646173	smarter-suggestions-in-the-awesomebar
+1628178842516	firefox-suggest-history-rollout-2
+1628526237234	default-browser-onboarding
+1629225914098	keep-in-dock
+1629228383638	one-click-set-to-default
+1629747353597	captive-portal-vpn-infobar-nightly-validation
+1629768562825	captive-portal-vpn-infobar-nightly-validation-2
+1630002492184	nimbus-user-cohort-targeting-experiment-7
+1630002495274	nimbus-user-cohort-targeting-experiment-1
+1630002504426	nimbus-user-cohort-targeting-experiment-14
+1630002510416	nimbus-user-cohort-targeting-experiment-21
+1630339936348	default-browser-winning-branch-extended-holdback-study-beta
+1630362090573	firefox-100-user-agent
