@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): arena_t::DemoteChunkToSpare | arena_t::DallocRun | arena_t::DallocSmall | arena_dalloc | idalloc","hashes":["37620778f5ed53fb7799a79cb15481ec94dce4eb78c85cb1b71ab03aea900303"],"id":"id-395","last_modified":1788857912321,"schema":1788857857728}
+{"description":"content (Android nightly): mozilla::MozPromise<T>::ChainTo","hashes":["8f1e7af5da6834f5c72ee5e2abf17ea1782533fd5615d9edc782e06794f01a48"],"id":"id-395","last_modified":1789031303320,"schema":1789031248486}
