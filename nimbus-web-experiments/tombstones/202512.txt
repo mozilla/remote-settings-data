@@ -1,0 +1,4 @@
+1765315544217	test-experiment-sub-manage-welcome-banner
+1765315571990	test-experiment-sub-manage-welcome-banner-prod
+1765316294858	fxa-emoji-experiment-staging
+1765316314163	emoji-experiment
