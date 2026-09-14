@@ -35,3 +35,15 @@
 1788973582673	ios-background-audio
 1789008811986	launch-at-login-infobar-existing-user-experiment
 1789009724065	tab-groups-151-onboarding-experiment
+1789068225833	multiple-profile-switching-rollout-messages-with-kit
+1789068789592	win10-eos-hnt-custom-icon-defaulted-but-not-pinned
+1789068793099	win10-eos-hnt-custom-icon-pinned-but-not-defaulted
+1789068797060	win10-eos-hnt-custom-icon
+1789072842687	hnt-journeys-topic-navigation-strip-v1
+1789077160979	hnt-journeys-auto-minimize-widgets-v1
+1789080352893	sw-organize-tabs-callout
+1789145562860	form-auto-fill-field-detection-improvements-v2
+1789146161881	launch-at-login-infobar-existing-user-experiment
+1789150977472	bing-address-bar-tips-v2-expansion-in-2026
+1789154829445	smart-window-promotion-ai-sidebar
+1789160802011	new-tab-automated-personalization-rollout-v3
