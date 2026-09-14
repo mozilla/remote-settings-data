@@ -27,3 +27,4 @@
 1789136543150	new-tab-tab-groups-promo-151
 1789148618775	form-autofill-ml
 1789404457917	new-tab-automated-personalization-holdback-v2
+1789406103302	new-tab-automated-personalization-rollout-v2
