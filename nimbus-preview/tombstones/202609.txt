@@ -47,3 +47,4 @@
 1789150977472	bing-address-bar-tips-v2-expansion-in-2026
 1789154829445	smart-window-promotion-ai-sidebar
 1789160802011	new-tab-automated-personalization-rollout-v3
+1789405615903	new-tab-automated-personalization-rollout-v3
