@@ -26,3 +26,4 @@
 1789070805122	multiple-profile-switching-rollout-messages-only
 1789136543150	new-tab-tab-groups-promo-151
 1789148618775	form-autofill-ml
+1789404457917	new-tab-automated-personalization-holdback-v2
