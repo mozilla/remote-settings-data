@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::MozPromise<T>::ChainTo","hashes":["8f1e7af5da6834f5c72ee5e2abf17ea1782533fd5615d9edc782e06794f01a48"],"id":"id-395","last_modified":1789031303320,"schema":1789031248486}
+{"description":"content (Android nightly): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["e58f9ea34967d4bbe17afea46fa73a7d96c2fdb6233a0aab4fd28d2bec5530ea","7df0edb4ca51f5c86aff656b498f83b53629ae2a14e5b2b60a7eb656b9f733bd"],"id":"id-395","last_modified":1789376311443,"schema":1789376254739}
