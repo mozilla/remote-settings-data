@@ -28,3 +28,4 @@
 1789148618775	form-autofill-ml
 1789404457917	new-tab-automated-personalization-holdback-v2
 1789406103302	new-tab-automated-personalization-rollout-v2
+1789481579725	firefox-referral-newtab-messaging
