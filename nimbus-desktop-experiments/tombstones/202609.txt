@@ -31,3 +31,4 @@
 1789481579725	firefox-referral-newtab-messaging
 1789500976958	hnt-journeys-spaces-v1
 1789501294361	hnt-journeys-carousel-popular-today-v1
+1789503993638	disable-safebrowsing-v5-for-desktop-release-v2
