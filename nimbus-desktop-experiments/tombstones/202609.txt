@@ -29,3 +29,4 @@
 1789404495047	new-tab-automated-personalization-holdback-v2
 1789406112597	new-tab-automated-personalization-rollout-v2
 1789481585844	firefox-referral-newtab-messaging
+1789500996029	hnt-journeys-spaces-v1
