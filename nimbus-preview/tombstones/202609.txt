@@ -53,3 +53,4 @@
 1789422225397	set-up-your-email-web-app-welcome-back-spotlight-95-5-rollout
 1789426737068	launch-at-login-infobar-new-user-experiment
 1789429059727	google-address-bar-tips-v2-expansion-in-2026-re-launch-3
+1789486587568	win10-eos-proactively-detect-device-instability-and-show-a-persistent-prompt
