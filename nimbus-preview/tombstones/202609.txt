@@ -59,3 +59,4 @@
 1789496323806	disable-safebrowsing-v5-for-desktop-release-154-155
 1789496625078	disable-safebrowsing-v5-for-android-release-154-155
 1789500404573	google-address-bar-tips-v2-expansion-in-2026-re-launch-3
+1789500955732	google-address-bar-tips-v2-expansion-in-2026-re-launch-3
