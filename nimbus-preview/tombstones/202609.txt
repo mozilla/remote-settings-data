@@ -56,3 +56,4 @@
 1789486587299	win10-eos-proactively-detect-device-instability-and-show-a-persistent-prompt
 1789488919272	win10-eos-proactively-detect-device-instability-and-show-a-persistent-prompt
 1789490322775	win10-eos-proactively-detect-device-instability-and-show-a-persistent-prompt
+1789496323439	disable-safebrowsing-v5-for-desktop-release-154-155
