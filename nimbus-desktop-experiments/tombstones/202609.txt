@@ -30,3 +30,4 @@
 1789406103302	new-tab-automated-personalization-rollout-v2
 1789481579725	firefox-referral-newtab-messaging
 1789500976958	hnt-journeys-spaces-v1
+1789501294361	hnt-journeys-carousel-popular-today-v1
