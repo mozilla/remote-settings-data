@@ -1,1 +1,1 @@
-{"allowed_targets":10,"decimals":1,"id":"sponsored_top_site_scoring","last_modified":1789428177781,"lookback_days":28,"normalization_cap":1,"privacy_parameter":1,"recency_halflife_days":7,"repeat_visit_weight":0,"schema":1789396311405,"targets":{},"trend_days":7}
+{"allowed_targets":10,"decimals":1,"id":"sponsored_top_site_scoring","last_modified":1789496719269,"lookback_days":28,"normalization_cap":"0.3","privacy_parameter":"1.0","recency_halflife_days":7,"repeat_visit_weight":"0.0","schema":1789485170241,"targets":{},"trend_days":7}
