@@ -65,3 +65,4 @@
 1789595046482	show-blocked-trackers-microsurvey-treatment
 1789595749032	show-blocked-trackers-microsurvey-control
 1789598656629	relay-desktop-to-mobile-callout-rollout
+1789601410661	launch-at-login-infobar-new-user-experiment
