@@ -32,3 +32,6 @@
 1789500976958	hnt-journeys-spaces-v1
 1789501294361	hnt-journeys-carousel-popular-today-v1
 1789503993638	disable-safebrowsing-v5-for-desktop-release-v2
+1789581456629	privacy-enhancing-firefox-suggest-m4-rollout
+1789581594258	privacy-enhancing-firefox-suggest-m5-holdback-experiment
+1789581663640	privacy-enhancing-firefox-suggest-m5-rollout
