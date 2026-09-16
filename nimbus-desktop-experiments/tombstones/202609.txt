@@ -34,3 +34,4 @@
 1789504001415	disable-safebrowsing-v5-for-desktop-release-v2
 1789581477196	privacy-enhancing-firefox-suggest-m4-rollout
 1789581600432	privacy-enhancing-firefox-suggest-m5-holdback-experiment
+1789592018173	privacy-enhancing-firefox-suggest-m5-rollout
