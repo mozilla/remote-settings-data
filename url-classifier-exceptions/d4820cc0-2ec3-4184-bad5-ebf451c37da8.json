@@ -1,0 +1,1 @@
+{"bugIds":["2069806"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d4820cc0-2ec3-4184-bad5-ebf451c37da8","last_modified":1789553776855,"schema":1789524608747,"topLevelUrlPattern":"*://www.frostmoonweb.com/*","urlPattern":"*://hatena.ne.jp/*"}
