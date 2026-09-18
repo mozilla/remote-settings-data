@@ -36,3 +36,4 @@
 1789581594258	privacy-enhancing-firefox-suggest-m5-holdback-experiment
 1789581663640	privacy-enhancing-firefox-suggest-m5-rollout
 1789592004537	privacy-enhancing-firefox-suggest-m5-rollout
+1789737586943	disable-happy-eyeballs-on-release-rollout
