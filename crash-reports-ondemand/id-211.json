@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): mozilla::ipc::MessageChannel::AssertWorkerThread | mozilla::ipc::MessageChannel::MessageTask::Run","hashes":["35eb037b4665e4cdf0bbd04e71cd0c2228a4980f963ecabe7c04f763d8c9ddb1"],"id":"id-211","last_modified":1789635512388,"schema":1789635251378}
+{"description":"rdd (Windows beta): CDevice::SetMultithreadProtected","hashes":["455b46ffe5f41c9e454146da5949b9cc60563aa1ac7b2ede95761e86a59b2d96"],"id":"id-211","last_modified":1789805893717,"schema":1789805647339}

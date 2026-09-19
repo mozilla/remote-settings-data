@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): AsyncShutdownTimeout | profile-before-change-telemetry | CrashManager: submitting Glean crash ping(s)","hashes":["78fbfc7e8a2294b48e953fd3f6214fa2167a7c735cad8786542fc2ac83da0f51"],"id":"id-105","last_modified":1789635512421,"schema":1789635127071}
+{"description":"main (Mac beta): AsyncShutdownTimeout | Places Clients shutdown | sanitize.js: Sanitize on shutdown","hashes":["c8b56a8e6141283ac23cffd4114de7d08ee92366895ab45e752207e37c1f707f"],"id":"id-105","last_modified":1789805893747,"schema":1789805528457}

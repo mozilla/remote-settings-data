@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x57c0030","hashes":["21baa5cfd56862a66ee3a03b84f070c852f341b1df12f76b0c06c5b8c194ce1a"],"id":"id-397","last_modified":1789635512216,"schema":1789635469132}
+{"description":"content (Android beta): mozilla::dom::syncedcontext::Transaction<T>::Commit | nsTSubstring<T>::operator= | mozilla::net::nsStandardURL::GetAsciiSpec","hashes":["bf31b7a4fe5b90cdef1e8654dadd8c09345ff7a2591bcacbbc27dea71f1d886f","a3c39014fdfb9219518f81843c2fff32b0c5fc0266c1883bf716c048fac0dd4f"],"id":"id-397","last_modified":1789805893561,"schema":1789805857435}
