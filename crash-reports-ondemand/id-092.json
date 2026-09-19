@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libusc.so","hashes":["d70d64d9e1994f9221d54565c728b47b4333e41074ffe4165e9701c167ffe762","a14d52e917531077636888ec1ca967bc71c846e560d096f5bfd95d7b8b71365d"],"id":"id-092","last_modified":1789635511491,"schema":1789635112653}
+{"description":"socket (Linux release): <name omitted> | mozilla::StaticPrefs::InitStaticPrefsFromShared","hashes":["7cc29efe2ec2b814e6e29d4787701d4d0532a93ee5abf5e807e94b0a61d4224e"],"id":"id-092","last_modified":1789805892966,"schema":1789805514010}

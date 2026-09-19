@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["5c7993be99daf7bb0954635037de0e20ed8eb99640e61a0cf9839ad19f2283e5","9f9c83e5df88be03072f2ae9883cf28d83e7b6eb0b42ffc8076543c16b23237b"],"id":"id-192","last_modified":1789635510900,"schema":1789635227496}
+{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["728f02b408bee63a2680e0237a543b2e31a181ae52bda9272491ff7eb7b0accf"],"id":"id-192","last_modified":1789805892414,"schema":1789805626550}
