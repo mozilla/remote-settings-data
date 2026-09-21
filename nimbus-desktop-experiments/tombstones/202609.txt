@@ -37,3 +37,6 @@
 1789581663640	privacy-enhancing-firefox-suggest-m5-rollout
 1789592004537	privacy-enhancing-firefox-suggest-m5-rollout
 1789737586943	disable-happy-eyeballs-on-release-rollout
+1790005711795	old-sidebar-is-going-away-soon-release-rollout
+1790005742086	smart-shortcuts-v5
+1790005762995	smart-shortcuts-v4p1-holdback
