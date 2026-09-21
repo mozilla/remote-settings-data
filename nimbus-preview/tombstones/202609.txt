@@ -77,3 +77,4 @@
 1790006774307	show-blocked-trackers-microsurvey-treatment
 1790006876963	show-blocked-trackers-microsurvey-control
 1790007583475	show-blocked-trackers-microsurvey-treatment
+1790010205227	iab-banners-new-tab
