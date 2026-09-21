@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::BarrieredPtrImpl<T>::operator bool","hashes":["109074b0027e01c50a6cc24335b3cffd00d5cb152166fd32c42559fadc8ed2ac"],"id":"id-299","last_modified":1789805892728,"schema":1789805746933}
+{"description":"content (Linux nightly): mozilla::dom::BrowsingContext::Detach::$::~$_1","hashes":["f0436d90999f93bf55416c6a51beaf7697bc562e2197e62131c32a9150b8b00d"],"id":"id-299","last_modified":1789979926879,"schema":1789979763903}
