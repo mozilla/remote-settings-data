@@ -38,3 +38,5 @@
 1789737618759	disable-happy-eyeballs-on-release-rollout
 1790005720606	old-sidebar-is-going-away-soon-release-rollout
 1790005749202	smart-shortcuts-v5
+1790005770362	smart-shortcuts-v4p1-holdback
+1790005792382	settings-microsurvey-2026-r2-rollout
