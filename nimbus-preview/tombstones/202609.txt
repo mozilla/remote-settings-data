@@ -73,3 +73,4 @@
 1789682624880	launch-at-login-infobar-existing-user-experiment-all-locales
 1789752240926	show-blocked-trackers-microsurvey-treatment
 1789753628398	smart-shortcuts-v3-lr2-holdback
+1789984617681	android-background-audio
