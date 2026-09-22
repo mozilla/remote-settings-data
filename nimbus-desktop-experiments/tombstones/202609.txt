@@ -40,3 +40,4 @@
 1790005749202	smart-shortcuts-v5
 1790005770362	smart-shortcuts-v4p1-holdback
 1790005792382	settings-microsurvey-2026-r2-rollout
+1790110620699	built-in-vpn-beta-summer-promo-default-browser-experiment
