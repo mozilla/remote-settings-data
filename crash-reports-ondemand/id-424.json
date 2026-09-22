@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): wgpu_core::storage::Storage<T>::get","hashes":["dd04b5913ab15068629ac5db505e5fe8b215bc1d8176de98b63a7ca141f981e5"],"id":"id-424","last_modified":1789979928738,"schema":1789979910826}
+{"description":"gpu (Android beta): libc.so | libart.so | mozilla::jni::Accessor::EndAccess<T>","hashes":["9bf620f0f7df6d8c2032464b1ed5aa9f3949a4a75cf1cdf1b6cc947a9ca1ea91"],"id":"id-424","last_modified":1790068141391,"schema":1790068105089}

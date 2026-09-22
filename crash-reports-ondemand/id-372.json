@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::RestyleManager::ProcessPostTraversal","hashes":["5529923bd0bcd6ea4ea0d516ea9d642ee2be62fcae3470e242378cc5c792f6f1"],"id":"id-372","last_modified":1789979928568,"schema":1789979850558}
+{"description":"socket (Mac release): mozilla::ipc::MessageChannel::OnMessageReceivedFromLink","hashes":["2e1f316ccd8568b8d31b61fbe5290b0fc64e2d76d2643a4eeadce43c3f0b9230"],"id":"id-372","last_modified":1790068142080,"schema":1790068045089}

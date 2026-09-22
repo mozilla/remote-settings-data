@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | nsRangeFrame::GetValueAtEventPoint","hashes":["f2a3ff3f8dfc500f93b0bb16d262bef9405f4333a440cf54ebee0fa9ba87fa5b"],"id":"id-160","last_modified":1789979927719,"schema":1789979594860}
+{"description":"socket (Windows beta): @0x54d0030","hashes":["8365c99749a1e1e1c724716cd922e7fdbd003d67fb48d200943c04d924f3d01e"],"id":"id-160","last_modified":1790068141319,"schema":1790067797148}
