@@ -1,0 +1,11 @@
+1790204703925	chat--style--qwen3-5-122b-a10b--v1
+1790204703929	memories-relevant-context--qwen3-5-122b-a10b--v2
+1790204703932	chat--response-rules--qwen3-5-122b-a10b--v1
+1790204703935	chat--model-details--qwen3-5-122b-a10b--v1
+1790204703937	chat--params--qwen3-5-122b-a10b--v12
+1790204703940	chat--params--generic--v12
+1790204703942	chat--params--qwen3-235b-a22b-instruct-2507-maas--v12
+1790204703944	chat--params--mistral-small-2603--v12
+1790204703946	chat--params--gemini-2-5-flash-lite--v12
+1790204703948	chat--params--gemini-3-1-flash-lite--v12
+1790204703950	chat--params--gpt-oss-120b--v12
