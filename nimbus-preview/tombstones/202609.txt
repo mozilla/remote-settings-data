@@ -87,3 +87,4 @@
 1790184963096	hnt-wattle-ncm-non-eu-non-english-widgets-rollout-jul-16th-v2
 1790190362156	wind-down-old-contile-metrics
 1790194202882	new-tab-spaces-v2
+1790196728949	sponsored-content-client-rollout
