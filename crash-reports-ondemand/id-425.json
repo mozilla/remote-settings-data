@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::AutoClonedRangeArray::FirstRangeRef","hashes":["3e3ed1f44ba52a3341474b5af11906242b8679bc5e59bbddc67c821b3890ceff"],"id":"id-425","last_modified":1790068140015,"schema":1790068106224}
+{"description":"utility (Mac release): InstanceConfig::Create","hashes":["7567309dabf982b56bfa89d3a9fea720cdd8529f267410297088580bf9dcbd4d"],"id":"id-425","last_modified":1790155743189,"schema":1790155709723}
