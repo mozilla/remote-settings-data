@@ -89,3 +89,4 @@
 1790194202882	new-tab-spaces-v2
 1790196728949	sponsored-content-client-rollout
 1790198135652	sponsored-content-client-rollout
+1790203838247	smart-window-promotion-split-view
