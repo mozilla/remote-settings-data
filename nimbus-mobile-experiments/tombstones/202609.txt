@@ -4,3 +4,4 @@
 1788964025740	ios-ad-blocker-155-rollout
 1789140670683	ios-ad-blocker-155-full-rollout
 1789504012649	disable-safebrowsing-v5-for-android-release
+1790182932260	casual-game-release
