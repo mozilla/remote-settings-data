@@ -46,3 +46,4 @@
 1790182895094	smart-window-promotion-v2b
 1790182918277	smart-window-promotion-v1b
 1790182992810	holdback-aa
+1790189984438	hnt-wattle-ncm-non-eu-non-english-widgets-rollout-jul-16-th
