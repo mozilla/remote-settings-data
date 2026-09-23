@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["6a43d99a0915cfc61bd5e145e55419bce6fe6fd8850cf118060690446745f07a","6fc3ee196250b978c40cd50fa6b52533105262cd2a2335942ccddb8bd9940dd9"],"id":"id-062","last_modified":1790068142024,"schema":1790067682135}
+{"description":"content (Mac beta): mozilla::dom::ThreadSafeWorkerRef::Private","hashes":["e4cbc21b368a4acf8a0b6055e8915ee8f08fa76349082cc3e13e1f2b59d76c3d"],"id":"id-062","last_modified":1790155745333,"schema":1790155279434}

@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libsrv_um.so","hashes":["e109dc887589ba3f4eed8894e41e9a9c1a091a5ef07bf1c61379ca32cd4cf01e","ca451206277f029d7ef7707d5bf4c8b4868264762e16532b4742910ad3c8122c"],"id":"id-392","last_modified":1790068141755,"schema":1790068068331}
+{"description":"socket (Windows beta): @0x55f0030","hashes":["c5763ec67ea246ad66b773a74ab86c73f318f62bd961ec510b17ce6968049694"],"id":"id-392","last_modified":1790155745045,"schema":1790155670957}
