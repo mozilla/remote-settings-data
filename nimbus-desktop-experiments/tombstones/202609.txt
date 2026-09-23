@@ -41,3 +41,8 @@
 1790005770362	smart-shortcuts-v4p1-holdback
 1790005792382	settings-microsurvey-2026-r2-rollout
 1790110620699	built-in-vpn-beta-summer-promo-default-browser-experiment
+1790182841088	smart-window-promotion-v1
+1790182871771	smart-window-promotion-v2-july-26
+1790182895094	smart-window-promotion-v2b
+1790182918277	smart-window-promotion-v1b
+1790182992810	holdback-aa
