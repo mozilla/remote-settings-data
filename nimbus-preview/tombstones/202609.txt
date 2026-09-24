@@ -106,3 +106,4 @@
 1790268100825	show-blocked-trackers-microsurvey-treatment
 1790271857548	first-run-onboarding-refresh
 1790273977654	first-run-onboarding-refresh
+1790283345274	firefox-vpn-desktop-to-android-callout
