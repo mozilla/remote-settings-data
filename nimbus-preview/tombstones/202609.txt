@@ -107,3 +107,4 @@
 1790271857177	first-run-onboarding-refresh
 1790273977252	first-run-onboarding-refresh
 1790283344988	firefox-vpn-desktop-to-android-callout
+1790291848795	enhanced-new-tab-search-logos
