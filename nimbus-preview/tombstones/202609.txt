@@ -99,3 +99,5 @@
 1790235954356	fetch-streaming-upload-beta
 1790260483062	enhanced-new-tab-search
 1790263255642	launch-at-login-infobar-existing-user-rollout
+1790264895352	new-tab-spaces-v2
+1790265021513	enhanced-new-tab-search
