@@ -104,3 +104,4 @@
 1790266612579	smart-window-promotion-split-view
 1790266742557	launch-at-login-infobar-existing-user-rollout
 1790268100583	show-blocked-trackers-microsurvey-treatment
+1790271857177	first-run-onboarding-refresh
