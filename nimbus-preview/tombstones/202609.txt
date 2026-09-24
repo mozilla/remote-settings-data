@@ -97,3 +97,4 @@
 1790212009245	lal-test-rollout
 1790212013168	lal-test-experiment
 1790235954356	fetch-streaming-upload-beta
+1790260483062	enhanced-new-tab-search
