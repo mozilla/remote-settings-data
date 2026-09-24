@@ -98,3 +98,4 @@
 1790212013168	lal-test-experiment
 1790235954356	fetch-streaming-upload-beta
 1790260483062	enhanced-new-tab-search
+1790263255642	launch-at-login-infobar-existing-user-rollout
