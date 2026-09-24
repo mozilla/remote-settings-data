@@ -5,3 +5,6 @@
 1789140670683	ios-ad-blocker-155-full-rollout
 1789504012649	disable-safebrowsing-v5-for-android-release
 1790182932260	casual-game-release
+1790270147190	android-marketing-card-experiment-de
+1790270167506	android-marketing-card-experiment-es
+1790270184466	android-marketing-card-experiment-fr
