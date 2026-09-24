@@ -92,3 +92,5 @@
 1790203837946	smart-window-promotion-split-view
 1790205324226	launch-at-login-infobar-new-user-rollout
 1790205469886	lal-test-rollout
+1790209849029	lal-test-experiment
+1790209852707	lal-test-rollout
