@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): xul.dll | _PR_NativeRunThread | pr_root","hashes":["fe85f6fabd9fbee2d00aeb69a945d10c815155691f1d63e28015912d1d253a3a"],"id":"id-177","last_modified":1790155743559,"schema":1790155414186}
+{"description":"gpu (Mac nightly): pthread_kill | abort | IOGPUMetalCommandBufferStorageAllocResourceAtIndex","hashes":["13ed4bc85474af3925a87fb8cae043378beb7c00ab0fdeb818e669324ea33c60"],"id":"id-177","last_modified":1790240986882,"schema":1790240660733}

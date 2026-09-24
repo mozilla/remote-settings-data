@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libGLESLayer_GPU_Control.so","hashes":["b98e415fb9f6f47515f73306fcd98a6615da143962b1582a34af29c94965f481"],"id":"id-043","last_modified":1790155743822,"schema":1790155257527}
+{"description":"gpu (Mac nightly): mozilla::gl::GLContext::LockSurface","hashes":["664e94603dcedb94c435b4b883b8183dac838bf5e4183397da06bd0fce7b201c"],"id":"id-043","last_modified":1790240987100,"schema":1790240482669}
