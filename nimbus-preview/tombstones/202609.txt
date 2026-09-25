@@ -108,3 +108,5 @@
 1790273977252	first-run-onboarding-refresh
 1790283344988	firefox-vpn-desktop-to-android-callout
 1790291848795	enhanced-new-tab-search-logos
+1790304356486	launch-at-login-infobar-new-user-rollout
+1790304360045	launch-at-login-infobar-existing-user-rollout
