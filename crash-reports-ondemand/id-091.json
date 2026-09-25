@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::dom::quota::QuotaManager::Shutdown::$::operator()","hashes":["0241afc8830b1a80d6d2c55536afa99e1b8d826fa656a2d0c3e40559fbb4eb5e","a055e8a51dd2858b041b720280324e51b7ef937e568a6fad28c0c793623a5880"],"id":"id-091","last_modified":1790240988289,"schema":1790240558950}
+{"description":"socket (Mac release): sigslot::_signal_base<T>::~_signal_base","hashes":["d6cff7c18ac28dd80edeb6da11fc7527b26ce69cff9c50f517f89926f844cb53"],"id":"id-091","last_modified":1790327952922,"schema":1790327520298}
