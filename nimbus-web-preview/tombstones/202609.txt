@@ -2,3 +2,4 @@
 1789134001102	qr-promo
 1789135141899	mozilla-accounts-experiment-mobile-auth-promo-value-props-stage
 1789143461014	mozilla-accounts-experiment-mobile-auth-promo-value-props-stage-v2
+1790364002106	mozilla-accounts-experiment-mobile-auth-promo-value-props-prod
