@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libinput.so","hashes":["0f8dfacab2c8a56c7ff4b8eac044485513fd1e9f4350b15c5ce8652ab3c3280b"],"id":"id-189","last_modified":1790327951740,"schema":1790327635909}
+{"description":"socket (Windows nightly): GetHandleInformation","hashes":["a2194e0ec59650601a1b550c5712f6b5ffcef8ed4d10b7c0724b2e40a2f4a868"],"id":"id-189","last_modified":1790413152683,"schema":1790412833183}

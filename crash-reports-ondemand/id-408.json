@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpReportHeapFailure | RtlpFreeHeap | RtlpFreeHeapInternal | RtlFreeHeap | aiicon.dll | CExtractIconWForA::Extract","hashes":["e8d90bfc6bd497b0b698e04714366f74494fd7e0af65f067f1487ee257a23c92","90674f943f4b6e1c9e3158dda1c4e1a56ad06523f08e9f01cf339d8ebcc8feaf"],"id":"id-408","last_modified":1790327951583,"schema":1790327893199}
+{"description":"utility (Windows nightly): LdrpFreeTls","hashes":["777d5d675939d31e3d83ce65866842a808be329ea3c0a4887ebb55c57df7f9bc"],"id":"id-408","last_modified":1790413152536,"schema":1790413092877}
