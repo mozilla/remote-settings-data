@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): webrender::render_task_graph::RenderTaskGraphBuilder::end_frame","hashes":["b8706a8442d8839ba44a926650c4a0e4e3cdacc8823838211271d35a43ac0728"],"id":"id-389","last_modified":1790327953141,"schema":1790327868563}
+{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["34b4f9c2e7dbfee904c4052b65f77f64dcedfe4589522717c09db4e684cab17f","f93574745f904d05a0c322039da4bbd81020b56dbd7c10b554e7c03a5b31959a"],"id":"id-389","last_modified":1790413154134,"schema":1790413071082}
