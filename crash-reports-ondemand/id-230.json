@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libinput.so","hashes":["0f8dfacab2c8a56c7ff4b8eac044485513fd1e9f4350b15c5ce8652ab3c3280b"],"id":"id-230","last_modified":1790413153400,"schema":1790412880833}
+{"description":"gpu (Android nightly): libc.so | libGLESv2_samsung.so","hashes":["bdf733afd509f2a5e0749ca825329659ea9de400c33138eb1b0e7612a4ee5b20"],"id":"id-230","last_modified":1790499539152,"schema":1790499276104}
