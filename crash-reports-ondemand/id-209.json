@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["327cf052993535fd4413cad6c8e32d8015f26b1026dfa49da7e262c264ff9a2e","1baf18b5d9a02f0eddccf41f46c2e068fc4512466afda3022e720df6ed6dedfb"],"id":"id-209","last_modified":1790586565645,"schema":1790586263092}
+{"description":"socket (Windows beta): PrefWrapper::WantValueKind","hashes":["b0ae50380dbb26713ef1624262aa580a16e3afb86d152b00ab3c6853c61345fb"],"id":"id-209","last_modified":1790673571100,"schema":1790673268281}

@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): PtrInfo::WasTraversed","hashes":["846465572938b9c3d1761e78b47ce430d73172b257aa723cee0c43dfded655aa","5a808ff5b78ef388b6c559c7fd16c809223e85742a0521c2c0f9f76a95556923"],"id":"id-396","last_modified":1790586564988,"schema":1790586489337}
+{"description":"socket (Mac release): mozilla::non_crypto::XorShift128PlusRNG::next","hashes":["0e31f1a79017c54f4a0c91d069ed2627da8a68d193d3b5cec3f60ca8a23e2272"],"id":"id-396","last_modified":1790673570281,"schema":1790673491394}
