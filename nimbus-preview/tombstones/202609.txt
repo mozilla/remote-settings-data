@@ -121,3 +121,4 @@
 1790630694789	first-run-onboarding-refresh
 1790630940471	relay-desktop-to-mobile-callout-rollout
 1790685595088	message-rollout-make-firefox-home-your-homepage
+1790696395331	recent-searches-on-homescreen-zero-search
