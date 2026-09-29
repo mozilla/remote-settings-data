@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): nsThreadPool::PutEvent","hashes":["38741c18fa2ea7bcc954906975a3a2e51384b889035659a9e9ea4c12cf6a05e4"],"id":"id-180","last_modified":1790586563887,"schema":1790586228816}
+{"description":"socket (Mac release): sigslot::_signal_base<T>::~_signal_base","hashes":["d6cff7c18ac28dd80edeb6da11fc7527b26ce69cff9c50f517f89926f844cb53"],"id":"id-180","last_modified":1790673568970,"schema":1790673232092}
