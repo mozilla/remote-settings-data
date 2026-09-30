@@ -123,3 +123,4 @@
 1790685594777	message-rollout-make-firefox-home-your-homepage
 1790696394887	recent-searches-on-homescreen-zero-search
 1790696806496	firefox-vpn-desktop-to-android-callout
+1790779615403	ios-nova-rollout
