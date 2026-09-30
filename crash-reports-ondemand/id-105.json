@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): nsTArray_Impl<T>::end | mozilla::MozPromise<T>::DispatchAll","hashes":["bc35dc9c458a68d544c4725a06757c83b9c223904c6885f7f4fd6bb155c82eba"],"id":"id-105","last_modified":1790673569648,"schema":1790673143423}
+{"description":"content (Mac beta): nsPIDOMWindowInner::GetExtantDoc","hashes":["f0261b8ab0809d255e1689df342c4295110a35632aaa8ae9d74b2fab86e42c33","be846a8ab1b4ab8f84c528836dbe703ba5eff7dd8f5c796f836091dff66462d1"],"id":"id-105","last_modified":1790760552348,"schema":1790760131744}

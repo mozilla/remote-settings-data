@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): nsStyleDisplay::EffectiveAppearance","hashes":["266c143b309c4cb372ab9d6507f64913175b165d7d7cf5c9f870d313766276a6","dfd79c60c652c8dca214e910741c9fdce16b3ae9209bbac6ec31e0efee1040dc"],"id":"id-381","last_modified":1790673569565,"schema":1790673471349}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["93e984ad1a818336e401e88b504e4568f3fa10dddc0dd95b733272f1e660a7ea"],"id":"id-381","last_modified":1790760552273,"schema":1790760457212}
