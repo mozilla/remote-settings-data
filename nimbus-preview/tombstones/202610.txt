@@ -10,3 +10,4 @@
 1790880585133	10-shortcuts-per-row-france-rollout
 1790883722794	first-run-onboarding-refresh
 1790883921021	amber-q3-demo-rollout
+1790890415493	relay-desktop-to-mobile-callout-rollout
