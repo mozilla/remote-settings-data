@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::CheckedInt<T>::value | mozilla::media::TimeUnit::operator<T>","hashes":["ca82a7f8cb060022e1f2da4dd811373816353c66a8fa3254ae6058c9eb0865b3"],"id":"id-404","last_modified":1790760553547,"schema":1790760483925}
+{"description":"content (Linux nightly): servo_arc::Arc<T>::is_static","hashes":["861643b62f051253e3c1c8e9d6c35656da2358e57a8ab3315277d9b629dd5969"],"id":"id-404","last_modified":1790928547947,"schema":1790928488078}
