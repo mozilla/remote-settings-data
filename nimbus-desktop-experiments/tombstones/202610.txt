@@ -3,3 +3,5 @@
 1790879044251	fr-billboard-rollout-2026
 1790881674103	moment-in-time-set-to-default-campaigns-holdback-experiment
 1790962142853	show-blocked-trackers-after-page-loads
+1790965428923	hnt-journeys-auto-minimize-widgets-v1
+1790965466857	hnt-journeys-topic-navigation-strip-v1
