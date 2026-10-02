@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::gc::AtomicBitmap<T>::getWord","hashes":["3c907b9a7a214a5be31eba56d76998bd3931c0fd96fdf4108821720ae2c647cb"],"id":"id-426","last_modified":1790760551529,"schema":1790760509408}
+{"description":"utility (Mac release): mozilla::detail::EntrySlot<T>::isFree","hashes":["55dd6e1b1f3c2d459c6927285f464543adf24d5cea666902f94beced2f707fb1"],"id":"id-426","last_modified":1790928546242,"schema":1790928513474}
