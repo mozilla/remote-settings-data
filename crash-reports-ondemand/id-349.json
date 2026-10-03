@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::net::HttpBaseChannel::DoApplyContentConversionsInternal","hashes":["d6935899463c5986867b8e0e38611b0274f77c8adcb6ef3cbec6589c1bc40740"],"id":"id-349","last_modified":1790928547877,"schema":1790928422210}
+{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["c0306ca16092ed1f4f5de45a294f8406654d939a34e82c0d1b0248acd251a128","327cf052993535fd4413cad6c8e32d8015f26b1026dfa49da7e262c264ff9a2e"],"id":"id-349","last_modified":1791017344719,"schema":1791017226188}

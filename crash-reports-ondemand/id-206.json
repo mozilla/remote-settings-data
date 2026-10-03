@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): PtrInfo::WasTraversed","hashes":["cabc4ec3238d1dc71623a1e813f3b4a43653e3237c9ccf973ec791441f5a397c"],"id":"id-206","last_modified":1790928547863,"schema":1790928252709}
+{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["2a5735058294ee643ca86cb9568aad85287e5453d5afd058085a3dd4bdb1a12a","fe9c6097e6ca1ba28a2cbcde33f56f71c1f2aa4d168af5c5245e9eb2bc7c4a18"],"id":"id-206","last_modified":1791017344706,"schema":1791017056342}

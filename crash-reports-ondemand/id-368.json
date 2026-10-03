@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libGLESLayer_GPU_Control.so","hashes":["44ae58fdfde6b33b4dc88ff732c94be8ede226547174296590d7354ce650878c"],"id":"id-368","last_modified":1790928548004,"schema":1790928444362}
+{"description":"content (Linux nightly): nsTArray_Impl<T>::ClearAndRetainStorage | nsTArray_Impl<T>::~nsTArray_Impl | mozilla::ScrollSnapTargetIds::~ScrollSnapTargetIds","hashes":["6ef1128c7160c90e77c7c5b4d824f1eb9b67ab1607f4cd31e6cbbc1da2858880"],"id":"id-368","last_modified":1791017344834,"schema":1791017248024}
