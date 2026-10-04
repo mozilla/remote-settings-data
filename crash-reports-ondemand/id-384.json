@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["7d45ca7e00d80b72d64db1af1b40cbbb2d076e0eb412bb45dc88e41a5457b188"],"id":"id-384","last_modified":1791017343157,"schema":1791017266469}
+{"description":"gpu (Windows nightly): nvwgf2umx.dll | BaseThreadInitThunk","hashes":["2dcaabdd664d918e192c39d7f5fdc5b7d93ff6ce2686e17e7445172bd0ce5b2e","d6ffe4959fbb7b85fb80b8235d6ebfc51837ae5b86306328e28bbfed0fe9131d","47512525c7eafddb158c27ac3d643692388e26df7ae5f1ef84e37f335884041e"],"id":"id-384","last_modified":1791102537258,"schema":1791102460649}
