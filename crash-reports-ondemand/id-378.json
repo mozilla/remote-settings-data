@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | <.plt ELF section in libxul.so> | libnativebridge_lazy.so","hashes":["8a80093718c60bef9a1ca6c69682499871876440d4e4735fbc35953605d0eef7"],"id":"id-378","last_modified":1791102538679,"schema":1791102451343}
+{"description":"content (Linux nightly): style::gecko_string_cache::make_handle","hashes":["ae238827e5c5c7f1857063351d91e86ea388215adeebb855cf2a2543a77bbf4f"],"id":"id-378","last_modified":1791190761658,"schema":1791190660904}
