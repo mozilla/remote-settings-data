@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): NtUserMsgWaitForMultipleObjectsEx | MsgWaitForMultipleObjectsEx | mozilla::widget::WinUtils::WaitForMessage | nsAppShell::ProcessNextNativeEvent","hashes":["f0e77297f879e39a9ef6caedb8fd7afbabd1bcaee06d50d6cc862efaabb87c61"],"id":"id-328","last_modified":1791190761079,"schema":1791190600354}
+{"description":"gpu (Mac nightly): IOAccelerator","hashes":["0dbc6b23a6eb343d9093ac839e2ac860adfb24f9dbc1bfcced27a9ed402cae06"],"id":"id-328","last_modified":1791278961827,"schema":1791278803656}

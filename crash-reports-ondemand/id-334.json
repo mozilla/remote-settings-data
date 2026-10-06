@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): ff_vp9_avg_8tap_regular_32h_8_avx512icl","hashes":["87278a8c520998bcba8f63956f385e722941883bf0bc1b3b9970ad8a8f246db2","a8c169fd657fa2c95b2c59186543ef8865fbcad01026b878106a36a6201df2ec"],"id":"id-334","last_modified":1791190761254,"schema":1791190607335}
+{"description":"rdd (Windows nightly): ff_vp9_avg_8tap_regular_4h_8_avx512icl","hashes":["d6501cb67d72f628e2f5973a8f396946d762f5139e09397b30eb02ad985e46ac"],"id":"id-334","last_modified":1791278962223,"schema":1791278810652}
