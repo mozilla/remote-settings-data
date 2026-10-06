@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): mozilla::widget::GtkCompositorWidget::GetNativeLayerRoot","hashes":["ee38d9aeab50d6e720d88ce6e76ed62a60460a1818310827ac768c16331ef39a"],"id":"id-057","last_modified":1791190762144,"schema":1791190277300}
+{"description":"utility (Windows nightly): NtUserMsgWaitForMultipleObjectsEx | MsgWaitForMultipleObjectsEx | mozilla::widget::WinUtils::WaitForMessage | nsAppShell::ProcessNextNativeEvent","hashes":["ac4eec8807f9bc903fe52443fc4e4c076f9738d560476eb55f50c5736359ce65"],"id":"id-057","last_modified":1791278963216,"schema":1791278475538}
