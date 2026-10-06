@@ -26,3 +26,4 @@
 1791301338362	first-run-onboarding-refresh
 1791310211572	enhanced-new-tab-search
 1791316587985	search-widget-m
+1791319275082	nova-os-notification-first-message
