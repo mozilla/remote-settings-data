@@ -24,3 +24,4 @@
 1791294190164	finish-setup-checklist-rollout-2610
 1791298671154	google-address-bar-tips-v2-expansion-in-2026-re-launch-3
 1791301338052	first-run-onboarding-refresh
+1791310211258	enhanced-new-tab-search
