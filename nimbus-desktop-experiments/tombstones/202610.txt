@@ -5,3 +5,4 @@
 1790962128874	show-blocked-trackers-after-page-loads
 1790965389526	hnt-journeys-auto-minimize-widgets-v1
 1790965448683	hnt-journeys-topic-navigation-strip-v1
+1791387026274	firefox-referral-newtab-messaging-v2
