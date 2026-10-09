@@ -36,3 +36,4 @@
 1791416452419	hnt-wattle-cm-widgets-usnon-engagers-settings-only-rollout-v1
 1791484552998	first-run-onboarding-refresh
 1791485414167	test-upgrade-dialog-welcome-back-spotlight
+1791565133966	finish-setup-checklist-rollout-2610
