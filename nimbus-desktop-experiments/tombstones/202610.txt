@@ -7,3 +7,4 @@
 1790965448683	hnt-journeys-topic-navigation-strip-v1
 1791387026274	firefox-referral-newtab-messaging-v2
 1791471656077	new-tab-spaces-v2
+1791567134252	auto-trigger-pin-to-taskbar-notification-rollout-v2
