@@ -37,3 +37,4 @@
 1791484553224	first-run-onboarding-refresh
 1791485414390	test-upgrade-dialog-welcome-back-spotlight
 1791565134354	finish-setup-checklist-rollout-2610
+1791567053308	finish-setup-checklist-rollout-2610
