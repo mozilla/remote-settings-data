@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): style::gecko_string_cache::WeakAtom::get_hash","hashes":["6be94d1dd73f2c3794cd3b4719634d16ff07bc327a9f111eaa22831370e41de2"],"id":"id-238","last_modified":1791365975754,"schema":1791365716410}
+{"description":"gpu (Mac beta): webrender::render_task_graph::RenderTaskGraphBuilder::end_frame","hashes":["8f88b1bea33701b175e6ecb3cf7be5c2d0db110c9e718c0d11d242507661af0b"],"id":"id-238","last_modified":1791536961699,"schema":1791536696553}
