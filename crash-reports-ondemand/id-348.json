@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | large | js::AutoEnterOOMUnsafeRegion::crash_impl | <.plt ELF section in libxul.so>","hashes":["a5059b0403c832bbb566c0f63be313688c2c78997271a6f5475392d7fafd84ee","9b35b9830172cbfe974436b647110a5b933b48ea941fa8834fd9ac8d429aa229"],"id":"id-348","last_modified":1791536961505,"schema":1791536827702}
+{"description":"content (Mac beta): JS::Value::isGCThing","hashes":["fcff2ab3f2ea4e44965b280ef2f9e48798ed477fe9e6a5694899fadff45c45df"],"id":"id-348","last_modified":1791622765402,"schema":1791622633401}

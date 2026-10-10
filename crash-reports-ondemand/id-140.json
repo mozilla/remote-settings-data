@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["d7e584df9469b3a53531afca2ce5c8462ab6c50017ddc5526a1a736b5341b3a7","e1f22d5322c32210b3fa0613abe887fd050559ecd956cc7807732c16521ef870"],"id":"id-140","last_modified":1791536961911,"schema":1791536578102}
+{"description":"gpu (Mac nightly): IOAccelerator","hashes":["0dbc6b23a6eb343d9093ac839e2ac860adfb24f9dbc1bfcced27a9ed402cae06"],"id":"id-140","last_modified":1791622765729,"schema":1791622381202}
