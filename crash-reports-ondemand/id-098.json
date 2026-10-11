@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::TaskController::InitializeThreadPool","hashes":["3508e90fad881167d51525494a032c857039a6db3568eec4806b125d026147b4","11a564dcfcc26ac2818fb668915ffadddd77fbc2648bd31d75b823d9e331c431"],"id":"id-098","last_modified":1791622766873,"schema":1791622329304}
+{"description":"content (Mac beta): js::InterpreterFrame::aliasedEnvironment","hashes":["15e9abae5e6f2e8eb21fc41977c18a95b05684cc9856c4c958bc40b252b94a7b"],"id":"id-098","last_modified":1791712758153,"schema":1791712326238}
