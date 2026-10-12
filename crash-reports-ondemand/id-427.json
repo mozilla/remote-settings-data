@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): nsINode::GetBoolFlag","hashes":["542839a9cc389db03caea2d44b8ca2a124ca203b473dec60bb0ab366185bd2e2","748c6cc387aea2d0d71e302ed127e9e0e5c6599da82b8119b4f4deb80f506242","dd5b071d221fd688509a306c4b8df496bc0ec3f3979b89ba4008b1d4f89978df"],"id":"id-427","last_modified":1791712756603,"schema":1791712723342}
+{"description":"gpu (Android nightly): mozilla::gl::GLContext::fGetIntegerv","hashes":["63de26fa568644fc430780d2fa616b99e673227ec5717a85c249d1e2b5b7089f"],"id":"id-427","last_modified":1791794362475,"schema":1791794324705}
