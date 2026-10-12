@@ -40,3 +40,7 @@
 1791567052932	finish-setup-checklist-rollout-2610
 1791568878229	test-upgrade-dialog-welcome-back-spotlight
 1791827957491	sections-in-en-europe
+1791830752989	privacy-widget-content-markets-microsurvey-control
+1791830757028	privacy-widget-content-markets-microsurvey-treatment
+1791831053042	privacy-widget-non-content-markets-microsurvey-treatment
+1791831056910	privacy-widget-non-content-markets-microsurvey-control
