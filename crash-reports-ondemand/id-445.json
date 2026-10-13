@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::wr::RenderThread::HandleFrameOneDocInner","hashes":["fcb00db0f47df1a9b3752dd20a0423319c14f59d5a14232d0d616678e5720dd1"],"id":"id-445","last_modified":1791794362632,"schema":1791794346017}
+{"description":"socket (Windows beta): NtUserMsgWaitForMultipleObjectsEx | MsgWaitForMultipleObjectsEx | mozilla::widget::WinUtils::WaitForMessage | nsAppShell::ProcessNextNativeEvent","hashes":["9b1f6f80294de6b24f1b8228ee94c536b80696cfe993968dc373773a7e204382"],"id":"id-445","last_modified":1791881942950,"schema":1791881926711}
