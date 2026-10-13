@@ -9,3 +9,4 @@
 1791471656077	new-tab-spaces-v2
 1791567134252	auto-trigger-pin-to-taskbar-notification-rollout-v2
 1791902035281	form-auto-fill-field-detection-improvements-v2
+1791902251453	nova-try-it-message
