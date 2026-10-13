@@ -49,3 +49,4 @@
 1791907031167	sponsored-content-client-rollout
 1791908310172	sponsored-content-client-rollout
 1791910325729	relay-desktop-to-mobile-callout-rollout
+1791917498710	sponsored-content-client-rollout
