@@ -1,1 +1,1 @@
-{"description":"utility (Linux release): libxul.so | firefox","hashes":["ed2c286bb644c189dfa0dea1b5b3a4229a0d6e38eacb9913c588c8c6c107c849","8b806aa5a9f44a1b01a2e3224bfda2fb7fb7bd057c323bcfbe8ce3fa79505dba","deb9529a130f0d1e3374e88107fe20bf1e354e406e28b8a1ab687a40f5334497"],"id":"id-413","last_modified":1791881944583,"schema":1791881890426}
+{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["7df77d035566895437df7f1b597dd5e8b361d47d9dde0bda33b2a15d96169989"],"id":"id-413","last_modified":1791969556915,"schema":1791969498191}

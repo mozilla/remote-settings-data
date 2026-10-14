@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): NtUserMsgWaitForMultipleObjectsEx | MsgWaitForMultipleObjectsEx | mozilla::widget::WinUtils::WaitForMessage | nsAppShell::ProcessNextNativeEvent","hashes":["9b1f6f80294de6b24f1b8228ee94c536b80696cfe993968dc373773a7e204382"],"id":"id-445","last_modified":1791881944115,"schema":1791881926711}
+{"description":"gpu (Mac beta): webrender::render_task_graph::RenderTaskGraphBuilder::end_frame","hashes":["d73cda3bcdbb7c24e46b7b524aae23fa90224fb276a77d5df49a8d868012db6a"],"id":"id-445","last_modified":1791969556507,"schema":1791969538802}

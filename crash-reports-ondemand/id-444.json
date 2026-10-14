@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): ntdll.dll | KERNELBASE.dll | mozglue.dll | xul.dll | firefox.exe","hashes":["cdcf4b050d8698b9aba4429e1fa475a86d728e62bd1f8f440c3b03446ac6c303"],"id":"id-444","last_modified":1791881944158,"schema":1791881925600}
+{"description":"socket (Windows beta): @0x6000030","hashes":["0d74d90dd8179905835f28639b34760f6093167877e1d8f9df0c79909352976c"],"id":"id-444","last_modified":1791969556550,"schema":1791969537472}

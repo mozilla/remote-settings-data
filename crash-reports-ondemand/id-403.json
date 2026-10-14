@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["1a24c075e5e10dae5609ca0835b1a6e586f9b06ca95dc1a14d79bd60ad1d9664","19a4a555ad95fa9ae7c672d4dee67b285d3efc758fa84b80fdd5d9cb84b5afed"],"id":"id-403","last_modified":1791881943908,"schema":1791881878952}
+{"description":"socket (Mac release): PR_GetCurrentThread | nsIEventTarget::IsOnCurrentThread","hashes":["94ae3a15c9c5acf0b13da364c2ca23323bf2a87afeb6a33d020587a0c64ec21e"],"id":"id-403","last_modified":1791969556305,"schema":1791969486779}
