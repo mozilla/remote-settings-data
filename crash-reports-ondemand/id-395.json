@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): XPCWrappedNative::InitTearOff","hashes":["b16b93594546c935cae1b57996a8719a0ba87c360905a0f8231c7b2606efe05f"],"id":"id-395","last_modified":1791969555376,"schema":1791969477428}
+{"description":"main (Mac nightly): AsyncShutdownTimeout | profile-before-change-telemetry | CrashManager: submitting Glean crash ping(s)","hashes":["69c9ab3148f7f939e14959789bfcda9ded2a23872c9758ea0e5ab05812ebdcd0"],"id":"id-395","last_modified":1792053536748,"schema":1792053476267}
