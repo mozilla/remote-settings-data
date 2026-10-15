@@ -14,3 +14,5 @@
 1792074165424	traffic-impact-study-17
 1792074185780	traffic-impact-study-18
 1792074617656	smart-window-promotion-switcher-icon
+1792098354788	show-blocked-trackers-microsurvey-control
+1792098412120	show-blocked-trackers-microsurvey-treatment
