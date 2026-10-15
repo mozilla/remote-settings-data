@@ -62,3 +62,4 @@
 1792073229745	show-more-shortcuts
 1792080205157	form-auto-fill-field-detection-improvements-v3
 1792094667209	bring-back-fox_doodle-and-tail_fox-spotlights-to-drive-defaultpin-rates
+1792099766675	low-no-sap-searchers-on-new-tab
