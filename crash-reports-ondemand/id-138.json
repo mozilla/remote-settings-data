@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): nsTArray_Impl<T>::~nsTArray_Impl | nsTArray<T>::~nsTArray | nsTArray<T>::~nsTArray | mozilla::MediaEventSourceImpl<T>::NotifyInternal<T>","hashes":["0075c08172d58acec396f16953615df1da30b4ce69e86ce8b674497d0dc2e6c7"],"id":"id-138","last_modified":1791969556660,"schema":1791969174402}
+{"description":"content (Linux nightly): CrashChannel::OpenContentStream","hashes":["46a93d9bc552973f2a4b442d4845fb07e9fb0dc3efb93d83c9e0fdf58a90b6b6"],"id":"id-138","last_modified":1792053538081,"schema":1792053172925}
