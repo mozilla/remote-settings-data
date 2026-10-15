@@ -14,3 +14,4 @@
 1791926530103	taskbar-tabs-discovery-expanded-impressions-pin-cta-global-rollout
 1792074157488	traffic-impact-study-17
 1792074178607	traffic-impact-study-18
+1792074611449	smart-window-promotion-switcher-icon
