@@ -18,3 +18,6 @@
 1792098412120	show-blocked-trackers-microsurvey-treatment
 1792153184035	happy-eyeballs-v3-release
 1792167572630	test-semantic-history-search
+1792172428705	win10-eos-hnt-custom-icon
+1792172476092	win10-eos-hnt-custom-icon-defaulted-but-not-pinned
+1792172555103	win10-eos-hnt-custom-icon-pinned-but-not-defaulted
