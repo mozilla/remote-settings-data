@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["8c176e3637d969ea756decffb96d2d0d5ba1844674f3b592cf1f18b05a798341"],"id":"id-426","last_modified":1792053536483,"schema":1792053511717}
+{"description":"socket (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["db9379f97dc5efa74858f26f523f82a44bf7008f1155bd6549b9f85363d2fdba"],"id":"id-426","last_modified":1792143540847,"schema":1792143509564}

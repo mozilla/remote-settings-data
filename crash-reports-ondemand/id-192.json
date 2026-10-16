@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | libxul.so | <.plt ELF section in libxul.so> | libxul.so | MaybeEnterInterpreterTrampoline","hashes":["a88365ccea2e4af2343c3e258f899f56dedcc03742914b7811d70cf196ddaddb"],"id":"id-192","last_modified":1792053537154,"schema":1792053238662}
+{"description":"content (Linux nightly): mozilla::dom::NodeInfo::GetDocument","hashes":["a67eb549b9307f08121317809ed0607b54db4d56f18e91f2aec06aaa3c687e83"],"id":"id-192","last_modified":1792143541611,"schema":1792143233615}
