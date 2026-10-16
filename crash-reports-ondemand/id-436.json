@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::dom::ipc::StructuredCloneData::WriteIPCParams","hashes":["fd51462355d356b4f3164746b41b58bebfc28a26249e9986e6057b1a7c7a4f86"],"id":"id-436","last_modified":1792053538268,"schema":1792053522902}
+{"description":"content (Android nightly): libart.so | boot.oat","hashes":["f4fef1783d3ed74e88b1fdce1cd1773f890c603cbae7c93cde7ab98c663bbc05"],"id":"id-436","last_modified":1792143542802,"schema":1792143521090}
