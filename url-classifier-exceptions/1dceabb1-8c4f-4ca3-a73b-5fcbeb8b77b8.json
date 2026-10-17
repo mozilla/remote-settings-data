@@ -1,0 +1,1 @@
+{"bugIds":["2081202"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1dceabb1-8c4f-4ca3-a73b-5fcbeb8b77b8","last_modified":1792203007946,"schema":1791849609087,"topLevelUrlPattern":"*://www.airbnb.com.hk/*","urlPattern":"*://a0.muscache.com/*"}
