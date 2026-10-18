@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["115441e344089bf7bff65cc7baea7353f2bec10f0084ca1d146039ff2b829271"],"id":"id-385","last_modified":1792226939087,"schema":1792226860867}
+{"description":"content (Mac nightly): mozilla::ipc::PortLink::SendMessage","hashes":["47faa353b3f71430aacb3d32c39b145948b9e8917c3e104a7ad4bdf3907573cf"],"id":"id-385","last_modified":1792312746135,"schema":1792312666887}

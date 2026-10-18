@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): abort | gpusKillClientExt","hashes":["41faa3ff9fe0ef90818570a666f2901b827359ac6eded839599f5ac44183f3e7"],"id":"id-437","last_modified":1792226938663,"schema":1792226919972}
+{"description":"gpu (Windows nightly): webrender::clip::ClipTreeBuilder::build_clip_set","hashes":["0632935122e97b956edb538fad76d02dbf82e7cea81a0762c0dde377df437564","db31939e67d6c433195c7ae344c154d2054806f18d368945be6ae15f2df0ba7a","9087a254b9ce2619821c809beba6b68858ac0f6c56fa8b4e4a66a1825eb02292"],"id":"id-437","last_modified":1792312745715,"schema":1792312728447}
