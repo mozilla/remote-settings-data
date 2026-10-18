@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): libc.so.6 | core::ptr::copy_nonoverlapping","hashes":["6644e9964ed812be88a74e6670f4bcf634fac644fb72cb0a44b4fee920555a51"],"id":"id-449","last_modified":1792226940461,"schema":1792226933804}
+{"description":"gpu (Android nightly): libc.so | libGLESv2_adreno.so","hashes":["2a28643e459b98e4e56e56dafead9cb42e24f280acc8445921aca3b3eb206ac7"],"id":"id-449","last_modified":1792312747516,"schema":1792312742165}
