@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::jni::Accessor::EndAccess<T>","hashes":["3481bce7f0c5c1b0f27681a27be15c5c9f1684f71c8c3321e8e925adce994112","79507097f270919dc084086c12baba16cdb887ebf2ae1a08c09d236498413c29"],"id":"id-190","last_modified":1792312745607,"schema":1792312437270}
+{"description":"gpu (Android nightly): libc.so | mozilla::MonitorAutoLockBase<T>::Wait","hashes":["1448458d4938ddde1392e07ebc955b30547708ba7e4d67ef4f9fa9f639b73680"],"id":"id-190","last_modified":1792399746644,"schema":1792399432799}
