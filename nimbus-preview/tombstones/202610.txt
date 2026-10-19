@@ -68,3 +68,4 @@
 1792169269656	sections-in-global-spanish
 1792178663180	tab-groups-151-onboarding-experiment
 1792427127430	adaptive-autofill-revamp-v2
+1792429415560	enhanced-new-tab-search-logos
