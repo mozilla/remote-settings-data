@@ -22,3 +22,4 @@
 1792172414533	win10-eos-hnt-custom-icon
 1792172461496	win10-eos-hnt-custom-icon-defaulted-but-not-pinned
 1792172498930	win10-eos-hnt-custom-icon-pinned-but-not-defaulted
+1792503800487	new-user-search-education
