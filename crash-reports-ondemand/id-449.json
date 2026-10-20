@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): NtUserMsgWaitForMultipleObjectsEx | MsgWaitForMultipleObjectsEx | mozilla::widget::WinUtils::WaitForMessage | nsAppShell::ProcessNextNativeEvent","hashes":["0b4343f72b8885308c9a343a3b0c0dca046fa930e3ead04dcb39cb7e072158db"],"id":"id-449","last_modified":1792399747332,"schema":1792399742018}
+{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["e226cf036d2edec7dfefaf6aa3c9624a813078022bb1274595715941463a9814"],"id":"id-449","last_modified":1792498154469,"schema":1792498147970}
