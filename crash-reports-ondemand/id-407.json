@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): <unknown in firefox.pdb>","hashes":["8cfa9382085e939e17385ded5ffa7d60377d49feb44afd0531cd44c1ac163a3f"],"id":"id-407","last_modified":1792399748427,"schema":1792399691547}
+{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::WritableStreamDefaultWriterEnsureReadyPromiseRejected","hashes":["21b1a183138f123ce62a53b72363d23f9d0a4ee680d313d029c8740bf0d64df7"],"id":"id-407","last_modified":1792498155688,"schema":1792498096556}

@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): mozilla::ipc::FileDescriptor::FileDescriptor","hashes":["0d896282f9709c84be4aeb001686ece212964dec0d447527525f79feefe8970c"],"id":"id-442","last_modified":1792399747911,"schema":1792399733805}
+{"description":"socket (Windows beta): mozilla::net::PollableEvent::Signal","hashes":["0c6137b45425ce9522921bd7582c480c31767c4feda7c14c2901329e98160d8a"],"id":"id-442","last_modified":1792498155202,"schema":1792498139914}
