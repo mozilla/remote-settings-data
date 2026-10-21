@@ -80,3 +80,4 @@
 1792524896235	enhanced-new-tab-search-logos
 1792580221774	sections-in-en-europe
 1792602309918	smart-window-organize-tabs-callout-v2-en-fr
+1792616185891	smart-page-initial-rollout
