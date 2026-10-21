@@ -73,3 +73,8 @@
 1792438438520	tab-groups-151-onboarding-experiment
 1792443799797	4th-tile-test
 1792502901074	new-user-search-education
+1792516948579	relay-desktop-to-mobile-callout-rollout
+1792520720767	search-widget-m
+1792520726825	search-widget-l
+1792523307475	new-tab-high-performing-widget-in-first-content-position
+1792524896235	enhanced-new-tab-search-logos
