@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libGLESLayer_GPU_Control.so","hashes":["6e7bd327ad08e7ed506766a690f6d542a0846b256f7e3456dc454047b59e5a4a"],"id":"id-253","last_modified":1792498155326,"schema":1792497913081}
+{"description":"gpu (Android beta): mozilla::gl::ScopedDrawBlitState::ScopedDrawBlitState","hashes":["fc51d907da5d3bf4cecdc2e7bf449ec8a413b554fe550305c56ededcd14d1238"],"id":"id-253","last_modified":1792574359153,"schema":1792574112531}
