@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["71ccbfda14d74c9ff1743606e1c0451d32bc838795cfefec8ecbb9004f908c04"],"id":"id-112","last_modified":1792498153995,"schema":1792497743458}
+{"description":"gpu (Mac nightly): __cxxabiv1::failed_throw | objc_exception_throw | -[NSObject doesNotRecognizeSelector:] | ___forwarding___ | __forwarding_prep_0___ | rx::mtl::CreateShaderLibrary","hashes":["4fa984eb0e59a985f076cc30b437e2a7f86a66455a2070b67246713278e4c7fd"],"id":"id-112","last_modified":1792574357758,"schema":1792573943461}

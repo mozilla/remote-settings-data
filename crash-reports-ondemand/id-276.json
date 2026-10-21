@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["6e150ea450c552fd45f450dc1c7913fec988a2d4f0d666959795915562a33ed7"],"id":"id-276","last_modified":1792498154477,"schema":1792497940430}
+{"description":"content (Mac nightly): nsIFrame::IsLetterFrame","hashes":["41a6c1eccc13c628dfbc04577c24eef7a96c17b6ba6f82e3d52c229ee6766ad0"],"id":"id-276","last_modified":1792574358221,"schema":1792574139260}
