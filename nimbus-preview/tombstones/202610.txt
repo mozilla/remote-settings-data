@@ -78,3 +78,4 @@
 1792520727194	search-widget-l
 1792523307807	new-tab-high-performing-widget-in-first-content-position
 1792524896623	enhanced-new-tab-search-logos
+1792580222077	sections-in-en-europe
