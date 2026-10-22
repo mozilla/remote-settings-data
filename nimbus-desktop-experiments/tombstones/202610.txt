@@ -28,3 +28,5 @@
 1792667420401	sample-uptakeremotecontent-events-glean-feature
 1792681325457	nova-release-microsurvey-german-french
 1792681355135	nova-release-microsurvey
+1792685140866	smart-window-promotion-split-view
+1792685189952	smart-window-promotion-ai-sidebar
