@@ -26,3 +26,5 @@
 1792614099311	heartbeat-hnt-mixed-language-layout-survey-germany
 1792614241385	heartbeat-hnt-mixed-language-layout-survey-france
 1792667420401	sample-uptakeremotecontent-events-glean-feature
+1792681325457	nova-release-microsurvey-german-french
+1792681355135	nova-release-microsurvey
