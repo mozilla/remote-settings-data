@@ -83,3 +83,4 @@
 1792616186135	smart-page-initial-rollout
 1792669628253	test-upgrade-dialog-welcome-back-spotlight
 1792688749751	relevant-sponsored-stories-on-nightly
+1792689822279	relevant-sponsored-stories-on-nightly
