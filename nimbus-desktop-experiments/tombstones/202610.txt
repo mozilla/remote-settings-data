@@ -25,3 +25,4 @@
 1792503800487	new-user-search-education
 1792614099311	heartbeat-hnt-mixed-language-layout-survey-germany
 1792614241385	heartbeat-hnt-mixed-language-layout-survey-france
+1792667420401	sample-uptakeremotecontent-events-glean-feature
