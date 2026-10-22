@@ -23,3 +23,4 @@
 1792172555103	win10-eos-hnt-custom-icon-pinned-but-not-defaulted
 1792614125350	heartbeat-hnt-mixed-language-layout-survey-germany
 1792614247174	heartbeat-hnt-mixed-language-layout-survey-france
+1792667454889	sample-uptakeremotecontent-events-glean-feature
