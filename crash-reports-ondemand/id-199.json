@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::PropMapTable::~PropMapTable","hashes":["6520296d51b0fcecebdaf63d8ce5099767c22cd20b045c3ef63529dc3c66d864","4ec569cf4a25ffe3f44ce7b9e85a331dc4a4b624f2f52ae8e3093c18e0bd92b0"],"id":"id-199","last_modified":1792660753752,"schema":1792660446769}
+{"description":"content (Linux nightly): js::gc::FreeLists::allocate","hashes":["268687cfc4d9bb257a7b882ca5eeee5871e55acc44c1ecb9f1d3193640b695e3","f7ab3b7efdf359ac732f86021e7acd5015925779230e7d08c5e729f292f45124"],"id":"id-199","last_modified":1792747157574,"schema":1792746850450}
