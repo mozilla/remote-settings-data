@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["3264622b22e99c3c12889787adcaa14c07e04cecc5fcd1c25abfc4ca262daa27"],"id":"id-081","last_modified":1792747158913,"schema":1792746711153}
+{"description":"gpu (Linux release): NvGlEglGetFunctions","hashes":["1ca262d5798b7a365519e39cf297ac7b6dadd130a45a7b33ad799977324482be"],"id":"id-081","last_modified":1792832986524,"schema":1792832513448}
