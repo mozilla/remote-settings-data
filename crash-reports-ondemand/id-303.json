@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["06e61b0af9ce0e268eef3a591a292c79ad92b1adc0f1fadf790cfca2f04e243f"],"id":"id-303","last_modified":1792832984666,"schema":1792832784918}
+{"description":"rdd (Linux nightly): abort | libMangoHud.so","hashes":["6e1ff25e4be5520f38b172bc2f22672d160308b0bea9e7406a3a8476d446ee1e"],"id":"id-303","last_modified":1792918188555,"schema":1792917980937}

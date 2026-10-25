@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::PropMapTable::~PropMapTable","hashes":["174200f1bb025a547e159ff9288677ba514d996ab918d9377fadd8e1d951b45c","4ec569cf4a25ffe3f44ce7b9e85a331dc4a4b624f2f52ae8e3093c18e0bd92b0"],"id":"id-233","last_modified":1792832984992,"schema":1792832699882}
+{"description":"content (Mac nightly): nsTArray_Impl<T>::IndexOf<T> | mozilla::FrameProperties::RemoveInternal","hashes":["75561b0453c5fd22282dfdfe1c14550578362d26b9b64b9b1b401a148a6b0501"],"id":"id-233","last_modified":1792918188808,"schema":1792917895300}
