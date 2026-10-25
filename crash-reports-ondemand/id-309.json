@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): mozilla::MFTDecoder::~MFTDecoder","hashes":["8392bf31bc814c5f79ecba12b9ce6147ab99b3b67815ab51110eba6ba668d628","f623a4e47404423af0c0d8b5da8e6c3a7c486904df2b3c88c4e85daf3c1ea59c"],"id":"id-309","last_modified":1792832985955,"schema":1792832792175}
+{"description":"main (Mac nightly): mozilla::net::WebTransportSessionProxy::OnDataAvailable","hashes":["241612174ddd298a88b0b0b7fc38f63f50b8ca8cf46e8023c2901c57b4a9c163"],"id":"id-309","last_modified":1792918189634,"schema":1792917988426}

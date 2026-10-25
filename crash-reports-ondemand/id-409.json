@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): _PR_CreateThread | nsThread::Init","hashes":["23a9549cf162c9c1e1c6250c1b2c9032df21a3c807569e17afa3722331b75c8c"],"id":"id-409","last_modified":1792832986054,"schema":1792832913290}
+{"description":"main (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | nsDocShellLoadState::nsDocShellLoadState","hashes":["51a41712abca9c243492358a3e7e205388e08f9cb21211072dd43be9e4a051b3","e0c6eecadb0bffea99ced1c877f304ea95429220539f7314513468617cb8aa25"],"id":"id-409","last_modified":1792918189707,"schema":1792918110589}
