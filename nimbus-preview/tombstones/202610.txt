@@ -88,3 +88,4 @@
 1792721484325	mobile-install-intent-survey-en_oct-2026
 1792758005305	nova-release-fallback-turn-flag-off-by-default
 1793030649225	finish-setup-checklist-rollout-2610-v2
+1793040587881	fpp-canvas-touchpoints-screenavail-android-beta
