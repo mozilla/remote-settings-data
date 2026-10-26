@@ -1,1 +1,1 @@
-{"description":"utility (Linux beta): mozilla::dom::PContentChild::SendFirstIdle","hashes":["5d55e827ad01d2cb6c0374e704604704c8990325acdd5f48734e3272eec3f6ee","2252c22bada549e350de37a2e9ec90e506584b142103257faa54820f66ddb8f8"],"id":"id-130","last_modified":1792918189884,"schema":1792917769718}
+{"description":"content (Mac nightly): nsIFrame::GetPrevSibling","hashes":["f5d6b753686e43ef037c00c1d553e0c1abec470a3b64a5f1d0e17c033ef696d0"],"id":"id-130","last_modified":1793004576385,"schema":1793004162994}
