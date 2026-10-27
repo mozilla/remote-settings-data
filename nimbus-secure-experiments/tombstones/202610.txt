@@ -3,3 +3,5 @@
 1792077131041	new-tab-158020260913220257-to-release-156
 1792156985491	password-storage-reliability-update
 1793052771237	train-hop-registering-changes-to-existing-telemetry-pilot-to-beta
+1793108889328	hnt-wattle-world-cup-live-timing-rollout-june-15-nightly
+1793108916664	hnt-wattle-world-cup-live-timing-rollout-june-15
