@@ -9,3 +9,7 @@
 1792681277649	viewpoint-ios-october-2026
 1792681303978	viewpoint-android-october-2-2026
 1793047281061	address-bar-focus-mode-android
+1793110858532	ios-web-compatibility-reporting-tool
+1793110878452	android-google-lens-for-existing-users-en
+1793110902588	ipados-google-lens
+1793110921289	ios-google-lens-rollout
