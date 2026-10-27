@@ -100,3 +100,4 @@
 1793125286039	smart-window-organize-tabs-callout-v2-en-fr
 1793128712021	smart-window-organize-tabs-callout-v2-en-fr
 1793133115119	closed-browser-web-notifications-delivery-nightly
+1793133574365	closed-browser-web-notifications-delivery-nightly
