@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["53a3e87e11cad5ab995e40ac5476d50efa2e361552e392d2f32e35ecba87cdac","f8d689a7904f977a751305d59f8bc60a3740cafde4ee89c5f0d740c069cb910f"],"id":"id-244","last_modified":1793004574598,"schema":1793004300038}
+{"description":"content (Android beta): js::gc::TenuredCell::zoneFromAnyThread","hashes":["4874152510b0dadf8fa413d736d3e067e7c89a114eca7497a4f051a3e2ce807f"],"id":"id-244","last_modified":1793091576531,"schema":1793091304709}

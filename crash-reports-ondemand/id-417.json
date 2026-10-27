@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libGLESLayer_GPU_Control.so","hashes":["5b4f0c612d7fe8a4e33616a27afad9649f9ead80102c35c23bd8b235f81192b1"],"id":"id-417","last_modified":1793004574368,"schema":1793004509243}
+{"description":"gpu (Android nightly): mozilla::layers::AndroidHardwareBuffer::DeserializeFromFileDescriptor","hashes":["c51b95fb5c2d8274486fd175d687c68abc41631a874097bba2909bdfaec8cdfe"],"id":"id-417","last_modified":1793091575626,"schema":1793091514083}
