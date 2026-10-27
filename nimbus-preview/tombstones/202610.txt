@@ -97,3 +97,4 @@
 1793121442267	fpp-canvas-touchpoints-screenavail-android
 1793122538072	smart-window-agent-watch-v1-feature-callout
 1793123100937	amber-demo-rollout
+1793125285766	smart-window-organize-tabs-callout-v2-en-fr
