@@ -95,3 +95,4 @@
 1793119538059	relevant-sponsored-stories-on-nightly
 1793120961729	fpp-canvas-touchpoints-screenavail-android
 1793121442267	fpp-canvas-touchpoints-screenavail-android
+1793122538072	smart-window-agent-watch-v1-feature-callout
