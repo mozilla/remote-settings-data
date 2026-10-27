@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::wr::RenderTextureHost::Release","hashes":["4cdd58871f2d4696d5e64a821093787291a784450dca1a6ebc9d817ff186e6f4"],"id":"id-253","last_modified":1793004576046,"schema":1793004310805}
+{"description":"gpu (Android beta): mozilla::wr::RenderThread::HandleFrameOneDocInner","hashes":["d3309dd9ebab3f817eb9b8c6a4e56fcc58415d9d366a6342d8387433fb26cb28"],"id":"id-253","last_modified":1793091577234,"schema":1793091315754}
