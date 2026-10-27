@@ -91,3 +91,4 @@
 1793040587881	fpp-canvas-touchpoints-screenavail-android-beta
 1793043794126	fpp-canvas-touchpoints-screenavail-android
 1793098165612	onboarding-migration
+1793113827624	smart-window-organize-tabs-callout-v2-en-fr
