@@ -104,3 +104,5 @@
 1793137116755	form-auto-fill-field-detection-improvements-beta
 1793141747943	discovery-cfrs-for-built-in-vpn-with-site-inclusions
 1793143177821	discovery-cfrs-for-built-in-vpn-with-site-inclusions
+1793195016451	ads-request-stats-rollout-nightly
+1793195089683	discovery-cfrs-for-built-in-vpn-with-site-inclusions
