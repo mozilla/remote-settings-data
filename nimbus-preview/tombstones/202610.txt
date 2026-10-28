@@ -106,3 +106,4 @@
 1793143177821	discovery-cfrs-for-built-in-vpn-with-site-inclusions
 1793195016451	ads-request-stats-rollout-nightly
 1793195089683	discovery-cfrs-for-built-in-vpn-with-site-inclusions
+1793205565070	hnt-first-48-onboarding-cards
