@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsTArray_Impl<T>::IndexOf<T> | mozilla::FrameProperties::RemoveInternal","hashes":["75561b0453c5fd22282dfdfe1c14550578362d26b9b64b9b1b401a148a6b0501"],"id":"id-279","last_modified":1793091577424,"schema":1793091346943}
+{"description":"content (Linux nightly): JSScript::getScope","hashes":["fea40bd8661f6e993d4241e124d5487796f78d1ad76bf38505c28c2a5455629b"],"id":"id-279","last_modified":1793177981708,"schema":1793177753761}

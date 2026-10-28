@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["6a7df126bd7a1cb04a29a0d4df805613077a45a63bfa9a99991cb58468f92f92","22a5b40dfc726429176da067dae77d5aba28325853a3953725cb27877c098eff"],"id":"id-134","last_modified":1793091577674,"schema":1793091170201}
+{"description":"gpu (Mac nightly): webrender::scene_building::SceneBuilder::build_all","hashes":["1bf0d7e0ad7f896439c6b0157924fa46f53a79369fa3814efe69c8e79042af37"],"id":"id-134","last_modified":1793177981948,"schema":1793177573916}

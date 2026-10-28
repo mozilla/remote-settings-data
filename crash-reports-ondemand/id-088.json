@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): shutdownhang | mozilla::(anonymous namespace)::RunWatchdog","hashes":["48b4a8d0a85c79215dcd28caf0702830ba433beb1c6f4af7642ae5d47059f17a","1b762999b01ece3a10b52696dcd69165d87adfb950f0f30d25bde3667f565bcf","4714e355f2f60ae15352b69791a9e05047472f899126681217b283e6e10fc874"],"id":"id-088","last_modified":1793091577081,"schema":1793091113581}
+{"description":"socket (Windows beta): GetHandleInformation","hashes":["c1dc8d060d1a4af47c703506754ae72538ff80d7b715ad3467a8fbdcf06e70a0"],"id":"id-088","last_modified":1793177981357,"schema":1793177517857}
