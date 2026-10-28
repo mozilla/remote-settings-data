@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): QzhddrGuard64.dll | ole32.dll | QzhddrGuard64.dll","hashes":["a272b9b78c970df04c8aad34b2eff490eeeed33aa51fdcc6382c6078fc907323","b54afd911386a6dbf301eaa92355b34e1e458323703e5580e838aaf408ce73c7"],"id":"id-266","last_modified":1793091575893,"schema":1793091331531}
+{"description":"socket (Mac release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["66d3d7560a49e38866642eeb1eec037bdc5ebe8044e2860b1021028d4f2f663d"],"id":"id-266","last_modified":1793177979567,"schema":1793177735806}

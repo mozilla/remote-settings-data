@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x57d0030","hashes":["0b64c4e96e4f755388597146688700bb571ae08a67ae21ef29660d80bb7b23ca"],"id":"id-236","last_modified":1793091576632,"schema":1793091295251}
+{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["a1c7322c80a2f0c8d63ed8c002204641984eaf9eff385ab7203be8880c4915d0"],"id":"id-236","last_modified":1793177979092,"schema":1793177699773}
