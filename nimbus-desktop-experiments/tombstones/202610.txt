@@ -37,3 +37,6 @@
 1793378675152	smartwindow-mvp-microsurvey-france
 1793383717648	launch-on-login-for-existing-users-show-and-tell
 1793383763477	launch-on-login-for-existing-users-show-and-tell-global-infobar
+1793383836264	launch-on-login-for-existing-users-show-and-tell-global-vs-tab-infobar
+1793383904671	launch-at-login-infobar-existing-user-experiment
+1793383985111	launch-at-login-infobar-existing-user-experiment-all-locales
