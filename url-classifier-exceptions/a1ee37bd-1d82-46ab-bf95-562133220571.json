@@ -1,0 +1,1 @@
+{"bugIds":["2086968"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a1ee37bd-1d82-46ab-bf95-562133220571","last_modified":1793326218443,"schema":1793326212576,"topLevelUrlPattern":"*://www.artscapelebanon.org/*","urlPattern":"*://*.editmysite.com/*"}

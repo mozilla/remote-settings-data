@@ -1,0 +1,1 @@
+{"bugIds":["2083591"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"80a4bd09-995d-4f3d-88c8-da9a7ba67e17","last_modified":1793326218496,"schema":1793326214462,"topLevelUrlPattern":"*://www.elizabethsbagels.com/*","urlPattern":"*://*.editmysite.com/*"}

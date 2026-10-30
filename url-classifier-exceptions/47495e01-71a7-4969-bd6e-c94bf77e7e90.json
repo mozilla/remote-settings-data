@@ -1,0 +1,1 @@
+{"bugIds":["2081637"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"47495e01-71a7-4969-bd6e-c94bf77e7e90","last_modified":1793326218527,"schema":1793326215139,"topLevelUrlPattern":"*://www.tulayogaphilly.com/*","urlPattern":"*://*.editmysite.com/*"}

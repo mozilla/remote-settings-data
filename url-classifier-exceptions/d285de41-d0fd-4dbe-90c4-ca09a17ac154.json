@@ -1,0 +1,1 @@
+{"bugIds":["2086513"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d285de41-d0fd-4dbe-90c4-ca09a17ac154","last_modified":1793326218508,"schema":1793326212918,"topLevelUrlPattern":"*://www.alissakipp.com/*","urlPattern":"*://*.editmysite.com/*"}

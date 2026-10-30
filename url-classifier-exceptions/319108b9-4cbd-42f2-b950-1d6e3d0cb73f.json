@@ -1,0 +1,1 @@
+{"bugIds":["2083586"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"319108b9-4cbd-42f2-b950-1d6e3d0cb73f","last_modified":1793326218599,"schema":1793326214568,"topLevelUrlPattern":"*://boos-bakery.square.site/*","urlPattern":"*://*.editmysite.com/*"}

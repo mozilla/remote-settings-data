@@ -1,0 +1,1 @@
+{"bugIds":["2086520"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"278290db-310a-4fbb-9822-6b9b1b164af7","last_modified":1793326218440,"schema":1793326212690,"topLevelUrlPattern":"*://www.craniosacral-carlsbad.com/*","urlPattern":"*://*.editmysite.com/*"}

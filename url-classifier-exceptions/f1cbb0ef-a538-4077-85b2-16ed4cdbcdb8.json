@@ -1,0 +1,1 @@
+{"bugIds":["2062930"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f1cbb0ef-a538-4077-85b2-16ed4cdbcdb8","last_modified":1793326218585,"schema":1793326217285,"topLevelUrlPattern":"*://tle.mmem.com.au/*","urlPattern":"*://libraries.unbxdapi.com/*"}

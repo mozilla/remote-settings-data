@@ -1,0 +1,1 @@
+{"bugIds":["2080762"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d0233510-f3a5-4198-9018-4cb572a65045","last_modified":1793326218472,"schema":1793326215484,"topLevelUrlPattern":"*://shop.alstroarts.com/*","urlPattern":"*://*.editmysite.com/*"}

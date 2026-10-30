@@ -1,0 +1,1 @@
+{"bugIds":["2086112"],"category":"convenience","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"edc74dec-6e2d-4485-ba06-778a46442963","last_modified":1793326218518,"schema":1793326213031,"topLevelUrlPattern":"*://www.doubledowncasino.com/*","urlPattern":"*://connect.facebook.net/*"}

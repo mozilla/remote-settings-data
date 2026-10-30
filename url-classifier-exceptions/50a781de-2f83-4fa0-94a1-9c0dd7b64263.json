@@ -1,0 +1,1 @@
+{"bugIds":["2084529"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"50a781de-2f83-4fa0-94a1-9c0dd7b64263","last_modified":1793326218469,"schema":1793326213877,"topLevelUrlPattern":"*://www.smoreremote.us/*","urlPattern":"*://*.editmysite.com/*"}

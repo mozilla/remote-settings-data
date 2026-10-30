@@ -1,0 +1,1 @@
+{"bugIds":["2084910"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b65409a2-f7b5-41d6-b12d-2d9f9b56858e","last_modified":1793326218462,"schema":1793326213396,"topLevelUrlPattern":"*://checkout.square.site/*","urlPattern":"*://*.editmysite.com/*"}

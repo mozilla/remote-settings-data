@@ -1,0 +1,1 @@
+{"bugIds":["2085762"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c923d5b1-2a2a-4ffd-be84-8978cf053ca8","last_modified":1793326218459,"schema":1793326213274,"topLevelUrlPattern":"*://web.33m2.co.kr/*","urlPattern":"*://nrbe.pstatic.net/*"}

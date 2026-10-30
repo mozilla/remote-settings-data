@@ -1,0 +1,1 @@
+{"bugIds":["2078107"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d858689a-5069-43e5-b5b6-51d7599973be","last_modified":1793326218551,"schema":1793326216632,"topLevelUrlPattern":"*://admin.shopify.com/*","urlPattern":"*://*.trustpilot.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2078560"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"36657787-9997-4d70-aacd-ce2b0cd246c8","last_modified":1793326218613,"schema":1793326216161,"topLevelUrlPattern":"*://insurance.hsbc.com.hk/*","urlPattern":"*://tags.tiqcdn.com/*"}

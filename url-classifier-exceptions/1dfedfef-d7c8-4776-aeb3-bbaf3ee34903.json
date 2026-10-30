@@ -1,0 +1,1 @@
+{"bugIds":["2083578"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1dfedfef-d7c8-4776-aeb3-bbaf3ee34903","last_modified":1793326218520,"schema":1793326214678,"topLevelUrlPattern":"*://www.germantownfiredepartment.com/*","urlPattern":"*://*.editmysite.com/*"}

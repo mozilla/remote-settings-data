@@ -1,0 +1,1 @@
+{"bugIds":["2079619"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"94f6e403-bfda-4323-bd94-1db414e10bc7","last_modified":1793326218592,"schema":1793326215705,"topLevelUrlPattern":"*://parts.hp.com/*","urlPattern":"*://cdn.appdynamics.com/*"}

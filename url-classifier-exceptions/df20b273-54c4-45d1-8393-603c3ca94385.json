@@ -1,0 +1,1 @@
+{"bugIds":["2078147"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"df20b273-54c4-45d1-8393-603c3ca94385","last_modified":1793326218635,"schema":1793326216516,"topLevelUrlPattern":"*://www.madeinmilwaukie.com/*","urlPattern":"*://*.editmysite.com/*"}
