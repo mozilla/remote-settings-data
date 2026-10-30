@@ -49,3 +49,6 @@
 1793381267502	new-user-expectations-desk-q4-2026
 1793382129397	smartwindow-microsurvey-round-2-us
 1793382133745	smartwindow-mvp-microsurvey
+1793383712250	launch-on-login-for-existing-users-show-and-tell
+1793383751479	launch-on-login-for-existing-users-show-and-tell-global-infobar
+1793383824859	launch-on-login-for-existing-users-show-and-tell-global-vs-tab-infobar
