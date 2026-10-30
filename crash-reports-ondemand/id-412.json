@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): libxul.so | libnspr4.so","hashes":["472d79988b27f69dfcf61221dadfd4feed01ff06d9b936470bc542c15bf2876f"],"id":"id-412","last_modified":1793177982298,"schema":1793177915441}
+{"description":"socket (Mac release): mozilla::Vector<T>::initCapacity | mozilla::Vector<T>::initLengthUninitialized | mozilla::ipc::NodeController::DeserializeEventMessage","hashes":["e5a668f00316aa10a73bae078e296ddfeb23556d3b14789c68fee0c39b8a91ab"],"id":"id-412","last_modified":1793349578721,"schema":1793349515839}
