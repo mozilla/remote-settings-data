@@ -54,3 +54,4 @@
 1793383824859	launch-on-login-for-existing-users-show-and-tell-global-vs-tab-infobar
 1793383893832	launch-at-login-infobar-existing-user-experiment
 1793383946656	launch-at-login-infobar-existing-user-experiment-all-locales
+1793384465221	smartwindow-mvp-microsurvey
