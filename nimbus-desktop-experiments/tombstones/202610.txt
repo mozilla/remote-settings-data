@@ -55,3 +55,4 @@
 1793383893832	launch-at-login-infobar-existing-user-experiment
 1793383946656	launch-at-login-infobar-existing-user-experiment-all-locales
 1793384465221	smartwindow-mvp-microsurvey
+1793391153870	new-user-expectations-desk-q4-2026
