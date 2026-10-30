@@ -116,3 +116,5 @@
 1793374045018	hnt-first-48-onboarding-cards
 1793376677711	hnt-first-48-onboarding-cards
 1793377229803	add-kit-to-set-default-browser-button-in-nightly
+1793379083501	smartwindow-microsurvey-usfrance
+1793379087439	smartwindow-microsurvey-round-2-us
