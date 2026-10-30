@@ -115,3 +115,4 @@
 1793353986555	launch-at-login-infobar-existing-user-wrapup
 1793374045018	hnt-first-48-onboarding-cards
 1793376677711	hnt-first-48-onboarding-cards
+1793377229803	add-kit-to-set-default-browser-button-in-nightly
