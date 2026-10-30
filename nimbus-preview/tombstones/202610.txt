@@ -120,3 +120,5 @@
 1793379087439	smartwindow-microsurvey-round-2-us
 1793379682468	new-user-expectations-desk-q4-2026
 1793383629026	launch-at-login-infobar-outro
+1793384236597	launch-at-login-infobar-existing-user-wrapup
+1793384240848	launch-at-login-infobar-segment-a
