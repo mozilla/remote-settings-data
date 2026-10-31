@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): ZwUserMsgWaitForMultipleObjectsEx | mozilla::widget::WinUtils::WaitForMessage | nsAppShell::ProcessNextNativeEvent","hashes":["53066d8befb11d55a230ca7a7ce0fb46c019185ce07c15b4e266b76f75666ee5"],"id":"id-117","last_modified":1793349578481,"schema":1793349155895}
+{"description":"rdd (Mac release): CoreFoundation","hashes":["20eefb40b59fd30163de9127e59b3049cadea33649753374ec9de0de5eb3e09d","8da561749b713f147d73a54b3f58a123efc5a23194412cbc5fd4dd2059b9784b"],"id":"id-117","last_modified":1793436557944,"schema":1793436153042}
