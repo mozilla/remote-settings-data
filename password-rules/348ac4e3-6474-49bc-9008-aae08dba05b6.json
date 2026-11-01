@@ -1,0 +1,1 @@
+{"Domain":"accor.com","id":"348ac4e3-6474-49bc-9008-aae08dba05b6","last_modified":1793552409059,"password-rules":"minlength: 10; maxlength: 20; required: lower; required: upper; required: digit; required: [!#$%&()*,.:<>?@^{|}];"}
