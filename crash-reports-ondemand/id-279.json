@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["5287d762cb2023e35cb0a3bdca8bcdcf82b08df3e67523efc13fd08fd8f643cc"],"id":"id-279","last_modified":1793436557667,"schema":1793436354976}
+{"description":"rdd (Windows nightly): js::GlobalObject::maybeData","hashes":["9a59c99384e9a9d3ea3ab3d038c862bf2a8ccc4bae7568ff2d54e587fe5be940"],"id":"id-279","last_modified":1793522351013,"schema":1793522142211}

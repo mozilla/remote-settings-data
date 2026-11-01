@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::ReadableStreamCancel","hashes":["14c24346f271d8cbb6979dde27893e1124b40853cd441dc49613331c3c7f896b"],"id":"id-388","last_modified":1793436557265,"schema":1793436488482}
+{"description":"content (Mac beta): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["22a5b40dfc726429176da067dae77d5aba28325853a3953725cb27877c098eff"],"id":"id-388","last_modified":1793522350689,"schema":1793522272314}

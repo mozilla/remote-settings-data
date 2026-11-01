@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::gc::HeaderWord::get","hashes":["d5dca1ca018262bf250acd7a1c043f6fe32e5bb081caa58b07bcd70efd675087"],"id":"id-123","last_modified":1793436557820,"schema":1793436161369}
+{"description":"gpu (Android beta): <&mut alloc::string::String as core::fmt::Write::write_fmt::SpecWriteFmt>::spec_write_fmt","hashes":["003ac95f07dd3519ae41d5ba072ff5453f8b6218f6eb22cecbb67e058cd6f3b4","c46faad9f881d66d9426892cf6f612a82102500a5c6f41d892bfd481874c14a1"],"id":"id-123","last_modified":1793522351139,"schema":1793521957310}
