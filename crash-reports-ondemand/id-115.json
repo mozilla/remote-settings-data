@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): __cxxabiv1::failed_throw | objc_exception_throw | -[__NSArrayM insertObject:atIndex:]","hashes":["6a2c65004b9fa0aa409feb69a6e2f6fbce1b132ac4a8886fd35c3388af1b16a1","dd75afbf42bffbfa52f73724d9ad13d0d1f827b9040f0e06e93394bde2897961"],"id":"id-115","last_modified":1793522348960,"schema":1793521945484}
+{"description":"socket (Windows beta): CreateRectRgn","hashes":["fbec6937fa51b5e3484d7f01b67f011f4ee73b37c01db06a35aabd5aa5076a9c"],"id":"id-115","last_modified":1793608766523,"schema":1793608346870}
