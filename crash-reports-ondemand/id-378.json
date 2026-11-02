@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): nsThreadPool::PutEvent","hashes":["fbc806be2b032ee623914e26380bd2b87a4df86bc06979ff80cb9ef0651cc2e5"],"id":"id-378","last_modified":1793522350300,"schema":1793522260711}
+{"description":"main (Mac nightly): AsyncShutdownTimeout | AddonManager: Waiting to start provider shutdown. | AddonRepository Background Updater","hashes":["6dc14a7d2249202fae22ff5050a9f7a7465c3a65edc7eb214727750d0f007067"],"id":"id-378","last_modified":1793608767501,"schema":1793608667967}
