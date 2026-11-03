@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): QzhddrGuard64.dll | ole32.dll | QzhddrGuard64.dll","hashes":["765a0d966d1d15cae12c9bc805adbcce373c887385255b4c513938564082eba2"],"id":"id-335","last_modified":1793608766824,"schema":1793608613538}
+{"description":"socket (Mac release): abort | base::MessagePumpKqueue::DoInternalWork","hashes":["ca67c3e9da5bf44f20eb8687a74d1441eaef7fd49f1f946f00a17e3f6d0a42e1"],"id":"id-335","last_modified":1793697584144,"schema":1793697427055}

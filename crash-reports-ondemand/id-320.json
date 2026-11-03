@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlReportFatalFailure","hashes":["213c01b12bee3c53d9d1ceafcc593dced7899cbb1091579a55dc7dabd7fdaec2"],"id":"id-320","last_modified":1793608766082,"schema":1793608595581}
+{"description":"socket (Windows beta): mozilla::freestanding::SafeThreadLocal<T>::get | mozilla::freestanding::TakePendingFileHandle","hashes":["1919aaa89fcc7ff11ee6f6cd70f7d03047f5ecb116a77f0b829aa3c2c43743a5"],"id":"id-320","last_modified":1793697583186,"schema":1793697408121}

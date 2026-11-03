@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["b31e62054efe8206e8656be10c3d9c4933b0c22297c47d09e06bd3f6fee6166e"],"id":"id-376","last_modified":1793608766336,"schema":1793608665585}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["5287d762cb2023e35cb0a3bdca8bcdcf82b08df3e67523efc13fd08fd8f643cc"],"id":"id-376","last_modified":1793697583549,"schema":1793697476468}
