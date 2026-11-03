@@ -1,0 +1,1 @@
+{"bugIds":["2035079"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a1fef249-8642-4cd0-98dc-b2ae58b3b7f8","last_modified":1793698297865,"schema":1793671813177,"topLevelUrlPattern":"*://www.politico.com/*","urlPattern":"*://tags.tiqcdn.com/*"}
