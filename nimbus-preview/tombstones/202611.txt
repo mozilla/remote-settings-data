@@ -6,3 +6,4 @@
 1793743564612	closed-browser-web-notifications-delivery-nightly
 1793777039652	enhanced-new-tab-search-logos-expanded
 1793792077304	ios-deep-links-rollout-release
+1793802721083	weekly-privacy-push-notification
