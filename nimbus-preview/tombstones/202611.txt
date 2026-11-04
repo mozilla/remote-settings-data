@@ -10,3 +10,5 @@
 1793803139946	weekly-privacy-push-notification
 1793818479611	desktop-vpn-holiday-promo-202627
 1793819324157	amber-demo-rollout
+1793828369602	hnt-first-48-onboarding-cards
+1793828951620	auto-trigger-pin-to-taskbar-existing-users-on-win11
