@@ -8,3 +8,4 @@
 1793792077304	ios-deep-links-rollout-release
 1793802721083	weekly-privacy-push-notification
 1793803139946	weekly-privacy-push-notification
+1793818479611	desktop-vpn-holiday-promo-202627
