@@ -5,3 +5,4 @@
 1793740439014	new-user-trust-microsurvey
 1793743564316	closed-browser-web-notifications-delivery-nightly
 1793777039225	enhanced-new-tab-search-logos-expanded
+1793792076988	ios-deep-links-rollout-release
