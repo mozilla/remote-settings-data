@@ -13,3 +13,5 @@
 1793828369125	hnt-first-48-onboarding-cards
 1793828951335	auto-trigger-pin-to-taskbar-existing-users-on-win11
 1793878797742	onboarding-migration
+1793899854193	closed-browser-web-notifications-delivery-nightly
+1793899857841	closed-browser-web-notifications-delivery-beta
