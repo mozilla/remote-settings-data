@@ -6,3 +6,4 @@
 1793635638318	privacy-widget-non-content-markets-microsurvey-control
 1793635656116	privacy-widget-non-content-markets-microsurvey-treatment
 1793635693157	credit-card-storage-migration-beta-rollout-min-version-160-windows-users-only
+1793906590265	sponsored-content-client-rollout
