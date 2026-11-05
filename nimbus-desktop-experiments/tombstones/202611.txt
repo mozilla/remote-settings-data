@@ -8,3 +8,4 @@
 1793635685561	credit-card-storage-migration-beta-rollout-min-version-160-windows-users-only
 1793905725329	sponsored-content-client-rollout
 1793911165202	enable-enrollment-status-telemetry-for-firefox-desktop-via-nimbustelemetry
+1793916189007	copilot-chatbot-sunset
