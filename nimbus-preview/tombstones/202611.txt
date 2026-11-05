@@ -17,3 +17,4 @@
 1793899857841	closed-browser-web-notifications-delivery-beta
 1793901073952	test-nimbus-update
 1793903754228	scout-chatbot-rollout
+1793904443321	hnt-first-48-onboarding-cards
