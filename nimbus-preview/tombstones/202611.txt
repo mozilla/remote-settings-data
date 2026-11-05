@@ -19,3 +19,4 @@
 1793903754633	scout-chatbot-rollout
 1793904443813	hnt-first-48-onboarding-cards
 1793904519685	tab-groups-151-onboarding-experiment
+1793907778401	measure-trusted-types-readiness-nightly-test-measurement-enabled-rollout
