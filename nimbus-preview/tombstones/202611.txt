@@ -15,3 +15,4 @@
 1793878797742	onboarding-migration
 1793899854193	closed-browser-web-notifications-delivery-nightly
 1793899857841	closed-browser-web-notifications-delivery-beta
+1793901073952	test-nimbus-update
