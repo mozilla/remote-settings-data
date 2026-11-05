@@ -16,3 +16,4 @@
 1793899854435	closed-browser-web-notifications-delivery-nightly
 1793899858084	closed-browser-web-notifications-delivery-beta
 1793901074205	test-nimbus-update
+1793903754633	scout-chatbot-rollout
