@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): _JNIEnv::CallStaticVoidMethodA | mozilla::jni::Method<T>::Call<T>","hashes":["00bd6fa6e57c671a086d0286bd0e8efae4b7275a7f7a438b64e4cf1fa55ac23d"],"id":"id-265","last_modified":1793783990701,"schema":1793783751229}
+{"description":"gpu (Android nightly): libc.so | libusc.so","hashes":["9726b901d73f2ace59907372a6e0fc2eec143cf87b6bc3325966b52696115aee"],"id":"id-265","last_modified":1793956763850,"schema":1793956527414}
