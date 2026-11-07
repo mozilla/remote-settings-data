@@ -1,0 +1,1 @@
+{"bugIds":["1840786"],"category":"baseline","classifierFeatures":["tracking-protection","fingerprinting-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6ae7a843-8318-4b75-8ead-3c4b05d4bbb7","last_modified":1794017410796,"schema":1794017410531,"topLevelUrlPattern":"*://www.zipcar.com/*","urlPattern":"*://js.maxmind.com/*"}
