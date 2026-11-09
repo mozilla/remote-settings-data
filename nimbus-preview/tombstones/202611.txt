@@ -26,3 +26,4 @@
 1794083073711	welcome-back-onboarding-b-macos-linux-windows-background-updates-disabled
 1794083518248	welcome-back-onboarding-a-mvp
 1794239812904	sync-promo-on-bookmark-password-and-payment-method-save
+1794244612978	desktop-vpn-holiday-promo-202627
