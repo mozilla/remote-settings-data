@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): AllocInfo::GetInChunk","hashes":["90e50cf759963ad2640a6d805efc3a63f987757e22e9da809d0e53912b5af559","381db18603b451fc0d80c12f72c79ee4416295245da68fd1c4b2ea23f0f7f4b9"],"id":"id-186","last_modified":1794127757693,"schema":1794127430338}
+{"description":"socket (Mac release): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["338d411e986a90d6e6b39e83e3f059b6e5757824d583606d3751d8af03ed86d6"],"id":"id-186","last_modified":1794214167384,"schema":1794213833831}
