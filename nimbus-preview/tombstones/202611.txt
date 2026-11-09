@@ -29,3 +29,5 @@
 1794244612978	desktop-vpn-holiday-promo-202627
 1794249730030	firefox-labs-streamlined-tab-context-menu-release
 1794250313109	bounce-tracking-protection-on-by-default
+1794250612922	firefox-labs-streamlined-tab-context-menu-release
+1794250686535	tracker-blocking-in-onboarding
