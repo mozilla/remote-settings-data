@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::ipc::MessagePump::Run","hashes":["fc8fa58fdfb88e9b0a75a3941234b5d2b7ce6a619456f2380dc14374567157ee","1a55e255f11962c207f03b101c0ff19c992de3e17e3a01d96550a9469b51be6d","f8e3683fe9eb3dd20788415b8129f436e67d93c9fe316582acd63133770969ce"],"id":"id-332","last_modified":1794127757058,"schema":1794127607699}
+{"description":"content (Mac nightly): mozilla::dom::Selection::SelectFrames","hashes":["0b52280ac22bd9043e782248a7db6afe75232900ba74d657eee1f2ad0ba912a1"],"id":"id-332","last_modified":1794214166838,"schema":1794214012318}
