@@ -1,0 +1,1 @@
+{"bugIds":["2075114"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d1443795-1354-4a84-9be6-43c82126cf72","last_modified":1794224137263,"schema":1793881118868,"topLevelUrlPattern":"*://www.vikings.com/*","urlPattern":"*://pagead2.googlesyndication.com/*"}
