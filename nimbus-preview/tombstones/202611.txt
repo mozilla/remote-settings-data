@@ -28,3 +28,4 @@
 1794239813383	sync-promo-on-bookmark-password-and-payment-method-save
 1794244613318	desktop-vpn-holiday-promo-202627
 1794249730344	firefox-labs-streamlined-tab-context-menu-release
+1794250313543	bounce-tracking-protection-on-by-default
