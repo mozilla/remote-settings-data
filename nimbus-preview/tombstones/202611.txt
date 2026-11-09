@@ -31,3 +31,5 @@
 1794250313109	bounce-tracking-protection-on-by-default
 1794250612922	firefox-labs-streamlined-tab-context-menu-release
 1794250686535	tracker-blocking-in-onboarding
+1794253013302	bounce-tracking-protection-on-by-default
+1794253095564	tracker-blocking-in-onboarding
