@@ -10,3 +10,4 @@
 1793911170733	enable-enrollment-status-telemetry-for-firefox-desktop-via-nimbustelemetry
 1793916210142	copilot-chatbot-sunset
 1794241792086	sync-omc-promo-for-signed-in-single-device-users-after-saving-n-bookmarks
+1794265294704	sponsored-content-client-rollout-nightly-beta
