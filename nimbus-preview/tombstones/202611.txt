@@ -39,3 +39,5 @@
 1794322313708	ecn-ce-marking-and-abe-performance-validation
 1794327566095	urlbar-search-action-pill-suggestion-for-backup-and-sync
 1794335165292	urlbar-search-action-pill-suggestion-for-backup-and-sync
+1794335859286	welcome-back-onboarding-a-mvp
+1794335863436	welcome-back-onboarding-b-macos-linux-windows-background-updates-disabled
