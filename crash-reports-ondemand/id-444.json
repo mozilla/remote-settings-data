@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::BasePrincipal::IsSystemPrincipal","hashes":["9472f5952c4fa809868f764e8acba03e2eba47e4fe758a39cfeab10605ee7f67"],"id":"id-444","last_modified":1794214166872,"schema":1794214150507}
+{"description":"utility (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["36954c6b2322c7a89d1a3a4568417cf2d8eddcc21e94340ae96ef7fe907b84ed"],"id":"id-444","last_modified":1794301813649,"schema":1794301774563}
