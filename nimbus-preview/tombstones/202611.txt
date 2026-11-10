@@ -44,3 +44,5 @@
 1794337699075	tracker-blocking-in-onboarding
 1794341484529	urlbar-search-action-pill-suggestion-for-backup-and-sync
 1794345983193	smart-window-beta-configs-smart-page
+1794350224756	nova-os-notification-second-message-fx157-and-above
+1794350228705	nova-os-notification-second-message-fx156-and-below
