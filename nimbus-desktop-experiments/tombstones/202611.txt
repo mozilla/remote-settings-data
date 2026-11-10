@@ -11,3 +11,4 @@
 1793916210142	copilot-chatbot-sunset
 1794241792086	sync-omc-promo-for-signed-in-single-device-users-after-saving-n-bookmarks
 1794265294704	sponsored-content-client-rollout-nightly-beta
+1794322790366	desktop-vpn-holiday-promo-202627
