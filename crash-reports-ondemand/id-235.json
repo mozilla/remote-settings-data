@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x54e0030","hashes":["b619a6776f1b85507e9d24ca5724b01850e4ffc7ac49a9505e69a87811718db6"],"id":"id-235","last_modified":1794214167999,"schema":1794213892687}
+{"description":"gpu (Android beta): <alloc::vec::Vec<T> as alloc::vec::spec_from_iter_nested::SpecFromIterNested<T, I>>::from_iter","hashes":["755288dbc2b8f1b5e216923ad8887280adef527df05e1d2c7ad1713e381e41a7"],"id":"id-235","last_modified":1794301814816,"schema":1794301508641}

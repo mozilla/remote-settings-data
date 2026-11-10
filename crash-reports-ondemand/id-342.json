@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsHttpConnectionMgr::ProcessNewTransaction","hashes":["d54c8b2f7c7630a02634e1e9fc6514d78e1722bfeaa28c0845862d57540cbf26","b6db4cac99f64195281653287a65f7f3419508ecef6d1f8739429ab5004e952b"],"id":"id-342","last_modified":1794214168119,"schema":1794214025135}
+{"description":"socket (Mac release): NS_DispatchMemoryPressure","hashes":["20402450d1dce31e17c96472b69b5d107b1846ff9d88c50af6df4cd9f4eeb397"],"id":"id-342","last_modified":1794301814920,"schema":1794301644999}
