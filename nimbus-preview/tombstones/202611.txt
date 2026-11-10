@@ -43,3 +43,4 @@
 1794335863676	welcome-back-onboarding-b-macos-linux-windows-background-updates-disabled
 1794337699412	tracker-blocking-in-onboarding
 1794341485017	urlbar-search-action-pill-suggestion-for-backup-and-sync
+1794345983571	smart-window-beta-configs-smart-page
