@@ -12,3 +12,4 @@
 1794241777204	sync-omc-promo-for-signed-in-single-device-users-after-saving-n-bookmarks
 1794252410918	bounce-tracking-protection-on-by-default
 1794265288476	sponsored-content-client-rollout-nightly-beta
+1794314210992	measure-trusted-types-readiness-nightly-test-measurement-enabled-rollout
