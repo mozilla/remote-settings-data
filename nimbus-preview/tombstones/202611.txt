@@ -48,3 +48,5 @@
 1794350228940	nova-os-notification-second-message-fx156-and-below
 1794353242513	form-auto-fill-field-detection-new-markets-release
 1794355472456	semantic-history-search-v4
+1794365228888	welcome-back-onboarding-a-mvp
+1794365232816	welcome-back-onboarding-b-macos-linux-windows-background-updates-disabled
