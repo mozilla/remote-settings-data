@@ -52,3 +52,6 @@
 1794365232816	welcome-back-onboarding-b-macos-linux-windows-background-updates-disabled
 1794407067372	ecn-ce-marking-and-abe-performance-validation
 1794415088180	set-to-default-message-copy-experiment
+1794426241826	relevant-sponsored-shortcut-unrelated-rollout
+1794426308561	relevant-sponsored-shortcut-related-rollout
+1794426479986	relevant-sponsored-shortcut-reach-rollout
