@@ -1,1 +1,1 @@
-{"description":"plugin (Mac release): -[EXExtensionPointEnumerator nextObject]","hashes":["0dca3ced8348a4a49a7247248c298d43b34b73672417e8b841de24b790989b2a"],"id":"id-299","last_modified":1794301814655,"schema":1794301588474}
+{"description":"content (Android nightly): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["5874a5fca9c073cd7252591cd60a0136951d3691ae48787cef4ce4c060171223","7053ee54453c7f7075d7cde38ed47e744065ad536073ce38f641999cbc19ab7b"],"id":"id-299","last_modified":1794388198760,"schema":1794387978447}
