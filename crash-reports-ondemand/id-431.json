@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::dom::StyledRangeCollection::GetAbstractRangeAt","hashes":["18a0e0984db02d9b4dabd7ccf09a950823550828c05285095c8975f05b1550c7"],"id":"id-431","last_modified":1794301812991,"schema":1794301758488}
+{"description":"utility (Windows nightly): <unknown in ntdll.dll>","hashes":["a875a8cdfaee2bcfeb6f22810be75a76afc7ba543f9b827cec9979d7b2c3f78a"],"id":"id-431","last_modified":1794388197130,"schema":1794388142673}

@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::ContentChild::RecvConstructBrowser","hashes":["8cf752aed672b1e93338b5c53e5de6ada6453fe1ee6a596970a98597ebb8fde0"],"id":"id-077","last_modified":1794301813686,"schema":1794301306188}
+{"description":"socket (Mac release): mozilla::detail::RWLockImpl::readLock","hashes":["b60dd491be664bd2b048e1daa709558f915a8d0df2e81bc0d2a4b1f9201b6b64"],"id":"id-077","last_modified":1794388197918,"schema":1794387705126}
