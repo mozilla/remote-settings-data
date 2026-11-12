@@ -62,3 +62,4 @@
 1794501566921	relevant-sponsored-shortcut-unrelated-rollout
 1794501570751	relevant-sponsored-shortcut-related-rollout
 1794501574576	relevant-sponsored-shortcut-reach-rollout
+1794508580101	urlbar-search-action-pill-suggestion-for-backup-and-sync
