@@ -58,3 +58,4 @@
 1794452369536	form-auto-fill-field-detection-improvements-release
 1794457169444	form-auto-fill-field-detection-new-markets-release
 1794493468693	autofill-cvv-desktop-support
+1794497278424	black-friday-sync-message
