@@ -59,3 +59,6 @@
 1794457169175	form-auto-fill-field-detection-new-markets-release
 1794493468293	autofill-cvv-desktop-support
 1794497278174	black-friday-sync-message
+1794501566921	relevant-sponsored-shortcut-unrelated-rollout
+1794501570751	relevant-sponsored-shortcut-related-rollout
+1794501574576	relevant-sponsored-shortcut-reach-rollout
