@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): nsTArray_Impl<T>::ShallowSizeOfExcludingThis | nsPresArena<T>::FreeList::SizeOfExcludingThis","hashes":["8530579b8892a2e33f88b5719a9c11043f4e6f35be3b5a8ed5715fa0e6b02f72"],"id":"id-061","last_modified":1794388198349,"schema":1794387685580}
+{"description":"plugin (Mac release): mozilla::gmp::GMPLoader::Load","hashes":["06cf52fda832953a146513c5ee5280a7e1c85734f77124a7fc6adc2f1a0b7ee3","b0c6d23819ac0c8409ed0825a578fb85c4c88f5141460330b42adc71e3aec1f2"],"id":"id-061","last_modified":1794473387803,"schema":1794472878765}
