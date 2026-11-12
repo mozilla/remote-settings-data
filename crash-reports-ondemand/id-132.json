@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["13f4bd6aac431fade15e07e856480e1d8047033203a7a08ff4b6ae671e694f9c"],"id":"id-132","last_modified":1794388197587,"schema":1794387771709}
+{"description":"main (Mac nightly): mozilla::net::nsHttpConnectionMgr::ProcessNewTransaction","hashes":["b6db4cac99f64195281653287a65f7f3419508ecef6d1f8739429ab5004e952b"],"id":"id-132","last_modified":1794473387009,"schema":1794472966243}
