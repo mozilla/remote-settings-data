@@ -1,2 +1,4 @@
 1793894764455	ios-google-lens
 1793977016415	mobile-install-intent-survey-en_oct-2026
+1794503258076	remote-settings-v2-api-test-ios
+1794503276289	remote-settings-v2-api-test-android
