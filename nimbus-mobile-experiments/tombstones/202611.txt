@@ -3,3 +3,5 @@
 1794310610968	fpp-canvas-touchpoints-screenavail-android
 1794322010951	fpp-canvas-touchpoints-screenavail-android
 1794323211540	fpp-canvas-touchpoints-screenavail-android
+1794503252217	remote-settings-v2-api-test-ios
+1794503270405	remote-settings-v2-api-test-android
