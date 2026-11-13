@@ -6,3 +6,5 @@
 1794503252217	remote-settings-v2-api-test-ios
 1794503270405	remote-settings-v2-api-test-android
 1794588113067	long-term-holdback-2025-h1-growth-android
+1794590755279	long-term-holdback-2025-h1-growth-android
+1794590977350	long-term-holdback-2025-h1-growth-ios
