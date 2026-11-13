@@ -1,1 +1,1 @@
-{"description":"plugin (Mac release): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["e3dd11a0cd81a6c599ef8e897e3275f515144bd1e75b79bcf65c2771d5c56ceb"],"id":"id-195","last_modified":1794473387202,"schema":1794473044269}
+{"description":"content (Mac beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["9feb08cbec5ad1eae566f23c7ed48b207cdff91b0cda4e377d16459cecd45c82"],"id":"id-195","last_modified":1794559805511,"schema":1794559449739}
