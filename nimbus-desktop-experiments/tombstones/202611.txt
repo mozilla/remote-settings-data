@@ -20,3 +20,7 @@
 1794516866858	set-up-your-email-web-app-spotlight-7-28-day-old-profiles
 1794583164028	v2-firefox-user-expectations-desk-q4-2026
 1794589837645	v3-firefox-user-expectations-desk-q4-2026
+1794601018124	set-to-default-guidance-notification-gif-win11-global-rollout
+1794601076508	smart-window-promotion-new-tab
+1794601096470	smart-window-promotion-switcher-icon-reminders
+1794601117010	autocomplete-dropdown-suppression
