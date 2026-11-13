@@ -74,3 +74,4 @@
 1794601278218	nova-pref-removal-infobar
 1794602096703	nova-pref-removal-infobar
 1794602935812	nova-pref-removal-infobar
+1794604867016	nova-pref-removal-infobar
