@@ -72,3 +72,4 @@
 1794586919491	sections-in-global-spanish
 1794600424800	nova-pref-removal-infobar
 1794601277954	nova-pref-removal-infobar
+1794602096420	nova-pref-removal-infobar
