@@ -19,3 +19,4 @@
 1794506992647	form-auto-fill-field-detection-improvements-v3
 1794516866858	set-up-your-email-web-app-spotlight-7-28-day-old-profiles
 1794583164028	v2-firefox-user-expectations-desk-q4-2026
+1794589837645	v3-firefox-user-expectations-desk-q4-2026
