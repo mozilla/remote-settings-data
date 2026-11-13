@@ -18,3 +18,4 @@
 1794503880855	see-which-event-acceleration-values-between-678-best-capture-single-session-uses
 1794506992647	form-auto-fill-field-detection-improvements-v3
 1794516866858	set-up-your-email-web-app-spotlight-7-28-day-old-profiles
+1794583164028	v2-firefox-user-expectations-desk-q4-2026
