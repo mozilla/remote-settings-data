@@ -1,0 +1,1 @@
+{"bugIds":["2091318"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"985830bd-db84-4f2f-acbb-9404947d1a93","last_modified":1794569798246,"schema":1794224137530,"topLevelUrlPattern":"*://www.mixbargains.com/*","urlPattern":"*://i.ebayimg.com/*"}
