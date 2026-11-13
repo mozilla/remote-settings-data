@@ -2,3 +2,5 @@
 1793977016415	mobile-install-intent-survey-en_oct-2026
 1794503258076	remote-settings-v2-api-test-ios
 1794503276289	remote-settings-v2-api-test-android
+1794590961360	long-term-holdback-2025-h1-growth-android
+1794590982491	long-term-holdback-2025-h1-growth-ios
