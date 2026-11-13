@@ -75,3 +75,4 @@
 1794602096703	nova-pref-removal-infobar
 1794602935812	nova-pref-removal-infobar
 1794604867016	nova-pref-removal-infobar
+1794606390018	updated-privacy-notice-notification-dec-2026
