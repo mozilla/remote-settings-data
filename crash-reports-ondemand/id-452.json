@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::dom::ipc::StructuredCloneData::WriteIPCParams","hashes":["d108bb4e35b6a667ee78af2a19daf096adfd8b93403ec3384f1c9fef6aca0446"],"id":"id-452","last_modified":1794559806957,"schema":1794559780129}
+{"description":"gpu (Android beta): mozilla::gl::GLContext::MakeCurrent","hashes":["32caf898aa1c2c661eeef4e96639ac5fa8a9aeed072f47e434beee6ab8ad4c62"],"id":"id-452","last_modified":1794645002334,"schema":1794644970960}

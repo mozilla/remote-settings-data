@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): AsyncShutdownTimeout | Places Clients shutdown | sanitize.js: Sanitize on shutdown","hashes":["f2ab5a0bcadc9539d39187d0dd2fb416e99aeb9597e9b993804bb836f9a95b3b","1558abdbcf9935f775e1d7d3694cb81b4a39f50de8879af87a2cf5486356032d"],"id":"id-409","last_modified":1794559806689,"schema":1794559727778}
+{"description":"plugin (Windows beta): SophosED.dll | mozilla::interceptor::FuncHook<T>::operator()","hashes":["380660cbafdf1a546e2cb1658b74d1a0fd82ae06d144759851474a43133ef837"],"id":"id-409","last_modified":1794645002086,"schema":1794644915824}

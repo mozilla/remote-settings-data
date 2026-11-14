@@ -1,1 +1,1 @@
-{"description":"plugin (Mac release): -[EXExtensionPointEnumerator nextObject]","hashes":["0dca3ced8348a4a49a7247248c298d43b34b73672417e8b841de24b790989b2a"],"id":"id-441","last_modified":1794559807265,"schema":1794559766979}
+{"description":"utility (Mac release): nsTArray_Impl<T>::end | mozilla::MozPromise<T>::DispatchAll","hashes":["8f4bbb395e20ec991d3620bbd9fbd7d94846bd4a7149bf45b989d4b60f3d2540"],"id":"id-441","last_modified":1794645002669,"schema":1794644957965}
