@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["abb06e5b906c534571e9781d84beabe36670b7c70b8e04415ab377f036bfd3ea"],"id":"id-408","last_modified":1794559805892,"schema":1794559726567}
+{"description":"rdd (Windows beta): mozilla::layers::TextureClient::GetSurfaceDescriptorRemoteDecoder","hashes":["21ab3be7d13334f6e886d8edd470824102d7097dd9b8f3184b2df7ce608790e7"],"id":"id-408","last_modified":1794645001368,"schema":1794644914575}

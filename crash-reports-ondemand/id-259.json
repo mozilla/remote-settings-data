@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsGlobalWindowInner::ThawInternal","hashes":["1f96c12a49795eb0a3f13349dd168539aeb96e9da11016fec607954c6150b43f"],"id":"id-259","last_modified":1794559805370,"schema":1794559530746}
+{"description":"content (Android nightly): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["e058b3bf4b0c1be7157b3f1ca886d0f27cf70c82dbc7210932c4071423a7d265","78c82ffecd54cf16e800a9cf579ec154fed37e17f916a99367206ce3093f39a6"],"id":"id-259","last_modified":1794645000935,"schema":1794644731599}

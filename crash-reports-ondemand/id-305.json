@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): doCompressedBlit","hashes":["57115a0a8e84620db0c7f0618bf28c463ed1f92f9ad9004ea5874b22c34acfb2"],"id":"id-305","last_modified":1794559804781,"schema":1794559596340}
+{"description":"gpu (Android beta): libc.so | libnativedisplay.so","hashes":["85d9668c15771f12c18a559636b74426154140015a731b77316be15f38f924b0","df07c3dd62b6c86b03caffe7839eebac2d0190cd1b5a63372c3811b72b18cc30"],"id":"id-305","last_modified":1794645000553,"schema":1794644787298}

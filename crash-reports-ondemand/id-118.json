@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): __delayLoadHelper2 | _tailMerge_ole32.dll | mozilla::MFCDMParent::LoadFactory","hashes":["d7cf33857417f0a3b914c92a593537c9a4dccc00e286550f6082245000ea5e56"],"id":"id-118","last_modified":1794559804947,"schema":1794559355398}
+{"description":"gpu (Android beta): <alloc::vec::Vec<T> as alloc::vec::spec_from_iter_nested::SpecFromIterNested<T, I>>::from_iter","hashes":["755288dbc2b8f1b5e216923ad8887280adef527df05e1d2c7ad1713e381e41a7"],"id":"id-118","last_modified":1794645000656,"schema":1794644554326}
