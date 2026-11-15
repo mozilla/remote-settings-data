@@ -1,0 +1,1 @@
+{"Domain":"mazda.co.jp","id":"62af6007-4508-4a7d-9b2d-959980ef85c1","last_modified":1794762010621,"password-rules":"minlength: 6; maxlength: 16; required: lower, upper; required: digit; allowed: [!$%*.@];"}
