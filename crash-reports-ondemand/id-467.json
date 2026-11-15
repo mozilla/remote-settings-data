@@ -1,1 +1,1 @@
-{"description":"plugin (Windows nightly): widevinecdm.dll | BaseThreadInitThunk","hashes":["4f05a0264344b65003970b1394c97d1038db2e8146b907a234571fa43c99a89d"],"id":"id-467","last_modified":1794645001790,"schema":1794644989503}
+{"description":"plugin (Mac release): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["e3dd11a0cd81a6c599ef8e897e3275f515144bd1e75b79bcf65c2771d5c56ceb"],"id":"id-467","last_modified":1794731404637,"schema":1794731392190}
