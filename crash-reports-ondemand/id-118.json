@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): <alloc::vec::Vec<T> as alloc::vec::spec_from_iter_nested::SpecFromIterNested<T, I>>::from_iter","hashes":["755288dbc2b8f1b5e216923ad8887280adef527df05e1d2c7ad1713e381e41a7"],"id":"id-118","last_modified":1794645000656,"schema":1794644554326}
+{"description":"content (Linux nightly): <T>::load","hashes":["54f4ca53320855c34a80a94d2910116307399216c473678406fcdd9a4b4d431d","8eb812a8af5ed34d094adf8144a74404433326b04184b6bf353850ea4b4419cd"],"id":"id-118","last_modified":1794731403297,"schema":1794730953557}
