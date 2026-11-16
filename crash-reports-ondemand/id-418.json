@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): draw_quad_spans<T>","hashes":["d154e7b8f3b84661d7f2db17ea0d839b71e8dddee553c7575105ea6da27b2100"],"id":"id-418","last_modified":1794731405061,"schema":1794731330094}
+{"description":"gpu (Android beta): libc.so | libnativedisplay.so","hashes":["df07c3dd62b6c86b03caffe7839eebac2d0190cd1b5a63372c3811b72b18cc30","85d9668c15771f12c18a559636b74426154140015a731b77316be15f38f924b0"],"id":"id-418","last_modified":1794817821214,"schema":1794817740224}

@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): shutdownhang | mozilla::(anonymous namespace)::RunWatchdog","hashes":["d55c9543a4b0b9f4985374dc4e1a9c91aca934af74f336ec9b61f9d2bebbbc1b","2d360dc5d0b49844ce914193e1760aee91ff7a69582f087ef03f89c16a2144f8","187bb3cb6e29d62c89302ffe271bcf9010cbc72853055790a4c2bfa9bfc12e6f"],"id":"id-456","last_modified":1794731405661,"schema":1794731376323}
+{"description":"gpu (Mac nightly): draw_quad_spans<T>","hashes":["d154e7b8f3b84661d7f2db17ea0d839b71e8dddee553c7575105ea6da27b2100"],"id":"id-456","last_modified":1794817821638,"schema":1794817788283}

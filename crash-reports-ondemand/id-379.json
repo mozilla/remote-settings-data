@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): AsyncShutdownTimeout | AddonManager: Waiting to start provider shutdown. | AddonRepository Background Updater","hashes":["9d06622cf2468bbfeb7e13cf4c0b08fafb67dfe5d22350cda76c923075240c87","666c5290d393c9ce53d653acdb5035fc7a1871ec6b1a1314e3abd55b4793c2f4"],"id":"id-379","last_modified":1794731405374,"schema":1794731281601}
+{"description":"rdd (Windows nightly): MpDetours.dll | BaseThreadInitThunk","hashes":["ef1ef8a364f636e830ffdbf2ac38e9dcb6e7b31b79bc87c9f0c723e82acb8753"],"id":"id-379","last_modified":1794817821428,"schema":1794817688760}
