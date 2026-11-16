@@ -79,3 +79,4 @@
 1794846438447	viewpoint-android-november-2-2026
 1794846736838	viewpoint-android-november-2-2026
 1794847899683	amber-q3-demo
+1794849693226	smart-window-settings
