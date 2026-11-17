@@ -30,3 +30,4 @@
 1794601088792	smart-window-promotion-switcher-icon-reminders
 1794601108485	autocomplete-dropdown-suppression
 1794879913103	10-shortcuts-per-row-france-rollout
+1794883387977	10-shortcuts-per-row-france-rollout
