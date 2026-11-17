@@ -32,3 +32,4 @@
 1794879913103	10-shortcuts-per-row-france-rollout
 1794883387977	10-shortcuts-per-row-france-rollout
 1794943920757	uk-billboard-rollout-2026
+1794949854027	sponsored-content-client-rollout
