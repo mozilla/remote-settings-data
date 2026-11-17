@@ -90,3 +90,4 @@
 1794927217632	welcome-back-onboarding-b-macos-linux-windows-background-updates-disabled
 1794930336585	10-shortcuts-per-row-france-rollout-corrected-placments
 1794939516560	beta-error-pages-experiment-search-cta-dnsnotfound
+1794942662101	beta-error-pages-experiment-search-cta-dnsnotfound
