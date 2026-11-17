@@ -85,3 +85,4 @@
 1794860316207	form-auto-fill-field-detection-us
 1794862183855	hnt-first-48-onboarding-cards
 1794866387656	tracker-blocking-in-onboarding
+1794875572973	new-tab-articles-telemetry-enhancements
