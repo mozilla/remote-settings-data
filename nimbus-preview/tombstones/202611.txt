@@ -92,3 +92,5 @@
 1794939516560	beta-error-pages-experiment-search-cta-dnsnotfound
 1794942662101	beta-error-pages-experiment-search-cta-dnsnotfound
 1794942960972	beta-error-pages-rollout-search-cta-for-dnsnotfound
+1794947566217	welcome-back-onboarding-a-mvp
+1794947570562	welcome-back-onboarding-b-macos-linux-windows-background-updates-disabled
