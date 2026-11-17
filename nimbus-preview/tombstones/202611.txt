@@ -86,3 +86,5 @@
 1794862184248	hnt-first-48-onboarding-cards
 1794866387912	tracker-blocking-in-onboarding
 1794875573339	new-tab-articles-telemetry-enhancements
+1794927213567	welcome-back-onboarding-a-mvp
+1794927217632	welcome-back-onboarding-b-macos-linux-windows-background-updates-disabled
