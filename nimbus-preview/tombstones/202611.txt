@@ -88,3 +88,4 @@
 1794875573339	new-tab-articles-telemetry-enhancements
 1794927213567	welcome-back-onboarding-a-mvp
 1794927217632	welcome-back-onboarding-b-macos-linux-windows-background-updates-disabled
+1794930336585	10-shortcuts-per-row-france-rollout-corrected-placments
