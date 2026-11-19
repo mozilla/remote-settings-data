@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): __CF_IS_OBJC","hashes":["4f7f9ee05a16df659df452e2c2d41cb4ddf081f0c1f27a71a0dd9baaaa86ae2c"],"id":"id-320","last_modified":1794906019280,"schema":1794905813377}
+{"description":"content (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::dom::ipc::StructuredCloneData::WriteIPCParams","hashes":["d108bb4e35b6a667ee78af2a19daf096adfd8b93403ec3384f1c9fef6aca0446"],"id":"id-320","last_modified":1795080014229,"schema":1795079813531}

@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::dom::StyledRangeCollection::GetAbstractRangeAt","hashes":["48ea45e5b0f37f5ddce78ef53734408b4a89460a4a859548492295f88c936a05"],"id":"id-440","last_modified":1794906019770,"schema":1794905965451}
+{"description":"content (Linux nightly): mozilla::gfx::BaseRect<T>::Height","hashes":["1689df0f5e8b590ea382bd0a1c72c68b90094e7a3e96393bf1101ad43ede3afc"],"id":"id-440","last_modified":1795080014767,"schema":1795079963766}
