@@ -162,3 +162,6 @@
 1795033668259	smart-window-persistance-for-users-who-opt-in
 1795036014474	nova-os-notification-second-message-fx156-and-below
 1795041267044	improved-notifications-prompt
+1795103159054	launch-at-login-infobar-segment-b
+1795103163592	launch-at-login-existing-users-beta
+1795103172578	launch-at-login-infobar-segment-c
