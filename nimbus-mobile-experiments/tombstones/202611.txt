@@ -7,3 +7,5 @@
 1794591060935	ios-sent-from-firefox-re-run
 1794598100932	mobile-install-intent-survey_oct-2026
 1794853781218	homepage-default-content-rollout
+1795195742669	show-more-shortcuts
+1795195762912	recent-searches-on-homescreen-zero-search
