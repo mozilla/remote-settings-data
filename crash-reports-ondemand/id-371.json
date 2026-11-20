@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::jni::Accessor::EndAccess<T>","hashes":["e5797e832921012fc837917d65d44e055c2c6e14943c116273e8963c26ebb530"],"id":"id-371","last_modified":1795080011203,"schema":1795079878433}
+{"description":"content (Android beta): mozilla::CheckedInt<T>::value | mozilla::MultS64xU32","hashes":["a316f982869d54249bb0375c01621263b10ad26cef69d6152e08bddab8253fc2"],"id":"id-371","last_modified":1795165212687,"schema":1795165069874}

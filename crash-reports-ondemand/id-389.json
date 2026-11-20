@@ -1,1 +1,1 @@
-{"description":"rdd (Linux beta): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::PRemoteDecoderParent::OnMessageReceived","hashes":["fe0450d63d09b1b807c7690d1a3b4c61551df87d81ba8206fb23bd404339d164"],"id":"id-389","last_modified":1795080012432,"schema":1795079900770}
+{"description":"rdd (Linux nightly): libvulkan_radeon.so","hashes":["e4ef2ce199ad887efabb2992f16b27b832afdd5ae1a0a96867b79c8016b20cec"],"id":"id-389","last_modified":1795165213863,"schema":1795165094666}
