@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["9feb08cbec5ad1eae566f23c7ed48b207cdff91b0cda4e377d16459cecd45c82","922a6814235dd3c36f537343a20d4d16b86e9ceb5c8c0b2140a892ca45c48f93"],"id":"id-376","last_modified":1795080013564,"schema":1795079884452}
+{"description":"main (Mac beta): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["0db7938d5891f45c73e9ebc683b03793b1d8dd34545ac146ce88a3e2ad3e0be3"],"id":"id-376","last_modified":1795165215151,"schema":1795165075918}
