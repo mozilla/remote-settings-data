@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): nsAppShell::StaticCreateEventWindow","hashes":["8344afd84b25d1676ea29e9743eaa42b26e451ad9b81e0601a0a0d939934e95e","62bd87987c7df0cf2bf4d538661089fcb251bbf12b9ff4469d21420adfcd76a1"],"id":"id-155","last_modified":1795165216597,"schema":1795164799666}
+{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["73c8bc2059d06c003df2bfb5566562634e1b4b962540226f4e310d17275c36f1"],"id":"id-155","last_modified":1795251021452,"schema":1795250601405}

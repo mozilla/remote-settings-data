@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | boot.oat","hashes":["a8111255d3737648934bc2c202b2279228ef7f902d9abe20e9940ebfd50d3d54","c62ddd7157fd55ba834231100561cb5a57643b5fd6a98396fb970e3f3a14b849"],"id":"id-305","last_modified":1795165215267,"schema":1795164988784}
+{"description":"gpu (Android beta): <mozglue_static::panic_hook as core::ops::function::FnOnce<>>::call_once","hashes":["e52692fa608b7ed6be8a2b5d426abff269f0164eafc22714c5fe9bb73f730373"],"id":"id-305","last_modified":1795251020480,"schema":1795250793458}

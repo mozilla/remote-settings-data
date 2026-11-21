@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::BrowsingContext::BrowsingContext","hashes":["197895c0c36c884d9abcaa66e1e74ef0ad9f9bcd340d28d0f7405fe6a04f835f"],"id":"id-479","last_modified":1795165217138,"schema":1795165208594}
+{"description":"main (Mac beta): AsyncShutdownTimeout | places.sqlite#1: waiting for clients | Transaction (38),places.sqlite#1: PlacesExpiration.sys.mjs: expire (39)","hashes":["f035a1d9f742597fc74ac9a0ab7adcb3549473eda8d40159ed290599bfb96e57"],"id":"id-479","last_modified":1795251020198,"schema":1795251014234}

@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::ReadableStreamCancel","hashes":["1497b93c2ae319eaf1950bb28e4361cdec756bede1a1555bc33fdb892ca0cded"],"id":"id-273","last_modified":1795165216052,"schema":1795164947017}
+{"description":"plugin (Linux release): <name omitted> | mozilla::gmp::GMPLoader::Load","hashes":["0513c30da461498d281782c84023960f06573377473123335e8d769568c59ee1"],"id":"id-273","last_modified":1795251021016,"schema":1795250751058}
