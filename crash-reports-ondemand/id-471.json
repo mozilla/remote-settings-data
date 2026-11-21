@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::ipc::MessagePump::Run","hashes":["0c42c7d8ae4923a1a15e80a3d0348b408eb90cf0689129111011d659a720be6a","c88b658c9d29612d79cf8d911c564aca73377c39aef27ca4573e70de636a03b7"],"id":"id-471","last_modified":1795165214360,"schema":1795165195683}
+{"description":"content (Mac nightly): CrashChannel::OpenContentStream","hashes":["3f813b76c311a8a60e80a3bb6e3ac8e98b824cff29c22b944a83fb9b3554a555","ed7fd4a1bea80ed41adcf3ffe9ed9354c8d55aa2ae1fe0aa10c23b9655cb057d"],"id":"id-471","last_modified":1795251019696,"schema":1795251003223}
