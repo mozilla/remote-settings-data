@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gfx::RecordedScaledFontCreation::PlayEvent","hashes":["bbd8046543c187fff8a85443fc8a4b628e774ee87fa4d28c02ef6e9cf69c75f6","cbe066419a5b436a73b9683a36bab2d1a3a1caab05d1affa2eeeddb9fd7abf1a"],"id":"id-467","last_modified":1795251018015,"schema":1795250998325}
+{"description":"gpu (Mac nightly): mozilla::layers::CanvasTranslator::ReadNextEvent","hashes":["54d520b48737b5ef05bf987b5ed207344a065a29bb4562f66962f98fd85c57ed"],"id":"id-467","last_modified":1795336833841,"schema":1795336813958}

@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | large | js::AutoEnterOOMUnsafeRegion::crash_impl | nsXPCWrappedJS::CallMethod","hashes":["3fffdab5fb7e1fde7b3319db18ac13124c2a187cdc03b28f3e32c26a22ea5180"],"id":"id-424","last_modified":1795251018635,"schema":1795250944757}
+{"description":"main (Mac beta): AsyncShutdownTimeout | quit-application | Extension startup: {e1c38463-46f4-46c7-bc71-1b82125a8fc4},XPIProvider shutdown","hashes":["6a1d9bef6e033d861b3a9fd297fae4367259df02a8fcd940f0b0f4288f8cebd6"],"id":"id-424","last_modified":1795336834408,"schema":1795336757267}
