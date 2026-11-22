@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::detail::nsTStringLengthStorage<T>::nsTStringLengthStorage","hashes":["523761b2735ba814f87e4d0e519153e6e6201caf50b3fe61efc5621c6435b872"],"id":"id-275","last_modified":1795251020968,"schema":1795250753527}
+{"description":"gpu (Mac nightly): gl::Framebuffer::unsetSurfaces","hashes":["1819f1c2f805dec8e861683d21bdfea579b2e2ce1e66a93370406ea437c507ba"],"id":"id-275","last_modified":1795336836695,"schema":1795336567821}
