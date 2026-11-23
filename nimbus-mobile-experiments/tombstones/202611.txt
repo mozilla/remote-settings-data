@@ -10,3 +10,4 @@
 1795195742669	show-more-shortcuts
 1795195762912	recent-searches-on-homescreen-zero-search
 1795445667745	viewpoint-ios-november-2026
+1795453884550	fpp-canvas-touchpoints-screenavail-android-beta
