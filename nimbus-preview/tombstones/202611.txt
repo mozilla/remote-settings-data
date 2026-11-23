@@ -188,3 +188,5 @@
 1795288042557	test-only-built-in-vpn-messaging-evergreen-copy
 1795394242394	error-pages-rollout-search-cta-for-dnsnotfound-v2
 1795394842568	error-pages-experiment-search-cta-dnsnotfound-v2
+1795453042436	discovery-cfrs-for-built-in-vpn-with-site-inclusions
+1795453046379	discovery-cfrs-for-built-in-vpn-with-site-inclusions-151-160
