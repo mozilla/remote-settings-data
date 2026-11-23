@@ -193,3 +193,4 @@
 1795457464498	wrexham-repack-enable-widget-for-pre-existing-clients
 1795459611652	ios-privacy-notice-notification-dec-2026
 1795460082288	autofill-cvv-desktop-support-release
+1795465182233	black-friday-sync-message
