@@ -201,3 +201,4 @@
 1795535734482	urlbar-search-action-pill-suggestion-for-backup-and-sync
 1795538187035	fire-button-in-classic-window-nightlybeta
 1795547944852	measure-trusted-types-readiness
+1795549746687	mozilla-foundation-year-end-fundraising-2026
