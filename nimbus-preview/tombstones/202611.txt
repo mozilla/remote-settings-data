@@ -204,3 +204,4 @@
 1795549746460	mozilla-foundation-year-end-fundraising-2026
 1795553139563	personalized-taskbar-tabs-spotlight
 1795554244814	personalized-taskbar-tabs-spotlight
+1795561488857	hnt-first-48-onboarding-cards
