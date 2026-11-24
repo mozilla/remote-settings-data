@@ -202,3 +202,4 @@
 1795538187035	fire-button-in-classic-window-nightlybeta
 1795547944852	measure-trusted-types-readiness
 1795549746687	mozilla-foundation-year-end-fundraising-2026
+1795553139707	personalized-taskbar-tabs-spotlight
