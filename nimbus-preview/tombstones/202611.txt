@@ -195,3 +195,5 @@
 1795460082432	autofill-cvv-desktop-support-release
 1795465182360	black-friday-sync-message
 1795467108543	ios-privacy-notice-notification-dec-2026
+1795532383469	nova-pref-removal-infobar
+1795532597498	autofill-cvv-desktop-support-release
