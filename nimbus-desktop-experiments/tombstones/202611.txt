@@ -40,3 +40,5 @@
 1795470276527	error-pages-rollout-search-cta-for-dnsnotfound
 1795470294083	error-pages-experiment-search-cta-dnsnotfound
 1795543208867	adaptive-autofill-revamp-v2
+1795562681694	firefox-suggest-geo-expansion-eu-re-ramp
+1795562702980	firefox-suggest-geo-expansion-eu-amp-and-wikipedia-suggestions-rollout
