@@ -200,3 +200,4 @@
 1795533030410	urlbar-search-action-pill-suggestion-for-backup-and-sync
 1795535734310	urlbar-search-action-pill-suggestion-for-backup-and-sync
 1795538186788	fire-button-in-classic-window-nightlybeta
+1795547944641	measure-trusted-types-readiness
