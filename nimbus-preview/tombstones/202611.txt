@@ -212,3 +212,4 @@
 1795626544405	add-animated-kit-image-behind-the-set-default-button-in-windows-settings
 1795632742706	hnt-first-48-onboarding-cards
 1795636327135	smart-window-smart-page-v0-feature-callout
+1795636744127	smart-window-smart-page-v0-feature-callout
