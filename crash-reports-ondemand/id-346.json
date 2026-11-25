@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): nsThreadPool::PutEvent","hashes":["e8d792e17a28e98f62d625cfbdddfef76688ab98db822aae04266e7907169797","c7437fe7b5f19417773df9bb8474f4169e4d17fe3d25e3759561ed279b2c6e1f"],"id":"id-346","last_modified":1795424423288,"schema":1795424244078}
+{"description":"utility (Windows nightly): <unknown in ntdll.dll> | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["160891772dd4fc31b9ea7b86765b4dd7f68f92553f9eed700b89f76ef71748b2"],"id":"id-346","last_modified":1795596645441,"schema":1795596461929}

@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): AsyncShutdownTimeout | quit-application | Extension startup: {e1c38463-46f4-46c7-bc71-1b82125a8fc4},XPIProvider shutdown","hashes":["6a1d9bef6e033d861b3a9fd297fae4367259df02a8fcd940f0b0f4288f8cebd6"],"id":"id-165","last_modified":1795424423135,"schema":1795424017256}
+{"description":"main (Mac beta): AsyncShutdownTimeout | profile-before-change | ServiceWorkerRegistrar: Flushing data","hashes":["e73bf87609efe0e51315f6e12ba5e201252b153e2f18b4b74a66f0e185cd3b41"],"id":"id-165","last_modified":1795596645344,"schema":1795596223399}

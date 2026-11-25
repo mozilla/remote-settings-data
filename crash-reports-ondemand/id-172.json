@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::ipc::PortLink::SendMessage","hashes":["69e728301437c3eeb36e5a3ec273f48ee9909eeadd7fe51325aaa78323bde1bd","655835666c00c8ffd55010fcc798944351b8e59d75884394a52e60318f0960e3","648b64a04949bbff290ba9a26944e3882dc4ba6710f054ab717a2db7743aa6f1"],"id":"id-172","last_modified":1795424423817,"schema":1795424025858}
+{"description":"plugin (Windows beta): mozilla::gmp::GMPChild::ProcessingError","hashes":["98d18e1f7493a461d51ab2d7bdde098b6a4087535042f914c586301f18e28134"],"id":"id-172","last_modified":1795596645910,"schema":1795596235010}
