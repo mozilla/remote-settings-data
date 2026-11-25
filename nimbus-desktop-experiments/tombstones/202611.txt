@@ -42,3 +42,4 @@
 1795543208867	adaptive-autofill-revamp-v2
 1795562681694	firefox-suggest-geo-expansion-eu-re-ramp
 1795562702980	firefox-suggest-geo-expansion-eu-amp-and-wikipedia-suggestions-rollout
+1795639660950	sections-rollout-us-re-enable-customize-buttons-v2
