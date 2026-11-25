@@ -213,3 +213,4 @@
 1795632742891	hnt-first-48-onboarding-cards
 1795636327358	smart-window-smart-page-v0-feature-callout
 1795636744693	smart-window-smart-page-v0-feature-callout
+1795641326988	hnt-first-48-onboarding-cards
