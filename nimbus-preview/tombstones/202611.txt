@@ -215,3 +215,4 @@
 1795636744127	smart-window-smart-page-v0-feature-callout
 1795641326773	hnt-first-48-onboarding-cards
 1795646259559	hnt-first-48-onboarding-cards
+1795712923663	speculation-rules-prefetch-page-load-impact
