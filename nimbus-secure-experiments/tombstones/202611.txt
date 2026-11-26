@@ -5,3 +5,4 @@
 1795707705052	new-tab-160020261011195215-to-release-158
 1795707723606	new-tab-train-hop-160420261021190336-to-release-159
 1795724936987	shortcuts-grouped-pins-release-rollout
+1795726030060	shortcuts-grouped-pins-release-rollout
