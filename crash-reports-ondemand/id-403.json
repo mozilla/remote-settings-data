@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | <A as core::slice::cmp::SlicePartialEq<B>>::equal_same_length","hashes":["16d066d546c0d35d17c3db95a3b20a13eb6d152d958e98789c5fdd560b5db5d0"],"id":"id-403","last_modified":1795596646787,"schema":1795596539778}
+{"description":"gpu (Android beta): libc.so | libgsl.so","hashes":["64a89772a484debbddd734e694ecef230142b7b21f353f61535e259c06844f60"],"id":"id-403","last_modified":1795681841949,"schema":1795681755356}

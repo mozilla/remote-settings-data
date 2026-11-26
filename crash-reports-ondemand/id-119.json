@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): __aarch64_ldadd8_relax","hashes":["184b4619d3b3ad3978a54a56820dfc5f0343ed68e8aaf89ffd217633203563d4"],"id":"id-119","last_modified":1795596647224,"schema":1795596164159}
+{"description":"gpu (Android beta): libc.so | libasyncio.so","hashes":["0cfe1a1352ff5333f4de48454fa66790ef3f571afa9d49591c789c48c7b5aa10"],"id":"id-119","last_modified":1795681842397,"schema":1795681367498}
