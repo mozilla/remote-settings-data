@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::ClearProps","hashes":["75f1b9b06f8054bc2a23bc6d2102da7fd8656c563fb9749a0472a26f6508d32f"],"id":"id-439","last_modified":1795681839950,"schema":1795681804559}
+{"description":"gpu (Windows nightly): OOM | large | xul.dll | _PR_NativeRunThread | pr_root","hashes":["7cc057a0ea0ff8ac74aab05636bda465679b21747e8138c43edb07e03b81db60"],"id":"id-439","last_modified":1795767601879,"schema":1795767573967}

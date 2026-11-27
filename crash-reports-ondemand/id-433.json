@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): _stdio_common_vsprintf_s","hashes":["90867083aafe8bdd9e41dbf9f4e2ae2688a5d879faa51579007a4ad7a20f4e33"],"id":"id-433","last_modified":1795681840244,"schema":1795681796177}
+{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::ClearProps","hashes":["75f1b9b06f8054bc2a23bc6d2102da7fd8656c563fb9749a0472a26f6508d32f"],"id":"id-433","last_modified":1795767602116,"schema":1795767564012}
