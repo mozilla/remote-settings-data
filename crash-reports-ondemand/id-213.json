@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): liblangid.dylib","hashes":["3b3d588efa8aef22a72c40505bf3f6f61554f2252ee1c357742d2d4631bfc776"],"id":"id-213","last_modified":1795681842436,"schema":1795681493746}
+{"description":"main (Android nightly): android.app.RemoteServiceException: at android.app.ActivityThread$H.handleMessage(ActivityThread.java)","hashes":["c957c3fed55a753db859a76806bb87afb2740504703a12ecb5bc8d277b7a20a6"],"id":"id-213","last_modified":1795767604356,"schema":1795767279813}
