@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): js::frontend::ParseNode::isKind","hashes":["6439c9f0451cfcc6ba9b9ee6e9b66cdcb6938bf5c834e787aa36b3c4a0da76f6","57eec377959e644ab3563fa102e812c1ee7b75bfa7fbf3dc754a07205c6b95de"],"id":"id-181","last_modified":1795767601562,"schema":1795767239654}
+{"description":"gpu (Mac beta): <webrender::compositor::sw_compositor::SwCompositor as webrender::composite::Compositor>::bind","hashes":["9ac244b9bf8e35ab4b4e0d848cbf561c195477f13fde833deacf57b829b77ff8"],"id":"id-181","last_modified":1795854035443,"schema":1795853647733}

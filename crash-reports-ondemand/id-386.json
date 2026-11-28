@@ -1,1 +1,1 @@
-{"description":"plugin (Linux release): libxul.so","hashes":["d9b5eb4fdbd52be4a7ad53f93dcdb44bc0829fd5b16704d034e0f5ff58fab1e7"],"id":"id-386","last_modified":1795767602518,"schema":1795767505422}
+{"description":"socket (Mac release): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["5196ebec960e6559de686186280c8c772dda8e97b2340928efdebe8bd178b2c9"],"id":"id-386","last_modified":1795854036360,"schema":1795853922939}

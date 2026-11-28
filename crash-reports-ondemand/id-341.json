@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::net::HttpBaseChannel::DoApplyContentConversionsInternal","hashes":["5c1a45fbc9bc1ae2ee8d0dc3457409b5933cf481b8dfcb2d679d82d3a9b4b274"],"id":"id-341","last_modified":1795767602403,"schema":1795767448244}
+{"description":"socket (Mac release): mozilla::detail::InvalidArrayIndex_CRASH | mozilla::net::nsSocketTransportService::DoPollIteration","hashes":["a721c2a0c30851a4e70ddc32d082d3b33519220479a2473f7b6606ed3b739475"],"id":"id-341","last_modified":1795854036252,"schema":1795853861090}
